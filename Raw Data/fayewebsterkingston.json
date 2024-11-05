@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 6,
+ "api_path": "/songs/4144733",
+ "artist_names": "Faye Webster",
+ "full_title": "Kingston by\u00a0Faye\u00a0Webster",
+ "header_image_thumbnail_url": "https://images.genius.com/4788e5898c9381524aef595cf2fc217e.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/4788e5898c9381524aef595cf2fc217e.640x640x1.jpg",
+ "id": 4144733,
+ "instrumental": false,
+ "lyrics_owner_id": 6012763,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1722892538,
+ "path": "/Faye-webster-kingston-lyrics",
+ "primary_artist_names": "Faye Webster",
+ "pyongs_count": 11,
+ "relationships_index_url": "https://genius.com/Faye-webster-kingston-sample",
+ "release_date_components": {
+  "year": 2018,
+  "month": 11,
+  "day": 15
+ },
+ "release_date_for_display": "November 15, 2018",
+ "release_date_with_abbreviated_month_for_display": "Nov. 15, 2018",
+ "song_art_image_thumbnail_url": "https://images.genius.com/4788e5898c9381524aef595cf2fc217e.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/4788e5898c9381524aef595cf2fc217e.640x640x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 6,
+  "hot": false,
+  "pageviews": 116641
+ },
+ "title": "Kingston",
+ "title_with_featured": "Kingston",
+ "updated_by_human_at": 1722884138,
+ "url": "https://genius.com/Faye-webster-kingston-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1126994",
+  "header_image_url": "https://images.genius.com/fadd3dfa62d058eaac2b4d2b247d06d1.1000x428x1.jpg",
+  "id": 1126994,
+  "image_url": "https://images.genius.com/ad81230d5a464e858e46fb023437e08c.1000x1000x1.jpg",
+  "index_character": "f",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Faye Webster",
+  "slug": "Faye-webster",
+  "url": "https://genius.com/artists/Faye-webster"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1126994",
+   "header_image_url": "https://images.genius.com/fadd3dfa62d058eaac2b4d2b247d06d1.1000x428x1.jpg",
+   "id": 1126994,
+   "image_url": "https://images.genius.com/ad81230d5a464e858e46fb023437e08c.1000x1000x1.jpg",
+   "index_character": "f",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Faye Webster",
+   "slug": "Faye-webster",
+   "url": "https://genius.com/artists/Faye-webster"
+  }
+ ],
+ "artist": "Faye Webster",
+ "lyrics": "36 ContributorsTranslationsEspa\u00f1olKingston Lyrics[Verse 1]\nThe day that I met you I started dreaming\nNow I write 'em down if I remember in the mornin' time\nI don't know that much about Kingston\nBut I like the sound it makes when it starts pouring rain\nI think that tonight I'll leave my light on\n'Cause I get lonely when it's out and I miss you right about now\n\n[Chorus]\nBaby, tell me where you want to go\nBaby, tell me what you want to know\nGive you everything I have and more\n\n[Verse 2]\nHe said, \"Baby,\"\u2014that's what he called me\u2014\"I love you\"\nEvery single word you say makes me feel some type of way\nIt's the thought of you that slightly scares me\nBut it takes my breath away, forget what I was gonna say\nThe day that I met you I started dreaming\nNow I write 'em down if I remember in the mornin' time\n\n[Chorus]\nBaby, tell me where you want to go\nBaby, tell me what you want to know\nGive you everything I have and more\nBaby, tell me where you want to go\nBaby, tell me what you want to know\nGive you everything I have and more\nBaby, tell me where you want to go\nBaby, tell me what you want to know\nGive you everything I have and moreSee Faye Webster LiveGet tickets as low as $42You might also like11Embed"
+}

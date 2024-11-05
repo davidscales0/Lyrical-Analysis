@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 11,
+ "api_path": "/songs/8812023",
+ "artist_names": "Jordan Ward",
+ "full_title": "FAMJAM4000 by\u00a0Jordan\u00a0Ward",
+ "header_image_thumbnail_url": "https://images.genius.com/bc1fe338f728110b292c7c013fed21f0.300x300x1.png",
+ "header_image_url": "https://images.genius.com/bc1fe338f728110b292c7c013fed21f0.1000x1000x1.png",
+ "id": 8812023,
+ "instrumental": false,
+ "lyrics_owner_id": 498964,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1717530982,
+ "path": "/Jordan-ward-famjam4000-lyrics",
+ "primary_artist_names": "Jordan Ward",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Jordan-ward-famjam4000-sample",
+ "release_date_components": {
+  "year": 2023,
+  "month": 3,
+  "day": 3
+ },
+ "release_date_for_display": "March 3, 2023",
+ "release_date_with_abbreviated_month_for_display": "Mar. 3, 2023",
+ "song_art_image_thumbnail_url": "https://images.genius.com/bc1fe338f728110b292c7c013fed21f0.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/bc1fe338f728110b292c7c013fed21f0.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 11,
+  "hot": false,
+  "pageviews": 13761
+ },
+ "title": "FAMJAM4000",
+ "title_with_featured": "FAMJAM4000",
+ "updated_by_human_at": 1719076523,
+ "url": "https://genius.com/Jordan-ward-famjam4000-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/617732",
+  "header_image_url": "https://images.genius.com/9d955ce3cbb35b3244ee6f41abe40b7f.1000x500x1.jpg",
+  "id": 617732,
+  "image_url": "https://images.genius.com/cec7a085afc555fe6b9b55e55c81c561.1000x1000x1.jpg",
+  "index_character": "j",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Jordan Ward",
+  "slug": "Jordan-ward",
+  "url": "https://genius.com/artists/Jordan-ward",
+  "iq": 212
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/617732",
+   "header_image_url": "https://images.genius.com/9d955ce3cbb35b3244ee6f41abe40b7f.1000x500x1.jpg",
+   "id": 617732,
+   "image_url": "https://images.genius.com/cec7a085afc555fe6b9b55e55c81c561.1000x1000x1.jpg",
+   "index_character": "j",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Jordan Ward",
+   "slug": "Jordan-ward",
+   "url": "https://genius.com/artists/Jordan-ward",
+   "iq": 212
+  }
+ ],
+ "artist": "Jordan Ward",
+ "lyrics": "9 ContributorsFAMJAM4000 Lyrics[Verse 1]\nYou watched me grow up from a boy\nI watched you build from what's destroyed\nRehabbin' houses but held grudges when my mom's house wasn't yours\nShe had to build somethin' of her own\nWe disagree on right and wrong\nBeen on and off communicatin' since the day I left from home\n\n[Pre-Chorus]\nAnd as we get older it's hard to reach understandin'\nI left with no Plan \"B\", oh, no\nYeah, I could be all around the world\nBut without family, it don't mean anything\n[Chorus]\nCan we bring the love back?\nI know that you've been waitin' so long\nFor it to come home again\nCan we bring the love back?\nI know that it's been way too long\nYou've always been home to me, always home\n\n[Verse 2]\nI miss you dancin' with a drink in your hand\nYou got drunk, and never called me again\nBut you've seen sides that nobody else knows\nI need you 'round to see my kids grow old\nPatience, these curses on generations\nLet's fall back in love and break 'em\nNothing's past a conversation\nThere's always space for you\nYou might also like[Pre-Chorus]\n'Cause as we get older it's hard to reach understandin'\nSee life with no Plan \"B\", oh, woah\nYeah, I could be all around the world\nBut without family it don't mean anything\n\n[Chorus]\nCan we bring the love back?\nI know that you've been waitin' so long\nFor it to come home again\nCan we bring the love back?\nI know that it's been way too long\nYou've always been home to me, always home (Always home)\n\n[Instrumental Break]\n(Always home)\n\n[Chorus]\nCan we bring the love back?\nI know that you've been waitin' so long\nFor it to come home again\nCan we bring the love back?\nI know that it's been way too long\nYou've always been home to me, always homeEmbed"
+}

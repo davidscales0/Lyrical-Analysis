@@ -1,0 +1,82 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/5004635",
+ "artist_names": "Free Nationals (Ft. Syd)",
+ "full_title": "Shibuya by\u00a0Free\u00a0Nationals (Ft.\u00a0Syd)",
+ "header_image_thumbnail_url": "https://images.genius.com/017efc3b549fd0a245fd7b4a0533591e.300x300x1.png",
+ "header_image_url": "https://images.genius.com/017efc3b549fd0a245fd7b4a0533591e.1000x1000x1.png",
+ "id": 5004635,
+ "instrumental": false,
+ "lyrics_owner_id": 498964,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1692606205,
+ "path": "/Free-nationals-shibuya-lyrics",
+ "primary_artist_names": "Free Nationals",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Free-nationals-shibuya-sample",
+ "release_date_components": {
+  "year": 2019,
+  "month": 11,
+  "day": 8
+ },
+ "release_date_for_display": "November 8, 2019",
+ "release_date_with_abbreviated_month_for_display": "Nov. 8, 2019",
+ "song_art_image_thumbnail_url": "https://images.genius.com/017efc3b549fd0a245fd7b4a0533591e.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/017efc3b549fd0a245fd7b4a0533591e.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 13670
+ },
+ "title": "Shibuya",
+ "title_with_featured": "Shibuya (Ft.\u00a0Syd)",
+ "updated_by_human_at": 1692606205,
+ "url": "https://genius.com/Free-nationals-shibuya-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/12935",
+   "header_image_url": "https://images.genius.com/4976f59572f9b4a7f71d57bda5c071d0.1000x333x1.jpg",
+   "id": 12935,
+   "image_url": "https://images.genius.com/23f2759ac10a473cacd24fbe00c72573.1000x1000x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Syd",
+   "slug": "Syd",
+   "url": "https://genius.com/artists/Syd",
+   "iq": 1861
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1599175",
+  "header_image_url": "https://images.genius.com/208e0e4aa74f0d26c7f7e60cd1f6ff1c.661x661x1.jpg",
+  "id": 1599175,
+  "image_url": "https://images.genius.com/3a8170295817375d5af85829e08a5181.1000x1000x1.jpg",
+  "index_character": "f",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Free Nationals",
+  "slug": "Free-nationals",
+  "url": "https://genius.com/artists/Free-nationals"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1599175",
+   "header_image_url": "https://images.genius.com/208e0e4aa74f0d26c7f7e60cd1f6ff1c.661x661x1.jpg",
+   "id": 1599175,
+   "image_url": "https://images.genius.com/3a8170295817375d5af85829e08a5181.1000x1000x1.jpg",
+   "index_character": "f",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Free Nationals",
+   "slug": "Free-nationals",
+   "url": "https://genius.com/artists/Free-nationals"
+  }
+ ],
+ "artist": "Free Nationals",
+ "lyrics": "17 ContributorsShibuya Lyrics[Intro]\nYeah\n\n[Verse 1]\nWe should stay right here a little longer\nBarely get to see each other\nWe can spend\u2005the\u2005weekend on the\u2005water\nEven let you take me under\n\n[Pre-Chorus]\nKnow\u2005you're usually\nAll work, no play\nGlad you came\nYou should stay until\n\n[Chorus]\nSaturday\n'Cause you ain't gotta work tomorrow anyway\nDo you, babe?\nSweet Saturdays\nI got you all to myself on Saturdays\nAw yeah, babe\nYeah\n\n[Verse 2]\nI can make you breakfast in the morning\nTime well spent, it's way too overdue\nDrinkin' like we know where this is going\nNow, I'm gon' be all hungover you\nYou might also like[Pre-Chorus]\nWe're both usually\nAll work, no play\nGlad you came\nHope you stay until\n\n[Chorus: Syd]\nSaturday\n'Cause you ain't gotta work tomorrow anyway\nDo you, babe?\nOh, sweet Saturday\n'Cause I got you all to myself on Saturdays\nAw yeah, babe\nYeah1Embed"
+}

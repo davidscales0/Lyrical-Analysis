@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/8808981",
+ "artist_names": "Eslabon Armado & Peso Pluma",
+ "full_title": "Ella Baila Sola by\u00a0Eslabon\u00a0Armado & Peso Pluma",
+ "header_image_thumbnail_url": "https://images.genius.com/bc5e3b2484ea4c245266dbe0c1fbfa50.300x299x1.jpg",
+ "header_image_url": "https://images.genius.com/bc5e3b2484ea4c245266dbe0c1fbfa50.804x800x1.jpg",
+ "id": 8808981,
+ "instrumental": false,
+ "lyrics_owner_id": 18674465,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1720580976,
+ "path": "/Eslabon-armado-and-peso-pluma-ella-baila-sola-lyrics",
+ "primary_artist_names": "Eslabon Armado & Peso Pluma",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Eslabon-armado-and-peso-pluma-ella-baila-sola-sample",
+ "release_date_components": {
+  "year": 2023,
+  "month": 3,
+  "day": 17
+ },
+ "release_date_for_display": "March 17, 2023",
+ "release_date_with_abbreviated_month_for_display": "Mar. 17, 2023",
+ "song_art_image_thumbnail_url": "https://images.genius.com/ba27125ea648f2e7d3de9115978860f7.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/ba27125ea648f2e7d3de9115978860f7.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 458883
+ },
+ "title": "Ella Baila Sola",
+ "title_with_featured": "Ella Baila Sola",
+ "updated_by_human_at": 1720580976,
+ "url": "https://genius.com/Eslabon-armado-and-peso-pluma-ella-baila-sola-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/3472067",
+  "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1723228522",
+  "id": 3472067,
+  "image_url": "https://assets.genius.com/images/default_avatar_300.png?1723228522",
+  "index_character": "e",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Eslabon Armado & Peso Pluma",
+  "slug": "Eslabon-armado-and-peso-pluma",
+  "url": "https://genius.com/artists/Eslabon-armado-and-peso-pluma"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/3472067",
+   "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1723228522",
+   "id": 3472067,
+   "image_url": "https://assets.genius.com/images/default_avatar_300.png?1723228522",
+   "index_character": "e",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Eslabon Armado & Peso Pluma",
+   "slug": "Eslabon-armado-and-peso-pluma",
+   "url": "https://genius.com/artists/Eslabon-armado-and-peso-pluma"
+  }
+ ],
+ "artist": "Eslabon Armado & Peso Pluma",
+ "lyrics": "22 ContributorsTranslationsEnglishPortugu\u00easCatal\u00e0DeutschElla Baila Sola Lyrics[Letra de \"Ella Baila Sola\"]\n\n[Verso 1: Pedro Tovar & Peso Pluma]\nCompa, \u00bfqu\u00e9 le parece esa morra?\nLa que anda bailando sola me gusta pa' m\u00ed\n\u00a1Bella! Ella sabe que est\u00e1 buena\nQue todos andan mir\u00e1ndola c\u00f3mo baila\nMe acerco y le tiro todo un verbo\nTomamos tragos sin peros, solo tentaci\u00f3n\nLe dije: \"Voy a conquistar tu familia, que en unos d\u00edas vas a ser m\u00eda\"\nMe dijo que estoy muy loco, pero le gusta\nQue ning\u00fan vato como yo act\u00faa\n\n[Interludio: Pedro Tovar & Peso Pluma]\nY ah\u00ed te va, mija\nY pura Doble P, viejo\nAs\u00ed nom\u00e1s, compa Pedro\nPuro Eslabon Armado\nPa' las plebitas\n\u00a1Cha-chau!\n\n[Verso 2: Peso Pluma & Pedro Tovar]\nNo soy un vato que tiene varo\nPero hablando del coraz\u00f3n, te cumplo todo\nMe agarr\u00f3, pegadito d\u0435 su mano\nMi compa ni se la crey\u00f3, que al pasar fui yo\nSu cu\u0435rpo, juro por Dios, que era tan perfecta\nSu cinturita como modelo\nSus ojos desde el principio me enamoraron\nA ella le gusto y a m\u00ed me gustaYou might also likeEmbed"
+}

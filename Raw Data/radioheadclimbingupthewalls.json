@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 16,
+ "api_path": "/songs/110838",
+ "artist_names": "Radiohead",
+ "full_title": "Climbing Up the Walls by\u00a0Radiohead",
+ "header_image_thumbnail_url": "https://images.genius.com/49feb9d39f5b2e62ebd618a46633168a.300x300x1.png",
+ "header_image_url": "https://images.genius.com/49feb9d39f5b2e62ebd618a46633168a.1000x1000x1.png",
+ "id": 110838,
+ "instrumental": false,
+ "lyrics_owner_id": 177483,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1721585781,
+ "path": "/Radiohead-climbing-up-the-walls-lyrics",
+ "primary_artist_names": "Radiohead",
+ "pyongs_count": 50,
+ "relationships_index_url": "https://genius.com/Radiohead-climbing-up-the-walls-sample",
+ "release_date_components": {
+  "year": 1997,
+  "month": 5,
+  "day": 21
+ },
+ "release_date_for_display": "May 21, 1997",
+ "release_date_with_abbreviated_month_for_display": "May. 21, 1997",
+ "song_art_image_thumbnail_url": "https://images.genius.com/49feb9d39f5b2e62ebd618a46633168a.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/49feb9d39f5b2e62ebd618a46633168a.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 9,
+  "hot": false,
+  "pageviews": 273489
+ },
+ "title": "Climbing Up the Walls",
+ "title_with_featured": "Climbing Up the Walls",
+ "updated_by_human_at": 1721585781,
+ "url": "https://genius.com/Radiohead-climbing-up-the-walls-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/604",
+  "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+  "id": 604,
+  "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Radiohead",
+  "slug": "Radiohead",
+  "url": "https://genius.com/artists/Radiohead"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/604",
+   "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+   "id": 604,
+   "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+   "index_character": "r",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Radiohead",
+   "slug": "Radiohead",
+   "url": "https://genius.com/artists/Radiohead"
+  }
+ ],
+ "artist": "Radiohead",
+ "lyrics": "90 ContributorsTranslationsEspa\u00f1olClimbing Up the Walls Lyrics[Verse 1]\nI am the key to the lock in your house\nThat keeps your toys in the basement\nBut if you get too far inside\nYou'll only see my reflection\nIt's always best with the covers up\nI am the pick in the ice\nDo not cry out or hit the alarm\nYou know we're friends till we die\n\n[Chorus]\nBut either way you turn, I'll be there\nOpen up your skull, I'll be there\nClimbing up the walls\n\n[Verse 2]\nIt's always best when the light is off\nIt's always better on the outside\nFifteen blows to the back of your head\nFifteen blows to your mind\nSo lock the kids up safe tonight\nShut the eyes in the cupboard\nI've got the smell of a local man\nWho's got the loneliest feeling\n\n[Chorus]\nThat either way he turns, I'll be there\nOpen up your skull, I'll be there\nClimbing up the walls\nYou might also like[Instrumental Break]\n\n[Outro]\nClimbing up the walls\nClimbing up the walls50Embed"
+}

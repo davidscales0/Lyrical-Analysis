@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 10,
+ "api_path": "/songs/5236734",
+ "artist_names": "Brent Faiyaz",
+ "full_title": "Clouded by\u00a0Brent\u00a0Faiyaz",
+ "header_image_thumbnail_url": "https://images.genius.com/c0563616392d8b668953f333698b7611.300x300x1.png",
+ "header_image_url": "https://images.genius.com/c0563616392d8b668953f333698b7611.1000x1000x1.png",
+ "id": 5236734,
+ "instrumental": false,
+ "lyrics_owner_id": 498964,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1702117295,
+ "path": "/Brent-faiyaz-clouded-lyrics",
+ "primary_artist_names": "Brent Faiyaz",
+ "pyongs_count": 17,
+ "relationships_index_url": "https://genius.com/Brent-faiyaz-clouded-sample",
+ "release_date_components": {
+  "year": 2020,
+  "month": 2,
+  "day": 7
+ },
+ "release_date_for_display": "February 7, 2020",
+ "release_date_with_abbreviated_month_for_display": "Feb. 7, 2020",
+ "song_art_image_thumbnail_url": "https://images.genius.com/c0563616392d8b668953f333698b7611.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/c0563616392d8b668953f333698b7611.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 9,
+  "hot": false,
+  "pageviews": 334450
+ },
+ "title": "Clouded",
+ "title_with_featured": "Clouded",
+ "updated_by_human_at": 1711004428,
+ "url": "https://genius.com/Brent-faiyaz-clouded-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/332612",
+  "header_image_url": "https://images.genius.com/69e88936f57222bfe053bac1e8d77625.1000x1000x1.jpg",
+  "id": 332612,
+  "image_url": "https://images.genius.com/d26c85db34600b384cba88fe02a1c587.1000x1000x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Brent Faiyaz",
+  "slug": "Brent-faiyaz",
+  "url": "https://genius.com/artists/Brent-faiyaz",
+  "iq": 1673
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/332612",
+   "header_image_url": "https://images.genius.com/69e88936f57222bfe053bac1e8d77625.1000x1000x1.jpg",
+   "id": 332612,
+   "image_url": "https://images.genius.com/d26c85db34600b384cba88fe02a1c587.1000x1000x1.jpg",
+   "index_character": "b",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Brent Faiyaz",
+   "slug": "Brent-faiyaz",
+   "url": "https://genius.com/artists/Brent-faiyaz",
+   "iq": 1673
+  }
+ ],
+ "artist": "Brent Faiyaz",
+ "lyrics": "46 ContributorsTranslationsPortugu\u00easClouded Lyrics[Intro]\nThat shit definitely broken\nGotta get it how you live\nEverybody talking 'bout R&B shit\nI'm just talking\u2005me\u2005shit\nYou know what\u2005I mean?\nLet me hear that\n\n[Verse]\nI gave\u2005it all for a fantasy\nIs anybody gon' remember me?\nIf I\u205fgo\u205ftonight,\u205fI doubt the\u205fworld'll change\nI just\u205fpray they don't forget my name\nIs it game rules? I can't lose\nWhen it's all said and done, will I still be cool?\nSpent like (How much?), ten thousand (Ten thousand)\nTwenty thousand (twenty thousand), thirty thousand (Thirty thousand)\nForty thousand (Forty thousand)\nHow much I'ma spend profilin'?\nShe come in and compliment my closet\nFuck her on the floor like I don't give a fuck 'bout it\nYour judgement get clouded when you clouted\nMy opposition wish I'd stop smilin'\nMy family wish I'd stop wildin'\nI'm still on the east side smokin' with my OG's\n'Cause they the only ones that really know me\nI was fuckin' superstars when I was nineteen (Mm)\nThe shit we did, you won't believe me\nNow I'm at the turn up, lookin' lonely\nThen they wonder why I'm quiet at them house parties\n'Cause everybody see me (See me)\nRoll some blunts and hit her once and now she need me (Need me)\nHer nigga wanna be me (Yeah)\nBut they don't know I'm fightin' demons\nI feel like dyin' every season\nI've been swimmin' in the deep end\nAll my bitches know I'm leavin' at some point (Mm, I'm out)\nWhether there's a reason or not\nDon't try givin' me reasons to stopYou might also like17Embed"
+}

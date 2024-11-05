@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 14,
+ "api_path": "/songs/2463398",
+ "artist_names": "Drake",
+ "full_title": "Feel No Ways by\u00a0Drake",
+ "header_image_thumbnail_url": "https://images.genius.com/04ca8f6cc29d2ddde9e6756b92488a6f.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/04ca8f6cc29d2ddde9e6756b92488a6f.1000x1000x1.jpg",
+ "id": 2463398,
+ "instrumental": false,
+ "lyrics_owner_id": 272373,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1694415650,
+ "path": "/Drake-feel-no-ways-lyrics",
+ "primary_artist_names": "Drake",
+ "pyongs_count": 79,
+ "relationships_index_url": "https://genius.com/Drake-feel-no-ways-sample",
+ "release_date_components": {
+  "year": 2016,
+  "month": 4,
+  "day": 29
+ },
+ "release_date_for_display": "April 29, 2016",
+ "release_date_with_abbreviated_month_for_display": "Apr. 29, 2016",
+ "song_art_image_thumbnail_url": "https://images.genius.com/04ca8f6cc29d2ddde9e6756b92488a6f.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/04ca8f6cc29d2ddde9e6756b92488a6f.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false,
+  "pageviews": 1724894
+ },
+ "title": "Feel No Ways",
+ "title_with_featured": "Feel No Ways",
+ "updated_by_human_at": 1723354832,
+ "url": "https://genius.com/Drake-feel-no-ways-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/130",
+  "header_image_url": "https://images.genius.com/6b0c1b0d9a2730b43e3148bd6b86d99c.700x400x1.jpg",
+  "id": 130,
+  "image_url": "https://images.genius.com/2d5f037d21202b9fc4f6e9f67dee4e9c.1000x562x1.jpg",
+  "index_character": "d",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Drake",
+  "slug": "Drake",
+  "url": "https://genius.com/artists/Drake"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/130",
+   "header_image_url": "https://images.genius.com/6b0c1b0d9a2730b43e3148bd6b86d99c.700x400x1.jpg",
+   "id": 130,
+   "image_url": "https://images.genius.com/2d5f037d21202b9fc4f6e9f67dee4e9c.1000x562x1.jpg",
+   "index_character": "d",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Drake",
+   "slug": "Drake",
+   "url": "https://genius.com/artists/Drake"
+  }
+ ],
+ "artist": "Drake",
+ "lyrics": "141 ContributorsTranslationsT\u00fcrk\u00e7eFeel No Ways Lyrics[Verse]\nI should be downtown, whipping on the way to you\nYou got something that belongs to me\nYour body language says it all\nDespite the things you said to me\nWho is it that's got you all gassed up? (Yeah)\nChangin' your opinion on me\nI was only gone for the last few months\nBut you don't have the time to wait on me\n\n[Pre-Chorus]\nI tried with you\nThere's more to life than sleeping in and getting high with you\nI had to let go of us to show myself what I could do\nAnd that just didn't sit right with you, yeah\n\n[Chorus]\nAnd now you're tryna make me feel a way, on purpose\nNow you're throwing it back in my face, on purpose\nNow you're talking down on my name (Ah), on purpose, yeah\nAnd you don't feel no way, you think I deserve it\nWorld's, world's, world's famous\nWorld's, world's, world's famous\n\n[Post-Chorus]\nFeel a way, feel a way, young nigga feel a way\nI've stopped listenin' to things you say\n'Cause you don't mean it anyway (Yeah)\nFeel a way, feel a way, young nigga feel a way\nMaybe we just should have did things my way\nInstead of the other way\nYou might also like[Pre-Chorus]\nI tried with you\nThere's more to life than sleeping in and getting high with you\nI had to let go of us to show myself what I could do\nAnd that just didn't sit right with you, yeah\n\n[Chorus]\nAnd now you're tryna make me feel a way, on purpose\nNow you're throwing it back in my face, on purpose\nNow you're talking down on my name (Ah), on purpose, yeah\nAnd you don't feel no way, you think I deserve it\nWorld's, world's, world's famous\nWorld's, world's, world's famous\n\n[Post-Chorus]\n(I tried with you)\nYeah, yeah, yeah\nYeah, yeah, yeah\n(Feel a way, feel a way, young nigga feel a way)\n(I've stopped listening to things you say)\n(Feel a way, feel a way, young nigga feel a way)\n(I've stopped listening to things you say)\n[Produced By Jordan Ullman]79Embed"
+}

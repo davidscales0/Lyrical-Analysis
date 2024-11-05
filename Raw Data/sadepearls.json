@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 11,
+ "api_path": "/songs/133592",
+ "artist_names": "Sade",
+ "full_title": "Pearls by\u00a0Sade",
+ "header_image_thumbnail_url": "https://images.genius.com/d7429e77d2744ec7c228545650293e36.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/d7429e77d2744ec7c228545650293e36.599x599x1.jpg",
+ "id": 133592,
+ "instrumental": false,
+ "lyrics_owner_id": 91538,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1716637462,
+ "path": "/Sade-pearls-lyrics",
+ "primary_artist_names": "Sade",
+ "pyongs_count": 6,
+ "relationships_index_url": "https://genius.com/Sade-pearls-sample",
+ "release_date_components": {
+  "year": 1992,
+  "month": 10,
+  "day": 26
+ },
+ "release_date_for_display": "October 26, 1992",
+ "release_date_with_abbreviated_month_for_display": "Oct. 26, 1992",
+ "song_art_image_thumbnail_url": "https://images.genius.com/d7429e77d2744ec7c228545650293e36.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/d7429e77d2744ec7c228545650293e36.599x599x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 6,
+  "hot": false,
+  "pageviews": 80904
+ },
+ "title": "Pearls",
+ "title_with_featured": "Pearls",
+ "updated_by_human_at": 1716637463,
+ "url": "https://genius.com/Sade-pearls-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/691",
+  "header_image_url": "https://images.genius.com/bfcaa5ba05417c9a5ed17f1cda3aaa5e.537x432x1.jpg",
+  "id": 691,
+  "image_url": "https://images.genius.com/2532eb39b9f3354b048df6db7943cbee.1000x1000x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Sade",
+  "slug": "Sade",
+  "url": "https://genius.com/artists/Sade"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/691",
+   "header_image_url": "https://images.genius.com/bfcaa5ba05417c9a5ed17f1cda3aaa5e.537x432x1.jpg",
+   "id": 691,
+   "image_url": "https://images.genius.com/2532eb39b9f3354b048df6db7943cbee.1000x1000x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Sade",
+   "slug": "Sade",
+   "url": "https://genius.com/artists/Sade"
+  }
+ ],
+ "artist": "Sade",
+ "lyrics": "23 ContributorsTranslationsDeutschPearls Lyrics[Verse 1]\nThere is a woman in Somalia\nScraping for pearls on the roadside\nThere's a force stronger than nature\nKeeps her will alive\nThis is how she's dying\nShe's dying to survive\nI don't know what she's made of\nI would like to be that brave\n\n[Chorus]\nShe cries to the heaven above\nThere is a stone in my heart\nShe lives a life she didn't choose\nAnd it hurts like brand-new shoes\nHurts like brand-new shoes\n\n[Verse 2]\nThere is a woman in Somalia\nThe sun gives her no mercy\nThe same sky we lay under\nBurns her to the bone\nLong as afternoon shadows\nIt's gonna take her to get home\nEach grain carefully wrapped up\nPearls for her little girl\nYou might also like[Bridge]\nHallelujah\nHallelujah\n\n[Chorus]\nShe cries to the heaven above\nThere is a stone in my heart\nShe lives in a world she didn't choose\nAnd it hurts like brand-new shoes\nHurts like brand-new shoes6Embed"
+}

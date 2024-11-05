@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 0,
+ "api_path": "/songs/6582844",
+ "artist_names": "Thee Sacred Souls",
+ "full_title": "Will I See You Again? by\u00a0Thee\u00a0Sacred Souls",
+ "header_image_thumbnail_url": "https://images.genius.com/ef56aca5228fcd7af151d1a561748b1a.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/ef56aca5228fcd7af151d1a561748b1a.1000x1000x1.jpg",
+ "id": 6582844,
+ "instrumental": false,
+ "lyrics_owner_id": 5628205,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1714097733,
+ "path": "/Thee-sacred-souls-will-i-see-you-again-lyrics",
+ "primary_artist_names": "Thee Sacred Souls",
+ "pyongs_count": 3,
+ "relationships_index_url": "https://genius.com/Thee-sacred-souls-will-i-see-you-again-sample",
+ "release_date_components": {
+  "year": 2020,
+  "month": 12,
+  "day": 1
+ },
+ "release_date_for_display": "December 1, 2020",
+ "release_date_with_abbreviated_month_for_display": "Dec. 1, 2020",
+ "song_art_image_thumbnail_url": "https://images.genius.com/ef56aca5228fcd7af151d1a561748b1a.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/ef56aca5228fcd7af151d1a561748b1a.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 22546
+ },
+ "title": "Will I See You Again?",
+ "title_with_featured": "Will I See You Again?",
+ "updated_by_human_at": 1714087377,
+ "url": "https://genius.com/Thee-sacred-souls-will-i-see-you-again-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/2227087",
+  "header_image_url": "https://images.genius.com/148d6515de6dd4c8fd49aa45c3dd7c41.1000x1000x1.jpg",
+  "id": 2227087,
+  "image_url": "https://images.genius.com/148d6515de6dd4c8fd49aa45c3dd7c41.1000x1000x1.jpg",
+  "index_character": "t",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Thee Sacred Souls",
+  "slug": "Thee-sacred-souls",
+  "url": "https://genius.com/artists/Thee-sacred-souls"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/2227087",
+   "header_image_url": "https://images.genius.com/148d6515de6dd4c8fd49aa45c3dd7c41.1000x1000x1.jpg",
+   "id": 2227087,
+   "image_url": "https://images.genius.com/148d6515de6dd4c8fd49aa45c3dd7c41.1000x1000x1.jpg",
+   "index_character": "t",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Thee Sacred Souls",
+   "slug": "Thee-sacred-souls",
+   "url": "https://genius.com/artists/Thee-sacred-souls"
+  }
+ ],
+ "artist": "Thee Sacred Souls",
+ "lyrics": "7 ContributorsWill I See You Again? Lyrics[Verse 1]\nI got a little taste of your love the other day\nAnd I just can't get enough, I just can\u2019t get enough\nThen I see you wanna go down the other way\nI just can't get enough, I just can't get enough\n\n[Pre-Chorus]\nBaby, I don\u2019t wanna play pretend\nEither you want me or you don't\nYou want me or we go back to being friends\n\n[Chorus]\nWill I see you again?\nWill I see you again?\nWill I see you again?\nWill I see you again?\n\n[Verse 2]\nI can't keep giving you so much and getting back so little\nI can't keep borrowing you a full cup and getting back just dribbles\nHmm, it don't work for me\nOh, baby, don't treat me this way\n\n[Pre-Chorus]\nBaby, I feel like your love's pretend\nEither you want me or you don't\nYou want me or we go back to being friends\nYou might also like[Chorus]\nWill I see you again? (Oh)\nWill I see you again?\nWill I see you again? (Oh)\nWill I see you again?\n\n[Bridge]\n\u2019Cause I could be so good to you\nIf you would just take that chance (Ooh)\nSaid I could be so good to you\nIf you would just jump that fence, baby (Ooh)\nSaid I can be so good to you\nIf you would just take that chance (Ooh)\nSaid I can be so good to you\nIf you would just jump that fence, hey\nOoh-ooh\n\n[Chorus]\nWill I see you again? (Baby)\nWill I see you again? (Oh-oh-oh-oh)\nWill I see you again?\nWill I see you again?\nWon\u2019t you let me in your heart?\nWill I see you again? (Oh)\nWill I see you again? (Baby, yeah)\nWill I see you again?\nWill I see you again?3Embed"
+}

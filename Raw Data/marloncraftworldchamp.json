@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 8,
+ "api_path": "/songs/7944093",
+ "artist_names": "Marlon Craft",
+ "full_title": "World Champ by\u00a0Marlon\u00a0Craft",
+ "header_image_thumbnail_url": "https://images.genius.com/d8df289e3627105d66bab026820a742d.300x300x1.png",
+ "header_image_url": "https://images.genius.com/d8df289e3627105d66bab026820a742d.1000x1000x1.png",
+ "id": 7944093,
+ "instrumental": false,
+ "lyrics_owner_id": 5010443,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1718423379,
+ "path": "/Marlon-craft-world-champ-lyrics",
+ "primary_artist_names": "Marlon Craft",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Marlon-craft-world-champ-sample",
+ "release_date_components": {
+  "year": 2022,
+  "month": 4,
+  "day": 27
+ },
+ "release_date_for_display": "April 27, 2022",
+ "release_date_with_abbreviated_month_for_display": "Apr. 27, 2022",
+ "song_art_image_thumbnail_url": "https://images.genius.com/d8df289e3627105d66bab026820a742d.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/d8df289e3627105d66bab026820a742d.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 8,
+  "hot": false,
+  "pageviews": 7664
+ },
+ "title": "World Champ",
+ "title_with_featured": "World Champ",
+ "updated_by_human_at": 1718423379,
+ "url": "https://genius.com/Marlon-craft-world-champ-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/996145",
+  "header_image_url": "https://images.genius.com/b24bb940167aa02d995508c58c06bb14.1000x667x1.jpg",
+  "id": 996145,
+  "image_url": "https://images.genius.com/c1acfb19cd3b2179e8ad74a6b285c967.1000x1000x1.jpg",
+  "index_character": "m",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Marlon Craft",
+  "slug": "Marlon-craft",
+  "url": "https://genius.com/artists/Marlon-craft",
+  "iq": 212
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/996145",
+   "header_image_url": "https://images.genius.com/b24bb940167aa02d995508c58c06bb14.1000x667x1.jpg",
+   "id": 996145,
+   "image_url": "https://images.genius.com/c1acfb19cd3b2179e8ad74a6b285c967.1000x1000x1.jpg",
+   "index_character": "m",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Marlon Craft",
+   "slug": "Marlon-craft",
+   "url": "https://genius.com/artists/Marlon-craft",
+   "iq": 212
+  }
+ ],
+ "artist": "Marlon Craft",
+ "lyrics": "11 ContributorsWorld Champ Lyrics[Intro]\nYeah\n\n[Chorus]\nPut the cucumber in the vodka\nIt's a cruel summer, it been hot, bruh\nMom claim Italian, pops a city Jew, they was both more pasta than latkes\nPops always said, \"Watch your posture\"\nHe ain't know my shoulders held lots up\nUsed to hold me in the mirror, say I was champ of the world, shit wasn't gossip, no\n\n[Verse 1]\nAccurate forecast\nLookin' forward, don't need more past\nPuttin' rappers in the compost 'cause can't afford any more trash\nI don't got anymore passes, feel compassion slippin' 'way\nAll this savageness in a cage\nWhole culture is MMA\nWatch the lightning in the clouds, everything pretty 'til it hits Earth\nOur construction is destruction, tell me really what's the shit worth?\nWhat's th\u0435 purpose for a wordsmith if the doors they suppos\u0435d to open\n'Bout to be permanently closed in?\nIs it really all just for coping?\n\n[Chorus]\nPut the cucumber in the vodka\nIt's a cruel summer, it been hot, bruh\nMom claim Italian, pops a city Jew, they was both more pasta than latkes\nPops always said, \"Watch your posture\"\nHe ain't know my shoulders held lots up\nUsed to hold me in the mirror, say I was champ of the world, shit wasn't gossip\nYou might also like[Verse 2]\nOn my own, I don't got a roster\nDread on my mind like a Rasta\nStressed all the time, pour the sauce up\nYoung redundant, never puntin'\nFourth and long, always find a way\nI be strong my own kind of way\nI be strong my own kind of way\nShit, that's all I been tryna say\nIf you got a problem with me, I don't really gotta care no more\nOoh, I'm gon' walk in my peace, I don't gotta interfere no more\nWho want it?\nBitch, I ain't no newcomer\nCool as the cucumber in the vodka, baby, it's a new summer\nI don't got a new number\nBitch, I got the same doggone line\nMight be hard to find though, somewhere lost in my mind\nStill gon' be the champ though\nStill gon' be the champ\nStill gon' be the champ though\nStill gon' be the champ\nStill gon' be the champ though\nStill gon' be the champ\nEven if it ain't a world left, baby, I'll be damned\nUh1Embed"
+}

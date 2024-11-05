@@ -1,0 +1,66 @@
+{
+ "_type": "song",
+ "annotation_count": 0,
+ "api_path": "/songs/10583333",
+ "artist_names": "Manuel Turizo",
+ "full_title": "Dios Te Cuide by\u00a0Manuel\u00a0Turizo",
+ "header_image_thumbnail_url": "https://images.genius.com/1fe4b674ff6961f3e9ece032bda69809.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/1fe4b674ff6961f3e9ece032bda69809.1000x1000x1.jpg",
+ "id": 10583333,
+ "instrumental": false,
+ "lyrics_owner_id": 5529082,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1719493232,
+ "path": "/Manuel-turizo-dios-te-cuide-lyrics",
+ "primary_artist_names": "Manuel Turizo",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Manuel-turizo-dios-te-cuide-sample",
+ "release_date_components": {
+  "year": 2024,
+  "month": 6,
+  "day": 27
+ },
+ "release_date_for_display": "June 27, 2024",
+ "release_date_with_abbreviated_month_for_display": "Jun. 27, 2024",
+ "song_art_image_thumbnail_url": "https://images.genius.com/1fe4b674ff6961f3e9ece032bda69809.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/1fe4b674ff6961f3e9ece032bda69809.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Dios Te Cuide",
+ "title_with_featured": "Dios Te Cuide",
+ "updated_by_human_at": 1719520555,
+ "url": "https://genius.com/Manuel-turizo-dios-te-cuide-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1132272",
+  "header_image_url": "https://images.genius.com/a01ee83e2ac5bcc76ad3aa456c52ee13.640x800x1.jpg",
+  "id": 1132272,
+  "image_url": "https://images.genius.com/0f286c18da0347481b1571fd74a5985e.640x640x1.jpg",
+  "index_character": "m",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Manuel Turizo",
+  "slug": "Manuel-turizo",
+  "url": "https://genius.com/artists/Manuel-turizo"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1132272",
+   "header_image_url": "https://images.genius.com/a01ee83e2ac5bcc76ad3aa456c52ee13.640x800x1.jpg",
+   "id": 1132272,
+   "image_url": "https://images.genius.com/0f286c18da0347481b1571fd74a5985e.640x640x1.jpg",
+   "index_character": "m",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Manuel Turizo",
+   "slug": "Manuel-turizo",
+   "url": "https://genius.com/artists/Manuel-turizo"
+  }
+ ],
+ "artist": "Manuel Turizo",
+ "lyrics": "1 ContributorDios Te Cuide Lyrics[Letra de \"Dios Te Cuide\"]\n\n[Verso 1]\nRecuerdo cuando con mi mano sosten\u00eda tu mano\nLa misma mano en la que ahora traigo esta botella\nPa' que se me olvide por un rato que te extra\u00f1o\nAunque vuelva' cada noche como las estrellas\nT\u00fa dices que te duele mucho, pero yo s\u00e9 que no\nNo sientes ni un 10% de lo que sent\u00ed yo\nNo estoy buscando venganza, te guardo cero rencor\nTe deseo lo mejor\n\n[Coro]\nQue Dios te cuid\u0435, beb\u00e9, y que te guard\u0435\nY que se le olvide, beb\u00e9\nD\u00f3nde putas fue que te guard\u00f3\nPa' que no me vuelvas a romper el coraz\u00f3n, woh-oh-oh-oh\nQue Dios te cuide, beb\u00e9, y que te guarde\nY que se le olvide, beb\u00e9\nD\u00f3nde putas fue que te guard\u00f3\nPa' que no me vuelvas a romper el coraz\u00f3n, woh-oh-oh-oh\n\n[Verso 2]\nDe que no est\u00e9s yo no me quejo\nEso de que me quer\u00edas ya yo s\u00e9 que es cuento viejo\nClaro que quiero tenerte, pero bien lejo'\nSigue hablando, yo te dejo\nSigue hablando, yo te dejo, woh-oh-oh-oh\nEs que eres tan importante para m\u00ed\nQue t\u00fa ere' esa historia que no vuelvo a repetir\nTe juro, no voy a olvidarte, voy a recordarte\nVas a quedarte en mi memoria como el peor error que comet\u00ed\nSee Manuel Turizo LiveGet tickets as low as $60You might also like[Coro]\nQue Dios te cuide, beb\u00e9, y que te guarde\nY que se le olvide, beb\u00e9\nD\u00f3nde putas fue que te guard\u00f3\nPa' que no me vuelvas a romper el coraz\u00f3n, woh-oh-oh-oh\nQue Dios te cuide, beb\u00e9, y que te guarde\nY que se le olvide, beb\u00e9\nD\u00f3nde putas fue que te guard\u00f3\nPa' que no me vuelvas a romper el coraz\u00f3n, woh-oh-oh-ohEmbed"
+}

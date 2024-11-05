@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 19,
+ "api_path": "/songs/3113608",
+ "artist_names": "SZA",
+ "full_title": "Normal Girl by\u00a0SZA",
+ "header_image_thumbnail_url": "https://images.genius.com/c4f225ffe9ed2762145f257dba814978.300x300x1.png",
+ "header_image_url": "https://images.genius.com/c4f225ffe9ed2762145f257dba814978.1000x1000x1.png",
+ "id": 3113608,
+ "instrumental": false,
+ "lyrics_owner_id": 104344,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1721238450,
+ "path": "/Sza-normal-girl-lyrics",
+ "primary_artist_names": "SZA",
+ "pyongs_count": 62,
+ "relationships_index_url": "https://genius.com/Sza-normal-girl-sample",
+ "release_date_components": {
+  "year": 2017,
+  "month": 6,
+  "day": 9
+ },
+ "release_date_for_display": "June 9, 2017",
+ "release_date_with_abbreviated_month_for_display": "Jun. 9, 2017",
+ "song_art_image_thumbnail_url": "https://images.genius.com/c4f225ffe9ed2762145f257dba814978.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/c4f225ffe9ed2762145f257dba814978.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 13,
+  "hot": false,
+  "pageviews": 607931
+ },
+ "title": "Normal Girl",
+ "title_with_featured": "Normal Girl",
+ "updated_by_human_at": 1721238450,
+ "url": "https://genius.com/Sza-normal-girl-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/41579",
+  "header_image_url": "https://images.genius.com/35f251a9b697812fc6fa7e1fc3b144d9.1000x1000x1.jpg",
+  "id": 41579,
+  "image_url": "https://images.genius.com/c4afa603906452118e2cf171af859133.510x510x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "SZA",
+  "slug": "Sza",
+  "url": "https://genius.com/artists/Sza",
+  "iq": 6410
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/41579",
+   "header_image_url": "https://images.genius.com/35f251a9b697812fc6fa7e1fc3b144d9.1000x1000x1.jpg",
+   "id": 41579,
+   "image_url": "https://images.genius.com/c4afa603906452118e2cf171af859133.510x510x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "SZA",
+   "slug": "Sza",
+   "url": "https://genius.com/artists/Sza",
+   "iq": 6410
+  }
+ ],
+ "artist": "SZA",
+ "lyrics": "89 ContributorsTranslationsEspa\u00f1olFran\u00e7aisPortugu\u00easSZA - Normal Girl (T\u00fcrk\u00e7e \u00c7eviri)ItalianoNormal Girl Lyrics[Verse 1]\nUh, you love the way I pop my top or how I lose my cool\nOr how I look at you\nSay, why?\nIt ain't no fightin', no, I can't stop it\nThis took a while (Yeah)\nLove the way I pump my fist or how I bust my hip\nFor your affection, tryna be down\nNo fightin' and no stoppin'\nStick around\n\n[Pre-Chorus]\nWish I was the type of girl that you take over to mama\nThe type of girl, I know my daddy, he'd be proud of (Yeah)\nBe proud of (Yeah)\nBe proud of, be proud, you know, you know\nWanna be the type of girl you take home to your mama\nThe type of girl, I know your fellas, they'd be proud of\nBe proud of, be proud of, be proud of, boy, you know\n\n[Chorus]\nNormal girl, oh\nI wish I was a normal girl, oh, my\nHow do I be, how do I be your baby?\nNormal girl, oh\nI wish I was a normal girl\nI'll never be, no, never be a, oh\nSee SZA LiveGet tickets as low as $80You might also like[Verse 2]\nYou like it (You like it), when I be (When I be), aggressive (Aggre\u2014)\nYou like when I say to you\n\"Get it if you got it, I'm ready and waitin' for it\nI'm callin' to put it on,\" yeah\nLike it (Like it), when I be (When I be), aggressive\nLove when I say to you\n\"Get it if you want it, I'm waitin', I'm gonna find you\nI'm ready to put it on you,\" yeah, yeah\n\n[Pre-Chorus]\nType of girl you wanna take home to mama\nWanna be the type of girl, my daddy, he'd be proud of\nBe proud of, be proud of, be proud, you know, you know\nThe type of girl you wanna take her home right up to mama\nThe kind of girl, I know your fellas, they'd be proud of\nI'll be probably, I'll be proud like, I'll be probably a problem\nNormal girl, oh, ah\n(No magazine, no fantasy)\n\n[Chorus]\nI really wish I was a normal girl\nHow do I be, how do I be your baby?\nNormal girl, oh\nI wish I was a normal girl, oh, babe\nI'll never be, no, never be a, oh\n[Bridge]\nThis time next year, I'll be livin' so good\nWon't remember your name, I swear\nLivin' so good, livin' so good, livin' so good\nThis time next year, I'll be livin' so good\nWon't remember no pain, I swear\nBefore that you figured out that I was just a normal girl\n\n[Outro]\nNormal girl, what do you say now?\nQuit on the world 'cause it ain't going your way now\nQuit on yourself 'cause you can't figure your way out\nNormal girl\nHow do you be?62Embed"
+}

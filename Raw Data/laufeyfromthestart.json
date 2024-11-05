@@ -1,0 +1,70 @@
+{
+ "_type": "song",
+ "annotation_count": 17,
+ "api_path": "/songs/9079174",
+ "artist_names": "Laufey",
+ "full_title": "From The Start by\u00a0Laufey",
+ "header_image_thumbnail_url": "https://images.genius.com/eca1964ad70330d14e57b818eb814bb5.300x300x1.png",
+ "header_image_url": "https://images.genius.com/eca1964ad70330d14e57b818eb814bb5.640x640x1.png",
+ "id": 9079174,
+ "instrumental": false,
+ "lyrics_owner_id": 12455462,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1721022243,
+ "path": "/Laufey-from-the-start-lyrics",
+ "primary_artist_names": "Laufey",
+ "pyongs_count": 10,
+ "relationships_index_url": "https://genius.com/Laufey-from-the-start-sample",
+ "release_date_components": {
+  "year": 2023,
+  "month": 5,
+  "day": 11
+ },
+ "release_date_for_display": "May 11, 2023",
+ "release_date_with_abbreviated_month_for_display": "May. 11, 2023",
+ "song_art_image_thumbnail_url": "https://images.genius.com/eca1964ad70330d14e57b818eb814bb5.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/eca1964ad70330d14e57b818eb814bb5.640x640x1.png",
+ "stats": {
+  "unreviewed_annotations": 12,
+  "concurrents": 3,
+  "hot": false,
+  "pageviews": 390835
+ },
+ "title": "From The Start",
+ "title_with_featured": "From The Start",
+ "updated_by_human_at": 1723369961,
+ "url": "https://genius.com/Laufey-from-the-start-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/2195472",
+  "header_image_url": "https://images.genius.com/c9e54697e1f9ac021acd93abc8b4c05b.1000x210x1.png",
+  "id": 2195472,
+  "image_url": "https://images.genius.com/a5dec955c8af5ecdf05497a1e102538e.1000x1000x1.png",
+  "index_character": "l",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Laufey",
+  "slug": "Laufey",
+  "url": "https://genius.com/artists/Laufey",
+  "iq": 1300
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/2195472",
+   "header_image_url": "https://images.genius.com/c9e54697e1f9ac021acd93abc8b4c05b.1000x210x1.png",
+   "id": 2195472,
+   "image_url": "https://images.genius.com/a5dec955c8af5ecdf05497a1e102538e.1000x1000x1.png",
+   "index_character": "l",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Laufey",
+   "slug": "Laufey",
+   "url": "https://genius.com/artists/Laufey",
+   "iq": 1300
+  }
+ ],
+ "artist": "Laufey",
+ "lyrics": "46 ContributorsTranslationsBahasa IndonesiaEspa\u00f1olPortugu\u00easDeutschFrom The Start Lyrics[Verse 1]\nDon't you notice how\nI get quiet when there's no one else around?\nMe and you and awkward silence\nDon't you dare look at me that way\nI don't need reminders of how you don't feel the same\n\n[Verse 2]\nOh, the burning pain\nListening to you harp on 'bout some new soulmate\n\"She's so perfect,\" blah, blah, blah\nOh, how I wish you'll wake up one day\nRun to me, confess your love, at least just let me say\n\n[Chorus]\nThat when I talk to you\nOh, Cupid walks right through\nAnd shoots an arrow through my heart\nAnd I sound like a loon\nBut don't you feel it, too?\nConfess I loved you from the start\n[Scat Break]\n\n[Verse 3]\nWhat's a girl to do?\nLying on my bed staring into the blu\u0435\nUnrequited, terrifying\nLov\u0435 is driving me a bit insane\nHave to get this off my chest, I'm telling you today\nSee Laufey LiveGet tickets as low as $101You might also like[Chorus]\nThat when I talk to you\nOh, Cupid walks right through\nAnd shoots an arrow through my heart\nAnd I sound like a loon\nBut don't you feel it, too?\nConfess I loved you from the start\n\n[Outro]\nConfess I loved you\nJust thinking of you\nI know I've loved you from the start10Embed"
+}

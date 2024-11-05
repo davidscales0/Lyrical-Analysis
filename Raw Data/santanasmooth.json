@@ -1,0 +1,83 @@
+{
+ "_type": "song",
+ "annotation_count": 7,
+ "api_path": "/songs/114915",
+ "artist_names": "Santana (Ft. Rob Thomas)",
+ "full_title": "Smooth by\u00a0Santana (Ft.\u00a0Rob\u00a0Thomas)",
+ "header_image_thumbnail_url": "https://images.genius.com/9b1ad5e67d8c558036ea9e0b8d007e2e.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/9b1ad5e67d8c558036ea9e0b8d007e2e.640x640x1.jpg",
+ "id": 114915,
+ "instrumental": false,
+ "lyrics_owner_id": 21564,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1721237309,
+ "path": "/Santana-smooth-lyrics",
+ "primary_artist_names": "Santana",
+ "pyongs_count": 24,
+ "relationships_index_url": "https://genius.com/Santana-smooth-sample",
+ "release_date_components": {
+  "year": 1999,
+  "month": 6,
+  "day": 29
+ },
+ "release_date_for_display": "June 29, 1999",
+ "release_date_with_abbreviated_month_for_display": "Jun. 29, 1999",
+ "song_art_image_thumbnail_url": "https://images.genius.com/b5e3e4085f2bc1cc63ded58b62c7492b.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/b5e3e4085f2bc1cc63ded58b62c7492b.592x592x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "concurrents": 2,
+  "hot": false,
+  "pageviews": 232632
+ },
+ "title": "Smooth",
+ "title_with_featured": "Smooth (Ft.\u00a0Rob\u00a0Thomas)",
+ "updated_by_human_at": 1721237309,
+ "url": "https://genius.com/Santana-smooth-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/37260",
+   "header_image_url": "https://images.genius.com/7c01fcae7bcf85a2d1c8f50e511181ef.942x623x1.jpg",
+   "id": 37260,
+   "image_url": "https://images.genius.com/fe5c2235aafa602bb53a39ef05c3d9d5.900x900x1.jpg",
+   "index_character": "r",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Rob Thomas",
+   "slug": "Rob-thomas",
+   "url": "https://genius.com/artists/Rob-thomas",
+   "iq": 2601
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/8439",
+  "header_image_url": "https://images.genius.com/f9cd3ef103b8537a0cbef0c77641206c.1000x353x1.jpg",
+  "id": 8439,
+  "image_url": "https://images.genius.com/2a6657f3cbfc642e17d2976fb1f5ea40.1000x1000x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Santana",
+  "slug": "Santana",
+  "url": "https://genius.com/artists/Santana"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/8439",
+   "header_image_url": "https://images.genius.com/f9cd3ef103b8537a0cbef0c77641206c.1000x353x1.jpg",
+   "id": 8439,
+   "image_url": "https://images.genius.com/2a6657f3cbfc642e17d2976fb1f5ea40.1000x1000x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Santana",
+   "slug": "Santana",
+   "url": "https://genius.com/artists/Santana"
+  }
+ ],
+ "artist": "Santana",
+ "lyrics": "64 ContributorsTranslationsDeutschSmooth Lyrics[Verse 1]\nMan, it's a hot one\nLike seven inches from the midday sun\nWell, I hear you whisper and the words melt everyone\nBut you stay so cool\nMy mu\u00f1equita, my Spanish Harlem Mona Lisa\nYou're my reason for reason, the step in my groove, yeah\n\n[Pre-Chorus]\nAnd if you say, \"This life ain't good enough\"\nI would give my world to lift you up\nI could change my life to better suit your mood\n'Cause you're so smooth\n\n[Chorus]\nAnd it's just like the ocean under the moon\nWell, it's the same as the emotion that I get from you\nYou got the kind of lovin' that can be so smooth, yeah\nGimme your heart, make it real, or else forget about it\n\n[Verse 2]\nWell, I'll tell you one thing\nIf you would leave it'd be a crying shame\nIn every breath and every word\nI hear your name callin' me out\nOut from the barrio, you hear my rhythm on your radio\nYou feel the turnin' of the world so soft and slow\nTurnin' you round and round\nSee Santana LiveGet tickets as low as $22You might also like[Pre-Chorus]\nAnd if you say, \"This life ain't good enough\"\nI would give my world to lift you up\nI could change my life to better suit your mood\n'Cause you're so smooth\n\n[Chorus]\nAnd it's just like the ocean under the moon\nWell, it's the same as the emotion that I get from you\nYou got the kind of lovin' that can be so smooth, yeah\nGimme your heart, make it real, or else forget about it, yeah\n\n[Guitar Solo]\n\n[Chorus]\nAnd it's just like the ocean under the moon\nWell, it's the same as the emotion that I get from you\nYou got the kind of lovin' that can be so smooth, yeah\nGimme your heart, make it real, or else forget about it, damn\n\n[Outro]\nOr else forget about it\nOh, or else forget about it\nOh, let's don't forget about it\n(Gimme your heart, make it real) Or else forget about it, hey\nLet's don't forget about it, no, oh, no\nOh, let's don't forget about it, no, no, no\nOh, let's don't forget about it, hey, no, no\nOh, let's don't forget about it, hey, hey, hey24Embed"
+}

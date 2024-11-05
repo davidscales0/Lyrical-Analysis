@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 8,
+ "api_path": "/songs/3553207",
+ "artist_names": "Men I Trust",
+ "full_title": "Show Me How by\u00a0Men\u00a0I Trust",
+ "header_image_thumbnail_url": "https://images.genius.com/e799521b5022ccd9646d300dcf366c67.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/e799521b5022ccd9646d300dcf366c67.1000x1000x1.jpg",
+ "id": 3553207,
+ "instrumental": false,
+ "lyrics_owner_id": 3612583,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1717231104,
+ "path": "/Men-i-trust-show-me-how-lyrics",
+ "primary_artist_names": "Men I Trust",
+ "pyongs_count": 31,
+ "relationships_index_url": "https://genius.com/Men-i-trust-show-me-how-sample",
+ "release_date_components": {
+  "year": 2018,
+  "month": 2,
+  "day": 28
+ },
+ "release_date_for_display": "February 28, 2018",
+ "release_date_with_abbreviated_month_for_display": "Feb. 28, 2018",
+ "song_art_image_thumbnail_url": "https://images.genius.com/e799521b5022ccd9646d300dcf366c67.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/e799521b5022ccd9646d300dcf366c67.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 8,
+  "hot": false,
+  "pageviews": 225435
+ },
+ "title": "Show Me How",
+ "title_with_featured": "Show Me How",
+ "updated_by_human_at": 1717231104,
+ "url": "https://genius.com/Men-i-trust-show-me-how-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/655044",
+  "header_image_url": "https://images.genius.com/6b4b452133dd16b46e89ce6afdccf9e8.1000x563x1.jpg",
+  "id": 655044,
+  "image_url": "https://images.genius.com/d6e6ba4e7f1d3c182bc7810781603e35.750x750x1.png",
+  "index_character": "m",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Men I Trust",
+  "slug": "Men-i-trust",
+  "url": "https://genius.com/artists/Men-i-trust"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/655044",
+   "header_image_url": "https://images.genius.com/6b4b452133dd16b46e89ce6afdccf9e8.1000x563x1.jpg",
+   "id": 655044,
+   "image_url": "https://images.genius.com/d6e6ba4e7f1d3c182bc7810781603e35.750x750x1.png",
+   "index_character": "m",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Men I Trust",
+   "slug": "Men-i-trust",
+   "url": "https://genius.com/artists/Men-i-trust"
+  }
+ ],
+ "artist": "Men I Trust",
+ "lyrics": "50 ContributorsTranslationsFran\u00e7aisDeutschShow Me How Lyrics[Verse 1]\nShow me how you care\nTell me how you loved before\nShow me how you smile\nTell me why your hands are cold\n\n[Pre-Chorus]\nShow me how\n\n[Chorus]\nI\u2019m turning around, I\u2019m having visions of you\nBut then I understand\nThe friend I\u2019m dreaming of is far away\nBut I\u2019m here, I\u2019m here\n\n[Verse 2]\nShow me how you\u2019re proud\nTell me how you reach the moon\nMy thoughts err away tonight\nMy heart fell to love again\n\n[Pre-Chorus]\nShow me how\n\n[Chorus]\nI\u2019m turning around, I\u2019m having visions of you\nBut then I understand\nThe friend I\u2019m dreaming of is far away\nAnd doesn\u2019t feel my love\nBut I do, I doYou might also like31Embed"
+}

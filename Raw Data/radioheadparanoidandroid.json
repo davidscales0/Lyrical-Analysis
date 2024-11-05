@@ -1,0 +1,68 @@
+{
+ "_type": "song",
+ "annotation_count": 10,
+ "api_path": "/songs/78831",
+ "artist_names": "Radiohead",
+ "full_title": "Paranoid Android by\u00a0Radiohead",
+ "header_image_thumbnail_url": "https://images.genius.com/bb8f17187f42bb0b4a0dcc17cad65355.300x300x1.png",
+ "header_image_url": "https://images.genius.com/bb8f17187f42bb0b4a0dcc17cad65355.1000x1000x1.png",
+ "id": 78831,
+ "instrumental": false,
+ "lyrics_owner_id": 1850,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1683665673,
+ "path": "/Radiohead-paranoid-android-lyrics",
+ "primary_artist_names": "Radiohead",
+ "pyongs_count": 116,
+ "relationships_index_url": "https://genius.com/Radiohead-paranoid-android-sample",
+ "release_date_components": {
+  "year": 1997,
+  "month": 5,
+  "day": 21
+ },
+ "release_date_for_display": "May 21, 1997",
+ "release_date_with_abbreviated_month_for_display": "May. 21, 1997",
+ "song_art_image_thumbnail_url": "https://images.genius.com/252580f10c55f58d073b5f54e453c17d.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/252580f10c55f58d073b5f54e453c17d.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "concurrents": 3,
+  "hot": false,
+  "pageviews": 755951
+ },
+ "title": "Paranoid Android",
+ "title_with_featured": "Paranoid Android",
+ "updated_by_human_at": 1719491178,
+ "url": "https://genius.com/Radiohead-paranoid-android-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/604",
+  "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+  "id": 604,
+  "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Radiohead",
+  "slug": "Radiohead",
+  "url": "https://genius.com/artists/Radiohead"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/604",
+   "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+   "id": 604,
+   "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+   "index_character": "r",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Radiohead",
+   "slug": "Radiohead",
+   "url": "https://genius.com/artists/Radiohead"
+  }
+ ],
+ "artist": "Radiohead",
+ "lyrics": "160 ContributorsTranslations\u0420\u0443\u0441\u0441\u043a\u0438\u0439T\u00fcrk\u00e7eEspa\u00f1olFran\u00e7aisParanoid Android Lyrics[Verse 1]\nPlease, could you stop the noise?\nI'm trying to get some rest\nFrom all the unborn chicken voices\nIn my head\n\n[Chorus]\nWhat's that?\n(I may be paranoid, but not an android)\nWhat's that?\n(I may be paranoid, but not an android)\n\n[Verse 2]\nWhen I am king\nYou will be first against the wall\nWith your opinion\nWhich is of no consequence at all\n\n[Chorus]\nWhat's that?\n(I may be paranoid, but no android)\nWhat's that?\n(I may be paranoid, but no android)\n\n[Bridge 1]\nAmbition makes you look pretty ugly\nKicking, squealing, Gucci little piggy\nYou don't remember, you don't remember\nWhy don't you remember my name?\nOff with his head, man, off with his head, man\nWhy don't you remember my name?\nI guess he does\nYou might also like[Bridge 2]\nRain down, rain down\nCome on, rain down on me\nFrom a great height\nFrom a great height, height\nRain down, rain down\nCome on, rain down on me\nFrom a great height\nFrom a great height, height\nThat's it, sir, you're leaving (Rain down)\nThe crackle of pigskin (Rain down)\nThe dust and the screaming (Come on, rain down)\nThe yuppies networking (On me)\nThe panic, the vomit (From a great height)\nThe panic, the vomit (From a great height)\nGod loves his children\nGod loves his children, yeah116Embed"
+}

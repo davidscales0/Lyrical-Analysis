@@ -1,0 +1,68 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/10603886",
+ "artist_names": "AJ Tracey",
+ "full_title": "Bubble Bath by\u00a0AJ\u00a0Tracey",
+ "header_image_thumbnail_url": "https://images.genius.com/d0088d297acb2b6d816527a26dc626dc.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/d0088d297acb2b6d816527a26dc626dc.350x350x1.jpg",
+ "id": 10603886,
+ "instrumental": false,
+ "lyrics_owner_id": 20982194,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1720299040,
+ "path": "/Aj-tracey-bubble-bath-lyrics",
+ "primary_artist_names": "AJ Tracey",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Aj-tracey-bubble-bath-sample",
+ "release_date_components": {
+  "year": 2024,
+  "month": 7,
+  "day": 2
+ },
+ "release_date_for_display": "July 2, 2024",
+ "release_date_with_abbreviated_month_for_display": "Jul. 2, 2024",
+ "song_art_image_thumbnail_url": "https://images.genius.com/d0088d297acb2b6d816527a26dc626dc.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/d0088d297acb2b6d816527a26dc626dc.350x350x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false
+ },
+ "title": "Bubble Bath",
+ "title_with_featured": "Bubble Bath",
+ "updated_by_human_at": 1720299040,
+ "url": "https://genius.com/Aj-tracey-bubble-bath-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/632700",
+  "header_image_url": "https://images.genius.com/238f4a57232af7ef65fa74ef027284dd.1000x541x1.jpg",
+  "id": 632700,
+  "image_url": "https://images.genius.com/dded4bad9c04febdd7c53e98cfd53817.1000x1000x1.jpg",
+  "index_character": "a",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "AJ Tracey",
+  "slug": "Aj-tracey",
+  "url": "https://genius.com/artists/Aj-tracey",
+  "iq": 760
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/632700",
+   "header_image_url": "https://images.genius.com/238f4a57232af7ef65fa74ef027284dd.1000x541x1.jpg",
+   "id": 632700,
+   "image_url": "https://images.genius.com/dded4bad9c04febdd7c53e98cfd53817.1000x1000x1.jpg",
+   "index_character": "a",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "AJ Tracey",
+   "slug": "Aj-tracey",
+   "url": "https://genius.com/artists/Aj-tracey",
+   "iq": 760
+  }
+ ],
+ "artist": "AJ Tracey",
+ "lyrics": "3 ContributorsBubble Bath Lyrics[Verse 1]\nYeah, big Brit, I can't change up the accent\nWe don't gotta switch lanes 'cause we lap dem\nI'm a captain, look what the car came wrapped in\nNo actin', brudda, I'm tapped in\nIt's Pirelli on the tyres for the traction\nBare garms, but I paid for a fraction\nBig back ting, spin it like Jackson\nCall me Bronson for the action\nHa, I'm a Mayfair dater\nCat for the accolades, fiend for the paper\nLover, not loser, broke boy hater\nMicrophone and stage show eliminator\nUnion Jack saviour, wife temptater\nI'm the reason your girl's got no behaviour\nTriple H pum pum undertak\u0435r\nBring the wheel up, call me Charles Xavi\u0435r\n\n[Chorus]\nBubble bath on her nails, she a Goyard girl\nI touched down, but her bro can't tell\nShe said she love me, but it's a cold-ass world\nSay you see me in the dance with the whole cartel\nIf I'm a player, what does that make you?\nI wanna make it right, but does that take two?\nCome we vibe for the night, no stress\nIf you wanna undress, then we can run that too\nYou might also like[Verse 2]\nYou heard what I said, we can run that\nYo Rem, where the drums at?\nI'm a money man, I know where the funds at\nAnd if I tump that, I guarantee she gonna come back\nI'm in love with your imperfections\nFuck your friends and their interjections\nI'm tryna link you and build connections\nI'm a dog in the six, pree the interceptions\nAnd when you're with the Gs, dem chill out\nThe car leather's white, so the drink can't spill out\nI'm in the spot, so the gyal get bring out\nRun the ting, make the tune get spinout\nBubble bath on her nails, she a Goyard girlie\nShe could short hair, bob it, or curly\nFresh white toes, and her teeth come pearly\nI might have to lock that early\n\n[Chorus]\nBubble bath on her nails, she a Goyard girl\nI touched down, but her bro can't tell\nShe said she love me, but it's a cold-ass world\nSay you see me in the dance with the whole cartel\nIf I'm a player, what does that make you?\nI wanna make it right, but does that take two?\nCome we vibe for the night, no stress\nIf you wanna undress, then we can run that too\nBubble bath on her nails, she a Goyard girl\nI touched down, but her bro can't tell\nShe said she love me, but it's a cold-ass world\nSay you see me in the dance with the whole cartel\nIf I'm a player, what does that make you?\nI wanna make it right, but does that take two?\nCome we vibe for the night, no stress\nIf you wanna undress, then we can run that tooEmbed"
+}

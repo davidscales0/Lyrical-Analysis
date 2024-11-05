@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 7,
+ "api_path": "/songs/4366994",
+ "artist_names": "Mac DeMarco",
+ "full_title": "Heart to Heart by\u00a0Mac\u00a0DeMarco",
+ "header_image_thumbnail_url": "https://images.genius.com/a7ddbb793ff659db02588b99e7186ecb.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/a7ddbb793ff659db02588b99e7186ecb.1000x1000x1.jpg",
+ "id": 4366994,
+ "instrumental": false,
+ "lyrics_owner_id": 5667167,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1691228173,
+ "path": "/Mac-demarco-heart-to-heart-lyrics",
+ "primary_artist_names": "Mac DeMarco",
+ "pyongs_count": 8,
+ "relationships_index_url": "https://genius.com/Mac-demarco-heart-to-heart-sample",
+ "release_date_components": {
+  "year": 2019,
+  "month": 5,
+  "day": 10
+ },
+ "release_date_for_display": "May 10, 2019",
+ "release_date_with_abbreviated_month_for_display": "May. 10, 2019",
+ "song_art_image_thumbnail_url": "https://images.genius.com/a7ddbb793ff659db02588b99e7186ecb.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/a7ddbb793ff659db02588b99e7186ecb.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 5,
+  "hot": false,
+  "pageviews": 174562
+ },
+ "title": "Heart to Heart",
+ "title_with_featured": "Heart to Heart",
+ "updated_by_human_at": 1702460866,
+ "url": "https://genius.com/Mac-demarco-heart-to-heart-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/30153",
+  "header_image_url": "https://images.genius.com/b447d13192b5fbbf72979c582a1d5000.1000x639x1.jpg",
+  "id": 30153,
+  "image_url": "https://images.genius.com/2d49e71c2118f39afeda0a5f368335b2.639x639x1.jpg",
+  "index_character": "m",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Mac DeMarco",
+  "slug": "Mac-demarco",
+  "url": "https://genius.com/artists/Mac-demarco"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/30153",
+   "header_image_url": "https://images.genius.com/b447d13192b5fbbf72979c582a1d5000.1000x639x1.jpg",
+   "id": 30153,
+   "image_url": "https://images.genius.com/2d49e71c2118f39afeda0a5f368335b2.639x639x1.jpg",
+   "index_character": "m",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Mac DeMarco",
+   "slug": "Mac-demarco",
+   "url": "https://genius.com/artists/Mac-demarco"
+  }
+ ],
+ "artist": "Mac DeMarco",
+ "lyrics": "32 ContributorsHeart to Heart Lyrics[Verse 1: Mac DeMarco]\nTo all the days we were together\nTo all the time we were apart\nOf each other's lives, heart to heart\nAnd so I had a late arrival\nSo we never saw the start\nOf each other's lives, heart to heart\n\n[Refrain: Mac DeMarco]\nHeart to heart, heart to heart\nHeart to heart, heart to heart\n\n[Verse 2: Mac DeMarco]\nAnd though it seems so quick and easy\nSentimentally assumed\nWalking parallels, heart to heart\nTo all the days we were together\nTo all the time we played apart\nIn each other's lives, heart to heart\n\n[Refrain: Mac DeMarco]\nHeart to heart, heart to heart\nHeart to heart, heart to heart\nHeart to heart, heart to heart\nHeart to heart, heart to heart\nYou might also like[Outro: Mac Miller & Mac DeMarco]\nWeo! Weo! Weo! Weo!\nHeh-heh8Embed"
+}

@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/1594409",
+ "artist_names": "Santana",
+ "full_title": "Africa Bamba by\u00a0Santana",
+ "header_image_thumbnail_url": "https://images.genius.com/9f117b1d693354068ffe0dae1a154fe9.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/9f117b1d693354068ffe0dae1a154fe9.640x640x1.jpg",
+ "id": 1594409,
+ "instrumental": false,
+ "lyrics_owner_id": 12908407,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1705184548,
+ "path": "/Santana-africa-bamba-lyrics",
+ "primary_artist_names": "Santana",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Santana-africa-bamba-sample",
+ "release_date_components": {
+  "year": 1999,
+  "month": 6,
+  "day": 15
+ },
+ "release_date_for_display": "June 15, 1999",
+ "release_date_with_abbreviated_month_for_display": "Jun. 15, 1999",
+ "song_art_image_thumbnail_url": "https://images.genius.com/9f117b1d693354068ffe0dae1a154fe9.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/9f117b1d693354068ffe0dae1a154fe9.640x640x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 8427
+ },
+ "title": "Africa Bamba",
+ "title_with_featured": "Africa Bamba",
+ "updated_by_human_at": 1705184548,
+ "url": "https://genius.com/Santana-africa-bamba-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/8439",
+  "header_image_url": "https://images.genius.com/f9cd3ef103b8537a0cbef0c77641206c.1000x353x1.jpg",
+  "id": 8439,
+  "image_url": "https://images.genius.com/2a6657f3cbfc642e17d2976fb1f5ea40.1000x1000x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Santana",
+  "slug": "Santana",
+  "url": "https://genius.com/artists/Santana"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/8439",
+   "header_image_url": "https://images.genius.com/f9cd3ef103b8537a0cbef0c77641206c.1000x353x1.jpg",
+   "id": 8439,
+   "image_url": "https://images.genius.com/2a6657f3cbfc642e17d2976fb1f5ea40.1000x1000x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Santana",
+   "slug": "Santana",
+   "url": "https://genius.com/artists/Santana"
+  }
+ ],
+ "artist": "Santana",
+ "lyrics": "7 ContributorsAfrica Bamba Lyrics[Coro]\nElla baila la portuguesa\nElla baila la portuguesa\nElla baila la portuguesa\nElla baila la portuguesa\n\n[Verso]\nEstoy llamando a todas las morenas\nY la llamada viene da la luz\nCon calma se baila esta danza\nY con amor canto yo esta canci\u00f3n\n\n[Pre-Coro]\n\u00c1frica bamba hace a un lado a la tristeza\nY otra m\u00e1s dulce no la podr\u00e1s encontrar\n\n[Coro]\nOye, eso te va sentir feliz\nOye, eso te va sentir feliz\nOye, eso te va sentir feliz\nOye, eso te va sentir feliz\nElla baila la portuguesa\nElla baila la portuguesa\nElla baila la portuguesa\nElla baila la portuguesa\nSee Santana LiveGet tickets as low as $22You might also like[Verso]\nEstoy llamando a todas las morenas\nY la llamada viene da la luz\nCon calma se baila esta danza\nY con amor canto yo esta canci\u00f3n\n\n[Pre-Coro]\n\u00c1frica bamba hace a un lado a la tristeza\nY otra m\u00e1s dulce no la podr\u00e1s encontrar\n\n[Coro]\nOye, eso te va sentir feliz\nOye, eso te va sentir feliz\nOye, eso te va sentir feliz\nOye, eso te va sentir feliz\n\n[Post-Coro]\nElla, ella, ella, ella\nElla, ella, ella, ella\nElla, ella, ella, ella\nAr\u00e9, ar\u00e9, ar\u00e9-ar\u00e9\n(Ella)\n\n[Outro]\nElla, ella baila la portuguesa (Ar\u00e9, ar\u00e9, ar\u00e9-ar\u00e9)\n\u00c1frica, yo te estoy llamando a ti (Ella)\nOye, Puerto Rico, \u00bfadonde est\u00e1s? (Ar\u00e9, ar\u00e9, ar\u00e9-ar\u00e9)\nLevanten las manos, Colombia (Ella)\nOye \u00bfd\u00f3nde est\u00e1n, peruanos? (Ar\u00e9, ar\u00e9, ar\u00e9-ar\u00e9)\nVenezuela, yo te quiero (Ella)\nChina, China, yo te quiero tambi\u00e9n (Ar\u00e9, ar\u00e9, ar\u00e9-ar\u00e9)\nJap\u00f3n, Jap\u00f3n, Jap\u00f3n, que rico Jap\u00f3n (Ella)\nJap\u00f3n, baila con Santana (Ar\u00e9, ar\u00e9, ar\u00e9-ar\u00e9)\nNo se olviden M\u00e9xico, M\u00e9xico, mi M\u00e9xico (Ella)\nMi M\u00e9xico (Ar\u00e9, ar\u00e9, ar\u00e9-ar\u00e9)Embed"
+}

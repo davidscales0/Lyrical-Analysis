@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 16,
+ "api_path": "/songs/63952",
+ "artist_names": "The Strokes",
+ "full_title": "Someday by\u00a0The\u00a0Strokes",
+ "header_image_thumbnail_url": "https://images.genius.com/e2f9f5c0b787828112285e2820ce3165.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/e2f9f5c0b787828112285e2820ce3165.1000x1000x1.jpg",
+ "id": 63952,
+ "instrumental": false,
+ "lyrics_owner_id": 66760,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1711462199,
+ "path": "/The-strokes-someday-lyrics",
+ "primary_artist_names": "The Strokes",
+ "pyongs_count": 57,
+ "relationships_index_url": "https://genius.com/The-strokes-someday-sample",
+ "release_date_components": {
+  "year": 2001,
+  "month": 7,
+  "day": 30
+ },
+ "release_date_for_display": "July 30, 2001",
+ "release_date_with_abbreviated_month_for_display": "Jul. 30, 2001",
+ "song_art_image_thumbnail_url": "https://images.genius.com/918bb52fb419f42b70950f2636a73a60.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/918bb52fb419f42b70950f2636a73a60.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 8,
+  "hot": false,
+  "pageviews": 473527
+ },
+ "title": "Someday",
+ "title_with_featured": "Someday",
+ "updated_by_human_at": 1711462199,
+ "url": "https://genius.com/The-strokes-someday-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/12524",
+  "header_image_url": "https://images.genius.com/382ae86addc1e06ae4bebad904b69c2b.640x348x1.jpg",
+  "id": 12524,
+  "image_url": "https://images.genius.com/b5237c13de1a05f92ca6327d854cbfc8.1000x1000x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "The Strokes",
+  "slug": "The-strokes",
+  "url": "https://genius.com/artists/The-strokes",
+  "iq": 105
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/12524",
+   "header_image_url": "https://images.genius.com/382ae86addc1e06ae4bebad904b69c2b.640x348x1.jpg",
+   "id": 12524,
+   "image_url": "https://images.genius.com/b5237c13de1a05f92ca6327d854cbfc8.1000x1000x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "The Strokes",
+   "slug": "The-strokes",
+   "url": "https://genius.com/artists/The-strokes",
+   "iq": 105
+  }
+ ],
+ "artist": "The Strokes",
+ "lyrics": "90 ContributorsSomeday Lyrics[Verse 1]\nIn many ways, they'll miss the good old days\nSomeday, someday\nYeah, it hurts to say, but I want you to stay\nSometimes, sometimes\nWhen we was young, oh man, did we have fun\nAlways, always\nPromises, they break before they're made\nSometimes, sometimes\n\n[Chorus]\nOh, Maya says I'm lackin' in depth\nI will do my best\nYou say you wanna stand by my side\nDarling, your head's not right\nI see alone we stand, together we fall apart\nYeah, I think I'll be alright\nI'm workin' so I won't have to try so hard\nTables, they turn sometimes\nOh, someday\nNo, I ain't wastin' no more time\n\n[Interlude]\n(Tryin', tryin')\n\n[Verse 2]\nAnd now my fears, they come to me in threes\nSo I sometimes\nSay, \"Fate, my friend, you say the strangest things\nI find sometimes\"\nYou might also like[Chorus]\nOh, Maya says I'm lackin' in depth\nShit, I will try my best\nYou say you wanna stay by my side\nDarling, your head's not right\nI see alone we stand, together we fall apart\nYeah, I think I'll be alright\nI'm workin' so I won't have to try so hard\nTables, they turn sometimes\nOh, someday\nI ain't wastin' no more time57Embed"
+}

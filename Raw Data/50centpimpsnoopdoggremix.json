@@ -1,0 +1,110 @@
+{
+ "_type": "song",
+ "annotation_count": 16,
+ "api_path": "/songs/705",
+ "artist_names": "50 Cent (Ft. Lloyd Banks, Snoop Dogg & Young Buck)",
+ "full_title": "P.I.M.P. Remix by\u00a050\u00a0Cent (Ft.\u00a0Lloyd\u00a0Banks, Snoop\u00a0Dogg & Young\u00a0Buck)",
+ "header_image_thumbnail_url": "https://images.genius.com/a898c740e93a842ec16fe819818c68a6.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/a898c740e93a842ec16fe819818c68a6.640x640x1.jpg",
+ "id": 705,
+ "instrumental": false,
+ "lyrics_owner_id": 124,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1723131812,
+ "path": "/50-cent-pimp-remix-lyrics",
+ "primary_artist_names": "50 Cent",
+ "pyongs_count": 17,
+ "relationships_index_url": "https://genius.com/50-cent-pimp-remix-sample",
+ "release_date_components": {
+  "year": 2003,
+  "month": 7,
+  "day": 1
+ },
+ "release_date_for_display": "July 1, 2003",
+ "release_date_with_abbreviated_month_for_display": "Jul. 1, 2003",
+ "song_art_image_thumbnail_url": "https://images.genius.com/a898c740e93a842ec16fe819818c68a6.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/a898c740e93a842ec16fe819818c68a6.640x640x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 10,
+  "hot": false,
+  "pageviews": 193357
+ },
+ "title": "P.I.M.P. Remix",
+ "title_with_featured": "P.I.M.P. Remix (Ft.\u00a0Lloyd\u00a0Banks, Snoop\u00a0Dogg & Young\u00a0Buck)",
+ "updated_by_human_at": 1723131812,
+ "url": "https://genius.com/50-cent-pimp-remix-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/255",
+   "header_image_url": "https://images.genius.com/c2796db87a16869acc47dd19649ad024.879x896x1.png",
+   "id": 255,
+   "image_url": "https://images.genius.com/3344e585c2d7d7c8485d38d3e4c9abf2.500x500x1.jpg",
+   "index_character": "l",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Lloyd Banks",
+   "slug": "Lloyd-banks",
+   "url": "https://genius.com/artists/Lloyd-banks"
+  },
+  {
+   "_type": "artist",
+   "api_path": "/artists/402",
+   "header_image_url": "https://images.genius.com/787eb0fed4a05aa802dee3238c64431a.792x792x1.jpg",
+   "id": 402,
+   "image_url": "https://images.genius.com/787eb0fed4a05aa802dee3238c64431a.792x792x1.jpg",
+   "index_character": "y",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Young Buck",
+   "slug": "Young-buck",
+   "url": "https://genius.com/artists/Young-buck"
+  },
+  {
+   "_type": "artist",
+   "api_path": "/artists/46",
+   "header_image_url": "https://images.genius.com/4a8a11f406cfaa80085daaee24b78863.1000x563x1.jpg",
+   "id": 46,
+   "image_url": "https://images.genius.com/91bd22f5e53a3ea3cb1436de8f4a3722.1000x1000x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Snoop Dogg",
+   "slug": "Snoop-dogg",
+   "url": "https://genius.com/artists/Snoop-dogg",
+   "iq": 5227
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/108",
+  "header_image_url": "https://images.genius.com/27360d71a1b5342f0ff6b262f1b988cb.605x448x1.png",
+  "id": 108,
+  "image_url": "https://images.genius.com/10f98dca7bcd1a31222e36374544cad5.1000x1000x1.png",
+  "index_character": "0",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "50 Cent",
+  "slug": "50-cent",
+  "url": "https://genius.com/artists/50-cent",
+  "iq": 4045
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/108",
+   "header_image_url": "https://images.genius.com/27360d71a1b5342f0ff6b262f1b988cb.605x448x1.png",
+   "id": 108,
+   "image_url": "https://images.genius.com/10f98dca7bcd1a31222e36374544cad5.1000x1000x1.png",
+   "index_character": "0",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "50 Cent",
+   "slug": "50-cent",
+   "url": "https://genius.com/artists/50-cent",
+   "iq": 4045
+  }
+ ],
+ "artist": "50 Cent",
+ "lyrics": "50 ContributorsP.I.M.P. Remix Lyrics[Chorus: 50 Cent]\nI don't know what you heard about me\nBut a bitch can't get a dollar outta me\nNo Cadillac, no perms, you can't see\nThat I'm a motherfuckin' P-I-M-P\nI don't know what you heard about me\nBut a bitch can't get a dollar outta me\nNo Cadillac, no perms, you can't see\nThat I'm a motherfuckin' P-I-M-P\n\n[Verse 1: 50 Cent]\nNow, shorty, she in the club, she dancing for dollars\nShe got a thing for that Gucci, that Fendi, that Prada\nThat B.C.B.G, Burberry, Dolce & Gabbana\nShe's feeding fools' fantasies, they pay her 'cause they want her\nI spit a little G-Man and my game got her\nAn hour later, have that ass up in the Ramada\nThem trick niggas in her ear, saying they think about her\nI got the bitch by the bar, trying to get a drink up out her\nShe like my style, she like my smile, she like the way I talk\nShe from the country, think she like me cause I'm from New York\nI ain't that nigga trying to holla 'cause I want some head\nI'm that nigga trying to holla 'cause I want some bread\nI could care less how she perform when she in the bed\nBitch, hit the track, catch a date, and come pay the kid\nLook, baby, this is simple, you can't see?\nYou fuckin' with me, you fuckin' with a P-I-M-P\nSee 50 Cent LiveGet tickets as low as $69You might also like[Chorus: 50 Cent]\nI don't know what you heard about me\nBut a bitch can't get a dollar outta me\nNo Cadillac, no perms, you can't see\nThat I'm a motherfuckin' P-I-M-P (G-G-G-G-G, G-mix!)\n[Verse 2: Snoop Dogg]\nF-I-F-T-Y C-E-N-T and S-N double O-P\nDoggystyle in your mouth from the 2003\nAnd y'all know I'm from the D.P.G\nF-I-F-T-Y C-E-N-T and S-N double O-P\nWe internationally known and locally respected\nAnd you know you're just a P.I.M.P\nNow what you know about me?\n\n[Chorus: Snoop Dogg]\nI don't know what you heard about me\nBut a bitch can't get a blunt up outta me\nI drive a Cadillac, wear a perm, 'cause I'm a G\nAnd I'm a muthafuckin' C-R-I-P\nI don't know what you heard about me\nBut a bitch can't get a crumb up outta me\nI drive a Cadillac, wear a perm, an' I'm a G\nAnd I'm a muthafuckin' P-I-M-P\n\n[Verse 3: Snoop Dogg]\nYeah, bitch, I got my Now and Later gators on\nI'm 'bout to show you how my pimp hand is way strong\nYou're dead wrong if you think that pimpin' gonna die\n12-piece with a hundred hoes by my side\nI'm down with that nigga 50 like I'm down with blue\n\"Fuck Cuzz,\" nah, nigga, motherfuck you\nG-U-N-I-Tizzy, fuckin' with me and the D-P-Gizzy\nNiggas in New York know how Doggy get down\nI got my niggas in Queens, I got my bitches uptown\nI got my business in Manhattan, I ain't fuckin' around\nI got some butter pecan Puerto Ricans from the Boogie Down (Down)\nThat's waiting on me to return so they can snatch these braids out\nAnd put my shit in a perm, word (Word)\nThey love it when I get to crippin' and spittin' this magnficent pimpin'\n[Chorus: Snoop Dogg]\nI don't know what you heard about me\nBut a bitch can't get a blunt up outta me\nI drive a Cadillac, wear a perm, an' I'm a G\n'Cause I'm a muthafuckin' C-R-I-P\nI don't know what you heard about me\nBut a bitch can't get a crumb up outta me\nI drive a Cadillac, wear a perm, 'cause I'm a G\nAn' I'm a muthafuckin' P-I-M-P\n\n[Verse 4: Lloyd Banks]\nYou need to switch over and ride with a star, it'll get you far\nI'm a P-I-M-P G-A-N-G-S-T-E-R, yeah, I'm young but I ain't dumb\nGot some tricks, but I ain't one\nI'm a guerrilla for scrilla, I'll trip you, you try to run\nI let 'em do as they please, as long as they get my cheese\nEven if they gotta freeze, or if it's a hundred degrees\nI keep 'em on they knees, take a look under my sleeve\nI ain't gotta give 'em much, they're happy with Mickey D's, pimp\n\n[Verse 5: Young Buck]\nWe keep it pimpin' in the South, you know how it go (Dirty, dirty!)\nWe drive old-school, white walls with mink floors\nI spin the G-Unit piece, and get 'em dizzy\nHandcuff her if you love her or your girl coming with me\nWhen your neck and wrist glow, she already should know\nThat money make the world go round, so let's get more\nIt's time to show these playas how it should be done\nYou got pimp potential, you might / could be one, G-Unit!\n[Chorus: 50 Cent]\nI don't know what you heard about me (Yeah!)\nBut a bitch can't get a dollar outta me (Woo!)\nNo Cadillac, no perms, you can't see (Uh-huh)\nThat I'm a motherfuckin' P-I-M-P\nI don't know what you heard about me (Uh-huh)\nBut a bitch can't get a dollar outta me (Yeah!)\nNo Cadillac, no perms, you can't see\nThat I'm a motherfuckin' P-I-M-P (Yeah)\n\n[Outro: 50 Cent]\nIn Hollywood they say there's no business, like show business\nIn the hood they say there's no business, like hoe business\nYou know they say I talk a little fast, but if you listen a little faster\nI ain't got to slow down for you to catch up, bitch (Ha-ha)\nYeah17Embed"
+}

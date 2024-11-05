@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/4699545",
+ "artist_names": "Peter Cat Recording Co.",
+ "full_title": "Memory Box by\u00a0Peter\u00a0Cat Recording Co.",
+ "header_image_thumbnail_url": "https://images.genius.com/54cb79a251134f4171dec7f9e742119e.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/54cb79a251134f4171dec7f9e742119e.1000x1000x1.jpg",
+ "id": 4699545,
+ "instrumental": false,
+ "lyrics_owner_id": 8059868,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1715845775,
+ "path": "/Peter-cat-recording-co-memory-box-lyrics",
+ "primary_artist_names": "Peter Cat Recording Co.",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Peter-cat-recording-co-memory-box-sample",
+ "release_date_components": {
+  "year": 2019,
+  "month": 6,
+  "day": 7
+ },
+ "release_date_for_display": "June 7, 2019",
+ "release_date_with_abbreviated_month_for_display": "Jun. 7, 2019",
+ "song_art_image_thumbnail_url": "https://images.genius.com/54cb79a251134f4171dec7f9e742119e.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/54cb79a251134f4171dec7f9e742119e.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 12579
+ },
+ "title": "Memory Box",
+ "title_with_featured": "Memory Box",
+ "updated_by_human_at": 1715845775,
+ "url": "https://genius.com/Peter-cat-recording-co-memory-box-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1884488",
+  "header_image_url": "https://images.genius.com/27cddda4caa2b50919751c212bbc9968.1000x245x1.jpg",
+  "id": 1884488,
+  "image_url": "https://images.genius.com/7cd2f1416b3328dafa4e67174a8489a3.500x500x1.jpg",
+  "index_character": "p",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Peter Cat Recording Co.",
+  "slug": "Peter-cat-recording-co",
+  "url": "https://genius.com/artists/Peter-cat-recording-co"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1884488",
+   "header_image_url": "https://images.genius.com/27cddda4caa2b50919751c212bbc9968.1000x245x1.jpg",
+   "id": 1884488,
+   "image_url": "https://images.genius.com/7cd2f1416b3328dafa4e67174a8489a3.500x500x1.jpg",
+   "index_character": "p",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Peter Cat Recording Co.",
+   "slug": "Peter-cat-recording-co",
+   "url": "https://genius.com/artists/Peter-cat-recording-co"
+  }
+ ],
+ "artist": "Peter Cat Recording Co.",
+ "lyrics": "9 ContributorsMemory Box Lyrics[Verse 1]\nSo move over darling\nIf my heart bends\nI'll know\nAnd if I heard you stayed\nYou know I would have stayed\nSo baby don't hold me back\n'Cause if I win\nI'll change\nAnd if I lose my way\nYou know I would escape\n\n[Chorus]\nDamaged by the sea\nThe sun blaze over me\nOh baby tie me down\nI'm dangling, Oh\nPast the storm\n\n[Verse 2]\nAnd if you change your heart\nDoesn't mean I'm erased\nAnd if I say I know\nWould it be a mistake\nI was once away\nAnd now I'm just in place\nAnd if I lose my way\nI know I would be safe\nSee Peter Cat Recording Co. LiveGet tickets as low as $48You might also like[Chorus]\nDamaged by the sea\nThe sun blaze over me\nOh baby tie me down\nI'm dangling! Oh\nPast the storm\n\n[Verse 3]\nOh this is what I'll say\nJust imagine I'm late\nI will take my chance\nAnd now this must end\nNo I won't hold you back\nYou're a star babe\u201a go fly\nAnd if you lose your way\nYou know I won't be safe\n\n[Chorus]\nDamaged by the sea\nThe sun blaze over me\nOh baby tie me down\nI'm dangling dangling\nOh you (keep)\nDangling dangling\nOh you (keep it)\nDangling dangling\nOh you (keep me)\nDangling dangling1Embed"
+}

@@ -1,0 +1,66 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/1393027",
+ "artist_names": "Violent Femmes",
+ "full_title": "See My Ships by\u00a0Violent\u00a0Femmes",
+ "header_image_thumbnail_url": "https://images.genius.com/89b2deb42c6f30d85c702f25e89c80e6.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/89b2deb42c6f30d85c702f25e89c80e6.1000x1000x1.jpg",
+ "id": 1393027,
+ "instrumental": false,
+ "lyrics_owner_id": 1549345,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1656510971,
+ "path": "/Violent-femmes-see-my-ships-lyrics",
+ "primary_artist_names": "Violent Femmes",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Violent-femmes-see-my-ships-sample",
+ "release_date_components": {
+  "year": 1989,
+  "month": 1,
+  "day": 6
+ },
+ "release_date_for_display": "January 6, 1989",
+ "release_date_with_abbreviated_month_for_display": "Jan. 6, 1989",
+ "song_art_image_thumbnail_url": "https://images.genius.com/89b2deb42c6f30d85c702f25e89c80e6.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/89b2deb42c6f30d85c702f25e89c80e6.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false
+ },
+ "title": "See My Ships",
+ "title_with_featured": "See My Ships",
+ "updated_by_human_at": 1656510971,
+ "url": "https://genius.com/Violent-femmes-see-my-ships-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/27225",
+  "header_image_url": "https://images.genius.com/a81c0eb2ae6553f9694949927592fe69.900x537x1.jpg",
+  "id": 27225,
+  "image_url": "https://images.genius.com/e017681981322a33629f8f78542c02f8.958x958x1.jpg",
+  "index_character": "v",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Violent Femmes",
+  "slug": "Violent-femmes",
+  "url": "https://genius.com/artists/Violent-femmes"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/27225",
+   "header_image_url": "https://images.genius.com/a81c0eb2ae6553f9694949927592fe69.900x537x1.jpg",
+   "id": 27225,
+   "image_url": "https://images.genius.com/e017681981322a33629f8f78542c02f8.958x958x1.jpg",
+   "index_character": "v",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Violent Femmes",
+   "slug": "Violent-femmes",
+   "url": "https://genius.com/artists/Violent-femmes"
+  }
+ ],
+ "artist": "Violent Femmes",
+ "lyrics": "5 ContributorsSee My Ships LyricsSee my ships\nThey are sailing\nIn and out of the harbor\nWill they go together\nOr must they stay apart\nYes I know it's in my heart\nSurely you see what's inside of me\nJesus is coming soon\nI can hear Gabriel\nBlow his trumpet tune\nThis I know\nThis I know\nOur lord is coming soon\nMercy mercy me\nMarvin Gaye he was shot\nBy his father\nO my Father\nHave mercy on me\nCold kane o my cheap thrill\nO my shame for Cain\nAnd the devil\nMomma I need water\nI'm thirsty\nSurely you see\nWhat's inside of meSee Violent Femmes LiveGet tickets as low as $27You might also likeEmbed"
+}

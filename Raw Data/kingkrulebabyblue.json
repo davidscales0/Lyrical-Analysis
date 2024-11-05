@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 5,
+ "api_path": "/songs/254696",
+ "artist_names": "King Krule",
+ "full_title": "Baby Blue by\u00a0King\u00a0Krule",
+ "header_image_thumbnail_url": "https://images.genius.com/1d3c6171db32f9d1b3f8d4970ecaebb4.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/1d3c6171db32f9d1b3f8d4970ecaebb4.1000x1000x1.jpg",
+ "id": 254696,
+ "instrumental": false,
+ "lyrics_owner_id": 116340,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1700734539,
+ "path": "/King-krule-baby-blue-lyrics",
+ "primary_artist_names": "King Krule",
+ "pyongs_count": 30,
+ "relationships_index_url": "https://genius.com/King-krule-baby-blue-sample",
+ "release_date_components": {
+  "year": 2010,
+  "month": 1,
+  "day": 1
+ },
+ "release_date_for_display": "January 1, 2010",
+ "release_date_with_abbreviated_month_for_display": "Jan. 1, 2010",
+ "song_art_image_thumbnail_url": "https://images.genius.com/1d3c6171db32f9d1b3f8d4970ecaebb4.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/1d3c6171db32f9d1b3f8d4970ecaebb4.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 5,
+  "hot": false,
+  "pageviews": 270057
+ },
+ "title": "Baby Blue",
+ "title_with_featured": "Baby Blue",
+ "updated_by_human_at": 1700734539,
+ "url": "https://genius.com/King-krule-baby-blue-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/25028",
+  "header_image_url": "https://images.genius.com/6ceb085cad6ceadd89edbb2ae2e537bb.675x675x2.gif",
+  "id": 25028,
+  "image_url": "https://images.genius.com/6effd9dd0951f41966e769504644a338.675x675x2.gif",
+  "index_character": "k",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "King Krule",
+  "slug": "King-krule",
+  "url": "https://genius.com/artists/King-krule",
+  "iq": 2378
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/25028",
+   "header_image_url": "https://images.genius.com/6ceb085cad6ceadd89edbb2ae2e537bb.675x675x2.gif",
+   "id": 25028,
+   "image_url": "https://images.genius.com/6effd9dd0951f41966e769504644a338.675x675x2.gif",
+   "index_character": "k",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "King Krule",
+   "slug": "King-krule",
+   "url": "https://genius.com/artists/King-krule",
+   "iq": 2378
+  }
+ ],
+ "artist": "King Krule",
+ "lyrics": "31 ContributorsBaby Blue Lyrics[Verse 1]\nMy sandpaper sigh engraves a line\nInto the rust of your tongue\nGirl, I could've been someone to you\nWould have painted the skies blue\n\n[Chorus]\nBaby blue\nIf you knew\nBaby blue\nBaby blue\nBaby blue\n\n[Verse 2]\nEdging closer, you swing my way\nGirl, I've got no chance and nothing to say\nGirl, but stay here for a little while\n\n[Chorus]\nBaby blue\nBaby blue\nBaby blue\n\n[Verse 3]\nBut if only you could see\nMy shadow crossing your path\nIt won't be the last, baby blue\nYou might also like[Chorus]\nYou are my baby\nYou are my baby\nI was your slave, can't you see?\nI was your slave, can't you see?\n\n[Outro]\nBobbing on the problem\nOn the problem, on the throbbing\nShe was falling, I was bawling\nMy heart was stopping, she was throbbing, oh30Embed"
+}

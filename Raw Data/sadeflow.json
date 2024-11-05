@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/902695",
+ "artist_names": "Sade",
+ "full_title": "Flow by\u00a0Sade",
+ "header_image_thumbnail_url": "https://images.genius.com/b32e1abd26eb8c9ee60cf620cdd0498d.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/b32e1abd26eb8c9ee60cf620cdd0498d.1000x1000x1.jpg",
+ "id": 902695,
+ "instrumental": false,
+ "lyrics_owner_id": 1992919,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1707814706,
+ "path": "/Sade-flow-lyrics",
+ "primary_artist_names": "Sade",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Sade-flow-sample",
+ "release_date_components": {
+  "year": 2000,
+  "month": 11,
+  "day": 13
+ },
+ "release_date_for_display": "November 13, 2000",
+ "release_date_with_abbreviated_month_for_display": "Nov. 13, 2000",
+ "song_art_image_thumbnail_url": "https://images.genius.com/b32e1abd26eb8c9ee60cf620cdd0498d.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/b32e1abd26eb8c9ee60cf620cdd0498d.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 23966
+ },
+ "title": "Flow",
+ "title_with_featured": "Flow",
+ "updated_by_human_at": 1707814706,
+ "url": "https://genius.com/Sade-flow-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/691",
+  "header_image_url": "https://images.genius.com/bfcaa5ba05417c9a5ed17f1cda3aaa5e.537x432x1.jpg",
+  "id": 691,
+  "image_url": "https://images.genius.com/2532eb39b9f3354b048df6db7943cbee.1000x1000x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Sade",
+  "slug": "Sade",
+  "url": "https://genius.com/artists/Sade"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/691",
+   "header_image_url": "https://images.genius.com/bfcaa5ba05417c9a5ed17f1cda3aaa5e.537x432x1.jpg",
+   "id": 691,
+   "image_url": "https://images.genius.com/2532eb39b9f3354b048df6db7943cbee.1000x1000x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Sade",
+   "slug": "Sade",
+   "url": "https://genius.com/artists/Sade"
+  }
+ ],
+ "artist": "Sade",
+ "lyrics": "8 ContributorsFlow Lyrics[Refrain]\nOoh baby mm\nWhen you hold me\nOh oh\nWhen you hold me the sound\n\n[Verse 1]\nIs it possible I could feel this cool\nI could really love you the way I do\nIs it possible I would feel this good\nI could really love you the way I do\n\n[Chorus]\nSee me (within the light)\nFlowing (take me to you)\nLike the river to the sea\nYou come down (I'm in the light)\nYou cover (pull me to you)\nAnd the waves rush over me\n\n[Verse 2]\nI feel a love light rush over me\nI feel the love turn to me\nAnd then your love just creeps over me\nOver me\nYou might also like[Chorus]\nSee me (within the light)\nFlowing (take me to you)\nLike the river to the sea\nYou come down (I'm in the light)\nYou cover (pull me to you)\nThe waves rush over me\n\n[Refrain]\nOoh baby mm\nWhen you hold me\nOh oh\nWhen you hold me closer\n\n[Interlude]\nAnd I won't let you go\nI won't let you go\nAnd I won't let you go\nI won't let you go\n\n[Bridge]\nTake up your love\nTake up your love\nTake up your love\nAnd come to me\nThis love's not a liar\nTo cold it's a fire\nI'm on the run\nAnd it's a comfort to me\nI won't let it go\nTake up your love\nTake up your love\nTake up your love\nAnd come to me\nThis love's not a liar\nTo cold it's a fire\nI'm on the run\nAnd it's a comfort to me\n[Outro]\nAnd I won't let you go\nI won't let you go\nAnd I won't let you go\nI won't let you goEmbed"
+}

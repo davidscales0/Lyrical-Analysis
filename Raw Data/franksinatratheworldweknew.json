@@ -1,0 +1,63 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/2170284",
+ "artist_names": "Frank Sinatra",
+ "full_title": "The World We Knew (Over and Over) by\u00a0Frank\u00a0Sinatra",
+ "header_image_thumbnail_url": "https://images.genius.com/4d5ed1e98b9ddba86948f73acd273fbe.300x300x1.png",
+ "header_image_url": "https://images.genius.com/4d5ed1e98b9ddba86948f73acd273fbe.1000x1000x1.png",
+ "id": 2170284,
+ "instrumental": false,
+ "lyrics_owner_id": 21564,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1700246709,
+ "path": "/Frank-sinatra-the-world-we-knew-over-and-over-lyrics",
+ "primary_artist_names": "Frank Sinatra",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Frank-sinatra-the-world-we-knew-over-and-over-sample",
+ "release_date_components": null,
+ "release_date_for_display": null,
+ "release_date_with_abbreviated_month_for_display": null,
+ "song_art_image_thumbnail_url": "https://images.genius.com/4d5ed1e98b9ddba86948f73acd273fbe.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/4d5ed1e98b9ddba86948f73acd273fbe.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false,
+  "pageviews": 29855
+ },
+ "title": "The World We Knew (Over and Over)",
+ "title_with_featured": "The World We Knew (Over and Over)",
+ "updated_by_human_at": 1709451538,
+ "url": "https://genius.com/Frank-sinatra-the-world-we-knew-over-and-over-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/824",
+  "header_image_url": "https://images.genius.com/4e2b428d575f3fd115f41668b22ae3e8.1000x283x1.jpg",
+  "id": 824,
+  "image_url": "https://images.genius.com/5f746dbf6c41747811e11452bfabb552.490x490x1.jpg",
+  "index_character": "f",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Frank Sinatra",
+  "slug": "Frank-sinatra",
+  "url": "https://genius.com/artists/Frank-sinatra"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/824",
+   "header_image_url": "https://images.genius.com/4e2b428d575f3fd115f41668b22ae3e8.1000x283x1.jpg",
+   "id": 824,
+   "image_url": "https://images.genius.com/5f746dbf6c41747811e11452bfabb552.490x490x1.jpg",
+   "index_character": "f",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Frank Sinatra",
+   "slug": "Frank-sinatra",
+   "url": "https://genius.com/artists/Frank-sinatra"
+  }
+ ],
+ "artist": "Frank Sinatra",
+ "lyrics": "7 ContributorsThe World We Knew (Over and Over) LyricsOver and over I keep going over the world we knew\nOnce when you walked beside me\nThat inconceivable, that unbelievable world we knew\nWhen we two were in love\nAnd every bright neon sign turned into stars\nAnd the sun and the moon seemed to be ours\nEach road that we took turned into gold\nBut the dream was too much for you to hold\n\nNow over and over I keep going over the world we knew\nDays when you used to love me\n\nAnd every bright neon sign turned into stars\nAnd the sun and the moon seemed to be ours\nEach road that we took, it turned into gold\nBut the dream was too much for you to hold\n\nNow over and over I keep going over the world we knew\nDays when you used to love me\n\nOver and over I keep going over the world we knewYou might also likeEmbed"
+}

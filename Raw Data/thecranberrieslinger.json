@@ -1,0 +1,68 @@
+{
+ "_type": "song",
+ "annotation_count": 4,
+ "api_path": "/songs/213473",
+ "artist_names": "The Cranberries",
+ "full_title": "Linger by\u00a0The\u00a0Cranberries",
+ "header_image_thumbnail_url": "https://images.genius.com/23d7f844fb96afb5065b4dad7ae85b58.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/23d7f844fb96afb5065b4dad7ae85b58.1000x1000x1.jpg",
+ "id": 213473,
+ "instrumental": false,
+ "lyrics_owner_id": 150910,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1721286641,
+ "path": "/The-cranberries-linger-lyrics",
+ "primary_artist_names": "The Cranberries",
+ "pyongs_count": 46,
+ "relationships_index_url": "https://genius.com/The-cranberries-linger-sample",
+ "release_date_components": {
+  "year": 1993,
+  "month": 2,
+  "day": 23
+ },
+ "release_date_for_display": "February 23, 1993",
+ "release_date_with_abbreviated_month_for_display": "Feb. 23, 1993",
+ "song_art_image_thumbnail_url": "https://images.genius.com/2d33cb188541ca0a4cbbd99aa8674540.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/2d33cb188541ca0a4cbbd99aa8674540.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "concurrents": 2,
+  "hot": false,
+  "pageviews": 591336
+ },
+ "title": "Linger",
+ "title_with_featured": "Linger",
+ "updated_by_human_at": 1721286641,
+ "url": "https://genius.com/The-cranberries-linger-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/31849",
+  "header_image_url": "https://images.genius.com/c0d257cdcccbd5798a88089a78b3e9ec.1000x667x1.jpg",
+  "id": 31849,
+  "image_url": "https://images.genius.com/e185f008c5845fcf32bdab4f2c4ba2d8.600x600x1.jpg",
+  "index_character": "c",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "The Cranberries",
+  "slug": "The-cranberries",
+  "url": "https://genius.com/artists/The-cranberries"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/31849",
+   "header_image_url": "https://images.genius.com/c0d257cdcccbd5798a88089a78b3e9ec.1000x667x1.jpg",
+   "id": 31849,
+   "image_url": "https://images.genius.com/e185f008c5845fcf32bdab4f2c4ba2d8.600x600x1.jpg",
+   "index_character": "c",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "The Cranberries",
+   "slug": "The-cranberries",
+   "url": "https://genius.com/artists/The-cranberries"
+  }
+ ],
+ "artist": "The Cranberries",
+ "lyrics": "68 ContributorsLinger Lyrics[Verse 1]\nIf you, if you could return\nDon't let it burn, don't let it fade\nI'm sure I'm not being rude\nBut it's just your attitude\nIt's tearing me apart\nIt's ruining everything\nAnd I swore, I swore I would be true\nAnd honey, so did you\nSo why were you holding her hand?\nIs that the way we stand?\nWere you lying all the time?\nWas it just a game to you?\n\n[Chorus]\nBut I'm in so deep\nYou know I'm such a fool for you\nYou've got me wrapped around your finger\nDo you have to let it linger?\nDo you have to, do you have to, do you have to let it linger?\n\n[Verse 2]\nOh, I thought the world of you\nI thought nothing could go wrong\nBut I was wrong, I was wrong\nIf you, if you could get by\nTrying not to lie\nThings wouldn't be so confused\nAnd I wouldn't feel so used\nBut you always really knew\nI just want to be with you\nYou might also like[Chorus]\nAnd I'm in so deep\nYou know I'm such a fool for you\nYou've got me wrapped around your finger\nDo you have to let it linger?\nDo you have to, do you have to, do you have to let it linger?\n\n[Instrumental Break]\n\n[Chorus]\nAnd I'm in so deep\nYou know I'm such a fool for you\nYou've got me wrapped around your finger\nDo you have to let it linger?\nDo you have to, do you have to, do you have to let it linger?\nYou know I'm such a fool for you\nYou've got me wrapped around your finger\nDo you have to let it linger?\nDo you have to, do you have to, do you have to let it linger?46Embed"
+}

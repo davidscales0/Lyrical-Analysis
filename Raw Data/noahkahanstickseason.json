@@ -1,0 +1,70 @@
+{
+ "_type": "song",
+ "annotation_count": 29,
+ "api_path": "/songs/7397786",
+ "artist_names": "Noah Kahan",
+ "full_title": "Stick Season by\u00a0Noah\u00a0Kahan",
+ "header_image_thumbnail_url": "https://images.genius.com/579f88b2c39dc0ad876f77ed9f0cd3fe.300x300x1.png",
+ "header_image_url": "https://images.genius.com/579f88b2c39dc0ad876f77ed9f0cd3fe.1000x1000x1.png",
+ "id": 7397786,
+ "instrumental": false,
+ "lyrics_owner_id": 3728554,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1718297149,
+ "path": "/Noah-kahan-stick-season-lyrics",
+ "primary_artist_names": "Noah Kahan",
+ "pyongs_count": 7,
+ "relationships_index_url": "https://genius.com/Noah-kahan-stick-season-sample",
+ "release_date_components": {
+  "year": 2022,
+  "month": 7,
+  "day": 8
+ },
+ "release_date_for_display": "July 8, 2022",
+ "release_date_with_abbreviated_month_for_display": "Jul. 8, 2022",
+ "song_art_image_thumbnail_url": "https://images.genius.com/579f88b2c39dc0ad876f77ed9f0cd3fe.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/579f88b2c39dc0ad876f77ed9f0cd3fe.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 25,
+  "concurrents": 2,
+  "hot": false,
+  "pageviews": 463663
+ },
+ "title": "Stick Season",
+ "title_with_featured": "Stick Season",
+ "updated_by_human_at": 1718297149,
+ "url": "https://genius.com/Noah-kahan-stick-season-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1064941",
+  "header_image_url": "https://images.genius.com/dffbb0aca2b1b27cb9a6f6d1c9331e35.1000x422x1.jpg",
+  "id": 1064941,
+  "image_url": "https://images.genius.com/9b7ea6a3e370abc02762c2ed8cbd46c0.998x998x1.png",
+  "index_character": "n",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Noah Kahan",
+  "slug": "Noah-kahan",
+  "url": "https://genius.com/artists/Noah-kahan",
+  "iq": 2418
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1064941",
+   "header_image_url": "https://images.genius.com/dffbb0aca2b1b27cb9a6f6d1c9331e35.1000x422x1.jpg",
+   "id": 1064941,
+   "image_url": "https://images.genius.com/9b7ea6a3e370abc02762c2ed8cbd46c0.998x998x1.png",
+   "index_character": "n",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Noah Kahan",
+   "slug": "Noah-kahan",
+   "url": "https://genius.com/artists/Noah-kahan",
+   "iq": 2418
+  }
+ ],
+ "artist": "Noah Kahan",
+ "lyrics": "56 ContributorsTranslations\u0627\u0644\u0639\u0631\u0628\u064a\u0629Espa\u00f1olDeutschFran\u00e7aisNorsk (bokm\u00e5l / riksm\u00e5l)Stick Season Lyrics[Verse 1]\nAs you promised me that I was more than all the miles combined\nYou must've had yourself a change of heart like halfway through the drive\nBecause your voice trailed off exactly as you passed my exit sign\nKept on drivin' straight and left our future to the right\nNow I am stuck between my anger and the blame that I can't face\nAnd memories are somethin' even smoking weed does not replace\nAnd I am terrified of weather 'cause I see you when it rains\nDoc told me to travel, but there's Covid on the planes\n\n[Chorus]\nAnd I love Vermont, but it's the season of the sticks\nAnd I saw your mom, she forgot that I existed\nAnd it's half my fault, but I just like to play the victim\nI'll drink alcohol 'til my friends come home for Christmas\nAnd I'll dream each night of some version of you\nThat I might not have, but I did not lose\nNow you're tire tracks and one pair of shoes\nAnd I'm split in half, but that'll have to do\n\n[Verse 2]\nSo I thought that if I piled something good on all my bad\nThat I could cancel out the darkness I inherited from Dad\nNo, I am no longer funny 'cause I miss the way you laugh\nYou once called me \"forever,\" now you still can't call me back\nSee Noah Kahan LiveGet tickets as low as $43You might also like[Chorus]\nAnd I love Vermont, but it's the season of the sticks\nAnd I saw your mom, she forgot that I existed\nAnd it's half my fault, but I just like to play the victim\nI'll drink alcohol 'til my friends come home for Christmas\nAnd I'll dream each night of some version of you\nThat I might not have, but I did not lose\nNow you're tire tracks and one pair of shoes\nAnd I'm split in half, but that'll have to do\n\n[Bridge]\nOh, that'll have to do\nMy other half was you\nI hope this pain's just passin' through\nBut I doubt it\n\n[Chorus]\nAnd I love Vermont, but it's the season of the sticks\nAnd I saw your mom, she forgot that I existed\nAnd it's half my fault, but I just like to play the victim\nI'll drink alcohol 'til my friends come home for Christmas\nAnd I'll dream each night of some version of you\nThat I might not have, but I did not lose\nNow you're tire tracks and one pair of shoes\nAnd I'm split in half, but that'll have to do\nHave to do7Embed"
+}

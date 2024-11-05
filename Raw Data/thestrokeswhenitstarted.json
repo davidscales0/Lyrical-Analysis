@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 8,
+ "api_path": "/songs/322384",
+ "artist_names": "The Strokes",
+ "full_title": "When It Started by\u00a0The\u00a0Strokes",
+ "header_image_thumbnail_url": "https://images.genius.com/e20ae7e6ca071d40263d828210123ef2.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/e20ae7e6ca071d40263d828210123ef2.1000x1000x1.jpg",
+ "id": 322384,
+ "instrumental": false,
+ "lyrics_owner_id": 361778,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1688425063,
+ "path": "/The-strokes-when-it-started-lyrics",
+ "primary_artist_names": "The Strokes",
+ "pyongs_count": 7,
+ "relationships_index_url": "https://genius.com/The-strokes-when-it-started-sample",
+ "release_date_components": {
+  "year": 2001,
+  "month": 7,
+  "day": 30
+ },
+ "release_date_for_display": "July 30, 2001",
+ "release_date_with_abbreviated_month_for_display": "Jul. 30, 2001",
+ "song_art_image_thumbnail_url": "https://images.genius.com/91ee52d3fa0ba9f182339ef01c8d04a6.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/91ee52d3fa0ba9f182339ef01c8d04a6.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 43616
+ },
+ "title": "When It Started",
+ "title_with_featured": "When It Started",
+ "updated_by_human_at": 1688425063,
+ "url": "https://genius.com/The-strokes-when-it-started-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/12524",
+  "header_image_url": "https://images.genius.com/382ae86addc1e06ae4bebad904b69c2b.640x348x1.jpg",
+  "id": 12524,
+  "image_url": "https://images.genius.com/b5237c13de1a05f92ca6327d854cbfc8.1000x1000x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "The Strokes",
+  "slug": "The-strokes",
+  "url": "https://genius.com/artists/The-strokes",
+  "iq": 105
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/12524",
+   "header_image_url": "https://images.genius.com/382ae86addc1e06ae4bebad904b69c2b.640x348x1.jpg",
+   "id": 12524,
+   "image_url": "https://images.genius.com/b5237c13de1a05f92ca6327d854cbfc8.1000x1000x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "The Strokes",
+   "slug": "The-strokes",
+   "url": "https://genius.com/artists/The-strokes",
+   "iq": 105
+  }
+ ],
+ "artist": "The Strokes",
+ "lyrics": "27 ContributorsWhen It Started Lyrics[Verse]\nWon't decide, but he won't debate\nSaid, \"Thanks, my friend, thought it was too late\"\nOh, why, oh, why? I don't know\nSo you think things move pretty fast down here?\nWell, just wait, my dear, 'til you look up there\nOh, maybe some day you'll know\nHad his second kid, was an early night\nGotta be well dressed 'cause he hates to fly\nOh, loves his job, takes it home\n\n[Chorus 1]\nAnything they wanted, they could\nHave it, have it\nDidn't even notice, I don't\nMind it, mind it\n\n[Instrumental Bridge]\n\n[Verse]\nWon't decide, but he won't debate\nSaid, \"Thanks, my friend, thought that we was dead\"\nOh, why, oh, why? I don't know\nThink things move pretty fast down here?\nBut just wait, my dear, 'til we get up there\nOh, maybe some day they'll know\nYou might also like[Chorus 2]\nCome on, tell me, does he warm the\nRoom when he comes?\nOr does he just know how to leave\nWhen it gets cold?\n\n[Outro]\nI don't care\nI don't care 'cause it's free7Embed"
+}

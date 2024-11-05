@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/4365205",
+ "artist_names": "The Backseat Lovers",
+ "full_title": "Davy Crochet by\u00a0The\u00a0Backseat Lovers",
+ "header_image_thumbnail_url": "https://images.genius.com/6035460c980ede77aa66b4b75f868556.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/6035460c980ede77aa66b4b75f868556.500x500x1.jpg",
+ "id": 4365205,
+ "instrumental": false,
+ "lyrics_owner_id": 5872676,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1683249757,
+ "path": "/The-backseat-lovers-davy-crochet-lyrics",
+ "primary_artist_names": "The Backseat Lovers",
+ "pyongs_count": 3,
+ "relationships_index_url": "https://genius.com/The-backseat-lovers-davy-crochet-sample",
+ "release_date_components": {
+  "year": 2019,
+  "month": 1,
+  "day": 26
+ },
+ "release_date_for_display": "January 26, 2019",
+ "release_date_with_abbreviated_month_for_display": "Jan. 26, 2019",
+ "song_art_image_thumbnail_url": "https://images.genius.com/6035460c980ede77aa66b4b75f868556.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/6035460c980ede77aa66b4b75f868556.500x500x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false,
+  "pageviews": 16645
+ },
+ "title": "Davy Crochet",
+ "title_with_featured": "Davy Crochet",
+ "updated_by_human_at": 1683249757,
+ "url": "https://genius.com/The-backseat-lovers-davy-crochet-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1608117",
+  "header_image_url": "https://images.genius.com/e47a76be65a546291ed344995ab06c9b.1000x421x1.png",
+  "id": 1608117,
+  "image_url": "https://images.genius.com/45fdf41f7f3ae0cdd0cff38f8648a15a.639x639x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "The Backseat Lovers",
+  "slug": "The-backseat-lovers",
+  "url": "https://genius.com/artists/The-backseat-lovers"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1608117",
+   "header_image_url": "https://images.genius.com/e47a76be65a546291ed344995ab06c9b.1000x421x1.png",
+   "id": 1608117,
+   "image_url": "https://images.genius.com/45fdf41f7f3ae0cdd0cff38f8648a15a.639x639x1.jpg",
+   "index_character": "b",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "The Backseat Lovers",
+   "slug": "The-backseat-lovers",
+   "url": "https://genius.com/artists/The-backseat-lovers"
+  }
+ ],
+ "artist": "The Backseat Lovers",
+ "lyrics": "24 ContributorsDavy Crochet Lyrics[Verse]\nCalled down the stairs of your mother's house\nSydney\u2019s sittin' on the couch\nWhat's she going on about\nI don\u2019t even care\nIf you were making out\nI guess you worked it out\nWorked it out\nYeah\n\n[Chorus]\nAnd then it started to snow\nI didn't think about it when I gave you my coat\nI didn't think about it when I wrote you that note\nI guess there're some things that you shouldn't know\nBut I'll tell you anyway\nAnd you can tell me 'bout it if you've had a bad day\nI\u2019ll teach you how to laugh if you can teach me crochet\nWhy go to class if we\u2019re already late\n\n[Radio Recording]\n\n[Chorus]\nAnd then it started to snow\nI didn't think about it when I gave you my coat\nI didn\u2019t think about it when I wrote you that note\nI guess there're some things that you shouldn't know\nBut I'll tell you anyway\nAnd you can tell me \u2019bout it if you've had a bad day\nI'll teach you how to laugh if you can teach me crochet\nWhy're you going to class if we're already lateYou might also like3Embed"
+}

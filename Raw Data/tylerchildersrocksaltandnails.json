@@ -1,0 +1,81 @@
+{
+ "_type": "song",
+ "annotation_count": 0,
+ "api_path": "/songs/3248679",
+ "artist_names": "Tyler Childers (Ft. The Highwall)",
+ "full_title": "Rock Salt and Nails by\u00a0Tyler\u00a0Childers (Ft.\u00a0The\u00a0Highwall)",
+ "header_image_thumbnail_url": "https://images.genius.com/3e17ec4c5addc72da438bb97b7154a79.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/3e17ec4c5addc72da438bb97b7154a79.1000x1000x1.jpg",
+ "id": 3248679,
+ "instrumental": false,
+ "lyrics_owner_id": 4530712,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1720749083,
+ "path": "/Tyler-childers-rock-salt-and-nails-lyrics",
+ "primary_artist_names": "Tyler Childers",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Tyler-childers-rock-salt-and-nails-sample",
+ "release_date_components": {
+  "year": 2014,
+  "month": 5,
+  "day": 1
+ },
+ "release_date_for_display": "May 1, 2014",
+ "release_date_with_abbreviated_month_for_display": "May. 1, 2014",
+ "song_art_image_thumbnail_url": "https://images.genius.com/3e17ec4c5addc72da438bb97b7154a79.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/3e17ec4c5addc72da438bb97b7154a79.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 46040
+ },
+ "title": "Rock Salt and Nails",
+ "title_with_featured": "Rock Salt and Nails (Ft.\u00a0The\u00a0Highwall)",
+ "updated_by_human_at": 1720749086,
+ "url": "https://genius.com/Tyler-childers-rock-salt-and-nails-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1069121",
+   "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1723228522",
+   "id": 1069121,
+   "image_url": "https://assets.genius.com/images/default_avatar_300.png?1723228522",
+   "index_character": "h",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "The Highwall",
+   "slug": "The-highwall",
+   "url": "https://genius.com/artists/The-highwall"
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1065785",
+  "header_image_url": "https://images.genius.com/c51f666871aab0c1f55661cebabd3c5e.1000x586x1.jpg",
+  "id": 1065785,
+  "image_url": "https://images.genius.com/57f5f99459426dfbfe78469b2a08037b.610x610x1.webp",
+  "index_character": "t",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Tyler Childers",
+  "slug": "Tyler-childers",
+  "url": "https://genius.com/artists/Tyler-childers"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1065785",
+   "header_image_url": "https://images.genius.com/c51f666871aab0c1f55661cebabd3c5e.1000x586x1.jpg",
+   "id": 1065785,
+   "image_url": "https://images.genius.com/57f5f99459426dfbfe78469b2a08037b.610x610x1.webp",
+   "index_character": "t",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Tyler Childers",
+   "slug": "Tyler-childers",
+   "url": "https://genius.com/artists/Tyler-childers"
+  }
+ ],
+ "artist": "Tyler Childers",
+ "lyrics": "4 ContributorsRock Salt and Nails Lyrics[Verse 1]\nBy the banks of the river\nWhere the willows hang down\nThe wild birds, they warble\nWith a low moanin' sound\nWay down in the hollow\nWhere the river runs cold\nIt was there I first listened\nTo the lies that you told\nNow I lie on my back\nAnd I see your sweet face\nThe past I remember\nTime can't erase\nAnd the letters you wrote me\nThey were written in shame\nAnd I know that your conscience\nStill echoes my name\n\n[Verse 2]\nNow if the ladies were blackbirds\nIf the ladies were thrushes\nWell I'd lie there for hours\nIn the chilly cold marshes\nAnd if the women were squirrels\nWith them high bushy tails\nWell I'd load up my shotgun\nWith rock salt and nails\nSee Tyler Childers LiveGet tickets as low as $83You might also like[Outro]\nI'd load up my shotgunEmbed"
+}

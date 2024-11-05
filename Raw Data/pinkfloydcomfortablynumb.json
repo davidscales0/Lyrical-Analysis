@@ -1,0 +1,68 @@
+{
+ "_type": "song",
+ "annotation_count": 17,
+ "api_path": "/songs/65489",
+ "artist_names": "Pink Floyd",
+ "full_title": "Comfortably Numb by\u00a0Pink\u00a0Floyd",
+ "header_image_thumbnail_url": "https://images.genius.com/754eccb752427b3aab210e56c42c7cab.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/754eccb752427b3aab210e56c42c7cab.1000x1000x1.jpg",
+ "id": 65489,
+ "instrumental": false,
+ "lyrics_owner_id": 36871,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1714660670,
+ "path": "/Pink-floyd-comfortably-numb-lyrics",
+ "primary_artist_names": "Pink Floyd",
+ "pyongs_count": 109,
+ "relationships_index_url": "https://genius.com/Pink-floyd-comfortably-numb-sample",
+ "release_date_components": {
+  "year": 1979,
+  "month": 11,
+  "day": 30
+ },
+ "release_date_for_display": "November 30, 1979",
+ "release_date_with_abbreviated_month_for_display": "Nov. 30, 1979",
+ "song_art_image_thumbnail_url": "https://images.genius.com/22bab4e270d6297beeccc687f9197e81.300x281x1.jpg",
+ "song_art_image_url": "https://images.genius.com/22bab4e270d6297beeccc687f9197e81.600x561x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "concurrents": 2,
+  "hot": false,
+  "pageviews": 1445196
+ },
+ "title": "Comfortably Numb",
+ "title_with_featured": "Comfortably Numb",
+ "updated_by_human_at": 1714660671,
+ "url": "https://genius.com/Pink-floyd-comfortably-numb-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/694",
+  "header_image_url": "https://images.genius.com/39fff170940f12d3b88db19f01835f1d.500x500x97.gif",
+  "id": 694,
+  "image_url": "https://images.genius.com/6b5c50912d99c3cf0eabfec5f427c452.1000x1000x1.jpg",
+  "index_character": "p",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Pink Floyd",
+  "slug": "Pink-floyd",
+  "url": "https://genius.com/artists/Pink-floyd"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/694",
+   "header_image_url": "https://images.genius.com/39fff170940f12d3b88db19f01835f1d.500x500x97.gif",
+   "id": 694,
+   "image_url": "https://images.genius.com/6b5c50912d99c3cf0eabfec5f427c452.1000x1000x1.jpg",
+   "index_character": "p",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Pink Floyd",
+   "slug": "Pink-floyd",
+   "url": "https://genius.com/artists/Pink-floyd"
+  }
+ ],
+ "artist": "Pink Floyd",
+ "lyrics": "173 ContributorsTranslationsNederlandsEspa\u00f1olEnglishT\u00fcrk\u00e7eComfortably Numb Lyrics[Intro]\n[Verse 1: Roger Waters]\nHello? (Hello, hello, hello)\nIs there anybody in there?\nJust nod if you can hear me\nIs there anyone home?\nCome on (Come on, come on), now\nI hear you're feeling down\nWell, I can ease your pain\nAnd get you on your feet again\nRelax (Relax, relax, relax)\nI'll need some information first\nJust the basic facts\nCan you show me where it hurts?\n[Pre-Chorus 1: David Gilmour]\nThere is no pain, you are receding\nA distant ship, smoke on the horizon\nYou are only coming through in waves\nYour lips move, but I can't hear what you're saying\nWhen I was a child, I had a fever\nMy hands felt just like two balloons\nNow I've got that feeling once again\nI can't explain, you would not understand\nThis is not how I am\nYou might also like[Chorus: David Gilmour]\nI have become comfortably numb\n[Guitar Solo 1]\n\n[Chorus: David Gilmour]\nI have become comfortably numb\n[Verse 2: Roger Waters]\nOkay (Okay, okay, okay)\nJust a little pinprick\nThere'll be no more\nBut you may feel a little sick\nCan you stand up? (Stand up, stand up)\nI do believe it's working, good\nThat'll keep you going through the show\nCome on, it's time to go\n[Pre-Chorus 2: David Gilmour]\nThere is no pain, you are receding\nA distant ship, smoke on the horizon\nYou are only coming through in waves\nYour lips move, but I can't hear what you're saying\nWhen I was a child, I caught a fleeting glimpse\nOut of the corner of my eye\nI turned to look, but it was gone\nI cannot put my finger on it now\nThe child is grown, the dream is gone\n[Chorus: David Gilmour]\nI have become comfortably numb\n[Guitar Solo 2]109Embed"
+}

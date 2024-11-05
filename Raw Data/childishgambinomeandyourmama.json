@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 10,
+ "api_path": "/songs/2133930",
+ "artist_names": "Childish Gambino",
+ "full_title": "Me and Your Mama by\u00a0Childish\u00a0Gambino",
+ "header_image_thumbnail_url": "https://images.genius.com/a8bd82fe1b5ae6861aea0c2b65b8b333.300x300x1.png",
+ "header_image_url": "https://images.genius.com/a8bd82fe1b5ae6861aea0c2b65b8b333.1000x1000x1.png",
+ "id": 2133930,
+ "instrumental": false,
+ "lyrics_owner_id": 104344,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1709782878,
+ "path": "/Childish-gambino-me-and-your-mama-lyrics",
+ "primary_artist_names": "Childish Gambino",
+ "pyongs_count": 148,
+ "relationships_index_url": "https://genius.com/Childish-gambino-me-and-your-mama-sample",
+ "release_date_components": {
+  "year": 2016,
+  "month": 11,
+  "day": 10
+ },
+ "release_date_for_display": "November 10, 2016",
+ "release_date_with_abbreviated_month_for_display": "Nov. 10, 2016",
+ "song_art_image_thumbnail_url": "https://images.genius.com/a8bd82fe1b5ae6861aea0c2b65b8b333.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/a8bd82fe1b5ae6861aea0c2b65b8b333.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 4,
+  "hot": false,
+  "pageviews": 867447
+ },
+ "title": "Me and Your Mama",
+ "title_with_featured": "Me and Your Mama",
+ "updated_by_human_at": 1709782879,
+ "url": "https://genius.com/Childish-gambino-me-and-your-mama-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1745",
+  "header_image_url": "https://images.genius.com/416282e45dfb263020a68afa6a6c7e36.1000x428x1.jpg",
+  "id": 1745,
+  "image_url": "https://images.genius.com/40814aec06ca522c2ee3df743ff0e9be.640x640x1.jpg",
+  "index_character": "c",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Childish Gambino",
+  "slug": "Childish-gambino",
+  "url": "https://genius.com/artists/Childish-gambino",
+  "iq": 4881
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1745",
+   "header_image_url": "https://images.genius.com/416282e45dfb263020a68afa6a6c7e36.1000x428x1.jpg",
+   "id": 1745,
+   "image_url": "https://images.genius.com/40814aec06ca522c2ee3df743ff0e9be.640x640x1.jpg",
+   "index_character": "c",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Childish Gambino",
+   "slug": "Childish-gambino",
+   "url": "https://genius.com/artists/Childish-gambino",
+   "iq": 4881
+  }
+ ],
+ "artist": "Childish Gambino",
+ "lyrics": "209 ContributorsTranslationsPortugu\u00easMe and Your Mama Lyrics[Intro]\nI'm in love when we are smoking that la-la-la-la-la\nI'm in love when we are smoking that la-la-la-la-la\nI'm in love when we are smoking that la-la-la-la-la\nI'm in love when we are smoking that la-la-la-la-la\nI'm in love when we are smoking that la-la-la-la-la\nI'm in love when we are smoking that la-la-la-la-la\nI'm in love when we are smoking that la-la-la-la-la\nI'm in love when we are smoking that la-la-la-la-la\n[Chorus 1]\nDo what you want\n(I'm telling you\u2026) Let me into your heart\n[Verse 1]\nCan't stand it, backhanded\nThey wanna see us falling apart\nYou know that I love you\nSo let me into you\n\n[Chorus 2]\nLet me into your heart\n(Do you really love me? I'ma get you, girl, ahhh!)\n\n[Verse 2]\nThis is the end of us\nSleeping with the moon and the stars\nI know where you've been\nYou can see us far then near\nSee Childish Gambino LiveGet tickets as low as $58You might also like[Chorus 3]\nLet me into your heart\n(Oh, this ain't no bullshit, I really love you, girl)\nOh, oh, god\n[Bridge]\nGirl, you really got a hold on me\nSo this isn't just puppy love\nGirl, you really got a hold on me\nSo this isn't just puppy love\n[Outro]\nI'm in love when we are smokin' that\n(Oh my God, I)\nLet me in (Girl, you really got a hold, woo!)148Embed"
+}

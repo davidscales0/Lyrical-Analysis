@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 7,
+ "api_path": "/songs/67774",
+ "artist_names": "Radiohead",
+ "full_title": "How to Disappear Completely by\u00a0Radiohead",
+ "header_image_thumbnail_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.300x300x1.png",
+ "header_image_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.1000x1000x1.png",
+ "id": 67774,
+ "instrumental": false,
+ "lyrics_owner_id": 11637,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1719053786,
+ "path": "/Radiohead-how-to-disappear-completely-lyrics",
+ "primary_artist_names": "Radiohead",
+ "pyongs_count": 107,
+ "relationships_index_url": "https://genius.com/Radiohead-how-to-disappear-completely-sample",
+ "release_date_components": {
+  "year": 2000,
+  "month": 10,
+  "day": 2
+ },
+ "release_date_for_display": "October 2, 2000",
+ "release_date_with_abbreviated_month_for_display": "Oct. 2, 2000",
+ "song_art_image_thumbnail_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/8a292b09dac06fcc2b100b6a8d47b04c.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 469531
+ },
+ "title": "How to Disappear Completely",
+ "title_with_featured": "How to Disappear Completely",
+ "updated_by_human_at": 1723367813,
+ "url": "https://genius.com/Radiohead-how-to-disappear-completely-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/604",
+  "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+  "id": 604,
+  "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Radiohead",
+  "slug": "Radiohead",
+  "url": "https://genius.com/artists/Radiohead"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/604",
+   "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+   "id": 604,
+   "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+   "index_character": "r",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Radiohead",
+   "slug": "Radiohead",
+   "url": "https://genius.com/artists/Radiohead"
+  }
+ ],
+ "artist": "Radiohead",
+ "lyrics": "123 ContributorsTranslationsPortugu\u00easEspa\u00f1olFran\u00e7aisDeutschHow to Disappear Completely Lyrics[Verse 1]\nThat there\nThat's not me\nI go\nWhere I please\nI walk through walls\nI float down the Liffey\n\n[Chorus]\nI'm not here\nThis isn't happening\nI'm not here\nI'm not here\n\n[Verse 2]\nIn a little while\nI'll be gone\nThe moment's already passed\nYeah, it's gone\n\n[Chorus]\nAnd I'm not here\nThis isn't happening\nI'm not here\nI'm not here\nYou might also like[Bridge]\nStrobe lights\nAnd blowing speakers\nFireworks\nAnd hurricanes\n\n[Chorus]\nI'm not here\nThis isn't happenin'\nI'm not here\nI'm not here\n\n[Outro]\nAh-ah, ah-ah\nAh-ah, ah-ah\nAh-ah\nAh-ah, ah-ah-ah\nAh-ah-ah\nAh-ah-ah\nAh-ah-ah, ah-ah107Embed"
+}

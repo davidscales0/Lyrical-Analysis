@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 11,
+ "api_path": "/songs/77297",
+ "artist_names": "Radiohead",
+ "full_title": "Subterranean Homesick Alien by\u00a0Radiohead",
+ "header_image_thumbnail_url": "https://images.genius.com/49feb9d39f5b2e62ebd618a46633168a.300x300x1.png",
+ "header_image_url": "https://images.genius.com/49feb9d39f5b2e62ebd618a46633168a.1000x1000x1.png",
+ "id": 77297,
+ "instrumental": false,
+ "lyrics_owner_id": 46705,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1698192851,
+ "path": "/Radiohead-subterranean-homesick-alien-lyrics",
+ "primary_artist_names": "Radiohead",
+ "pyongs_count": 35,
+ "relationships_index_url": "https://genius.com/Radiohead-subterranean-homesick-alien-sample",
+ "release_date_components": {
+  "year": 1997,
+  "month": 5,
+  "day": 21
+ },
+ "release_date_for_display": "May 21, 1997",
+ "release_date_with_abbreviated_month_for_display": "May. 21, 1997",
+ "song_art_image_thumbnail_url": "https://images.genius.com/49feb9d39f5b2e62ebd618a46633168a.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/49feb9d39f5b2e62ebd618a46633168a.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 4,
+  "hot": false,
+  "pageviews": 260468
+ },
+ "title": "Subterranean Homesick Alien",
+ "title_with_featured": "Subterranean Homesick Alien",
+ "updated_by_human_at": 1711577748,
+ "url": "https://genius.com/Radiohead-subterranean-homesick-alien-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/604",
+  "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+  "id": 604,
+  "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Radiohead",
+  "slug": "Radiohead",
+  "url": "https://genius.com/artists/Radiohead"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/604",
+   "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+   "id": 604,
+   "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+   "index_character": "r",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Radiohead",
+   "slug": "Radiohead",
+   "url": "https://genius.com/artists/Radiohead"
+  }
+ ],
+ "artist": "Radiohead",
+ "lyrics": "90 ContributorsTranslationsEspa\u00f1olT\u00fcrk\u00e7eSubterranean Homesick Alien Lyrics[Verse 1]\nThe breath of the morning I keep forgetting\nThe smell of the warm summer air\nI live in a town where you can't smell a thing\nYou watch your feet for cracks in the pavement\nUp above aliens hover\nMaking home movies for the folks back home\nOf all these weird creatures who lock up their spirits\nDrill holes in themselves and live for their secrets\n\n[Chorus]\nThey're all uptight, uptight\nUptight, uptight\nUptight, uptight\n\n[Verse 2]\nI wish that they'd swoop down in a country lane\nLate at night when I'm driving\nTake me on board their beautiful ship\nShow me the world as I'd love to see it\nI'd tell all my friends but they'd never believe me\nThey'd think that I'd finally lost it completely\nI'd show them the stars and the meaning of life\nThey'd shut me away\n\n[Bridge]\nBut I'd be alright, alright\nMom, I'm alright, alright\nYou might also like[Chorus]\nI'm just uptight, uptight\nUptight, uptight\nUptight, uptight\nUptight, uptight\nUptight35Embed"
+}

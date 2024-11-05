@@ -1,0 +1,94 @@
+{
+ "_type": "song",
+ "annotation_count": 10,
+ "api_path": "/songs/821238",
+ "artist_names": "Stan Getz & Jo\u00e3o Gilberto (Ft. Ant\u00f4nio Carlos Jobim & Astrud Gilberto)",
+ "full_title": "The Girl from Ipanema by\u00a0Stan\u00a0Getz & Jo\u00e3o Gilberto (Ft.\u00a0Ant\u00f4nio\u00a0Carlos Jobim & Astrud\u00a0Gilberto)",
+ "header_image_thumbnail_url": "https://images.genius.com/0d24f4c09183576f53afc3eb1ad5f3d4.300x224x1.jpg",
+ "header_image_url": "https://images.genius.com/0d24f4c09183576f53afc3eb1ad5f3d4.634x474x1.jpg",
+ "id": 821238,
+ "instrumental": false,
+ "lyrics_owner_id": 387897,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1711716443,
+ "path": "/Stan-getz-and-joao-gilberto-the-girl-from-ipanema-lyrics",
+ "primary_artist_names": "Stan Getz & Jo\u00e3o Gilberto",
+ "pyongs_count": 10,
+ "relationships_index_url": "https://genius.com/Stan-getz-and-joao-gilberto-the-girl-from-ipanema-sample",
+ "release_date_components": {
+  "year": 1964,
+  "month": 4,
+  "day": null
+ },
+ "release_date_for_display": "April 1964",
+ "release_date_with_abbreviated_month_for_display": "Apr. 1964",
+ "song_art_image_thumbnail_url": "https://images.genius.com/57a25b3ec2809df51ecb253bdab8f95a.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/57a25b3ec2809df51ecb253bdab8f95a.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false,
+  "pageviews": 486604
+ },
+ "title": "The Girl from Ipanema",
+ "title_with_featured": "The Girl from Ipanema (Ft.\u00a0Ant\u00f4nio\u00a0Carlos Jobim & Astrud\u00a0Gilberto)",
+ "updated_by_human_at": 1711716443,
+ "url": "https://genius.com/Stan-getz-and-joao-gilberto-the-girl-from-ipanema-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/370933",
+   "header_image_url": "https://images.genius.com/3aab6dc75211b885a75d2d95cdbb0eee.530x530x1.jpg",
+   "id": 370933,
+   "image_url": "https://images.genius.com/3aab6dc75211b885a75d2d95cdbb0eee.530x530x1.jpg",
+   "index_character": "a",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Ant\u00f4nio Carlos Jobim",
+   "slug": "Antonio-carlos-jobim",
+   "url": "https://genius.com/artists/Antonio-carlos-jobim"
+  },
+  {
+   "_type": "artist",
+   "api_path": "/artists/343506",
+   "header_image_url": "https://images.genius.com/d611707ef8047ef8c6b31903ed397e85.447x447x1.jpg",
+   "id": 343506,
+   "image_url": "https://images.genius.com/d611707ef8047ef8c6b31903ed397e85.447x447x1.jpg",
+   "index_character": "a",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Astrud Gilberto",
+   "slug": "Astrud-gilberto",
+   "url": "https://genius.com/artists/Astrud-gilberto"
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/391491",
+  "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1723228522",
+  "id": 391491,
+  "image_url": "https://assets.genius.com/images/default_avatar_300.png?1723228522",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Stan Getz & Jo\u00e3o Gilberto",
+  "slug": "Stan-getz-and-joao-gilberto",
+  "url": "https://genius.com/artists/Stan-getz-and-joao-gilberto"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/391491",
+   "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1723228522",
+   "id": 391491,
+   "image_url": "https://assets.genius.com/images/default_avatar_300.png?1723228522",
+   "index_character": "s",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Stan Getz & Jo\u00e3o Gilberto",
+   "slug": "Stan-getz-and-joao-gilberto",
+   "url": "https://genius.com/artists/Stan-getz-and-joao-gilberto"
+  }
+ ],
+ "artist": "Stan Getz & Jo\u00e3o Gilberto",
+ "lyrics": "52 ContributorsThe Girl from Ipanema Lyrics[Intro: Jo\u00e3o Gilberto]\nDim-dum-dum, pling-gung-gung, pling-gung-gung\n\n[Verso 1: Jo\u00e3o Gilberto]\nOlha que coisa mais linda, mais cheia de gra\u00e7a\n\u00c9 ela a menina que vem e que passa\nNum doce balan\u00e7o a caminho do mar\nMo\u00e7a do corpo dourado do sol de Ipanema\nO seu balan\u00e7ado \u00e9 mais que um poema\n\u00c9 a coisa mais linda que eu j\u00e1 vi passar\n\n[Refr\u00e3o: Jo\u00e3o Gilberto]\nAh, por que estou t\u00e3o sozinho?\nAh, por que tudo \u00e9 t\u00e3o triste?\nAh, a beleza que existe\nA beleza que n\u00e3o \u00e9 s\u00f3 minha\nQue tamb\u00e9m passa sozinha\n\n[Verso 2: Jo\u00e3o Gilberto]\nAh, se ela soubesse\nQue quando ela passa\nO mundo sorrindo se enche de gra\u00e7a\nE fica mais lindo por causa do amor\n\n[Verse 1: Astrud Gilberto]\nTall and tan and young and lovely\nThe girl from Ipanema goes walking\nAnd when she passes, each one she passes goes \"ah!\"\nWhen she walks she's like a samba that\nSwings so cool and sways so gently\nThat when she passes, each one she passes goes \"ah!\"\nYou might also like[Chorus: Astrud Gilberto]\nOh, but he watches her sadly\nHow can he tell her he loves her?\nYes, he would give his heart gladly\nBut each day when she walks to the sea\nShe looks straight ahead not at he\n\n[Verse 2: Astrud Gilberto]\nTall and tan and young and lovely\nThe girl from Ipanema goes walking\nAnd when she passes he smiles\nBut she doesn't see\n\n[Instrumental Bridge]\n\n[Chorus: Astrud Gilberto]\nOh, but he sees her so sadly\nHow can he tell her he loves her?\nYes, he would give his heart gladly\nBut each day when she walks to the sea\nShe looks straight ahead not at he\n\n[Verse 2: Astrud Gilberto]\nTall and tan and young and lovely\nThe girl from Ipanema goes walking\nAnd when she passes he smiles\nBut she doesn't see\n[Outro]\nShe just doesn't see\nNo, she doesn't see\nBut she doesn't see\nShe doesn't see\nNo, she doesn't see10Embed"
+}

@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 5,
+ "api_path": "/songs/211398",
+ "artist_names": "Foo Fighters",
+ "full_title": "Doll by\u00a0Foo\u00a0Fighters",
+ "header_image_thumbnail_url": "https://images.genius.com/e81737dd071dc340bcaa73fe72337713.300x300x1.png",
+ "header_image_url": "https://images.genius.com/e81737dd071dc340bcaa73fe72337713.1000x1000x1.png",
+ "id": 211398,
+ "instrumental": false,
+ "lyrics_owner_id": 113726,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1708717531,
+ "path": "/Foo-fighters-doll-lyrics",
+ "primary_artist_names": "Foo Fighters",
+ "pyongs_count": 6,
+ "relationships_index_url": "https://genius.com/Foo-fighters-doll-sample",
+ "release_date_components": {
+  "year": 1997,
+  "month": 5,
+  "day": 20
+ },
+ "release_date_for_display": "May 20, 1997",
+ "release_date_with_abbreviated_month_for_display": "May. 20, 1997",
+ "song_art_image_thumbnail_url": "https://images.genius.com/e81737dd071dc340bcaa73fe72337713.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/e81737dd071dc340bcaa73fe72337713.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 20697
+ },
+ "title": "Doll",
+ "title_with_featured": "Doll",
+ "updated_by_human_at": 1708717531,
+ "url": "https://genius.com/Foo-fighters-doll-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/17237",
+  "header_image_url": "https://images.genius.com/d255bbeac16634fe8031e60cdd1b072b.820x360x1.png",
+  "id": 17237,
+  "image_url": "https://images.genius.com/183fc4cb23c5dc92a9fda9e7dfef58c7.580x580x1.jpg",
+  "index_character": "f",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Foo Fighters",
+  "slug": "Foo-fighters",
+  "url": "https://genius.com/artists/Foo-fighters"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/17237",
+   "header_image_url": "https://images.genius.com/d255bbeac16634fe8031e60cdd1b072b.820x360x1.png",
+   "id": 17237,
+   "image_url": "https://images.genius.com/183fc4cb23c5dc92a9fda9e7dfef58c7.580x580x1.jpg",
+   "index_character": "f",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Foo Fighters",
+   "slug": "Foo-fighters",
+   "url": "https://genius.com/artists/Foo-fighters"
+  }
+ ],
+ "artist": "Foo Fighters",
+ "lyrics": "18 ContributorsDoll Lyrics[Verse 1]\nYou know in all of the time that we've shared\nI've never been so scared\nDoll me up in my bad luck\nI'll meet you there\n\n[Verse 2]\nI wish I never had taken this dare\nI wasn't quite prepared\nDoll me up in my bad luck\nUh-huh-uh, uh-uh-uh-uh\nDoll me up in my bad luck\nI'll meet you thereSee Foo Fighters LiveGet tickets as low as $113You might also like6Embed"
+}

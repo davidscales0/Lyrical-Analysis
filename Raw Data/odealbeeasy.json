@@ -1,0 +1,81 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/9165585",
+ "artist_names": "Odeal (Ft. Brazy (NGA))",
+ "full_title": "Be Easy by\u00a0Odeal (Ft.\u00a0Brazy\u00a0(NGA))",
+ "header_image_thumbnail_url": "https://images.genius.com/19b9c80c5e924bc486fdce1efd1fa868.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/19b9c80c5e924bc486fdce1efd1fa868.1000x1000x1.jpg",
+ "id": 9165585,
+ "instrumental": false,
+ "lyrics_owner_id": 12617785,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1722759681,
+ "path": "/Odeal-be-easy-lyrics",
+ "primary_artist_names": "Odeal",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Odeal-be-easy-sample",
+ "release_date_components": {
+  "year": 2023,
+  "month": 5,
+  "day": 19
+ },
+ "release_date_for_display": "May 19, 2023",
+ "release_date_with_abbreviated_month_for_display": "May. 19, 2023",
+ "song_art_image_thumbnail_url": "https://images.genius.com/19b9c80c5e924bc486fdce1efd1fa868.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/19b9c80c5e924bc486fdce1efd1fa868.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 11936
+ },
+ "title": "Be Easy",
+ "title_with_featured": "Be Easy (Ft.\u00a0Brazy\u00a0(NGA))",
+ "updated_by_human_at": 1722759681,
+ "url": "https://genius.com/Odeal-be-easy-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/3082835",
+   "header_image_url": "https://images.genius.com/4cc0d4c4bb5044c117f190e11e361ae4.1000x1000x1.jpg",
+   "id": 3082835,
+   "image_url": "https://images.genius.com/d7eaffabddbbceae5c3953364fc4e177.1000x1000x1.jpg",
+   "index_character": "b",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Brazy (NGA)",
+   "slug": "Brazy-nga",
+   "url": "https://genius.com/artists/Brazy-nga"
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/2069309",
+  "header_image_url": "https://images.genius.com/062b52f845ec7564e4130413df590ca7.1000x708x1.jpg",
+  "id": 2069309,
+  "image_url": "https://images.genius.com/52395a1a88b73943e789b509c1e8b2d0.1000x1000x1.jpg",
+  "index_character": "o",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Odeal",
+  "slug": "Odeal",
+  "url": "https://genius.com/artists/Odeal"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/2069309",
+   "header_image_url": "https://images.genius.com/062b52f845ec7564e4130413df590ca7.1000x708x1.jpg",
+   "id": 2069309,
+   "image_url": "https://images.genius.com/52395a1a88b73943e789b509c1e8b2d0.1000x1000x1.jpg",
+   "index_character": "o",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Odeal",
+   "slug": "Odeal",
+   "url": "https://genius.com/artists/Odeal"
+  }
+ ],
+ "artist": "Odeal",
+ "lyrics": "6 ContributorsBe Easy Lyrics[Intro: Brazy]\nAttends, she keleva\nWhine your waist, o da bi rubber\nMe and you, I think its fate\nYou be custard and I'll be cake\n\n[Verse 1: Odeal]\nPatience is a virtue\nBut it's virtually useless\nTo text me how you\u205ffeel\nThe\u205ffeeling's\u205fmutual, come see\u205fme\nGirl come see\u205fme, girl come see me\nGirl come\u2014\n\n[Verse 2: Odeal]\nAll them risky test that you be sending not a screenshot\nDown for the cause, that's what I love\nIt's so easy, it's so easy\nIt's so easy, it's so easy\nIt's so easy, it's so easy\nIt's so\u2014\n\n[Chorus: Brazy]\nAttends, she keleva\nWhine your waist, one corner\nCheat on me, I will cheat on you\nTwo in a team and I choose you\nAttends, she keleva\nWhine your waist, o da bi rubber\nMe and you, I think its fate\nYou be custard and I'll be cake\nAttends, she keleva\nYou might also like[Verse 3: Odeal]\nPineapple juice when you facetime me\nYou need a man with his head screwed on\nAnd I got the best head pon my shoulders\nFlip you round like rollercoaster\nWhen there's no place on the roster\nMake room for you baby, excuses don't phase me\nYour bumper go crazy\nWhen you turn 180, girl drop your location\nI'm on my way, yeah\n\n[Chorus: Brazy]\nAttends, she keleva\nWhine your waist, one corner\nCheat on me, I will cheat on you\nTwo in a team and I choose you\nAttends, she keleva\nWhine your waist, o da bi rubber\nMe and you, I think its fate\nYou be custard and I'll be cakeEmbed"
+}

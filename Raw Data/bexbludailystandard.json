@@ -1,0 +1,66 @@
+{
+ "_type": "song",
+ "annotation_count": 0,
+ "api_path": "/songs/10693540",
+ "artist_names": "Bexblu",
+ "full_title": "Dailystandard_ by\u00a0Bexblu",
+ "header_image_thumbnail_url": "https://images.genius.com/f170fecbc5515859655541d892795d05.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/f170fecbc5515859655541d892795d05.640x640x1.jpg",
+ "id": 10693540,
+ "instrumental": false,
+ "lyrics_owner_id": 16988712,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1721992578,
+ "path": "/Bexblu-dailystandard-lyrics",
+ "primary_artist_names": "Bexblu",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Bexblu-dailystandard-sample",
+ "release_date_components": {
+  "year": 2023,
+  "month": 12,
+  "day": 22
+ },
+ "release_date_for_display": "December 22, 2023",
+ "release_date_with_abbreviated_month_for_display": "Dec. 22, 2023",
+ "song_art_image_thumbnail_url": "https://images.genius.com/f170fecbc5515859655541d892795d05.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/f170fecbc5515859655541d892795d05.640x640x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Dailystandard_",
+ "title_with_featured": "Dailystandard_",
+ "updated_by_human_at": 1721992636,
+ "url": "https://genius.com/Bexblu-dailystandard-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/3758432",
+  "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1723228522",
+  "id": 3758432,
+  "image_url": "https://assets.genius.com/images/default_avatar_300.png?1723228522",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Bexblu",
+  "slug": "Bexblu",
+  "url": "https://genius.com/artists/Bexblu"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/3758432",
+   "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1723228522",
+   "id": 3758432,
+   "image_url": "https://assets.genius.com/images/default_avatar_300.png?1723228522",
+   "index_character": "b",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Bexblu",
+   "slug": "Bexblu",
+   "url": "https://genius.com/artists/Bexblu"
+  }
+ ],
+ "artist": "Bexblu",
+ "lyrics": "1 ContributorDailystandard_ LyricsThe way I stay alive on the daily's crazy\nI get short tempered, don't talk pay me\nTurn to the darkside if my days ever get rainy\nDrain me, never not maybe\nYeah I roll with JME\nAnd I know Sadie\nHer she's a cool young lady\nBack to the way I live daily\nHad bare dough but that didn't change me\nPlus I got a daughter\nNewborn child but her name ain't Amy\nL ain't got a Winnie the Pooh scarf\nAs of yet but I'm getting one\nSo stay away from me\nI'll spray three eighths and I'm not even crazy\nNot even lately\nFeel so calm so you can't irat\u0435 me\nWile out one don't know how to tak\u0435 me\nTake out crews on a daily\nI said I take out crews on a daily standard\nI done the dance more than your whole gang could\nI swing through man just like Flowdan would\nI ain't from Brentwood, I come from Danwood\nI'm straight from man a bad man wood\nStand in flames you could not\n'cause you ain't from Danwood\nYour whole plan would flop\nIf you come across me and got lairy, standard\nMost of you MCs are just angered\nWiley's raw talent ain't ever been pampered\nScrimp and scrape, standard I did what Javan did\nBullied my way to the top like a bandit\nCome through like Smokey and the Bandits\nBut one bandit can't stand it\nHe can see the title thinks I'm gonna hand it to him\nBut nobody planned itYou might also likeEmbed"
+}

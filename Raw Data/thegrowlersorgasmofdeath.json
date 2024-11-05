@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 9,
+ "api_path": "/songs/3866799",
+ "artist_names": "The Growlers",
+ "full_title": "Orgasm of Death by\u00a0The\u00a0Growlers",
+ "header_image_thumbnail_url": "https://images.genius.com/cea4412dea8abf71ebadc183fafe44ad.300x300x1.png",
+ "header_image_url": "https://images.genius.com/cea4412dea8abf71ebadc183fafe44ad.350x350x1.png",
+ "id": 3866799,
+ "instrumental": false,
+ "lyrics_owner_id": 6146472,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1674525757,
+ "path": "/The-growlers-orgasm-of-death-lyrics",
+ "primary_artist_names": "The Growlers",
+ "pyongs_count": 5,
+ "relationships_index_url": "https://genius.com/The-growlers-orgasm-of-death-sample",
+ "release_date_components": {
+  "year": 2018,
+  "month": 7,
+  "day": 26
+ },
+ "release_date_for_display": "July 26, 2018",
+ "release_date_with_abbreviated_month_for_display": "Jul. 26, 2018",
+ "song_art_image_thumbnail_url": "https://images.genius.com/cea4412dea8abf71ebadc183fafe44ad.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/cea4412dea8abf71ebadc183fafe44ad.350x350x1.png",
+ "stats": {
+  "unreviewed_annotations": 9,
+  "hot": false,
+  "pageviews": 37330
+ },
+ "title": "Orgasm of Death",
+ "title_with_featured": "Orgasm of Death",
+ "updated_by_human_at": 1674525757,
+ "url": "https://genius.com/The-growlers-orgasm-of-death-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/176172",
+  "header_image_url": "https://images.genius.com/7d71569408bf452ceb37b4db5def6b9f.851x315x1.jpg",
+  "id": 176172,
+  "image_url": "https://images.genius.com/19dad435720ffee18cc7663b7db549ad.700x700x1.jpg",
+  "index_character": "g",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "The Growlers",
+  "slug": "The-growlers",
+  "url": "https://genius.com/artists/The-growlers"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/176172",
+   "header_image_url": "https://images.genius.com/7d71569408bf452ceb37b4db5def6b9f.851x315x1.jpg",
+   "id": 176172,
+   "image_url": "https://images.genius.com/19dad435720ffee18cc7663b7db549ad.700x700x1.jpg",
+   "index_character": "g",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "The Growlers",
+   "slug": "The-growlers",
+   "url": "https://genius.com/artists/The-growlers"
+  }
+ ],
+ "artist": "The Growlers",
+ "lyrics": "24 ContributorsOrgasm of Death Lyrics[Verse 1]\nDid I not show you a way out?\nBeneath the veil you saw my vision wrapped in doubt\nYou\u2019re not my son and not my muse\nAs you remind me, though I never thought this through\n\n[Chorus]\nVices squeeze us till we\u2019re blue, me and you\nThat\u2019s of no concern to me\nThat don\u2019t cause me misery\nIt\u2019s time, time\u2019s what I can\u2019t control, same as you\nFear of going back to find\nAll the nothingness we left behind\n\n[Verse 2]\nSuperstition is a hoax\nThough we both cannot seem to practice what we know\nStepping over every crack\nWaiting for sweet life to break our bloodied backs\n\n[Chorus]\nVices squeeze us till we\u2019re blue, me and you\nThat\u2019s of no concern to me\nThat don\u2019t cause me misery\nIt\u2019s time, time\u2019s what I can\u2019t control, same as you\nFear of going back to find\nAll the nothingness we left behind\nYou might also like[Verse 1]\nDid I not show you a way out?\nBeneath the veil you saw my vision wrapped in doubt\nYou\u2019re not my son and not my muse\nAs you remind me, though I never thought this through\n\n[Chorus]\nVices squeeze us till we\u2019re blue, me and you\nThat\u2019s of no concern to me\nThat don\u2019t cause me misery\nIt\u2019s time, time\u2019s what I can\u2019t control, same as you\nFear of going back to find\nAll the nothingness we left behind\n\n[Outro]\nLet\u2019s not show our faces till the end\nTill our dreaming slows, till nothing\u2019s left\nWhen we meet the orgasm of death5Embed"
+}

@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 10,
+ "api_path": "/songs/90288",
+ "artist_names": "Arcade Fire",
+ "full_title": "Wake Up by\u00a0Arcade\u00a0Fire",
+ "header_image_thumbnail_url": "https://images.genius.com/4017eeac618df1c7dd1010aec357090b.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/4017eeac618df1c7dd1010aec357090b.800x800x1.jpg",
+ "id": 90288,
+ "instrumental": false,
+ "lyrics_owner_id": 69370,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1716746829,
+ "path": "/Arcade-fire-wake-up-lyrics",
+ "primary_artist_names": "Arcade Fire",
+ "pyongs_count": 35,
+ "relationships_index_url": "https://genius.com/Arcade-fire-wake-up-sample",
+ "release_date_components": {
+  "year": 2004,
+  "month": 9,
+  "day": 14
+ },
+ "release_date_for_display": "September 14, 2004",
+ "release_date_with_abbreviated_month_for_display": "Sep. 14, 2004",
+ "song_art_image_thumbnail_url": "https://images.genius.com/9fec7a18df625d06a3c2836f4e96e895.300x304x1.jpg",
+ "song_art_image_url": "https://images.genius.com/9fec7a18df625d06a3c2836f4e96e895.592x600x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 222561
+ },
+ "title": "Wake Up",
+ "title_with_featured": "Wake Up",
+ "updated_by_human_at": 1716746829,
+ "url": "https://genius.com/Arcade-fire-wake-up-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/600",
+  "header_image_url": "https://images.genius.com/e48e5f271e9135c70d056ba88cc67a32.1000x333x1.jpg",
+  "id": 600,
+  "image_url": "https://images.genius.com/2eb6f036932cc05611221b277d9b7132.1000x1000x1.jpg",
+  "index_character": "a",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Arcade Fire",
+  "slug": "Arcade-fire",
+  "url": "https://genius.com/artists/Arcade-fire"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/600",
+   "header_image_url": "https://images.genius.com/e48e5f271e9135c70d056ba88cc67a32.1000x333x1.jpg",
+   "id": 600,
+   "image_url": "https://images.genius.com/2eb6f036932cc05611221b277d9b7132.1000x1000x1.jpg",
+   "index_character": "a",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Arcade Fire",
+   "slug": "Arcade-fire",
+   "url": "https://genius.com/artists/Arcade-fire"
+  }
+ ],
+ "artist": "Arcade Fire",
+ "lyrics": "41 ContributorsWake Up Lyrics[Verse 1]\nSomething filled up\nMy heart with nothing\nSomeone told me not to cry\nBut now that I'm older\nMy heart's colder\nAnd I can see that it's a lie\n\n[Verse 2]\nChildren, wake up\nHold your mistake up\nBefore they turn the summer into dust\nIf the children don't grow up\nOur bodies get bigger but our hearts get torn up\nWe're just a million little gods causing rain storms\nTurning every good thing to rust\nI guess we'll just have to adjust\n\n[Bridge]\nWith my lightning bolts a-glowing\nI can see where I am going to be\nWhen the reaper he reaches and touches my hand\n\n[Outro]\nWith my lightning bolts a-glowing\nI can see where I am going\nWith my lightning bolts a-glowing\nI can see where I am go-going\nYou better look out below!See Arcade Fire LiveGet tickets as low as $90You might also like35Embed"
+}

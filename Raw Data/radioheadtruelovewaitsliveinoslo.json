@@ -1,0 +1,66 @@
+{
+ "_type": "song",
+ "annotation_count": 8,
+ "api_path": "/songs/6728071",
+ "artist_names": "Radiohead",
+ "full_title": "True Love Waits (Live in Oslo) by\u00a0Radiohead",
+ "header_image_thumbnail_url": "https://images.genius.com/03b9155e5d1f97f54e28d5fd2cd98fc4.300x300x1.png",
+ "header_image_url": "https://images.genius.com/03b9155e5d1f97f54e28d5fd2cd98fc4.1000x1000x1.png",
+ "id": 6728071,
+ "instrumental": false,
+ "lyrics_owner_id": 10144512,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1708566033,
+ "path": "/Radiohead-true-love-waits-live-in-oslo-lyrics",
+ "primary_artist_names": "Radiohead",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Radiohead-true-love-waits-live-in-oslo-sample",
+ "release_date_components": {
+  "year": 2001,
+  "month": 11,
+  "day": 12
+ },
+ "release_date_for_display": "November 12, 2001",
+ "release_date_with_abbreviated_month_for_display": "Nov. 12, 2001",
+ "song_art_image_thumbnail_url": "https://images.genius.com/03b9155e5d1f97f54e28d5fd2cd98fc4.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/03b9155e5d1f97f54e28d5fd2cd98fc4.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 8,
+  "hot": false
+ },
+ "title": "True Love Waits (Live in Oslo)",
+ "title_with_featured": "True Love Waits (Live in Oslo)",
+ "updated_by_human_at": 1712133480,
+ "url": "https://genius.com/Radiohead-true-love-waits-live-in-oslo-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/604",
+  "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+  "id": 604,
+  "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Radiohead",
+  "slug": "Radiohead",
+  "url": "https://genius.com/artists/Radiohead"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/604",
+   "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+   "id": 604,
+   "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+   "index_character": "r",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Radiohead",
+   "slug": "Radiohead",
+   "url": "https://genius.com/artists/Radiohead"
+  }
+ ],
+ "artist": "Radiohead",
+ "lyrics": "8 ContributorsTrue Love Waits (Live in Oslo) Lyrics[Verse 1]\nI'll drown my beliefs\nTo have your babies\nI'll dress like your niece\nAnd wash your swollen feet\n\n[Chorus]\nJust don't leave\nDon't leave\n\n[Verse 2]\nI'm not living\nI'm just killing time\nYour tiny hands\nYour crazy kitten smile\n\n[Chorus]\nJust don't leave\nDon't leave\n\n[Verse 3]\nAnd true love waits\nIn haunted attics\nAnd true love lives\nOn lollipops and crisps\nYou might also like[Chorus]\nJust don't leave\nDon't leave\nDon't leave\nDon't leave\n\n[Spoken]\nThank you, everybody\nG'night1Embed"
+}

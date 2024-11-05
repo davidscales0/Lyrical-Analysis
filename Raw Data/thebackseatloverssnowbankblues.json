@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 8,
+ "api_path": "/songs/7915862",
+ "artist_names": "The Backseat Lovers",
+ "full_title": "Snowbank Blues by\u00a0The\u00a0Backseat Lovers",
+ "header_image_thumbnail_url": "https://images.genius.com/3c05986c21bb59f2b03e9ef004da11c8.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/3c05986c21bb59f2b03e9ef004da11c8.1000x1000x1.jpg",
+ "id": 7915862,
+ "instrumental": false,
+ "lyrics_owner_id": 4077864,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1670569550,
+ "path": "/The-backseat-lovers-snowbank-blues-lyrics",
+ "primary_artist_names": "The Backseat Lovers",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/The-backseat-lovers-snowbank-blues-sample",
+ "release_date_components": {
+  "year": 2022,
+  "month": 10,
+  "day": 28
+ },
+ "release_date_for_display": "October 28, 2022",
+ "release_date_with_abbreviated_month_for_display": "Oct. 28, 2022",
+ "song_art_image_thumbnail_url": "https://images.genius.com/3c05986c21bb59f2b03e9ef004da11c8.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/3c05986c21bb59f2b03e9ef004da11c8.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 8,
+  "hot": false,
+  "pageviews": 13391
+ },
+ "title": "Snowbank Blues",
+ "title_with_featured": "Snowbank Blues",
+ "updated_by_human_at": 1680446336,
+ "url": "https://genius.com/The-backseat-lovers-snowbank-blues-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1608117",
+  "header_image_url": "https://images.genius.com/e47a76be65a546291ed344995ab06c9b.1000x421x1.png",
+  "id": 1608117,
+  "image_url": "https://images.genius.com/45fdf41f7f3ae0cdd0cff38f8648a15a.639x639x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "The Backseat Lovers",
+  "slug": "The-backseat-lovers",
+  "url": "https://genius.com/artists/The-backseat-lovers"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1608117",
+   "header_image_url": "https://images.genius.com/e47a76be65a546291ed344995ab06c9b.1000x421x1.png",
+   "id": 1608117,
+   "image_url": "https://images.genius.com/45fdf41f7f3ae0cdd0cff38f8648a15a.639x639x1.jpg",
+   "index_character": "b",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "The Backseat Lovers",
+   "slug": "The-backseat-lovers",
+   "url": "https://genius.com/artists/The-backseat-lovers"
+  }
+ ],
+ "artist": "The Backseat Lovers",
+ "lyrics": "6 ContributorsSnowbank Blues Lyrics[Verse 1]\nBeen working for the man\nEvery God damn day\nI've been smoking with my friends\nTo wash the nights away\nCatching up on sleep's\nHarder when I'm waking up next to me\n\n[Verse 2]\nThere's a girl from down the road\nSendin looks my way\nFrankly dear I'm not quite sure\nWhat I'm supposed to say\nHow can I say no?\nWhen you're a thousand miles away\n\n[Chorus]\nWish I could roll the windows down\nBut the snow has swallowed up our little town\n\n[Verse 3]\nWell there's coffee in my cup & cameras in my face\nWell I think I've had enough\nOf all these people in this place\nTomorrow I'll be gone\nCould be a thousand miles away\nYou might also like[Verse 4]\nAnd there's something on my chest\nIt's really messing with my health\nJust because I'm smiling doesn't mean that I am\nSmiling for myself\nTake the stage & put the mask back on the shelf\n\n[Chorus]\nWish I could roll the windows down\nBut the snow has swallowed up our little town\n\n[Verse 5]\nI know you had to leave\nBut you didn't have the right\nTo take the Sun\nYou stole it in my sleep\n\n[Outro]\nWell-aha-oh\nWell-aha-oh\nWell-aha-oh\n(Whistling)1Embed"
+}

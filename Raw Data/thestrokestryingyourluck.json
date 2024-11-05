@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/146559",
+ "artist_names": "The Strokes",
+ "full_title": "Trying Your Luck by\u00a0The\u00a0Strokes",
+ "header_image_thumbnail_url": "https://images.genius.com/10e3bb482779de6732693f15598abf59.300x300x1.png",
+ "header_image_url": "https://images.genius.com/10e3bb482779de6732693f15598abf59.1000x1000x1.png",
+ "id": 146559,
+ "instrumental": false,
+ "lyrics_owner_id": 161810,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1705357055,
+ "path": "/The-strokes-trying-your-luck-lyrics",
+ "primary_artist_names": "The Strokes",
+ "pyongs_count": 18,
+ "relationships_index_url": "https://genius.com/The-strokes-trying-your-luck-sample",
+ "release_date_components": {
+  "year": 2001,
+  "month": 7,
+  "day": 30
+ },
+ "release_date_for_display": "July 30, 2001",
+ "release_date_with_abbreviated_month_for_display": "Jul. 30, 2001",
+ "song_art_image_thumbnail_url": "https://images.genius.com/10e3bb482779de6732693f15598abf59.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/10e3bb482779de6732693f15598abf59.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 109116
+ },
+ "title": "Trying Your Luck",
+ "title_with_featured": "Trying Your Luck",
+ "updated_by_human_at": 1705357055,
+ "url": "https://genius.com/The-strokes-trying-your-luck-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/12524",
+  "header_image_url": "https://images.genius.com/382ae86addc1e06ae4bebad904b69c2b.640x348x1.jpg",
+  "id": 12524,
+  "image_url": "https://images.genius.com/b5237c13de1a05f92ca6327d854cbfc8.1000x1000x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "The Strokes",
+  "slug": "The-strokes",
+  "url": "https://genius.com/artists/The-strokes",
+  "iq": 105
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/12524",
+   "header_image_url": "https://images.genius.com/382ae86addc1e06ae4bebad904b69c2b.640x348x1.jpg",
+   "id": 12524,
+   "image_url": "https://images.genius.com/b5237c13de1a05f92ca6327d854cbfc8.1000x1000x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "The Strokes",
+   "slug": "The-strokes",
+   "url": "https://genius.com/artists/The-strokes",
+   "iq": 105
+  }
+ ],
+ "artist": "The Strokes",
+ "lyrics": "32 ContributorsTrying Your Luck Lyrics[Verse 1]\nYou said you couldn't stay\nYou've seen it all before, I know\nAnd sold you on their way\nOh, honey, that's okay\n\n[Refrain]\nNo harm, he's armed\nSettin' off all your alarms\nWhen I find out\nI hope it's you who set this trap\n\n[Verse 2]\nAnd store fronts rarely change\nAt least I'm on my own again, instead of\nAnywhere with you\nOh, tell me it's all the same\n\n[Chorus]\nAnd I lost my page again\nI know this is surreal, but I'll try my luck with you\nOh, this life is on my side, oh, I am your one\nBelieve me, this is a chance, oh, oh\n\n[Verse 3]\nLet's see what is for sale\nHe's tryin' not to give his job a chance\nOh, it's never gonna be\nIt's sad, but I agree\nThe signal don't seem right\nIt lasts for just one night and then\nI'm sorry that I said\nThat we were just good friends\nYou might also like[Refrain]\nNo harm, he's armed\nSettin' off all your alarms\nEntranced, I can't\nBe here, in time I'll think about that\n\n[Guitar Solo]\n\n[Chorus]\nAnd I lost my page again\nI know this is surreal, but I'll try my luck with you\nOh, this life is on my side, oh, I am your one\nBelieve me, oh, this is a chance, oh, oh18Embed"
+}

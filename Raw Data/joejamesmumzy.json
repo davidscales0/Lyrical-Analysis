@@ -1,0 +1,66 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/7827823",
+ "artist_names": "Joe James",
+ "full_title": "Mumzy by\u00a0Joe\u00a0James",
+ "header_image_thumbnail_url": "https://images.genius.com/236bf2c4656877bbb5eacf021ffbae94.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/236bf2c4656877bbb5eacf021ffbae94.1000x1000x1.jpg",
+ "id": 7827823,
+ "instrumental": false,
+ "lyrics_owner_id": 4998444,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1648058132,
+ "path": "/Joe-james-mumzy-lyrics",
+ "primary_artist_names": "Joe James",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Joe-james-mumzy-sample",
+ "release_date_components": {
+  "year": 2018,
+  "month": 5,
+  "day": 9
+ },
+ "release_date_for_display": "May 9, 2018",
+ "release_date_with_abbreviated_month_for_display": "May. 9, 2018",
+ "song_art_image_thumbnail_url": "https://images.genius.com/236bf2c4656877bbb5eacf021ffbae94.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/236bf2c4656877bbb5eacf021ffbae94.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false
+ },
+ "title": "Mumzy",
+ "title_with_featured": "Mumzy",
+ "updated_by_human_at": 1682577821,
+ "url": "https://genius.com/Joe-james-mumzy-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/172622",
+  "header_image_url": "https://images.genius.com/75a309bb32b53250616be12e6c944603.1000x1000x1.jpg",
+  "id": 172622,
+  "image_url": "https://images.genius.com/75a309bb32b53250616be12e6c944603.1000x1000x1.jpg",
+  "index_character": "j",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Joe James",
+  "slug": "Joe-james",
+  "url": "https://genius.com/artists/Joe-james"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/172622",
+   "header_image_url": "https://images.genius.com/75a309bb32b53250616be12e6c944603.1000x1000x1.jpg",
+   "id": 172622,
+   "image_url": "https://images.genius.com/75a309bb32b53250616be12e6c944603.1000x1000x1.jpg",
+   "index_character": "j",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Joe James",
+   "slug": "Joe-james",
+   "url": "https://genius.com/artists/Joe-james"
+  }
+ ],
+ "artist": "Joe James",
+ "lyrics": "6 ContributorsMumzy Lyrics-You might also likeEmbed"
+}

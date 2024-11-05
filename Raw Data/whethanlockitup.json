@@ -1,0 +1,110 @@
+{
+ "_type": "song",
+ "annotation_count": 38,
+ "api_path": "/songs/7536935",
+ "artist_names": "Whethan (Ft. Matt OX, \u200bmidwxst & Yeat)",
+ "full_title": "LOCK IT UP by\u00a0Whethan (Ft.\u00a0Matt\u00a0OX, \u200bmidwxst & Yeat)",
+ "header_image_thumbnail_url": "https://images.genius.com/c191e4d5572db440c2529a8842b98a04.300x300x1.png",
+ "header_image_url": "https://images.genius.com/c191e4d5572db440c2529a8842b98a04.1000x1000x1.png",
+ "id": 7536935,
+ "instrumental": false,
+ "lyrics_owner_id": 10155270,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1715702116,
+ "path": "/Whethan-lock-it-up-lyrics",
+ "primary_artist_names": "Whethan",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Whethan-lock-it-up-sample",
+ "release_date_components": {
+  "year": 2022,
+  "month": 4,
+  "day": 29
+ },
+ "release_date_for_display": "April 29, 2022",
+ "release_date_with_abbreviated_month_for_display": "Apr. 29, 2022",
+ "song_art_image_thumbnail_url": "https://images.genius.com/c191e4d5572db440c2529a8842b98a04.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/c191e4d5572db440c2529a8842b98a04.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 35,
+  "hot": false,
+  "pageviews": 39297
+ },
+ "title": "LOCK IT UP",
+ "title_with_featured": "LOCK IT UP (Ft.\u00a0Matt\u00a0OX, \u200bmidwxst & Yeat)",
+ "updated_by_human_at": 1715702116,
+ "url": "https://genius.com/Whethan-lock-it-up-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1476681",
+   "header_image_url": "https://images.genius.com/981ce9033ccdd01729beadc4f4eb732c.600x600x241.gif",
+   "id": 1476681,
+   "image_url": "https://images.genius.com/29e0cc0219f861c08132e9eaf4ec31de.640x640x1.jpg",
+   "index_character": "y",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Yeat",
+   "slug": "Yeat",
+   "url": "https://genius.com/artists/Yeat",
+   "iq": 3691
+  },
+  {
+   "_type": "artist",
+   "api_path": "/artists/1903241",
+   "header_image_url": "https://images.genius.com/e9f8f5982787e470168cdd3e3a215eaf.1000x429x1.jpg",
+   "id": 1903241,
+   "image_url": "https://images.genius.com/dd6f81a490be2f40acbda9a4d88fae70.640x640x1.jpg",
+   "index_character": "m",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "\u200bmidwxst",
+   "slug": "Midwxst",
+   "url": "https://genius.com/artists/Midwxst",
+   "iq": 578
+  },
+  {
+   "_type": "artist",
+   "api_path": "/artists/1110995",
+   "header_image_url": "https://images.genius.com/ee80442610f93a43949f6a5d142a0fa4.1000x995x1.jpg",
+   "id": 1110995,
+   "image_url": "https://images.genius.com/07eb76609ff993240546f7f22c0ef2cc.827x827x1.jpg",
+   "index_character": "m",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Matt OX",
+   "slug": "Matt-ox",
+   "url": "https://genius.com/artists/Matt-ox",
+   "iq": 422
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/990491",
+  "header_image_url": "https://images.genius.com/9165068b4ec49d9e04777ec2f971fd19.972x597x1.jpg",
+  "id": 990491,
+  "image_url": "https://images.genius.com/b376e447e323daabbdbd7e52a5137612.1000x1000x1.webp",
+  "index_character": "w",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Whethan",
+  "slug": "Whethan",
+  "url": "https://genius.com/artists/Whethan"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/990491",
+   "header_image_url": "https://images.genius.com/9165068b4ec49d9e04777ec2f971fd19.972x597x1.jpg",
+   "id": 990491,
+   "image_url": "https://images.genius.com/b376e447e323daabbdbd7e52a5137612.1000x1000x1.webp",
+   "index_character": "w",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Whethan",
+   "slug": "Whethan",
+   "url": "https://genius.com/artists/Whethan"
+  }
+ ],
+ "artist": "Whethan",
+ "lyrics": "57 ContributorsLOCK IT UP Lyrics[Verse 1: midwxst]\nThat boy is a coward like Courage\nGot a good life, when I grow up, I flourish\nYour bitch wanna take a pic like she a tourist\nYeah, I'm a Gemini, bitch, fuck a Taurus\nThey talkin' 'bout me like I am a thesaurus\nGot some boys in the hood, I ain't talkin' 'bout Morris\nWe gon' take everything in your house, get a mortgage\nI need some glory, I feel like I'm Morgan, no Freeman\nI drop a new song, all my fans know they geekin'\nMight go to L.A. and crash for the weekend\n\u200bmidwxst the name, bitch, no one can defeat him\nGet in the whip, bitch, you playin' my music\nYou got a gun, but we know you won't use it\nI got some power, but I won't abuse it\nI'm one of a kind, no, you can't reproduce me\nThe mic is my hammer and, bitch, I am Thor\nAin't none of y'all ready for shit that's in store\nI kill the beat, put it under me, no score\nFeel like I'm Bruno Mars, open that door\nI'm switchin' the flow up, switchin' that cadence\nFinna get reckless, tired of behavin'\nI'm way too ahead, I got daylight savings\nI have evolved while, bitch, you a caveman\nYou not gon' slide, bitch, I know that you flakin', fakin'\nI use the mic like a sword and I'm Jason\nForgin' my words in this bitch like a mason\nBitch, I am born again, not talking Jason\nI don't play fair, get a foul and it's flagrant\nRemember recording down inside my basement\nNow I'm in L.A., might take a vacation, yeah\nRun the track like a motherfucking relay\nGive a fuck about what he or she say\nWe be tweakin' together, no BK\nI've been bangin' my chest like I'm D.K., spin tracks like a DJ\nLame-ass nigga wanna talk shit, okay\nIf we got beef, boy, you better drop it, okay\nLove to talk about me, like to gossip, okay\nHad to cut 'em off, too toxic, okay\nIn my town, bitch, I'm a trending topic, okay\nThrowin' hands like I'm in a moshpit, okay\nOn go, don't think that I'm stoppin', ol\u00e9\nLike I'm Doofenshmirtz, you know I'm plotting, yeah\nYou might also like[Verse 2: Yeat]\nI just made a quick ten bands, yeah\nBitch, I just pulled up in a Lamb'\nI just pulled up in that big boy Tonka, I don't got no Masi (No Masi, Masi, yeah)\nI give a fuck what you heard (Heard)\nYou say that you poppin', but I ain't even heard of 'em (Woo, woo, woo, woo)\nAny beat that you pass me, I murder 'em\nWe finessin' this bitch and his man (Yeah)\nMy bitch pull up, unbuckle my pants\nI tip up off the drank, I can't stand (Luh Tris)\nI got mills, top a bitch by the Lamb' (Oh, really?)\nI'm on Percs in the air, so I can't land (Oh, really?)\nFor a bitch that just told me I would change (Yeah)\nI took the cup, got luh Wocky (Yeah)\nI'm right outside of the Benz (Yeah)\nI'm finna fuck all her friends\nDiamond my vision, Cartier my lens (Diamonds)\nYeah, I only give a fuck 'bout this Benz (Benz)\nI only give a fuck 'bout this Bentley\n[Verse 3: Matt Ox]\nPlottin' and watchin' (Watchin')\nThis pocket rocket, I'ma pop it (Pop, pop it)\nI'm stackin' guap up in my pocket (Po-pocket)\nYou know what I'm rockin', this drip, it's exotic (Exo-exotic)\nI'm switchin' the topic (Topic), you know I'ma cop it\nCoppin' this, coppin' that, rockin' this, rockin' that\nStockin' this, stockin' that cash (Yeah)\nStockin' this, stockin' them bands\nStockin' this, stockin' this, stock in advance\nHop in this, hop in this, hop in this Lamb' (Yeah)\nCopped and restocked and then got it again (Yeah)\nGet it again (Yeah), to get it again and spend it again\nI'm with the clan, they can't understand\nThese aren't even my friends, we all in a fam\nThis isn't the squad, it's full on the mob\nWe gettin' the guap, then we gotta chop\nChop it up, chop it up, chop\nChop it up, chop it up, chop it up, chop it up (Chop, chop, chop, chop)\nLock it up, lock it up (Lock)\nLock it up, lock it up, lock it up, lock it up (Bah, bah, bah, bah)1Embed"
+}

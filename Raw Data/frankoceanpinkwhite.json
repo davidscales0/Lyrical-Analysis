@@ -1,0 +1,70 @@
+{
+ "_type": "song",
+ "annotation_count": 14,
+ "api_path": "/songs/2842078",
+ "artist_names": "Frank Ocean",
+ "full_title": "Pink + White by\u00a0Frank\u00a0Ocean",
+ "header_image_thumbnail_url": "https://images.genius.com/750737a023d383b93057b73d546bfe4e.300x300x1.png",
+ "header_image_url": "https://images.genius.com/750737a023d383b93057b73d546bfe4e.1000x1000x1.png",
+ "id": 2842078,
+ "instrumental": false,
+ "lyrics_owner_id": 1130219,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1722084704,
+ "path": "/Frank-ocean-pink-white-lyrics",
+ "primary_artist_names": "Frank Ocean",
+ "pyongs_count": 154,
+ "relationships_index_url": "https://genius.com/Frank-ocean-pink-white-sample",
+ "release_date_components": {
+  "year": 2016,
+  "month": 8,
+  "day": 20
+ },
+ "release_date_for_display": "August 20, 2016",
+ "release_date_with_abbreviated_month_for_display": "Aug. 20, 2016",
+ "song_art_image_thumbnail_url": "https://images.genius.com/750737a023d383b93057b73d546bfe4e.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/750737a023d383b93057b73d546bfe4e.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "concurrents": 2,
+  "hot": false,
+  "pageviews": 2187707
+ },
+ "title": "Pink + White",
+ "title_with_featured": "Pink + White",
+ "updated_by_human_at": 1722084704,
+ "url": "https://genius.com/Frank-ocean-pink-white-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1985",
+  "header_image_url": "https://images.genius.com/72f85f6e83c697db2b79ad585f5d0574.1000x500x1.png",
+  "id": 1985,
+  "image_url": "https://images.genius.com/3a240e0e7829e4d8354b5b63cb87d436.1000x1000x1.png",
+  "index_character": "f",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Frank Ocean",
+  "slug": "Frank-ocean",
+  "url": "https://genius.com/artists/Frank-ocean",
+  "iq": 7968
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1985",
+   "header_image_url": "https://images.genius.com/72f85f6e83c697db2b79ad585f5d0574.1000x500x1.png",
+   "id": 1985,
+   "image_url": "https://images.genius.com/3a240e0e7829e4d8354b5b63cb87d436.1000x1000x1.png",
+   "index_character": "f",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Frank Ocean",
+   "slug": "Frank-ocean",
+   "url": "https://genius.com/artists/Frank-ocean",
+   "iq": 7968
+  }
+ ],
+ "artist": "Frank Ocean",
+ "lyrics": "247 ContributorsTranslationsEspa\u00f1olPortugu\u00easItalianoFran\u00e7ais\u0420\u0443\u0441\u0441\u043a\u0438\u0439DeutschSvenskaT\u00fcrk\u00e7ePink + White Lyrics[Intro]\nYeah, yeah, um (Woo)\nYeah, yeah, yeah\n\n[Verse 1]\nThat's the way every day goes\nEvery time we've no control\nIf the sky is pink and white\nIf the ground is black and yellow\nIt's the same way you showed me\nNod my head, don't close my eyes\nHalfway on a slow move\nIt's the same way you showed me\nIf you could fly, then you'd feel south\nUp north's getting cold soon\nThe way it is, we're on land\nStill, I'm someone to hold true\nKeep you cool when it's still alive\nWon't let you down when it's all ruin\n\n[Chorus]\nJust the same way you showed me, showed me\nYou showed me love\nGlory from above\nRegard, my dear\nIt's all downhill from here\nYou might also like[Verse 2]\nIn the wake of a hurricane\nDark skin of a summer shade\nNosedive into flood lines\nTall tower of milk crates\nIt's the same way you showed me\nCannonball off the porch side\nOlder kids trying off the roof\nJust the same way you showed me (You showed)\nIf you could die and come back to life\nUp for air from the swimming pool\nYou'd kneel down to the dry land\nKiss the earth that birthed you\nGave you tools just to stay alive\nAnd make it out when the sun is ruined\n\n[Chorus]\nThat's the same way you showed me, showed me\nYou showed me love\nGlory from above\nRegard, my dear\nIt's all downhill from here\n\n[Outro]\nRemember life, remember how it was\nClimb trees, Michael Jackson, all ends here (Recalling)\nSay what up to Matthew, to Shoob\nSay what up to Danny\nSay what up to life, immortality\nBending up my Nikes\nRunning out of melpomene, nicotine\nStealing granny cigs (Take it easy)\nGimme something sweet\nBitch, I might like immortality\nThis is life, life, immortality154Embed"
+}

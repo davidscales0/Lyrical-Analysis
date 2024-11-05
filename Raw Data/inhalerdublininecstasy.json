@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 14,
+ "api_path": "/songs/6603211",
+ "artist_names": "Inhaler",
+ "full_title": "Dublin in Ecstasy by\u00a0Inhaler",
+ "header_image_thumbnail_url": "https://images.genius.com/8d902d9b3de0d0a4f080e6428dfca0b6.300x300x1.png",
+ "header_image_url": "https://images.genius.com/8d902d9b3de0d0a4f080e6428dfca0b6.999x999x1.png",
+ "id": 6603211,
+ "instrumental": false,
+ "lyrics_owner_id": 3985289,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1693280011,
+ "path": "/Inhaler-dublin-in-ecstasy-lyrics",
+ "primary_artist_names": "Inhaler",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Inhaler-dublin-in-ecstasy-sample",
+ "release_date_components": {
+  "year": 2023,
+  "month": 2,
+  "day": 17
+ },
+ "release_date_for_display": "February 17, 2023",
+ "release_date_with_abbreviated_month_for_display": "Feb. 17, 2023",
+ "song_art_image_thumbnail_url": "https://images.genius.com/8d902d9b3de0d0a4f080e6428dfca0b6.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/8d902d9b3de0d0a4f080e6428dfca0b6.999x999x1.png",
+ "stats": {
+  "unreviewed_annotations": 14,
+  "hot": false,
+  "pageviews": 10910
+ },
+ "title": "Dublin in Ecstasy",
+ "title_with_featured": "Dublin in Ecstasy",
+ "updated_by_human_at": 1693280011,
+ "url": "https://genius.com/Inhaler-dublin-in-ecstasy-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/390586",
+  "header_image_url": "https://images.genius.com/67266b4123b879a8cbc51b715cb7f55a.750x490x1.jpg",
+  "id": 390586,
+  "image_url": "https://images.genius.com/93804adb08810bf8a739f4799dc346f0.400x400x1.jpg",
+  "index_character": "i",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Inhaler",
+  "slug": "Inhaler",
+  "url": "https://genius.com/artists/Inhaler"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/390586",
+   "header_image_url": "https://images.genius.com/67266b4123b879a8cbc51b715cb7f55a.750x490x1.jpg",
+   "id": 390586,
+   "image_url": "https://images.genius.com/93804adb08810bf8a739f4799dc346f0.400x400x1.jpg",
+   "index_character": "i",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Inhaler",
+   "slug": "Inhaler",
+   "url": "https://genius.com/artists/Inhaler"
+  }
+ ],
+ "artist": "Inhaler",
+ "lyrics": "13 ContributorsDublin in Ecstasy Lyrics[Verse 1]\nWhat are you thinking, my love?\nOver there in the arms of somebody\nIs all your dreaming about\nStanding next to me?\nWe were young and amused\nBut now we're dancing to a tune\nWe can't be who we used to be\nDublin in ecstasy\n\n[Chorus]\nOh, we got high from time to time\nI recalled the shiver running down my spine\nI can see the city in the glass of your eye\nAnd when you take your shot, I'll be there this time\nThis time\n\n[Verse 2]\nWh\u0435re the arc lights\nUsed to damp\u0435n and die\nWe were never thinking much\nOnly sometimes\n\n[Chorus]\nYeah, we got high from time to time\nI recalled the shiver running down my spine\nAnd I can see the city in the glass of your eye\nAnd when you take your shot, I'll be there this time\nDublin in ecstasy\nSee Inhaler LiveGet tickets as low as $61You might also like[Bridge]\nI only want to speak if you have the time\nI only wanna fight if it's for your life\nI only wanna speak if you have the time\nYou're not just a friend of a friend of mine\n\n[Instrumental Break]\n\n[Outro]\nOh, oh-oh-oh\nOh, oh-oh-oh\nOh, oh-oh-oh, oh\nOh, oh-oh-oh\nOh-oh, oh-ohEmbed"
+}

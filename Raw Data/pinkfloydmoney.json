@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 21,
+ "api_path": "/songs/72193",
+ "artist_names": "Pink Floyd",
+ "full_title": "Money by\u00a0Pink\u00a0Floyd",
+ "header_image_thumbnail_url": "https://images.genius.com/ddbbad2adcb8243e31483bf6a4d1f79e.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/ddbbad2adcb8243e31483bf6a4d1f79e.1000x1000x1.jpg",
+ "id": 72193,
+ "instrumental": false,
+ "lyrics_owner_id": 11524,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1721902008,
+ "path": "/Pink-floyd-money-lyrics",
+ "primary_artist_names": "Pink Floyd",
+ "pyongs_count": 75,
+ "relationships_index_url": "https://genius.com/Pink-floyd-money-sample",
+ "release_date_components": {
+  "year": 1973,
+  "month": 3,
+  "day": 1
+ },
+ "release_date_for_display": "March 1, 1973",
+ "release_date_with_abbreviated_month_for_display": "Mar. 1, 1973",
+ "song_art_image_thumbnail_url": "https://images.genius.com/4d401487c0df60894948e4340012cc56.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/4d401487c0df60894948e4340012cc56.850x850x1.png",
+ "stats": {
+  "unreviewed_annotations": 5,
+  "hot": false,
+  "pageviews": 811448
+ },
+ "title": "Money",
+ "title_with_featured": "Money",
+ "updated_by_human_at": 1721902136,
+ "url": "https://genius.com/Pink-floyd-money-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/694",
+  "header_image_url": "https://images.genius.com/39fff170940f12d3b88db19f01835f1d.500x500x97.gif",
+  "id": 694,
+  "image_url": "https://images.genius.com/6b5c50912d99c3cf0eabfec5f427c452.1000x1000x1.jpg",
+  "index_character": "p",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Pink Floyd",
+  "slug": "Pink-floyd",
+  "url": "https://genius.com/artists/Pink-floyd"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/694",
+   "header_image_url": "https://images.genius.com/39fff170940f12d3b88db19f01835f1d.500x500x97.gif",
+   "id": 694,
+   "image_url": "https://images.genius.com/6b5c50912d99c3cf0eabfec5f427c452.1000x1000x1.jpg",
+   "index_character": "p",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Pink Floyd",
+   "slug": "Pink-floyd",
+   "url": "https://genius.com/artists/Pink-floyd"
+  }
+ ],
+ "artist": "Pink Floyd",
+ "lyrics": "146 ContributorsTranslationsPortugu\u00easEspa\u00f1olNederlandsEnglishEnglish\u0420\u0443\u0441\u0441\u043a\u0438\u0439Money Lyrics[Intro]\n*clinking coins, a ringing cash register, tearing paper, a clicking counting machine and other items in a rhythmic pattern*\n\n[Verse 1]\nMoney, get away\nGet a good job with more pay, and you're okay\nMoney, it's a gas\nGrab that cash with both hands and make a stash\n\n[Refrain]\nNew car, caviar, four-star daydream\nThink I'll buy me a football team\n*clinking noises continue*\n\n[Verse 2]\nMoney, get back\nI'm alright, Jack, keep your hands off of my stack\nMoney, it's a hit\nAh, don't give me that do-goody-good bullshit\n\n[Refrain]\nI'm in the hi-fidelity first class travelling set\nAnd I think I need a Learjet\n[Saxophone Solo]\n[Guitar Solo]\nYou might also like[Verse 3]\nMoney, it's a crime\nShare it fairly, but don't take a slice of my pie\nMoney, so they say\nIs the root of all evil today\n\n[Refrain]\nBut if you ask for a rise\nIt's no surprise that they're giving none away\n\n[Outro: David Gilmour]\nAway, away, away\nAway, away, away, away\nOoh\nAway, ooh\nOoh, ooh\nNo, no, no\nWooh, wooh-ooh-ooh\nNo, no, no\nBah, bah, bah\nWah-bah-bah-woo-hoo-wa-hoo\nDo-da-wa\nDo-do-do-do-do-do-do-do-do-do-do-da-do\nWoo\n\n[Spoken Outro: Overlapping Voices]\n\"Yeah, (*laughter*) I was in the right\"\n\"Yes, absolutely in the right\"\n\"I certainly was in the right\"\n\"Yeah, I was definitely in the right; that geezer was cruising for a bruising\"\n\"Yeah!\"\n\"Why does anyone do anything?\"\n\"I don't know, I was really drunk at the time\"\n\"I was just telling him it was in, he could get it in number two. He was asking why it wasn't coming up on fader eleven. After, I was yelling and screaming and telling him why it wasn't coming up on fader eleven. It came to a heavy blow, which sorted the matter out\u2026\"75Embed"
+}

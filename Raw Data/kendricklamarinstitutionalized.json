@@ -1,0 +1,112 @@
+{
+ "_type": "song",
+ "annotation_count": 29,
+ "api_path": "/songs/722270",
+ "artist_names": "Kendrick Lamar (Ft. Anna Wise, Bilal & Snoop Dogg)",
+ "full_title": "Institutionalized by\u00a0Kendrick\u00a0Lamar (Ft.\u00a0Anna\u00a0Wise, Bilal & Snoop\u00a0Dogg)",
+ "header_image_thumbnail_url": "https://images.genius.com/30bb0a3a3865216c7d7e021d4634265f.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/30bb0a3a3865216c7d7e021d4634265f.1000x1000x1.jpg",
+ "id": 722270,
+ "instrumental": false,
+ "lyrics_owner_id": 104344,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1719440217,
+ "path": "/Kendrick-lamar-institutionalized-lyrics",
+ "primary_artist_names": "Kendrick Lamar",
+ "pyongs_count": 220,
+ "relationships_index_url": "https://genius.com/Kendrick-lamar-institutionalized-sample",
+ "release_date_components": {
+  "year": 2015,
+  "month": 3,
+  "day": 15
+ },
+ "release_date_for_display": "March 15, 2015",
+ "release_date_with_abbreviated_month_for_display": "Mar. 15, 2015",
+ "song_art_image_thumbnail_url": "https://images.genius.com/30bb0a3a3865216c7d7e021d4634265f.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/30bb0a3a3865216c7d7e021d4634265f.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 1354208
+ },
+ "title": "Institutionalized",
+ "title_with_featured": "Institutionalized (Ft.\u00a0Anna\u00a0Wise, Bilal & Snoop\u00a0Dogg)",
+ "updated_by_human_at": 1719440217,
+ "url": "https://genius.com/Kendrick-lamar-institutionalized-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/177",
+   "header_image_url": "https://s3.amazonaws.com/rapgenius/bilal-artist.jpg",
+   "id": 177,
+   "image_url": "https://s3.amazonaws.com/rapgenius/bilal-artist.jpg",
+   "index_character": "b",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Bilal",
+   "slug": "Bilal",
+   "url": "https://genius.com/artists/Bilal",
+   "iq": 1585
+  },
+  {
+   "_type": "artist",
+   "api_path": "/artists/2434",
+   "header_image_url": "https://images.genius.com/52d3ef96434c89335189e622e439c0d2.667x1000x1.jpg",
+   "id": 2434,
+   "image_url": "https://images.genius.com/d3c260e1193228d04e1ef46eedee2a49.1000x1000x1.jpg",
+   "index_character": "a",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Anna Wise",
+   "slug": "Anna-wise",
+   "url": "https://genius.com/artists/Anna-wise",
+   "iq": 219
+  },
+  {
+   "_type": "artist",
+   "api_path": "/artists/46",
+   "header_image_url": "https://images.genius.com/4a8a11f406cfaa80085daaee24b78863.1000x563x1.jpg",
+   "id": 46,
+   "image_url": "https://images.genius.com/91bd22f5e53a3ea3cb1436de8f4a3722.1000x1000x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Snoop Dogg",
+   "slug": "Snoop-dogg",
+   "url": "https://genius.com/artists/Snoop-dogg",
+   "iq": 5227
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1421",
+  "header_image_url": "https://images.genius.com/4167280809fae642bf5093ead523a431.900x900x1.jpg",
+  "id": 1421,
+  "image_url": "https://images.genius.com/577393843e2fe24d9bcb1b6917b81772.1000x1000x1.png",
+  "index_character": "k",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Kendrick Lamar",
+  "slug": "Kendrick-lamar",
+  "url": "https://genius.com/artists/Kendrick-lamar",
+  "iq": 60829
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1421",
+   "header_image_url": "https://images.genius.com/4167280809fae642bf5093ead523a431.900x900x1.jpg",
+   "id": 1421,
+   "image_url": "https://images.genius.com/577393843e2fe24d9bcb1b6917b81772.1000x1000x1.png",
+   "index_character": "k",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Kendrick Lamar",
+   "slug": "Kendrick-lamar",
+   "url": "https://genius.com/artists/Kendrick-lamar",
+   "iq": 60829
+  }
+ ],
+ "artist": "Kendrick Lamar",
+ "lyrics": "329 ContributorsTranslationsPortugu\u00easEspa\u00f1olPolskiSvenska\u0420\u0443\u0441\u0441\u043a\u0438\u0439Fran\u00e7aisInstitutionalized Lyrics[Part I]\n[Intro: Kendrick Lamar]\nWhat money got to do with it\nWhen I don't know the full definition of a rap image?\nI'm trapped inside the ghetto and I ain't proud to admit it\nInstitutionalized, I keep runnin' back for a visit, hol' up\nGet it back\nI said I'm trapped inside the ghetto and I ain't proud to admit it\nInstitutionalized, I could still kill me a nigga, so what?\n\n[Interlude: Anna Wise & Bilal]\nIf I was the president\nI'd pay my mama's rent\nFree my homies and them\nBulletproof my Chevy doors\nLay in the White House and get high, Lord\nWhoever thought?\nMaster, take the chains off me!\n\n[Part II]\n\n[Intro: Taz Arnold]\nZoom, zoom, zoom, zoom, zoom\nZoom, zoom, zoom\nZoom, zoom, zoom, zoom, zoom\nZoom, zoom, zoom\nZoom, zoom, zoom, zoom, zoom\nZoom, zoom, zoom\nZoom, zoom, zoom, shit\nYou might also like[Verse 1: Kendrick Lamar]\nLife, can be like, a box of chocolate\nQuid pro quo, somethin' for somethin', that's the obvious\nOh shit, flow's so sick, don't you swallow it\nBitin' my style, you're salmonella poison positive\nI can just alleviate the rap industry politics\nMilk the game up, never lactose intolerant\nThe last remainder of real shit, you know the obvious\nMe, scholarship? No, streets put me through colleges\nBe all you can be, true, but the problem is\nDream only a dream if work don't follow it\nRemind me of the homies that used to know me, now follow this\nI'll tell you my hypothesis, I'm probably just way too loyal\nK Dizzle will do it for you, my niggas think I'm a god\nTruthfully all of 'em spoiled, usually, you're never charged\nBut somethin' came over you once I took you to them fuckin' BET Awards\nYou lookin' at artistses like they're harvestses\nSo many Rollies around you and you want all of 'em\nSomebody told me you thinkin' 'bout snatchin' jewelry\nI should've listened when my grandmama said to me:\n\n[Chorus: Bilal]\n\"Shit don't change until you get up and wash yo' ass, nigga\nShit don't change until you get up and wash yo' ass, boy\nShit don't change until you get up and wash yo' ass, nigga\nOh now, slow down\"\n[Bridge: Snoop Dogg]\nAnd once upon a time, in a city so divine\nCalled West Side Compton, there stood a little nigga\nHe was five-foot somethin', God bless the kid\nTook his homies to the show and this is what they said:\n[Verse 2: Kendrick Lamar]\n\"Fuck am I 'posed to do when I'm lookin' at walkin' licks?\nThe constant big money talk 'bout the mansion and foreign whips\nThe private jets and passport, presidential glass floor\nGold bottles, gold models, givin' up the ass for\nInstagram flicks, suckin' dick, fuck is this?\nOne more sucker wavin' with a flashy wrist\nMy defense mechanism tell me to get him\nQuickly because he got it\nIt's a recession, then why the fuck he at King of Diamonds?\nNo more livin' poor, meet my four-four\nWhen I see 'em, put the per diem on the floor\nNow Kendrick, know they're your co-workers\nBut it's gon' take a lot 'fore this pistol go cold turkey\nNow I can watch his watch on the TV and be okay\nBut see I'm on the clock once that watch landin' in LA\nRemember steal from the rich and givin' it back to the poor?\nWell, that's me at these awards\"\nI guess my grandmama was warnin' a boy\nShe said\n[Chorus: Bilal]\n\"Shit don't change until you get up and wash yo' ass, nigga\nShit don't change until you get up and wash yo' ass, boy\nShit don't change until you get up and wash yo' ass, nigga\nOh now, slow down\"\n\n[Outro: Snoop Dogg]\nAnd once upon a time, in a city so divine\nCalled West Side Compton, there stood a little nigga\nHe was five-foot something, dazed and confused\nTalented but still under the neighborhood ruse\nYou can take your boy out the hood\nBut you can't take the hood out the homie\nTook his show money, stashed it in the mozey wozey\nHollywood's nervous\nFuck you, goodnight, thank you much for your service220Embed"
+}

@@ -1,0 +1,68 @@
+{
+ "_type": "song",
+ "annotation_count": 12,
+ "api_path": "/songs/71498",
+ "artist_names": "Radiohead",
+ "full_title": "No Surprises by\u00a0Radiohead",
+ "header_image_thumbnail_url": "https://images.genius.com/bb8f17187f42bb0b4a0dcc17cad65355.300x300x1.png",
+ "header_image_url": "https://images.genius.com/bb8f17187f42bb0b4a0dcc17cad65355.1000x1000x1.png",
+ "id": 71498,
+ "instrumental": false,
+ "lyrics_owner_id": 94134,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1719127144,
+ "path": "/Radiohead-no-surprises-lyrics",
+ "primary_artist_names": "Radiohead",
+ "pyongs_count": 117,
+ "relationships_index_url": "https://genius.com/Radiohead-no-surprises-sample",
+ "release_date_components": {
+  "year": 1997,
+  "month": 5,
+  "day": 21
+ },
+ "release_date_for_display": "May 21, 1997",
+ "release_date_with_abbreviated_month_for_display": "May. 21, 1997",
+ "song_art_image_thumbnail_url": "https://images.genius.com/51aff1286ccb8720fe5f16466901c6f9.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/51aff1286ccb8720fe5f16466901c6f9.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "concurrents": 2,
+  "hot": false,
+  "pageviews": 1134609
+ },
+ "title": "No Surprises",
+ "title_with_featured": "No Surprises",
+ "updated_by_human_at": 1719127144,
+ "url": "https://genius.com/Radiohead-no-surprises-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/604",
+  "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+  "id": 604,
+  "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Radiohead",
+  "slug": "Radiohead",
+  "url": "https://genius.com/artists/Radiohead"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/604",
+   "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+   "id": 604,
+   "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+   "index_character": "r",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Radiohead",
+   "slug": "Radiohead",
+   "url": "https://genius.com/artists/Radiohead"
+  }
+ ],
+ "artist": "Radiohead",
+ "lyrics": "145 ContributorsTranslations\u0420\u0443\u0441\u0441\u043a\u0438\u0439DeutschEspa\u00f1olFran\u00e7aisNo Surprises Lyrics[Verse 1]\nA heart that's full up like a landfill\nA job that slowly kills you\nBruises that won't heal\nYou look so tired, unhappy\nBring down the government\nThey don't, they don't speak for us\nI'll take a quiet life\nA handshake of carbon monoxide\n\n[Chorus]\nAnd no alarms and no surprises\nNo alarms and no surprises\nNo alarms and no surprises\nSilent, silent\n[Verse 2]\nThis is my final fit\nMy final bellyache with\n\n[Chorus]\nNo alarms and no surprises\nNo alarms and no surprises\nNo alarms and no surprises, please\n\n[Verse 3]\nSuch a pretty house\nAnd such a pretty garden\nYou might also like[Chorus]\nNo alarms and no surprises\n(Get me out of here)\nNo alarms and no surprises\n(Get me out of here)\nNo alarms and no surprises, please\n(Get me out of here)117Embed"
+}

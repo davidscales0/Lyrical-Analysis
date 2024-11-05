@@ -1,0 +1,68 @@
+{
+ "_type": "song",
+ "annotation_count": 20,
+ "api_path": "/songs/88991",
+ "artist_names": "Billy Joel",
+ "full_title": "Vienna by\u00a0Billy\u00a0Joel",
+ "header_image_thumbnail_url": "https://images.genius.com/e0c93b44fd84bcda00a8adb99115f03b.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/e0c93b44fd84bcda00a8adb99115f03b.1000x1000x1.jpg",
+ "id": 88991,
+ "instrumental": false,
+ "lyrics_owner_id": 1850,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1718538234,
+ "path": "/Billy-joel-vienna-lyrics",
+ "primary_artist_names": "Billy Joel",
+ "pyongs_count": 41,
+ "relationships_index_url": "https://genius.com/Billy-joel-vienna-sample",
+ "release_date_components": {
+  "year": 1977,
+  "month": 11,
+  "day": 29
+ },
+ "release_date_for_display": "November 29, 1977",
+ "release_date_with_abbreviated_month_for_display": "Nov. 29, 1977",
+ "song_art_image_thumbnail_url": "https://images.genius.com/077e11766b2f9fb2b9366843f495d1af.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/077e11766b2f9fb2b9366843f495d1af.800x800x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 11,
+  "concurrents": 2,
+  "hot": false,
+  "pageviews": 1406495
+ },
+ "title": "Vienna",
+ "title_with_featured": "Vienna",
+ "updated_by_human_at": 1718538234,
+ "url": "https://genius.com/Billy-joel-vienna-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/16965",
+  "header_image_url": "https://images.genius.com/e2cd4004dba82509c1dc7be0e1916685.1000x525x1.jpg",
+  "id": 16965,
+  "image_url": "https://images.genius.com/bf102255b675e6d771e87dae8d8ced49.598x598x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Billy Joel",
+  "slug": "Billy-joel",
+  "url": "https://genius.com/artists/Billy-joel"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/16965",
+   "header_image_url": "https://images.genius.com/e2cd4004dba82509c1dc7be0e1916685.1000x525x1.jpg",
+   "id": 16965,
+   "image_url": "https://images.genius.com/bf102255b675e6d771e87dae8d8ced49.598x598x1.jpg",
+   "index_character": "b",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Billy Joel",
+   "slug": "Billy-joel",
+   "url": "https://genius.com/artists/Billy-joel"
+  }
+ ],
+ "artist": "Billy Joel",
+ "lyrics": "97 ContributorsTranslationsDeutschEspa\u00f1olVienna Lyrics[Verse 1]\nSlow down, you crazy child\nYou're so ambitious for a juvenile\nBut then if you're so smart\nTell me why are you still so afraid? Mm\nWhere's the fire, what's the hurry about?\nYou'd better cool it off before you burn it out\nYou've got so much to do\nAnd only so many hours in a day, hey\n\n[Chorus]\nBut you know that when the truth is told\nThat you can get what you want or you can just get old\nYou're gonna kick off before you even get halfway through, ooh\nWhen will you realize Vienna waits for you?\n\n[Verse 2]\nSlow down, you're doin' fine\nYou can't be everything you wanna be before your time\nAlthough it's so romantic on the borderline tonight, tonight\nToo bad, but it's the life you lead\nYou're so ahead of yourself, that you forgot what you need\nThough you can see when you're wrong\nYou know you can't always see when you're right\nYou're right\nSee Billy Joel LiveGet tickets as low as $53You might also like[Chorus]\nYou've got your passion, you've got your pride\nBut don't you know that only fools are satisfied?\nDream on, but don't imagine they'll all come true, ooh\nWhen will you realize Vienna waits for you?\n\n[Instrumental Break]\n\n[Chorus]\nSlow down, you crazy child\nAnd take the phone off the hook and disappear for a while\nIt's all right, you can afford to lose a day or two, ooh\nWhen will you realize Vienna waits for you?\n\n[Outro]\nAnd you know that when the truth is told\nThat you can get what you want or you could just get old\nYou're gonna kick off before you even get halfway through, ooh\nWhy don't you realize Vienna waits for you?\nWhen will you realize Vienna waits for you?41Embed"
+}

@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 16,
+ "api_path": "/songs/93916",
+ "artist_names": "Arctic Monkeys",
+ "full_title": "505 by\u00a0Arctic\u00a0Monkeys",
+ "header_image_thumbnail_url": "https://images.genius.com/6318a87a42a5987190930c42936e96b2.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/6318a87a42a5987190930c42936e96b2.1000x1000x1.jpg",
+ "id": 93916,
+ "instrumental": false,
+ "lyrics_owner_id": 65245,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1721706573,
+ "path": "/Arctic-monkeys-505-lyrics",
+ "primary_artist_names": "Arctic Monkeys",
+ "pyongs_count": 301,
+ "relationships_index_url": "https://genius.com/Arctic-monkeys-505-sample",
+ "release_date_components": {
+  "year": 2007,
+  "month": 4,
+  "day": 18
+ },
+ "release_date_for_display": "April 18, 2007",
+ "release_date_with_abbreviated_month_for_display": "Apr. 18, 2007",
+ "song_art_image_thumbnail_url": "https://images.genius.com/6318a87a42a5987190930c42936e96b2.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/6318a87a42a5987190930c42936e96b2.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 2156017
+ },
+ "title": "505",
+ "title_with_featured": "505",
+ "updated_by_human_at": 1723233078,
+ "url": "https://genius.com/Arctic-monkeys-505-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/12297",
+  "header_image_url": "https://images.genius.com/c3c80cbb98d33004ad932e8e486f4f09.664x1000x1.jpg",
+  "id": 12297,
+  "image_url": "https://images.genius.com/22b5c9613f7cfc559fa2d11e3fcdc829.664x664x1.jpg",
+  "index_character": "a",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Arctic Monkeys",
+  "slug": "Arctic-monkeys",
+  "url": "https://genius.com/artists/Arctic-monkeys"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/12297",
+   "header_image_url": "https://images.genius.com/c3c80cbb98d33004ad932e8e486f4f09.664x1000x1.jpg",
+   "id": 12297,
+   "image_url": "https://images.genius.com/22b5c9613f7cfc559fa2d11e3fcdc829.664x664x1.jpg",
+   "index_character": "a",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Arctic Monkeys",
+   "slug": "Arctic-monkeys",
+   "url": "https://genius.com/artists/Arctic-monkeys"
+  }
+ ],
+ "artist": "Arctic Monkeys",
+ "lyrics": "200 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439ItalianoFran\u00e7aisPortugu\u00easDeutsch\u0627\u0644\u0639\u0631\u0628\u064a\u0629505 Lyrics[Chorus]\nI'm going back to 505\nIf it's a seven hour flight or a forty-five minute drive\nIn my imagination, you're waitin' lyin' on your side\nWith your hands between your thighs\n\n[Verse]\nStop and wait a sec\nAnd when you look at me like that, my darlin'\nWhat did you expect?\nI'd probably still adore you\nWith your hands around my neck\nOr I did last time I checked\nNot shy of a spark\nThe knife twists at the thought\nThat I should fall short of the mark\nFrightened by the bite, though\nIt's no harsher than the bark\nThe middle of adventure\nSuch a perfect place to start\n\n[Chorus]\nI'm going back to 505\nIf it's a seven hour flight or a forty-five minute drive\nIn my imagination, you're waitin' lyin' on your side\nWith your hands between your thighs\nYou might also like[Bridge]\nBut I crumble completely when you cry\nIt seems like once again you've had to greet me with goodbye\nI'm always just about to go and spoil the surprise\nTake my hands off of your eyes too soon\n[Chorus]\nI'm going back to 505\nIf it's a seven hour flight or a forty-five minute drive\nIn my imagination, you're waitin' lyin' on your side\nWith your hands between your thighs and a smile301Embed"
+}

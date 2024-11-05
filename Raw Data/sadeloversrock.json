@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/2289090",
+ "artist_names": "Sade",
+ "full_title": "Lovers Rock by\u00a0Sade",
+ "header_image_thumbnail_url": "https://images.genius.com/b32e1abd26eb8c9ee60cf620cdd0498d.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/b32e1abd26eb8c9ee60cf620cdd0498d.1000x1000x1.jpg",
+ "id": 2289090,
+ "instrumental": false,
+ "lyrics_owner_id": 1611142,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1689091535,
+ "path": "/Sade-lovers-rock-lyrics",
+ "primary_artist_names": "Sade",
+ "pyongs_count": 2,
+ "relationships_index_url": "https://genius.com/Sade-lovers-rock-sample",
+ "release_date_components": {
+  "year": 2000,
+  "month": 11,
+  "day": 13
+ },
+ "release_date_for_display": "November 13, 2000",
+ "release_date_with_abbreviated_month_for_display": "Nov. 13, 2000",
+ "song_art_image_thumbnail_url": "https://images.genius.com/b32e1abd26eb8c9ee60cf620cdd0498d.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/b32e1abd26eb8c9ee60cf620cdd0498d.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 42715
+ },
+ "title": "Lovers Rock",
+ "title_with_featured": "Lovers Rock",
+ "updated_by_human_at": 1689091535,
+ "url": "https://genius.com/Sade-lovers-rock-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/691",
+  "header_image_url": "https://images.genius.com/bfcaa5ba05417c9a5ed17f1cda3aaa5e.537x432x1.jpg",
+  "id": 691,
+  "image_url": "https://images.genius.com/2532eb39b9f3354b048df6db7943cbee.1000x1000x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Sade",
+  "slug": "Sade",
+  "url": "https://genius.com/artists/Sade"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/691",
+   "header_image_url": "https://images.genius.com/bfcaa5ba05417c9a5ed17f1cda3aaa5e.537x432x1.jpg",
+   "id": 691,
+   "image_url": "https://images.genius.com/2532eb39b9f3354b048df6db7943cbee.1000x1000x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Sade",
+   "slug": "Sade",
+   "url": "https://genius.com/artists/Sade"
+  }
+ ],
+ "artist": "Sade",
+ "lyrics": "8 ContributorsLovers Rock Lyrics[Verse 1]\nI am in the wilderness\nYou are in the music\nIn the man's car next to me\nSomewhere in my sadness\nI know I won't fall apart completely\n\n[Verse 2]\nWhen I need to be rescued\nAnd I need a place to swim\nI have a rock to cling to in the storm\nWhen no one can hear me calling\nI have you, I can sing to\n\n[Pre-Chorus]\nAnd in all this\nAnd in all my life\n\n[Chorus]\nYou are the lovers rock\nThe rock that I cling to\nYou're the one\nThe one I swim to in a storm\nLike a lovers rock\n\n[Verse 3]\nI am in the wilderness\nYou are in the music\nIn the man's car next to me\nSomewhere in my sadness\nI know I won't fall apart completely\nYou might also like[Pre-Chorus]\nAnd in all this\nAnd in all my life\n\n[Chorus]\nYou are the lovers rock\nThe rock that I cling to\nYou're the one\nThe one I swim to in a storm\nLike a lovers rock\nYou are the lovers rock\nThe rock that I cling to\nYou're the one\nThe one I swim to in a storm\nLike a lovers rock\n\n[Bridge]\nWhen I need to be rescued, you're there\nWhen I need a place to swim to in a storm\nI think of you\nAnd all my life\nAnd in all my life\n\n[Chorus]\nYou are the lovers rock\nThe rock that I cling to\nYou're the one\nThe one I swim to in a storm\nLike a lovers rock2Embed"
+}

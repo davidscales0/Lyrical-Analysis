@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 10,
+ "api_path": "/songs/8938992",
+ "artist_names": "Daniel Caesar",
+ "full_title": "Shot My Baby by\u00a0Daniel\u00a0Caesar",
+ "header_image_thumbnail_url": "https://images.genius.com/840f8b2841954df45699f0e69dd8f69a.300x300x1.png",
+ "header_image_url": "https://images.genius.com/840f8b2841954df45699f0e69dd8f69a.1000x1000x1.png",
+ "id": 8938992,
+ "instrumental": false,
+ "lyrics_owner_id": 18351235,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1714371883,
+ "path": "/Daniel-caesar-shot-my-baby-lyrics",
+ "primary_artist_names": "Daniel Caesar",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Daniel-caesar-shot-my-baby-sample",
+ "release_date_components": {
+  "year": 2023,
+  "month": 4,
+  "day": 7
+ },
+ "release_date_for_display": "April 7, 2023",
+ "release_date_with_abbreviated_month_for_display": "Apr. 7, 2023",
+ "song_art_image_thumbnail_url": "https://images.genius.com/840f8b2841954df45699f0e69dd8f69a.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/840f8b2841954df45699f0e69dd8f69a.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 10,
+  "hot": false,
+  "pageviews": 22666
+ },
+ "title": "Shot My Baby",
+ "title_with_featured": "Shot My Baby",
+ "updated_by_human_at": 1714371883,
+ "url": "https://genius.com/Daniel-caesar-shot-my-baby-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/161892",
+  "header_image_url": "https://images.genius.com/17851f6df6904b89d22a1553b026c421.745x745x1.jpg",
+  "id": 161892,
+  "image_url": "https://images.genius.com/da9d279cd54cc1592460ac953a65a3d7.950x950x1.png",
+  "index_character": "d",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Daniel Caesar",
+  "slug": "Daniel-caesar",
+  "url": "https://genius.com/artists/Daniel-caesar",
+  "iq": 3659
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/161892",
+   "header_image_url": "https://images.genius.com/17851f6df6904b89d22a1553b026c421.745x745x1.jpg",
+   "id": 161892,
+   "image_url": "https://images.genius.com/da9d279cd54cc1592460ac953a65a3d7.950x950x1.png",
+   "index_character": "d",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Daniel Caesar",
+   "slug": "Daniel-caesar",
+   "url": "https://genius.com/artists/Daniel-caesar",
+   "iq": 3659
+  }
+ ],
+ "artist": "Daniel Caesar",
+ "lyrics": "13 ContributorsTranslationsPortugu\u00easEspa\u00f1olShot My Baby Lyrics[Intro]\nStarin' out my window\nPistol in my palms\nTears soakin' my pillow\nAs I write this song\n\n[Pre-Chorus]\nI caught my lady being untrue\nOh, what was I supposed to do, oh, no\nI had to prove myself a man\n'Cause clearly she don't think I can, oh, no\n\n[Chorus: Daniel Caesar, Justine Skye]\nSingin'\u2014yes\nI shot my baby down that day\nSingin'\u2014yes\nThat nigga too, he stole my place\n(Shot down, shot down my baby, I shot down)\n\n[Verse]\nI stepped inside the room I still have dreams about it\nWhat did I see?\nHis arms are wrapped around you like he's been about it\nI couldn't believe\nExpression that I've never seen you wear before\nClothes that I bought strewn on the floor\nQuietly I closed that bedroom door\nHead\u0435d downstairs to the kitchen drawer\nYou might also like[Chorus: Daniel Caesar, Justine Skye]\nSingin'\u2014y\u0435s\nI shot my baby down that day\n(Shot down, shot down my baby, I shot down)\nSingin'\u2014yes\nThat nigga too, he stole my place, my place\n(Shot down, shot down my baby, I shot down)\n(Shot down, shot down my baby, I shot down)\n(Shot down, shot down my baby, I shot down)\n\n[Refrain]\nSingin'\u2014yes\nI shot my baby down that day\nSingin'\u2014yes\nThat nigga too, he stole my place, my place\n\n[Outro: Justine Skye]\n(Shot down, shot down my baby, I shot down)\n(Shot down, shot down my baby, I shot down)Embed"
+}

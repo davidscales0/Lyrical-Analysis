@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/5508308",
+ "artist_names": "Khruangbin",
+ "full_title": "Connaissais de Face by\u00a0Khruangbin",
+ "header_image_thumbnail_url": "https://images.genius.com/a782fe14ad397449ca54940e6f4c1321.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/a782fe14ad397449ca54940e6f4c1321.1000x1000x1.jpg",
+ "id": 5508308,
+ "instrumental": false,
+ "lyrics_owner_id": 4223378,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1678990632,
+ "path": "/Khruangbin-connaissais-de-face-lyrics",
+ "primary_artist_names": "Khruangbin",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Khruangbin-connaissais-de-face-sample",
+ "release_date_components": {
+  "year": 2020,
+  "month": 6,
+  "day": 26
+ },
+ "release_date_for_display": "June 26, 2020",
+ "release_date_with_abbreviated_month_for_display": "Jun. 26, 2020",
+ "song_art_image_thumbnail_url": "https://images.genius.com/a782fe14ad397449ca54940e6f4c1321.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/a782fe14ad397449ca54940e6f4c1321.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 24645
+ },
+ "title": "Connaissais de Face",
+ "title_with_featured": "Connaissais de Face",
+ "updated_by_human_at": 1678990632,
+ "url": "https://genius.com/Khruangbin-connaissais-de-face-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/672700",
+  "header_image_url": "https://images.genius.com/fd42c9d5628d80fd585c29a4af7112ad.1000x383x1.jpg",
+  "id": 672700,
+  "image_url": "https://images.genius.com/9f0c01896d799fa3c118cf5505b4c35e.835x835x1.jpg",
+  "index_character": "k",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Khruangbin",
+  "slug": "Khruangbin",
+  "url": "https://genius.com/artists/Khruangbin"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/672700",
+   "header_image_url": "https://images.genius.com/fd42c9d5628d80fd585c29a4af7112ad.1000x383x1.jpg",
+   "id": 672700,
+   "image_url": "https://images.genius.com/9f0c01896d799fa3c118cf5505b4c35e.835x835x1.jpg",
+   "index_character": "k",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Khruangbin",
+   "slug": "Khruangbin",
+   "url": "https://genius.com/artists/Khruangbin"
+  }
+ ],
+ "artist": "Khruangbin",
+ "lyrics": "30 ContributorsConnaissais de Face Lyrics[Spoken Word: Mark Speer & Laura Lee]\nM: \"It makes me think of that place.\"\nL: \"I remember. We used to listen to\u2005that\u2005song for days\u2005on end.\"\nM: \"I couldn't get it\u2005out of my head.\"\nL: \"Oh, well it brings back memories.\"\nM: \"Have you heard from Josephine?\"\nL: \"She was always running.\"\nM: \"And I was always swimming.\"\nL: I would have loved to swim, but I had to work\nWho do you remember?\nM: \"I remember John and Dario.\"\nL: \"He asked me to marry him.\"\nM: \"I'm not surprised.\"\n\n[Chorus]\nTe nous connaissais de face\nTu nous\nConnaissais pas par nom\nTe nous connaissais de face\nTu nous\nConnaissais pas par nom\n\n[Spoken Word 2: Mark Speer & Laura Lee]\nL: \"Do you remember Lou?\"\nM: \"Well, of course. She took care of everything.\"\nL: \"She was very much like my grandfather.\"\nM: \"She knew how to enjoy life.\"\nL: \"Shouldn't we all? What about the hurricane?\"\nM: \"When the whole city shut down.\"\nL: \"Yes, but, my lights were still on.\"\nM: \"They always were.\"\nL: \"I didn't know it at the time.\"\nM: \"Time changes everything.\"\nSee Khruangbin LiveGet tickets as low as $21You might also like[Chorus]\nTe nous connaissais de face\nTu nous\nConnaissais pas par nom\nTe nous connaissais de face\nTu nous\nConnaissais pas par nom\n\n[Spoken Word 3: Mark Speer & Laura Lee]\nL: \"I have lived at least nine lives.\"\nM: \"So, are you a cat?\"\nL: \"A tiger is a... (Te nous connaissais de face)\nKind of cat.\"\nM: \"Have you earned your stripes?\"\n(Te nous connaissais de face)\nL: \"I like to go where I choose to go.\"\n(Te nous connaissais de face)\nM: \"So you have?\nL: \"Maybe you do too.\"\n(Te nous connaissais de face)\n\n[Outro]\n(Te nous connaissais de face)1Embed"
+}

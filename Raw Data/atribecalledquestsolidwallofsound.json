@@ -1,0 +1,108 @@
+{
+ "_type": "song",
+ "annotation_count": 11,
+ "api_path": "/songs/2904583",
+ "artist_names": "A Tribe Called Quest (Ft. Busta Rhymes, Elton John & Jack White)",
+ "full_title": "Solid Wall of Sound by\u00a0A\u00a0Tribe Called Quest (Ft.\u00a0Busta\u00a0Rhymes, Elton\u00a0John & Jack\u00a0White)",
+ "header_image_thumbnail_url": "https://images.genius.com/09e256ce885fe6b3cf181239c3b3231c.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/09e256ce885fe6b3cf181239c3b3231c.1000x1000x1.jpg",
+ "id": 2904583,
+ "instrumental": false,
+ "lyrics_owner_id": 88410,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1699168266,
+ "path": "/A-tribe-called-quest-solid-wall-of-sound-lyrics",
+ "primary_artist_names": "A Tribe Called Quest",
+ "pyongs_count": 13,
+ "relationships_index_url": "https://genius.com/A-tribe-called-quest-solid-wall-of-sound-sample",
+ "release_date_components": {
+  "year": 2016,
+  "month": 11,
+  "day": 11
+ },
+ "release_date_for_display": "November 11, 2016",
+ "release_date_with_abbreviated_month_for_display": "Nov. 11, 2016",
+ "song_art_image_thumbnail_url": "https://images.genius.com/09e256ce885fe6b3cf181239c3b3231c.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/09e256ce885fe6b3cf181239c3b3231c.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 136333
+ },
+ "title": "Solid Wall of Sound",
+ "title_with_featured": "Solid Wall of Sound (Ft.\u00a0Busta\u00a0Rhymes, Elton\u00a0John & Jack\u00a0White)",
+ "updated_by_human_at": 1699168266,
+ "url": "https://genius.com/A-tribe-called-quest-solid-wall-of-sound-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/338",
+   "header_image_url": "https://images.genius.com/3b5bbef2983cf4f309a6cdf466a530a1.1000x667x1.jpg",
+   "id": 338,
+   "image_url": "https://images.genius.com/d872e4b2ec49a47787457eac5fba7895.1000x1000x1.jpg",
+   "index_character": "b",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Busta Rhymes",
+   "slug": "Busta-rhymes",
+   "url": "https://genius.com/artists/Busta-rhymes",
+   "iq": 402
+  },
+  {
+   "_type": "artist",
+   "api_path": "/artists/12459",
+   "header_image_url": "https://images.genius.com/fa98d8ba4fab2d7070805157f26b5be7.1000x667x1.jpg",
+   "id": 12459,
+   "image_url": "https://images.genius.com/f0742356155b325754af2059a778113a.667x667x1.jpg",
+   "index_character": "j",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Jack White",
+   "slug": "Jack-white",
+   "url": "https://genius.com/artists/Jack-white"
+  },
+  {
+   "_type": "artist",
+   "api_path": "/artists/560",
+   "header_image_url": "https://images.genius.com/0da6c62176ca98e3197d3635ae8f5134.1000x333x1.jpg",
+   "id": 560,
+   "image_url": "https://images.genius.com/08208ed49e1c3f811ae93f1c4f8bceb5.395x395x1.jpg",
+   "index_character": "e",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Elton John",
+   "slug": "Elton-john",
+   "url": "https://genius.com/artists/Elton-john"
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/519",
+  "header_image_url": "https://images.genius.com/54015a0b5441c3e94ff76a375494b4a6.996x608x1.jpg",
+  "id": 519,
+  "image_url": "https://images.genius.com/44b3a90b2fcd09c5df186054d02c2817.545x545x1.png",
+  "index_character": "t",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "A Tribe Called Quest",
+  "slug": "A-tribe-called-quest",
+  "url": "https://genius.com/artists/A-tribe-called-quest"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/519",
+   "header_image_url": "https://images.genius.com/54015a0b5441c3e94ff76a375494b4a6.996x608x1.jpg",
+   "id": 519,
+   "image_url": "https://images.genius.com/44b3a90b2fcd09c5df186054d02c2817.545x545x1.png",
+   "index_character": "t",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "A Tribe Called Quest",
+   "slug": "A-tribe-called-quest",
+   "url": "https://genius.com/artists/A-tribe-called-quest"
+  }
+ ],
+ "artist": "A Tribe Called Quest",
+ "lyrics": "79 ContributorsSolid Wall of Sound Lyrics[Chorus: Elton John, A Tribe Called Quest]\nGonna hear electric music (What you gon' hear?)\nGonna hear electric music (What you gon' hear?)\nGonna hear electric music\nSolid walls of sound\nSolid walls of sound\n(Solid wall of sound, solid wall of sound)\nSolid walls of sound\n(Solid wall of sound, solid wall of sound)\nSolid walls of sound\n(Pressure breaking ground, pressure breaking sound)\nSolid walls of sound\n(Solid wall of sound, solid wall of sound)\nSolid walls of sound\n(Tip and Phife in town, Tip and Phife in town)\nSolid walls of sound\n(Solid wall of sound, solid wall of sound)\nSolid walls of sound\n(Solid wall of sound, pushing breaking ground)\nSolid walls of sound\n(Solid wall of sound, solid wall of sound)\nSolid walls of sound (Jedi, Ali, Phifey, Tip)\nSolid walls of sound (Jedi, Ali, Phifey, Tip)\nSolid walls of sound (Jedi, Ali, Phifey, Tip)\nSolid walls of sound (Jedi, Phifey, Phifey)\nYou might also like[Verse 1: Phife Dawg & Q-Tip]\nYo, ATCQ, Massive and crew\nBars to any beat, we beat the beat for true\nMassengale MC\u2019s, you smell like pussy stew\nDon\u2019t let it be you, man up my youth\nPhife, you should've spoke of, man you'rein the mode of\nLeave that to me, el-Hajj Malik\nThe man with a plan who went for it all\nLike Marauders on a mission when we killin' dance halls\nMmm, Saga boy, Trini man\nRide out when mic is in mi hand\nLoved all of mi fans, one, two, three of dem all of the gang\n\n[Verse 2: Busta Rhymes, Q-Tip & Phife]\nWith a couple pound a weed and a couple dollar van\nHmm, broke pockets, find another plan\nYeah, cyan dun, push up on the one\nAnd big up the sound man, dibby dibby DJ walk\nAyo Bus with them a talk\nThey don\u2019t want no prob, they don\u2019t want no issue\nOutline them in bloodclaat chalk\nEarlier in the night when we bring out the music\nWith a box and a band killer sound boy movement\nLive and direct when it all goes down\nYou an idiot boy, you don't wanna fuck round\nBig tune make the world go round\nMake way for the sound boy crown\nDon't you know we're the wickedest sound\nOne box off in your face make a sound boy frown\n[Bridge: Elton John & A Tribe Called Quest]\nSolid wall of sound, solid wall of sound\nSolid wall of sound, solid wall of sound\nSolid wall of sound, solid wall of sound\nSolid wall of sound, solid wall of sound\nSolid wall of sound, solid wall of sound\nSolid wall of sound, solid wall of sound\nSolid wall of sound, solid wall of sound\nSolid wall of sound, solid wall of sound\n\n[Outro: Q-Tip & Elton John]\nSound checking, a million watts are shaking the room\nIn just a few hours you're gonna feel the burn\nAll of the goons are checking their guns at the door\nA solid wall of sound is here on tour\nIt's gonna get loud\u2014so no phones allowed\nIt's gonna get loud\u2014so no phones allowed13Embed"
+}

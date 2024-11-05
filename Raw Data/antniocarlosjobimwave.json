@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/1204991",
+ "artist_names": "Ant\u00f4nio Carlos Jobim",
+ "full_title": "Wave by\u00a0Ant\u00f4nio\u00a0Carlos Jobim",
+ "header_image_thumbnail_url": "https://images.genius.com/9b5eeec3370f46d5e8a55e6c2a795f1b.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/9b5eeec3370f46d5e8a55e6c2a795f1b.395x395x1.jpg",
+ "id": 1204991,
+ "instrumental": false,
+ "lyrics_owner_id": 1549345,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1700786016,
+ "path": "/Antonio-carlos-jobim-wave-lyrics",
+ "primary_artist_names": "Ant\u00f4nio Carlos Jobim",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Antonio-carlos-jobim-wave-sample",
+ "release_date_components": {
+  "year": 1967,
+  "month": 10,
+  "day": null
+ },
+ "release_date_for_display": "October 1967",
+ "release_date_with_abbreviated_month_for_display": "Oct. 1967",
+ "song_art_image_thumbnail_url": "https://images.genius.com/9b5eeec3370f46d5e8a55e6c2a795f1b.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/9b5eeec3370f46d5e8a55e6c2a795f1b.395x395x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 34863
+ },
+ "title": "Wave",
+ "title_with_featured": "Wave",
+ "updated_by_human_at": 1700786017,
+ "url": "https://genius.com/Antonio-carlos-jobim-wave-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/370933",
+  "header_image_url": "https://images.genius.com/3aab6dc75211b885a75d2d95cdbb0eee.530x530x1.jpg",
+  "id": 370933,
+  "image_url": "https://images.genius.com/3aab6dc75211b885a75d2d95cdbb0eee.530x530x1.jpg",
+  "index_character": "a",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Ant\u00f4nio Carlos Jobim",
+  "slug": "Antonio-carlos-jobim",
+  "url": "https://genius.com/artists/Antonio-carlos-jobim"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/370933",
+   "header_image_url": "https://images.genius.com/3aab6dc75211b885a75d2d95cdbb0eee.530x530x1.jpg",
+   "id": 370933,
+   "image_url": "https://images.genius.com/3aab6dc75211b885a75d2d95cdbb0eee.530x530x1.jpg",
+   "index_character": "a",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Ant\u00f4nio Carlos Jobim",
+   "slug": "Antonio-carlos-jobim",
+   "url": "https://genius.com/artists/Antonio-carlos-jobim"
+  }
+ ],
+ "artist": "Ant\u00f4nio Carlos Jobim",
+ "lyrics": "8 ContributorsWave LyricsVou te contar, os olhos j\u00e1 n\u00e3o podem ver\nCoisas que s\u00f3 o cora\u00e7\u00e3o pode entender\nFundamental \u00e9 mesmo o amor\n\u00c9 imposs\u00edvel ser feliz sozinho\n\nO resto \u00e9 mar, e tudo que eu n\u00e3o sei contar\nS\u00e3o coisas lindas que eu tenho pra te dar\nVem de mansinho a brisa e me diz\n\u00c9 imposs\u00edvel ser feliz sozinho\n\nDa primeira vez era a cidade\nDa segunda o cais e a eternidade\n\nAgora eu j\u00e1 sei, da onda que se ergueu no mar\nE das estrelas que esquecemos de contar\nO amor se deixa surpreender\nEnquanto a noite vem nos envolverYou might also like1Embed"
+}

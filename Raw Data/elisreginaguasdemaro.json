@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/1329076",
+ "artist_names": "Elis Regina",
+ "full_title": "\u00c1guas de Mar\u00e7o by\u00a0Elis\u00a0Regina",
+ "header_image_thumbnail_url": "https://images.genius.com/db2c86d1ad4add32ce32e4f70ec6d2f1.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/db2c86d1ad4add32ce32e4f70ec6d2f1.800x800x1.jpg",
+ "id": 1329076,
+ "instrumental": false,
+ "lyrics_owner_id": 1790201,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1515370625,
+ "path": "/Elis-regina-aguas-de-marco-lyrics",
+ "primary_artist_names": "Elis Regina",
+ "pyongs_count": 4,
+ "relationships_index_url": "https://genius.com/Elis-regina-aguas-de-marco-sample",
+ "release_date_components": {
+  "year": 1973,
+  "month": null,
+  "day": null
+ },
+ "release_date_for_display": "1973",
+ "release_date_with_abbreviated_month_for_display": "1973",
+ "song_art_image_thumbnail_url": "https://images.genius.com/db2c86d1ad4add32ce32e4f70ec6d2f1.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/db2c86d1ad4add32ce32e4f70ec6d2f1.800x800x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 18552
+ },
+ "title": "\u00c1guas de Mar\u00e7o",
+ "title_with_featured": "\u00c1guas de Mar\u00e7o",
+ "updated_by_human_at": 1670290262,
+ "url": "https://genius.com/Elis-regina-aguas-de-marco-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/211669",
+  "header_image_url": "https://images.genius.com/881f72ee5004ef462bfe4daded20f91c.1000x563x1.jpg",
+  "id": 211669,
+  "image_url": "https://images.genius.com/f900ea5d3cbafab39219e28839f44e76.1000x1000x1.jpg",
+  "index_character": "e",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Elis Regina",
+  "slug": "Elis-regina",
+  "url": "https://genius.com/artists/Elis-regina"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/211669",
+   "header_image_url": "https://images.genius.com/881f72ee5004ef462bfe4daded20f91c.1000x563x1.jpg",
+   "id": 211669,
+   "image_url": "https://images.genius.com/f900ea5d3cbafab39219e28839f44e76.1000x1000x1.jpg",
+   "index_character": "e",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Elis Regina",
+   "slug": "Elis-regina",
+   "url": "https://genius.com/artists/Elis-regina"
+  }
+ ],
+ "artist": "Elis Regina",
+ "lyrics": "16 Contributors\u00c1guas de Mar\u00e7o Lyrics\u00c9 pau, \u00e9 pedra\n\u00c9 o fim do caminho\n\u00c9 um resto de toco\n\u00c9 um pouco sozinho\n\n\u00c9 um caco de vidro\n\u00c9 a vida, \u00e9 o sol\n\u00c9 a noite \u00e9 a morte\n\u00c9 um la\u00e7o, \u00e9 o anzol\n\n\u00c9 peroba do campo\n\u00c9 o n\u00f3 da madeira\nCaing\u00e1, Candeia\n\u00c9 o matita-pereira\n\n\u00c9 madeira de vento\nTombo da ribanceira\n\u00c9 um mist\u00e9rio profundo\n\u00c9 o queira ou n\u00e3o queira\n\n\u00c9 o vento ventando\n\u00c9 o fim da ladeira\n\u00c9 a viga, \u00e9 o v\u00e3o\nFesta da Cumeeira\n\n\u00c9 a chuva chovendo\n\u00c9 conversa ribeira\nDas \u00e1guas de mar\u00e7o\n\u00c9 o fim da canseira\nYou might also like\u00c9 o p\u00e9, \u00e9 o ch\u00e3o\n\u00c9 a marcha estradeira\nPassarinho na m\u00e3o\nPedra de atiradeira\n\n\u00c9 uma ave no c\u00e9u\n\u00c9 uma ave no ch\u00e3o\n\u00c9 um regato \u00e9 uma fonte\n\u00c9 um peda\u00e7o de p\u00e3o\n\n\u00c9 o fundo do po\u00e7o\n\u00c9 o fim do caminho\nNo rosto um desgosto\n\u00c9 um pouco sozinho\n\n\u00c9 um estrepe, \u00e9 um prego\n\u00c9 uma ponta, \u00e9 um ponto\n\u00c9 um pingo, pingando\n\u00c9 uma conta, \u00e9 um conto\n\n\u00c9 um peixe, \u00e9 um gesto\n\u00c9 uma prata brilhando\n\u00c9 a luz da manh\u00e3\n\u00c9 o tijolo chegando\n\n\u00c9 a lenha, \u00e9 o dia\n\u00c9 o fim da picada\n\u00c9 a garrafa de cana\nEstilha\u00e7o na estrada\n\u00c9 o projeto da casa\n\u00c9 o corpo na cama\n\u00c9 o carro engui\u00e7ado\n\u00c9 a lama, \u00e9 a lama\n\n\u00c9 um passo \u00e9 uma ponte\n\u00c9 um sapo, \u00e9 uma r\u00e3\n\u00c9 um resto de mato\nNa luz da manh\u00e3\n\nS\u00e3o as \u00e1guas de mar\u00e7o\nFechando o ver\u00e3o\nE a promessa de vida\nNo teu cora\u00e7\u00e3o\n\n\u00c9 pau, \u00e9 pedra\n\u00c9 o fim do caminho\n\u00c9 um resto de toco\n\u00c9 um pouco sozinho\n\n\u00c9 uma cobra \u00e9 um pau\n\u00c9 Jo\u00e3o \u00e9 Jos\u00e9\n\u00c9 um espinho na m\u00e3o\n\u00c9 um corte no p\u00e9\n\nS\u00e3o as \u00e1guas de mar\u00e7o\nFechando o ver\u00e3o\n\u00c9 a promessa de vida\nNo teu cora\u00e7\u00e3o\n\u00c9 pau, \u00e9 pedra\n\u00c9 o fim do caminho\n\u00c9 um resto de toco\n\u00c9 um pouco sozinho\n\n\u00c9 um passo \u00e9 uma ponte\n\u00c9 um sapo, \u00e9 uma r\u00e3\n\u00c9 um belo horizonte\n\u00c9 uma febre ter\u00e7\u00e3\n\nS\u00e3o as \u00e1guas de mar\u00e7o\nFechando o ver\u00e3o\n\u00c9 a promessa de vida\nNo teu cora\u00e7\u00e3o\n\n\u00c9 pau, \u00e9 pedra\n\u00c9 o fim do caminho\n\u00c9 um resto de toco\n\u00c9 um pouco sozinho4Embed"
+}

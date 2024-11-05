@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/8163172",
+ "artist_names": "Burna Boy",
+ "full_title": "Common Person by\u00a0Burna\u00a0Boy",
+ "header_image_thumbnail_url": "https://images.genius.com/ca5592c9b8be79abfcc2be6d0f06b8eb.300x300x1.png",
+ "header_image_url": "https://images.genius.com/ca5592c9b8be79abfcc2be6d0f06b8eb.1000x1000x1.png",
+ "id": 8163172,
+ "instrumental": false,
+ "lyrics_owner_id": 14287967,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1718215897,
+ "path": "/Burna-boy-common-person-lyrics",
+ "primary_artist_names": "Burna Boy",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Burna-boy-common-person-sample",
+ "release_date_components": {
+  "year": 2022,
+  "month": 7,
+  "day": 8
+ },
+ "release_date_for_display": "July 8, 2022",
+ "release_date_with_abbreviated_month_for_display": "Jul. 8, 2022",
+ "song_art_image_thumbnail_url": "https://images.genius.com/ca5592c9b8be79abfcc2be6d0f06b8eb.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/ca5592c9b8be79abfcc2be6d0f06b8eb.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 100623
+ },
+ "title": "Common Person",
+ "title_with_featured": "Common Person",
+ "updated_by_human_at": 1718215897,
+ "url": "https://genius.com/Burna-boy-common-person-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/39313",
+  "header_image_url": "https://images.genius.com/cef71f532763e70953a596e2bd5c2cac.1000x229x1.jpg",
+  "id": 39313,
+  "image_url": "https://images.genius.com/7af3374828b9ef22cc7373741880a597.1000x1000x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Burna Boy",
+  "slug": "Burna-boy",
+  "url": "https://genius.com/artists/Burna-boy",
+  "iq": 758
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/39313",
+   "header_image_url": "https://images.genius.com/cef71f532763e70953a596e2bd5c2cac.1000x229x1.jpg",
+   "id": 39313,
+   "image_url": "https://images.genius.com/7af3374828b9ef22cc7373741880a597.1000x1000x1.jpg",
+   "index_character": "b",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Burna Boy",
+   "slug": "Burna-boy",
+   "url": "https://genius.com/artists/Burna-boy",
+   "iq": 758
+  }
+ ],
+ "artist": "Burna Boy",
+ "lyrics": "30 ContributorsTranslationsPortugu\u00easCommon Person Lyrics[Intro]\n(Fun\u2014)\n(Funkula)\n\n[Verse 1]\nNa me wey dey clean una house\nNa me wey dey wash una car\nNa me wey dey cook ununu\nNa me wey dey wash una cloth\nNa me wey dey work for your shop\nNa me wey dey hawk ununu\n\n[Chorus]\nI be common person, but my happiness, oh, still be my own\nEverybody get role, no mean say your own role passin' my own\n\n[Chorus]\nI be common person, but my happiness, oh, still be my own\nEverybody get role, no mean say your own role passin' my own\n\n[Verse 2]\nBecause na God, I dey put all my faith, food for my plate\nFit no do m\u0435 jo\nMm, agbana oso\nEven as things no dey go my way\nEven in days I no g\u0435t nothing at all\nMm, agbana oso\nSee Burna Boy LiveGet tickets as low as $158You might also like[Verse 3]\nNa me wey dey drive your bus\nNa me wey dey drive your keke\nMm, agbana oso\nNa me wey dey run around\nNa me dey ddo the job\nMm, agbana oso\n\n[Instrumental Break]\n\n[Chorus]\nI be common person, but my happiness, oh, still be my own\nEverybody get role, no mean say your own role passin' my ownEmbed"
+}

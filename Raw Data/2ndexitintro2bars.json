@@ -1,0 +1,66 @@
+{
+ "_type": "song",
+ "annotation_count": 0,
+ "api_path": "/songs/3772964",
+ "artist_names": "2nd Exit",
+ "full_title": "Intro - 2 Bars by\u00a02nd\u00a0Exit",
+ "header_image_thumbnail_url": "https://images.genius.com/b6667d95f0c412b6c5bb025c49873e76.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/b6667d95f0c412b6c5bb025c49873e76.970x970x1.jpg",
+ "id": 3772964,
+ "instrumental": false,
+ "lyrics_owner_id": 291460,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1593987602,
+ "path": "/2nd-exit-intro-2-bars-lyrics",
+ "primary_artist_names": "2nd Exit",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/2nd-exit-intro-2-bars-sample",
+ "release_date_components": {
+  "year": 2016,
+  "month": 9,
+  "day": 13
+ },
+ "release_date_for_display": "September 13, 2016",
+ "release_date_with_abbreviated_month_for_display": "Sep. 13, 2016",
+ "song_art_image_thumbnail_url": "https://images.genius.com/b6667d95f0c412b6c5bb025c49873e76.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/b6667d95f0c412b6c5bb025c49873e76.970x970x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Intro - 2 Bars",
+ "title_with_featured": "Intro - 2 Bars",
+ "updated_by_human_at": 1612474847,
+ "url": "https://genius.com/2nd-exit-intro-2-bars-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1185474",
+  "header_image_url": "https://images.genius.com/b72db63042bdd4065d4b2e76c803a27c.400x400x1.jpg",
+  "id": 1185474,
+  "image_url": "https://images.genius.com/b72db63042bdd4065d4b2e76c803a27c.400x400x1.jpg",
+  "index_character": "0",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "2nd Exit",
+  "slug": "2nd-exit",
+  "url": "https://genius.com/artists/2nd-exit"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1185474",
+   "header_image_url": "https://images.genius.com/b72db63042bdd4065d4b2e76c803a27c.400x400x1.jpg",
+   "id": 1185474,
+   "image_url": "https://images.genius.com/b72db63042bdd4065d4b2e76c803a27c.400x400x1.jpg",
+   "index_character": "0",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "2nd Exit",
+   "slug": "2nd-exit",
+   "url": "https://genius.com/artists/2nd-exit"
+  }
+ ],
+ "artist": "2nd Exit",
+ "lyrics": "1 ContributorIntro - 2 Bars LyricsI'll try be way more laid back\nLike almost talking\nYou know conversational\nHuh-uhhhh\nSay hello\nHello, hello\n\nWhether you love me or love me not\nThere's only so much time here on this bumpy rock\nHow come we lost our sense of pride\nOur enterprise is desensitized but never mind\nForever blind we gather by the lights\nHoping for a sense of purpose circling in the circus\nNervously approaching closing in\nWounds opening but we try suppress the surfacing emotions\nCourteously coping waiting for a glint of light\nTo crack through the curtain but damn man it's hurting bad\nBut still we persevere it's the perfect plan\nTurn the camera off observe the manner\nOf the man upstairs watch each step take note\nCos there's no limit to the plot\nNo power in the vote now it's just a joke\nFaith and hope fell in love and now is an eloped\nAnd now I'm all alone with no power on my phone\nNo change in my pocket at home cold showers\nAre the topic of discussion, lost within disruption\nWhile other people try obtain the opposite of nothing\nPositive I'm strutting in the right direction\nHonestly my compass is confused needs correction\nCos it's pointing to the past we need the present\nSee the point is to advanced heed the lessonYou might also likeEmbed"
+}

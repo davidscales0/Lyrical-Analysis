@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 10,
+ "api_path": "/songs/84898",
+ "artist_names": "Jeff Buckley",
+ "full_title": "Dream Brother by\u00a0Jeff\u00a0Buckley",
+ "header_image_thumbnail_url": "https://images.genius.com/8dd609cb1f601ff21ec21c888cc25773.300x300x1.png",
+ "header_image_url": "https://images.genius.com/8dd609cb1f601ff21ec21c888cc25773.1000x1000x1.png",
+ "id": 84898,
+ "instrumental": false,
+ "lyrics_owner_id": 1850,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1722038850,
+ "path": "/Jeff-buckley-dream-brother-lyrics",
+ "primary_artist_names": "Jeff Buckley",
+ "pyongs_count": 11,
+ "relationships_index_url": "https://genius.com/Jeff-buckley-dream-brother-sample",
+ "release_date_components": {
+  "year": 1994,
+  "month": 8,
+  "day": 23
+ },
+ "release_date_for_display": "August 23, 1994",
+ "release_date_with_abbreviated_month_for_display": "Aug. 23, 1994",
+ "song_art_image_thumbnail_url": "https://images.genius.com/8dd609cb1f601ff21ec21c888cc25773.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/8dd609cb1f601ff21ec21c888cc25773.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 59853
+ },
+ "title": "Dream Brother",
+ "title_with_featured": "Dream Brother",
+ "updated_by_human_at": 1722038879,
+ "url": "https://genius.com/Jeff-buckley-dream-brother-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/22481",
+  "header_image_url": "https://images.genius.com/3d7a1d3c48f0cebdb4bc40640b51b9f1.500x282x1.jpg",
+  "id": 22481,
+  "image_url": "https://images.genius.com/5d911fefb4b0739b08193a0de4c62650.620x349x1.jpg",
+  "index_character": "j",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Jeff Buckley",
+  "slug": "Jeff-buckley",
+  "url": "https://genius.com/artists/Jeff-buckley"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/22481",
+   "header_image_url": "https://images.genius.com/3d7a1d3c48f0cebdb4bc40640b51b9f1.500x282x1.jpg",
+   "id": 22481,
+   "image_url": "https://images.genius.com/5d911fefb4b0739b08193a0de4c62650.620x349x1.jpg",
+   "index_character": "j",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Jeff Buckley",
+   "slug": "Jeff-buckley",
+   "url": "https://genius.com/artists/Jeff-buckley"
+  }
+ ],
+ "artist": "Jeff Buckley",
+ "lyrics": "37 ContributorsTranslationsFran\u00e7aisEspa\u00f1olDream Brother Lyrics[Verse 1]\nThere is a child sleeping near his twin\nThe pictures go wild in a rush of wind\nThat dark angel, he is shuffling in\nWatching over them with his black feather wings unfurled\n\n[Verse 2]\nThe love you lost with her skin so fair\nIs free with the wind in her butterscotch hair\nHer green eyes blew goodbyes\nWith her head in her hands\nAnd your kiss on the lips of another\nDream, brother with your tears scattered round the world\n\n[Chorus]\nDon't be like the one who made me so old\nDon't be like the one who left behind his name\n'Cause they're waiting for you like I waited for mine\nAnd nobody ever came\n\n[Instrumental Break]\n\n[Chorus]\nDon't be like the one who made me so old\nDon't be like the one who left behind his name\n'Cause they're waiting for you like I waited for mine\nAnd nobody ever came\nDon't be like the one who made me so old\nDon't be like the one who left behind his name\n'Cause they're waiting for you like I waited for mine\nAnd nobody ever came (Nobody ever came)\nYou might also like[Verse 3]\nI feel afraid and I call your name\nI love your voice and your dance insane, I\nI hear your words and I know your pain\nWith your head in your hands and her kiss on the lips of another\nYour eyes to the ground and the world spinning round forever\nAsleep in the sand with the ocean washing over11Embed"
+}

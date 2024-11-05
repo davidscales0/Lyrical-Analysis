@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 12,
+ "api_path": "/songs/84897",
+ "artist_names": "Jeff Buckley",
+ "full_title": "Eternal Life by\u00a0Jeff\u00a0Buckley",
+ "header_image_thumbnail_url": "https://images.genius.com/66b55f9d1b19c0c9ddf19d44591344ad.300x299x1.jpg",
+ "header_image_url": "https://images.genius.com/66b55f9d1b19c0c9ddf19d44591344ad.599x598x1.jpg",
+ "id": 84897,
+ "instrumental": false,
+ "lyrics_owner_id": 1850,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1722363648,
+ "path": "/Jeff-buckley-eternal-life-lyrics",
+ "primary_artist_names": "Jeff Buckley",
+ "pyongs_count": 5,
+ "relationships_index_url": "https://genius.com/Jeff-buckley-eternal-life-sample",
+ "release_date_components": {
+  "year": 1994,
+  "month": 8,
+  "day": 23
+ },
+ "release_date_for_display": "August 23, 1994",
+ "release_date_with_abbreviated_month_for_display": "Aug. 23, 1994",
+ "song_art_image_thumbnail_url": "https://images.genius.com/66b55f9d1b19c0c9ddf19d44591344ad.300x299x1.jpg",
+ "song_art_image_url": "https://images.genius.com/66b55f9d1b19c0c9ddf19d44591344ad.599x598x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 9,
+  "hot": false,
+  "pageviews": 43783
+ },
+ "title": "Eternal Life",
+ "title_with_featured": "Eternal Life",
+ "updated_by_human_at": 1722363648,
+ "url": "https://genius.com/Jeff-buckley-eternal-life-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/22481",
+  "header_image_url": "https://images.genius.com/3d7a1d3c48f0cebdb4bc40640b51b9f1.500x282x1.jpg",
+  "id": 22481,
+  "image_url": "https://images.genius.com/5d911fefb4b0739b08193a0de4c62650.620x349x1.jpg",
+  "index_character": "j",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Jeff Buckley",
+  "slug": "Jeff-buckley",
+  "url": "https://genius.com/artists/Jeff-buckley"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/22481",
+   "header_image_url": "https://images.genius.com/3d7a1d3c48f0cebdb4bc40640b51b9f1.500x282x1.jpg",
+   "id": 22481,
+   "image_url": "https://images.genius.com/5d911fefb4b0739b08193a0de4c62650.620x349x1.jpg",
+   "index_character": "j",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Jeff Buckley",
+   "slug": "Jeff-buckley",
+   "url": "https://genius.com/artists/Jeff-buckley"
+  }
+ ],
+ "artist": "Jeff Buckley",
+ "lyrics": "40 ContributorsTranslationsEspa\u00f1olEternal Life Lyrics[Verse 1]\nEternal life is now on my trail\nGot my red glitter coffin, man, just need one last nail\nWhile all these ugly gentlemen play out their foolish games\nThere's a flaming red horizon that screams our names\n\n[Chorus]\nAnd as your fantasies are broken in two\nDid you really think this bloody road\nWould pave the way for you?\nYou better turn around\nAnd blow your kiss hello to life eternal, angel\n\n[Verse 2]\nRacist angry man, what have you done?\nMan, you've made a killer of your unborn son\nOh, crown my fear your king at the point of a gun\nAll I want to do is love everyone\n\n[Chorus]\nAnd as your fantasies are broken in two\nDid you really think this bloody road\nWould pave the way for you?\nYou better turn around\nAnd blow your kiss hello to life eternal\nYou might also like[Interlude]\nOh, oh-oh\nYeah\nOh-ah\nYeah\n\n[Bridge]\nThere's no time for hatred, only questions\nWhat is love? Where is happiness?\nWhat is life? Where is peace?\nWhen will I find the strength to bring me release?\n\n[Verse 3]\nTell me where is the love in what your prophet has said?\nMan, it sounds to me just like a prison for the walking dead\nAnd I've got a message for you and your twisted hell\nYou better turn around and blow your kiss goodbye to life eternal, angel, yeah\n\n[Outro]\nAngel\nYeah, angel\nOoh, God, yeah\nOoh5Embed"
+}

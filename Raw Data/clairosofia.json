@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 7,
+ "api_path": "/songs/4631315",
+ "artist_names": "Clairo",
+ "full_title": "Sofia by\u00a0Clairo",
+ "header_image_thumbnail_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.300x300x1.png",
+ "header_image_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.1000x1000x1.png",
+ "id": 4631315,
+ "instrumental": false,
+ "lyrics_owner_id": 5768480,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1680737284,
+ "path": "/Clairo-sofia-lyrics",
+ "primary_artist_names": "Clairo",
+ "pyongs_count": 70,
+ "relationships_index_url": "https://genius.com/Clairo-sofia-sample",
+ "release_date_components": {
+  "year": 2019,
+  "month": 7,
+  "day": 26
+ },
+ "release_date_for_display": "July 26, 2019",
+ "release_date_with_abbreviated_month_for_display": "Jul. 26, 2019",
+ "song_art_image_thumbnail_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/08dcb11c5d99d150b17b92a5e0f1f8b4.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 734365
+ },
+ "title": "Sofia",
+ "title_with_featured": "Sofia",
+ "updated_by_human_at": 1721472925,
+ "url": "https://genius.com/Clairo-sofia-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1144133",
+  "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+  "id": 1144133,
+  "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+  "index_character": "c",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Clairo",
+  "slug": "Clairo",
+  "url": "https://genius.com/artists/Clairo",
+  "iq": 7423
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1144133",
+   "header_image_url": "https://images.genius.com/438cd68559fa846aa4d821e2e7190578.1000x562x1.jpg",
+   "id": 1144133,
+   "image_url": "https://images.genius.com/9a3ca9aa1a7c8d2b77efce8459b31577.960x960x1.jpg",
+   "index_character": "c",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Clairo",
+   "slug": "Clairo",
+   "url": "https://genius.com/artists/Clairo",
+   "iq": 7423
+  }
+ ],
+ "artist": "Clairo",
+ "lyrics": "74 ContributorsTranslationsItalianoPortugu\u00easEspa\u00f1olSofia Lyrics[Chorus]\nI think we could do it if we tried\nIf only to say you're mine\nSofia, know that you and I\nShouldn't feel like a crime\nI think we could do it if we tried\nIf only to say you're mine\nSofia, know that you and I\nShouldn't feel like a crime\n\n[Verse 1]\nYou know I'll do anything you ask me to\nBut, oh my God, I think I'm in love with you\nStanding here alone now\nThink that we can drive around\nI just wanna say\nHow I love you with your hair down\nBaby, you don't gotta fight\nI'll be here 'til the end of time\nWishing that you were mine\nPull you in, it's alright\n\n[Chorus]\nI think we could do it if we tried\nIf only to say you're mine\nSofia, know that you and I\nShouldn't feel like a crime\nSee Clairo LiveGet tickets as low as $50You might also like[Verse 2]\nHoney, I don't want it to fade\nThere's things that I know could get in the way\nI don't want to say goodbye\nAnd I think that we could do it if we tried\n\n[Chorus]\nI think we could do it if we tried\nIf only to say you're mine\nSofia, know that you and I\nShouldn't feel like a crime\n\n[Outro]\nI think we could do it if we tried\n(I think we could, I think we could do it\nWe could, we could, do it)\nI think we could do it if we tried\n(Sofia, know that you, you, you and I\nShouldn't feel like a crime)\nI think we could do it if we tried\n(Sofia, know that you and I\nShouldn't feel like a crime)\nI think we could do it if we tried\n(Sofia, know that you, you, you and I\nShouldn't feel like a crime)\nI think we could do it if we tried70Embed"
+}

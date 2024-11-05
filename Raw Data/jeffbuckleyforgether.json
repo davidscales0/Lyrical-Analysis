@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 8,
+ "api_path": "/songs/694838",
+ "artist_names": "Jeff Buckley",
+ "full_title": "Forget Her by\u00a0Jeff\u00a0Buckley",
+ "header_image_thumbnail_url": "https://images.genius.com/7fe22fd717e1aeba61b418031d355750.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/7fe22fd717e1aeba61b418031d355750.300x300x1.jpg",
+ "id": 694838,
+ "instrumental": false,
+ "lyrics_owner_id": 130727,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1722363146,
+ "path": "/Jeff-buckley-forget-her-lyrics",
+ "primary_artist_names": "Jeff Buckley",
+ "pyongs_count": 10,
+ "relationships_index_url": "https://genius.com/Jeff-buckley-forget-her-sample",
+ "release_date_components": {
+  "year": 1994,
+  "month": 8,
+  "day": 23
+ },
+ "release_date_for_display": "August 23, 1994",
+ "release_date_with_abbreviated_month_for_display": "Aug. 23, 1994",
+ "song_art_image_thumbnail_url": "https://images.genius.com/7fe22fd717e1aeba61b418031d355750.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/7fe22fd717e1aeba61b418031d355750.300x300x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 8,
+  "hot": false,
+  "pageviews": 73229
+ },
+ "title": "Forget Her",
+ "title_with_featured": "Forget Her",
+ "updated_by_human_at": 1722363146,
+ "url": "https://genius.com/Jeff-buckley-forget-her-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/22481",
+  "header_image_url": "https://images.genius.com/3d7a1d3c48f0cebdb4bc40640b51b9f1.500x282x1.jpg",
+  "id": 22481,
+  "image_url": "https://images.genius.com/5d911fefb4b0739b08193a0de4c62650.620x349x1.jpg",
+  "index_character": "j",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Jeff Buckley",
+  "slug": "Jeff-buckley",
+  "url": "https://genius.com/artists/Jeff-buckley"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/22481",
+   "header_image_url": "https://images.genius.com/3d7a1d3c48f0cebdb4bc40640b51b9f1.500x282x1.jpg",
+   "id": 22481,
+   "image_url": "https://images.genius.com/5d911fefb4b0739b08193a0de4c62650.620x349x1.jpg",
+   "index_character": "j",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Jeff Buckley",
+   "slug": "Jeff-buckley",
+   "url": "https://genius.com/artists/Jeff-buckley"
+  }
+ ],
+ "artist": "Jeff Buckley",
+ "lyrics": "42 ContributorsTranslationsEnglishEspa\u00f1olForget Her Lyrics[Verse 1]\nWhile this town is busy sleeping\nAll the noise has died away\nI walk the streets to stop my weeping\n'Cause she'll never change her ways\n\n[Chorus]\nBut don't fool yourself\nShe was heartache from the moment that you met her\nAh, my heart feels so still as I try to find the will\nTo forget her somehow\nOh, I think I've forgotten her now\n\n[Verse 2]\nHer love is a rose, pale and dying\nDropping her petals in land unknown\nAll full of wine, the world before her\nWas sober with no place to go\nMmm\n\n[Chorus]\nDon't fool yourself\nShe was heartache from the moment that you met her\nMy heart is frozen still as I try to find the will\nTo forget her somehow\nShe's somewhere out there now\nYou might also like[Guitar Solo]\n\n[Verse 3]\nWell, my tears falling down as I try to forget\nHer love was a joke from the day that we met\nAll of the words, all of her men\nAll of my pain when I think back to when\nRemember her hair as it shone in the sun\nThe smell of the bed when I knew what she'd done\nTell yourself over and over you won't ever need her again\n\n[Chorus 2]\nBut don't fool yourself\nShe was heartache from the moment that you met her\nOh, my heart is frozen still as I try to find the will\nTo forget her somehow\nShe's out there somewhere now\n\n[Outro]\nOh, she was heartache from the day that I first met her\nMy heart is frozen still as I try to find the will\nTo forget you somehow\n'Cause I know you're somewhere out there right now\nI don't wanna ban her\nOh, oh, oh, oh10Embed"
+}

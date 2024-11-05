@@ -1,0 +1,70 @@
+{
+ "_type": "song",
+ "annotation_count": 12,
+ "api_path": "/songs/2887597",
+ "artist_names": "Daniel Caesar",
+ "full_title": "Japanese Denim by\u00a0Daniel\u00a0Caesar",
+ "header_image_thumbnail_url": "https://images.genius.com/339757a068c3f5c7f231dcc66e174dbd.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/339757a068c3f5c7f231dcc66e174dbd.500x500x1.jpg",
+ "id": 2887597,
+ "instrumental": false,
+ "lyrics_owner_id": 1548008,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1704708037,
+ "path": "/Daniel-caesar-japanese-denim-lyrics",
+ "primary_artist_names": "Daniel Caesar",
+ "pyongs_count": 66,
+ "relationships_index_url": "https://genius.com/Daniel-caesar-japanese-denim-sample",
+ "release_date_components": {
+  "year": 2016,
+  "month": 10,
+  "day": 19
+ },
+ "release_date_for_display": "October 19, 2016",
+ "release_date_with_abbreviated_month_for_display": "Oct. 19, 2016",
+ "song_art_image_thumbnail_url": "https://images.genius.com/339757a068c3f5c7f231dcc66e174dbd.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/339757a068c3f5c7f231dcc66e174dbd.500x500x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 4,
+  "concurrents": 2,
+  "hot": false,
+  "pageviews": 1028901
+ },
+ "title": "Japanese Denim",
+ "title_with_featured": "Japanese Denim",
+ "updated_by_human_at": 1704708037,
+ "url": "https://genius.com/Daniel-caesar-japanese-denim-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/161892",
+  "header_image_url": "https://images.genius.com/17851f6df6904b89d22a1553b026c421.745x745x1.jpg",
+  "id": 161892,
+  "image_url": "https://images.genius.com/da9d279cd54cc1592460ac953a65a3d7.950x950x1.png",
+  "index_character": "d",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Daniel Caesar",
+  "slug": "Daniel-caesar",
+  "url": "https://genius.com/artists/Daniel-caesar",
+  "iq": 3659
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/161892",
+   "header_image_url": "https://images.genius.com/17851f6df6904b89d22a1553b026c421.745x745x1.jpg",
+   "id": 161892,
+   "image_url": "https://images.genius.com/da9d279cd54cc1592460ac953a65a3d7.950x950x1.png",
+   "index_character": "d",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Daniel Caesar",
+   "slug": "Daniel-caesar",
+   "url": "https://genius.com/artists/Daniel-caesar",
+   "iq": 3659
+  }
+ ],
+ "artist": "Daniel Caesar",
+ "lyrics": "97 ContributorsJapanese Denim Lyrics[Intro]\nTwo, three, four, five, six\n\n[Verse 1]\nI don't stand in line, I don't pay for clubs, fuck that, yeah\nBut I'll wait for you\nI don't like to drink, I don't like to think, fuck that, oh-ooo-oh\nBut I ponder you, ohh\nI'm bending it over\nYou're my four leaf clover\nI'm so in love, so in love\nThere's no one above up above\nForever's a long time, yes\n\n[Chorus]\nMy blue jeans\nWill last me all\nMy life, ohh, yes\nSo should we\nI'm spending all, yeah\nThis time, ooh\n\n[Verse 2]\nMet you at the shop, sun was getting hot, I'm lonely, yeah\n(Lonely, yeah)\nI'm in the city on my own (City on my own)\nNever would've thought you'd be the one, I got a homie\n(Ohh)\nBut that's the way it goes (That's the way it goes)\nI'm reaching Nirvana (I'm reaching Nirvana)\nGoodbye sweet Rwanda (Goodbye sweet Rwanda)\nHigh school was never for me (High school was never for me)\nYeah, I say let it be, let it be\nForever's a long time, yeah\nYou might also like[Chorus]\nMy blue jeans\nWill last me all\nMy life, ohh, yes\nSo should we\nI'm spending all\nThis time\n\n[Outro]\nYou don't even know me\nYou don't even know me, yes\nI'm hanging from the tree\nI'm hanging from the tree\nAh-ah-ah-ah\nAh-ah-ah-ah\nAh-ah-ah-ah\nAh-ah-ah\nAh-ah-ah-ah\nAh-ah-ah-ah\nAh-ah-ah-ah\nAh-ah66Embed"
+}

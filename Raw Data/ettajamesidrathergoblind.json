@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/1237584",
+ "artist_names": "Etta James",
+ "full_title": "I'd Rather Go Blind by\u00a0Etta\u00a0James",
+ "header_image_thumbnail_url": "https://images.genius.com/0f47edaac0156ee2dea037ac8dc72c0f.300x300x1.png",
+ "header_image_url": "https://images.genius.com/0f47edaac0156ee2dea037ac8dc72c0f.1000x1000x1.png",
+ "id": 1237584,
+ "instrumental": false,
+ "lyrics_owner_id": 6004606,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1715599291,
+ "path": "/Etta-james-id-rather-go-blind-lyrics",
+ "primary_artist_names": "Etta James",
+ "pyongs_count": 7,
+ "relationships_index_url": "https://genius.com/Etta-james-id-rather-go-blind-sample",
+ "release_date_components": {
+  "year": 1968,
+  "month": 8,
+  "day": 21
+ },
+ "release_date_for_display": "August 21, 1968",
+ "release_date_with_abbreviated_month_for_display": "Aug. 21, 1968",
+ "song_art_image_thumbnail_url": "https://images.genius.com/0f47edaac0156ee2dea037ac8dc72c0f.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/0f47edaac0156ee2dea037ac8dc72c0f.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 166868
+ },
+ "title": "I\u2019d Rather Go Blind",
+ "title_with_featured": "I'd Rather Go Blind",
+ "updated_by_human_at": 1716598878,
+ "url": "https://genius.com/Etta-james-id-rather-go-blind-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/5093",
+  "header_image_url": "https://images.genius.com/03afa043e147f000e5cc335ba0dce9e3.1000x563x1.jpg",
+  "id": 5093,
+  "image_url": "https://images.genius.com/3cf3df713ed485989a3940262f156135.1000x666x1.jpg",
+  "index_character": "e",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Etta James",
+  "slug": "Etta-james",
+  "url": "https://genius.com/artists/Etta-james"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/5093",
+   "header_image_url": "https://images.genius.com/03afa043e147f000e5cc335ba0dce9e3.1000x563x1.jpg",
+   "id": 5093,
+   "image_url": "https://images.genius.com/3cf3df713ed485989a3940262f156135.1000x666x1.jpg",
+   "index_character": "e",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Etta James",
+   "slug": "Etta-james",
+   "url": "https://genius.com/artists/Etta-james"
+  }
+ ],
+ "artist": "Etta James",
+ "lyrics": "22 ContributorsI\u2019d Rather Go Blind Lyrics[Verse 1]\nSomething told me it was over\nWhen I saw you and her talking\nSomething deep down in my soul said, \"Cry, girl\" (Cry, cry)\nWhen I saw you and that girl, walking around, ooh\n\n[Chorus]\nI would rather, I would rather go blind boy\nThan to see you walk away from me child, and all\n\n[Verse 2]\nSo you see, I love you so much\nThat I don't want to watch you leave me baby\nMost of all, I just don't, I just don't want to be free no\n\nI was just, I was just, I was just sitting here thinking\nOf your kiss and your warm embrace, yeah\nWhen the reflection in the glass that I held to my lips now baby\nRevealed the tears that was on my face, yeah\n\n[Chorus Outro]\nAnd baby, baby, I would rather, I would rather be blind boy\nThan to see you walk away, see you walk away from me, yeah\nBaby, baby, baby, I'd rather be blind nowYou might also like7Embed"
+}

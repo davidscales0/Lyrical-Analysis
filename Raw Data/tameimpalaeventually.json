@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 6,
+ "api_path": "/songs/1786346",
+ "artist_names": "Tame Impala",
+ "full_title": "Eventually by\u00a0Tame\u00a0Impala",
+ "header_image_thumbnail_url": "https://images.genius.com/e64605c15b01f84195b3aa2a5aba258f.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/e64605c15b01f84195b3aa2a5aba258f.1000x1000x1.jpg",
+ "id": 1786346,
+ "instrumental": false,
+ "lyrics_owner_id": 512313,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1708773343,
+ "path": "/Tame-impala-eventually-lyrics",
+ "primary_artist_names": "Tame Impala",
+ "pyongs_count": 63,
+ "relationships_index_url": "https://genius.com/Tame-impala-eventually-sample",
+ "release_date_components": {
+  "year": 2015,
+  "month": 5,
+  "day": 8
+ },
+ "release_date_for_display": "May 8, 2015",
+ "release_date_with_abbreviated_month_for_display": "May. 8, 2015",
+ "song_art_image_thumbnail_url": "https://images.genius.com/a6d63ff2cc9528700c040dec1164292a.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/a6d63ff2cc9528700c040dec1164292a.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 420405
+ },
+ "title": "Eventually",
+ "title_with_featured": "Eventually",
+ "updated_by_human_at": 1708773343,
+ "url": "https://genius.com/Tame-impala-eventually-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/26369",
+  "header_image_url": "https://images.genius.com/c2c687b717cb163d5141e7690a20b491.1000x165x1.png",
+  "id": 26369,
+  "image_url": "https://images.genius.com/04f99a92d65522a6c52e3a936f460735.998x998x1.jpg",
+  "index_character": "t",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Tame Impala",
+  "slug": "Tame-impala",
+  "url": "https://genius.com/artists/Tame-impala"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/26369",
+   "header_image_url": "https://images.genius.com/c2c687b717cb163d5141e7690a20b491.1000x165x1.png",
+   "id": 26369,
+   "image_url": "https://images.genius.com/04f99a92d65522a6c52e3a936f460735.998x998x1.jpg",
+   "index_character": "t",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Tame Impala",
+   "slug": "Tame-impala",
+   "url": "https://genius.com/artists/Tame-impala"
+  }
+ ],
+ "artist": "Tame Impala",
+ "lyrics": "54 ContributorsTranslationsFran\u00e7aisEspa\u00f1olT\u00fcrk\u00e7eItalianoEventually Lyrics[Verse 1]\nIf only there could be another way to do this\n'Cause it feels like murder to put your heart through this\nI know I always said that I could never hurt you\nWell, this is the very very last time I'm ever going to, ah\n\n[Chorus]\nBut I know that I'll be happier and I know you will too\nSaid, I know that I'll be happier and I know you will too\nEventually, ah-ah-ah-ah-ah\nEventually, ah-ah-ah-ah-ah\n\n[Verse 2]\nWish I could turn you back into a stranger\n'Cause if I was never in your life, you wouldn't have to change it, ah\n\n[Chorus]\nBut I know that I'll be happier and I know you will too\nI said, I know that I'll be happier and I know you will too\nEventually, ah-ah-ah-ah-ah\nEventually, ah-ah-ah-ah-ah\nAnd I know just what I've got to do and it's got to be soon\n'Cause I know that I'll be happier and I know you will too\nEventually, ah-ah-ah-ah-ah\nEventually, ah-ah-ah-ah-ah\nEventually, ah-ah-ah-ah-ah\nEventually, ooh-ah-ah\nEventually, ah-ah-ah-ah-ah\nEventually, ah-ah-ah-ah-ah\nEventually\n(Eventually)\nYou might also like[Instrumental Outro]63Embed"
+}

@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 9,
+ "api_path": "/songs/84892",
+ "artist_names": "Jeff Buckley",
+ "full_title": "Lilac Wine by\u00a0Jeff\u00a0Buckley",
+ "header_image_thumbnail_url": "https://images.genius.com/8dd609cb1f601ff21ec21c888cc25773.300x300x1.png",
+ "header_image_url": "https://images.genius.com/8dd609cb1f601ff21ec21c888cc25773.1000x1000x1.png",
+ "id": 84892,
+ "instrumental": false,
+ "lyrics_owner_id": 1850,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1722182632,
+ "path": "/Jeff-buckley-lilac-wine-lyrics",
+ "primary_artist_names": "Jeff Buckley",
+ "pyongs_count": 9,
+ "relationships_index_url": "https://genius.com/Jeff-buckley-lilac-wine-sample",
+ "release_date_components": {
+  "year": 1994,
+  "month": 8,
+  "day": 23
+ },
+ "release_date_for_display": "August 23, 1994",
+ "release_date_with_abbreviated_month_for_display": "Aug. 23, 1994",
+ "song_art_image_thumbnail_url": "https://images.genius.com/8dd609cb1f601ff21ec21c888cc25773.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/8dd609cb1f601ff21ec21c888cc25773.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 7,
+  "hot": false,
+  "pageviews": 94240
+ },
+ "title": "Lilac Wine",
+ "title_with_featured": "Lilac Wine",
+ "updated_by_human_at": 1722182632,
+ "url": "https://genius.com/Jeff-buckley-lilac-wine-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/22481",
+  "header_image_url": "https://images.genius.com/3d7a1d3c48f0cebdb4bc40640b51b9f1.500x282x1.jpg",
+  "id": 22481,
+  "image_url": "https://images.genius.com/5d911fefb4b0739b08193a0de4c62650.620x349x1.jpg",
+  "index_character": "j",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Jeff Buckley",
+  "slug": "Jeff-buckley",
+  "url": "https://genius.com/artists/Jeff-buckley"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/22481",
+   "header_image_url": "https://images.genius.com/3d7a1d3c48f0cebdb4bc40640b51b9f1.500x282x1.jpg",
+   "id": 22481,
+   "image_url": "https://images.genius.com/5d911fefb4b0739b08193a0de4c62650.620x349x1.jpg",
+   "index_character": "j",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Jeff Buckley",
+   "slug": "Jeff-buckley",
+   "url": "https://genius.com/artists/Jeff-buckley"
+  }
+ ],
+ "artist": "Jeff Buckley",
+ "lyrics": "36 ContributorsTranslationsEspa\u00f1olLilac Wine Lyrics[Part I]\n\n[Verse 1]\nI lost myself on a cool, damp night\nI gave myself in that misty light\nWas hypnotized by a strange delight\nUnder a lilac tree\n\n[Verse 2]\nI made wine from the lilac tree\nPut my heart in its recipe\nIt makes me see what I want to see\nAnd be what I want to be\n\n[Bridge]\nWhen I think more than I want to think\nI do things I never should do\nI drink much more than I ought to drink\nBecause it brings me back you\n[Part II]\n\n[Chorus]\nLilac wine is sweet and heady\nLike my love\nLilac wine, I feel unsteady\nLike my love\nYou might also like[Post-Chorus]\nListen to me, I cannot see clearly\nIsn't that she coming to me?\nNearly here\n\n[Chorus]\nLilac wine is sweet and heady\nWhere's my love?\nLilac wine, I feel unsteady\nWhere's my love?\n\n[Post-Chorus]\nListen to me, why is everything so hazy?\nIsn't that she, or am I just going\nCrazy, dear?\n\n[Outro]\nLilac wine, I feel unready\nFor my love\nFeel unready\nFor my love9Embed"
+}

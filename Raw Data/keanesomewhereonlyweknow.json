@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 9,
+ "api_path": "/songs/134995",
+ "artist_names": "Keane",
+ "full_title": "Somewhere Only We Know by\u00a0Keane",
+ "header_image_thumbnail_url": "https://images.genius.com/bfd0478e9b2a2e8174a17a95feb66aad.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/bfd0478e9b2a2e8174a17a95feb66aad.1000x1000x1.jpg",
+ "id": 134995,
+ "instrumental": false,
+ "lyrics_owner_id": 116340,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1723408225,
+ "path": "/Keane-somewhere-only-we-know-lyrics",
+ "primary_artist_names": "Keane",
+ "pyongs_count": 83,
+ "relationships_index_url": "https://genius.com/Keane-somewhere-only-we-know-sample",
+ "release_date_components": {
+  "year": 2004,
+  "month": 2,
+  "day": 16
+ },
+ "release_date_for_display": "February 16, 2004",
+ "release_date_with_abbreviated_month_for_display": "Feb. 16, 2004",
+ "song_art_image_thumbnail_url": "https://images.genius.com/ccfd4949f158a091bafa25495ae0c47e.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/ccfd4949f158a091bafa25495ae0c47e.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 8,
+  "hot": false,
+  "pageviews": 914548
+ },
+ "title": "Somewhere Only We Know",
+ "title_with_featured": "Somewhere Only We Know",
+ "updated_by_human_at": 1723408225,
+ "url": "https://genius.com/Keane-somewhere-only-we-know-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/44187",
+  "header_image_url": "https://images.genius.com/a118d7a4b9a607dc63e0ac9dd981d44b.1000x563x1.jpg",
+  "id": 44187,
+  "image_url": "https://images.genius.com/d61f5ab877ba22704eced03148c219c7.951x951x1.jpg",
+  "index_character": "k",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Keane",
+  "slug": "Keane",
+  "url": "https://genius.com/artists/Keane"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/44187",
+   "header_image_url": "https://images.genius.com/a118d7a4b9a607dc63e0ac9dd981d44b.1000x563x1.jpg",
+   "id": 44187,
+   "image_url": "https://images.genius.com/d61f5ab877ba22704eced03148c219c7.951x951x1.jpg",
+   "index_character": "k",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Keane",
+   "slug": "Keane",
+   "url": "https://genius.com/artists/Keane"
+  }
+ ],
+ "artist": "Keane",
+ "lyrics": "72 ContributorsTranslations\u0627\u0644\u0639\u0631\u0628\u064a\u0629Somewhere Only We Know Lyrics[Verse 1]\nI walked across an empty land\nI knew the pathway like the back of my hand\nI felt the earth beneath my feet\nSat by the river and it made me complete\n\n[Refrain]\nOh, simple thing, where have you gone?\nI'm getting old and I need something to rely on\nSo tell me when you're gonna let me in\nI'm getting tired and I need somewhere to begin\n\n[Verse 2]\nI came across a fallen tree\nI felt the branches of it looking at me\nIs this the place we used to love?\nIs this the place that I've been dreaming of?\n\n[Pre-Chorus]\nOh, simple thing, where have you gone?\nI'm getting old and I need something to rely on\nSo tell me when you're gonna let me in\nI'm getting tired and I need somewhere to begin\n\n[Chorus]\nAnd if you have a minute, why don't we go\nTalk about it somewhere only we know?\nThis could be the end of everything\nSo why don't we go somewhere only we know?\nSee Keane LiveGet tickets as low as $26You might also like[Post-Chorus]\nSomewhere only we know\n\n[Pre-Chorus]\nOh, simple thing, where have you gone?\nI'm getting old and I need something to rely on\nSo tell me when you're gonna let me in\nI'm getting tired and I need somewhere to begin\n\n[Chorus]\nAnd if you have a minute, why don't we go\nTalk about it somewhere only we know?\nThis could be the end of everything\nSo why don't we go? So why don't we go?\n\n[Break]\nOoh\nOh\n\n[Chorus]\nThis could be the end of everything\nSo why don't we go somewhere only we know?\n\n[Outro]\nSomewhere only we know\nSomewhere only we know83Embed"
+}

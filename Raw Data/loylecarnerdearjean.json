@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 7,
+ "api_path": "/songs/4403144",
+ "artist_names": "Loyle Carner",
+ "full_title": "Dear Jean by\u00a0Loyle\u00a0Carner",
+ "header_image_thumbnail_url": "https://images.genius.com/640555abdc5ab28f7f201c711334357d.300x300x1.png",
+ "header_image_url": "https://images.genius.com/640555abdc5ab28f7f201c711334357d.1000x1000x1.png",
+ "id": 4403144,
+ "instrumental": false,
+ "lyrics_owner_id": 608868,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1666499543,
+ "path": "/Loyle-carner-dear-jean-lyrics",
+ "primary_artist_names": "Loyle Carner",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Loyle-carner-dear-jean-sample",
+ "release_date_components": {
+  "year": 2019,
+  "month": 4,
+  "day": 19
+ },
+ "release_date_for_display": "April 19, 2019",
+ "release_date_with_abbreviated_month_for_display": "Apr. 19, 2019",
+ "song_art_image_thumbnail_url": "https://images.genius.com/640555abdc5ab28f7f201c711334357d.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/640555abdc5ab28f7f201c711334357d.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 6,
+  "hot": false,
+  "pageviews": 28352
+ },
+ "title": "Dear Jean",
+ "title_with_featured": "Dear Jean",
+ "updated_by_human_at": 1666499543,
+ "url": "https://genius.com/Loyle-carner-dear-jean-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/54851",
+  "header_image_url": "https://images.genius.com/36e33be9204b796e283e2f5a45297151.1000x1000x1.jpg",
+  "id": 54851,
+  "image_url": "https://images.genius.com/6ea55b798b84034a2f88c577327f1c27.1000x1000x1.jpg",
+  "index_character": "l",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Loyle Carner",
+  "slug": "Loyle-carner",
+  "url": "https://genius.com/artists/Loyle-carner"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/54851",
+   "header_image_url": "https://images.genius.com/36e33be9204b796e283e2f5a45297151.1000x1000x1.jpg",
+   "id": 54851,
+   "image_url": "https://images.genius.com/6ea55b798b84034a2f88c577327f1c27.1000x1000x1.jpg",
+   "index_character": "l",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Loyle Carner",
+   "slug": "Loyle-carner",
+   "url": "https://genius.com/artists/Loyle-carner"
+  }
+ ],
+ "artist": "Loyle Carner",
+ "lyrics": "17 ContributorsDear Jean Lyrics[Intro]\nI think we got sixteen before, easily\n\n[Verse]\nDear Jean\nI hope this doesn't come as a surprise\nBut I've fallen for a woman from the skies\nAnd she be truer than the lies\nTruer than the prize\nAnd you can see it when you look into her eyes\nDeep blue like the flicker of the flame 'fore it dies\nBut this ain't dying, it's rising\nLike the big round orange on horizon\nI know it means I'm not about as much\nBut listen, I ain't moving out as such\nJust moving half my clothes, maybe louder stuff\nOut the south, out the house, never out of touch\nTrust, I don't think I said it loud enough\nI'm out the south, out the house, never out of touch\nTrust, out of sight never out of mind\nOut the light, never out of line\nTrust, another night running out of time\nLet it shine like we're living in a pantomime\nShe's not behind me or behind you\nBut beside we and beside two\nBut behind these little lines true\nThat I scribble in a book, think she idolizes you\nSo one night I'll be saying \"I do\"\nTo a girl that can read my mind, too\nWith little Ryan sat in a white suit\nWith my own baby Jean sat to his right too\nI had a dream and it came true\nAnd I can only blame you\nShit, I can only blame you\nI guess you came throughSee Loyle Carner LiveGet tickets as low as $64You might also like1Embed"
+}

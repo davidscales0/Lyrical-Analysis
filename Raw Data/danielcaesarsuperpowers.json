@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 7,
+ "api_path": "/songs/8938996",
+ "artist_names": "Daniel Caesar",
+ "full_title": "Superpowers by\u00a0Daniel\u00a0Caesar",
+ "header_image_thumbnail_url": "https://images.genius.com/840f8b2841954df45699f0e69dd8f69a.300x300x1.png",
+ "header_image_url": "https://images.genius.com/840f8b2841954df45699f0e69dd8f69a.1000x1000x1.png",
+ "id": 8938996,
+ "instrumental": false,
+ "lyrics_owner_id": 18351235,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1716869119,
+ "path": "/Daniel-caesar-superpowers-lyrics",
+ "primary_artist_names": "Daniel Caesar",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Daniel-caesar-superpowers-sample",
+ "release_date_components": {
+  "year": 2023,
+  "month": 4,
+  "day": 7
+ },
+ "release_date_for_display": "April 7, 2023",
+ "release_date_with_abbreviated_month_for_display": "Apr. 7, 2023",
+ "song_art_image_thumbnail_url": "https://images.genius.com/840f8b2841954df45699f0e69dd8f69a.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/840f8b2841954df45699f0e69dd8f69a.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 7,
+  "hot": false,
+  "pageviews": 59082
+ },
+ "title": "Superpowers",
+ "title_with_featured": "Superpowers",
+ "updated_by_human_at": 1716869119,
+ "url": "https://genius.com/Daniel-caesar-superpowers-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/161892",
+  "header_image_url": "https://images.genius.com/17851f6df6904b89d22a1553b026c421.745x745x1.jpg",
+  "id": 161892,
+  "image_url": "https://images.genius.com/da9d279cd54cc1592460ac953a65a3d7.950x950x1.png",
+  "index_character": "d",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Daniel Caesar",
+  "slug": "Daniel-caesar",
+  "url": "https://genius.com/artists/Daniel-caesar",
+  "iq": 3659
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/161892",
+   "header_image_url": "https://images.genius.com/17851f6df6904b89d22a1553b026c421.745x745x1.jpg",
+   "id": 161892,
+   "image_url": "https://images.genius.com/da9d279cd54cc1592460ac953a65a3d7.950x950x1.png",
+   "index_character": "d",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Daniel Caesar",
+   "slug": "Daniel-caesar",
+   "url": "https://genius.com/artists/Daniel-caesar",
+   "iq": 3659
+  }
+ ],
+ "artist": "Daniel Caesar",
+ "lyrics": "18 ContributorsTranslationsPortugu\u00easSuperpowers Lyrics[Verse 1]\nOh, you got power, superpowers\nDo you even know how to wield them?\nAll God's children are special\nBut not like you, no, not like you\nYou're just like a flower (Flower)\nYou're ever-giving, that's a given\nAll God's children are special (All God's children, woah)\nBut not like you, no, not like you\n\n[Chorus]\n(Lift it, lift it, lift it)\nLift your head to the sky (To the sky, oh, sky, sky)\n(Lift it, lift it, lift it, lift it)\n\n[Verse 2]\nIt's crazy to say this, but you're the greatest (You are the greatest)\nCan't explain it (Oh)\nI know that you know the truth\nThey can't deny you, yeah, th\u0435y can't deny you, it's true\nYeah, r\u0435member Vegas? You come a long way, kid\nAnd let me just say this\nOh yeah, you're the main character now\nYou're the main character now\n\n[Chorus]\n(Lift it, lift it, lift it)\nLift your head to the sky (To the sky, oh, sky, sky)\n(Lift it, lift it, lift it, lift it)\nYou might also like[Outro]\n(You're the main character now)\n(You're the main character now)\nOh, yeah1Embed"
+}

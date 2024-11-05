@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/4699556",
+ "artist_names": "Peter Cat Recording Co.",
+ "full_title": "Shit I\u2019m Dreaming by\u00a0Peter\u00a0Cat Recording Co.",
+ "header_image_thumbnail_url": "https://images.genius.com/54cb79a251134f4171dec7f9e742119e.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/54cb79a251134f4171dec7f9e742119e.1000x1000x1.jpg",
+ "id": 4699556,
+ "instrumental": false,
+ "lyrics_owner_id": 8059868,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1638152725,
+ "path": "/Peter-cat-recording-co-shit-im-dreaming-lyrics",
+ "primary_artist_names": "Peter Cat Recording Co.",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Peter-cat-recording-co-shit-im-dreaming-sample",
+ "release_date_components": {
+  "year": 2019,
+  "month": 6,
+  "day": 7
+ },
+ "release_date_for_display": "June 7, 2019",
+ "release_date_with_abbreviated_month_for_display": "Jun. 7, 2019",
+ "song_art_image_thumbnail_url": "https://images.genius.com/54cb79a251134f4171dec7f9e742119e.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/54cb79a251134f4171dec7f9e742119e.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 6001
+ },
+ "title": "Shit I\u2019m Dreaming",
+ "title_with_featured": "Shit I\u2019m Dreaming",
+ "updated_by_human_at": 1638152725,
+ "url": "https://genius.com/Peter-cat-recording-co-shit-im-dreaming-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1884488",
+  "header_image_url": "https://images.genius.com/27cddda4caa2b50919751c212bbc9968.1000x245x1.jpg",
+  "id": 1884488,
+  "image_url": "https://images.genius.com/7cd2f1416b3328dafa4e67174a8489a3.500x500x1.jpg",
+  "index_character": "p",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Peter Cat Recording Co.",
+  "slug": "Peter-cat-recording-co",
+  "url": "https://genius.com/artists/Peter-cat-recording-co"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1884488",
+   "header_image_url": "https://images.genius.com/27cddda4caa2b50919751c212bbc9968.1000x245x1.jpg",
+   "id": 1884488,
+   "image_url": "https://images.genius.com/7cd2f1416b3328dafa4e67174a8489a3.500x500x1.jpg",
+   "index_character": "p",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Peter Cat Recording Co.",
+   "slug": "Peter-cat-recording-co",
+   "url": "https://genius.com/artists/Peter-cat-recording-co"
+  }
+ ],
+ "artist": "Peter Cat Recording Co.",
+ "lyrics": "6 ContributorsShit I\u2019m Dreaming LyricsUsed to think I was a man\nAbove these things\nAnd all their plans\nThought I was\nBy the hat\nOh what they loved\nI don't understand\nBut now I want\nWhat I can\nShit I'm dreaming\nAgain\n\nI didn't need\nNo house no cars\nJust a little place\nFor my ma\nA place which can touch the sea\nShit I'm dreaming\nAgain\nI'm dreaming\nAgain\n\nI've been put\nIn my place\nShown I'm just another\nKind of slave\nEven though I sing and wave\nShit I'm dreaming\nAgain\nI'm dreaming\nAgain\nSee Peter Cat Recording Co. LiveGet tickets as low as $48You might also likeThey all treat me\nLike a dog\nLike I'm just another\nCog\nBut they can all\nSuck my cock\nShit I'm dreaming\nAgain\nI'm dreaming\nAgain\n\nJust fuck over all those fools\nAnd you'll be winning againEmbed"
+}

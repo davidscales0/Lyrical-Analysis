@@ -1,0 +1,66 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/999958",
+ "artist_names": "Jo\u00e3o Gilberto",
+ "full_title": "Wave by\u00a0Jo\u00e3o\u00a0Gilberto",
+ "header_image_thumbnail_url": "https://images.genius.com/1ac1c931fc2c3b2ad58e4978d8837583.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/1ac1c931fc2c3b2ad58e4978d8837583.573x573x1.jpg",
+ "id": 999958,
+ "instrumental": false,
+ "lyrics_owner_id": 1549345,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1429581768,
+ "path": "/Joao-gilberto-wave-lyrics",
+ "primary_artist_names": "Jo\u00e3o Gilberto",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Joao-gilberto-wave-sample",
+ "release_date_components": {
+  "year": 1977,
+  "month": null,
+  "day": null
+ },
+ "release_date_for_display": "1977",
+ "release_date_with_abbreviated_month_for_display": "1977",
+ "song_art_image_thumbnail_url": "https://images.genius.com/1ac1c931fc2c3b2ad58e4978d8837583.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/1ac1c931fc2c3b2ad58e4978d8837583.573x573x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Wave",
+ "title_with_featured": "Wave",
+ "updated_by_human_at": 1520791431,
+ "url": "https://genius.com/Joao-gilberto-wave-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/357761",
+  "header_image_url": "https://images.genius.com/f9c189907b7f2f645e0b3a679c7d3943.1000x500x1.jpg",
+  "id": 357761,
+  "image_url": "https://images.genius.com/b53f11cf8ef1c41a04988a79742928f5.1000x1000x1.jpg",
+  "index_character": "j",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Jo\u00e3o Gilberto",
+  "slug": "Joao-gilberto",
+  "url": "https://genius.com/artists/Joao-gilberto"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/357761",
+   "header_image_url": "https://images.genius.com/f9c189907b7f2f645e0b3a679c7d3943.1000x500x1.jpg",
+   "id": 357761,
+   "image_url": "https://images.genius.com/b53f11cf8ef1c41a04988a79742928f5.1000x1000x1.jpg",
+   "index_character": "j",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Jo\u00e3o Gilberto",
+   "slug": "Joao-gilberto",
+   "url": "https://genius.com/artists/Joao-gilberto"
+  }
+ ],
+ "artist": "Jo\u00e3o Gilberto",
+ "lyrics": "5 ContributorsWave LyricsVou te contar\nOs olhos j\u00e1 n\u00e3o podem ver\nCoisas que s\u00f3 o cora\u00e7\u00e3o\nPode entender\nFundamental \u00e9 mesmo o amor\n\u00c9 imposs\u00edvel ser feliz sozinho...\n\nO resto \u00e9 mar\n\u00c9 tudo que eu n\u00e3o sei contar\nS\u00e3o coisas lindas\nQue eu tenho pr\u00e1 te dar\nFundamental \u00e9 mesmo o amor\n\u00c9 imposs\u00edvel ser feliz sozinho...\n\nDa primeira vez\nEra a cidade\nDa segunda o cais\nE a eternidade...\n\nAgora eu j\u00e1 sei\nDa onda que se ergueu no mar\nE das estrelas\nQue esquecemos de contar\nO amor se deixa surpreender\nEnquanto a noite\nVem nos envolver...\nYou might also likeVou te contar\nOs olhos j\u00e1 n\u00e3o podem ver\nCoisas que s\u00f3 o cora\u00e7\u00e3o\nPode entender\nFundamental \u00e9 mesmo o amor\n\u00c9 imposs\u00edvel ser feliz sozinho...\n\nO resto \u00e9 mar\n\u00c9 tudo que eu n\u00e3o sei contar\nS\u00e3o coisas lindas\nQue eu tenho pr\u00e1 te dar\nFundamental \u00e9 mesmo o amor\n\u00c9 imposs\u00edvel ser feliz sozinho...\n\nDa primeira vez\nEra a cidade\nDa segunda o cais\nE a eternidade...\n\nAgora eu j\u00e1 sei\nDa onda que se ergueu no mar\nE das estrelas\nQue esquecemos de contar\nO amor se deixa surpreender\nEnquanto a noite\nVem nos envolver...\nDa primeira vez\nEra a cidade\nDa segunda o cais\nE a eternidade...\n\nAgora eu j\u00e1 sei\nDa onda que se ergueu no mar\nE das estrelas\nQue esquecemos de contar\nO amor se deixa surpreender\nEnquanto a noite\nVem nos envolver...Embed"
+}

@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/5493658",
+ "artist_names": "Quarters of Change",
+ "full_title": "Kiwi by\u00a0Quarters\u00a0of Change",
+ "header_image_thumbnail_url": "https://images.genius.com/d2738e726b240359f29ba5529f83d94a.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/d2738e726b240359f29ba5529f83d94a.640x640x1.jpg",
+ "id": 5493658,
+ "instrumental": false,
+ "lyrics_owner_id": 6953557,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1699895658,
+ "path": "/Quarters-of-change-kiwi-lyrics",
+ "primary_artist_names": "Quarters of Change",
+ "pyongs_count": 4,
+ "relationships_index_url": "https://genius.com/Quarters-of-change-kiwi-sample",
+ "release_date_components": {
+  "year": 2020,
+  "month": 4,
+  "day": 8
+ },
+ "release_date_for_display": "April 8, 2020",
+ "release_date_with_abbreviated_month_for_display": "Apr. 8, 2020",
+ "song_art_image_thumbnail_url": "https://images.genius.com/d2738e726b240359f29ba5529f83d94a.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/d2738e726b240359f29ba5529f83d94a.640x640x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 23969
+ },
+ "title": "Kiwi",
+ "title_with_featured": "Kiwi",
+ "updated_by_human_at": 1699895658,
+ "url": "https://genius.com/Quarters-of-change-kiwi-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1425164",
+  "header_image_url": "https://images.genius.com/08e243105db4e128cb9d0c6ad35c3f77.1000x209x1.jpg",
+  "id": 1425164,
+  "image_url": "https://images.genius.com/068c1e779618e9dde2188c68a08c88de.1000x1000x1.jpg",
+  "index_character": "q",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Quarters of Change",
+  "slug": "Quarters-of-change",
+  "url": "https://genius.com/artists/Quarters-of-change",
+  "iq": 135
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1425164",
+   "header_image_url": "https://images.genius.com/08e243105db4e128cb9d0c6ad35c3f77.1000x209x1.jpg",
+   "id": 1425164,
+   "image_url": "https://images.genius.com/068c1e779618e9dde2188c68a08c88de.1000x1000x1.jpg",
+   "index_character": "q",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Quarters of Change",
+   "slug": "Quarters-of-change",
+   "url": "https://genius.com/artists/Quarters-of-change",
+   "iq": 135
+  }
+ ],
+ "artist": "Quarters of Change",
+ "lyrics": "8 ContributorsKiwi Lyrics[Verse 1]\nWind the pushing through the trees\nLike I like that\nI've been talking all night in my\u2005sleep\nWith\u2005the sheets wrapped\nThe\u2005hustle-bustle rustle of the breeze\nLike I\u2005like that\nAnd I just wanted you to stay and see\nThat\u205fI\u205freally\u205fcare\n\n[Pre-Chorus]\nI'm lonely\nNow I'm\u205fnot\nI'm cozy\n\n[Chorus]\nA kid\u205fkiwi\nMm, I guess I'm not\nYou say you need me\nWell, uh\nA kid kiwi\nMm, I guess I'm not\nYou say you need me\nOh, hell no, uh\n\n[Verse 2]\nToo much stress, it leaves me all awake\nIt's just those things\nI just want to drink all day and say\n\"Is it too late?\"\nThe hustle-bustle rustle of the trees\nLord, Lord knows I like that\nI just wanted you to stay and see\nThat I really care\nSee Quarters of Change LiveGet tickets as low as $26You might also like[Pre-Chorus]\nI'm lonely\nNow I'm not\nI'm cozy\n\n[Chorus]\nA kid kiwi\nMm, I guess I'm not\nYou say you need me\nWell, uh\nA kid kiwi\nI guess I'm not\nYou say you need me\nOh, well, uh\n\n[Instrumental Bridge]\n\n[Outro]\nI sit in my room at night\nWaiting for a fire to light\nKid kiwi knocks on my door\nBegging me for some more\nThese days everything goes so fast\nI blink and it's right in my past\nI wish I had more lines\nI wish we had more time4Embed"
+}

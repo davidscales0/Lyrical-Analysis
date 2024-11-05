@@ -1,0 +1,66 @@
+{
+ "_type": "song",
+ "annotation_count": 7,
+ "api_path": "/songs/7371274",
+ "artist_names": "WHATEVER, DAD",
+ "full_title": "Death of the Phone Call by\u00a0WHATEVER,\u00a0DAD",
+ "header_image_thumbnail_url": "https://images.genius.com/a76444436dcc6d3b438c6cac029573ba.300x300x1.png",
+ "header_image_url": "https://images.genius.com/a76444436dcc6d3b438c6cac029573ba.1000x1000x1.png",
+ "id": 7371274,
+ "instrumental": false,
+ "lyrics_owner_id": 14388499,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1707490815,
+ "path": "/Whatever-dad-death-of-the-phone-call-lyrics",
+ "primary_artist_names": "WHATEVER, DAD",
+ "pyongs_count": 3,
+ "relationships_index_url": "https://genius.com/Whatever-dad-death-of-the-phone-call-sample",
+ "release_date_components": {
+  "year": 2017,
+  "month": 7,
+  "day": 26
+ },
+ "release_date_for_display": "July 26, 2017",
+ "release_date_with_abbreviated_month_for_display": "Jul. 26, 2017",
+ "song_art_image_thumbnail_url": "https://images.genius.com/a76444436dcc6d3b438c6cac029573ba.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/a76444436dcc6d3b438c6cac029573ba.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 7,
+  "hot": false
+ },
+ "title": "Death of the Phone Call",
+ "title_with_featured": "Death of the Phone Call",
+ "updated_by_human_at": 1707490815,
+ "url": "https://genius.com/Whatever-dad-death-of-the-phone-call-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1094182",
+  "header_image_url": "https://images.genius.com/2afe176a48693ab5377befae75dcd929.800x530x1.jpg",
+  "id": 1094182,
+  "image_url": "https://images.genius.com/375618ea11fab0e3c87cfd7c4b9af841.300x300x1.png",
+  "index_character": "w",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "WHATEVER, DAD",
+  "slug": "Whatever-dad",
+  "url": "https://genius.com/artists/Whatever-dad"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1094182",
+   "header_image_url": "https://images.genius.com/2afe176a48693ab5377befae75dcd929.800x530x1.jpg",
+   "id": 1094182,
+   "image_url": "https://images.genius.com/375618ea11fab0e3c87cfd7c4b9af841.300x300x1.png",
+   "index_character": "w",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "WHATEVER, DAD",
+   "slug": "Whatever-dad",
+   "url": "https://genius.com/artists/Whatever-dad"
+  }
+ ],
+ "artist": "WHATEVER, DAD",
+ "lyrics": "5 ContributorsDeath of the Phone Call LyricsUn, deux\nUn, deux, trois, quatre\n\nSalut, j'suis un espadon\nJ'ai perdu mon t\u00e9l\u00e9phone\nVers le champ de tournesols\nIl devient un champignon\nOn sait que les champignons\nC'est inutile, c'est pas bon\nSi tu as envie d'appeler\nLe mieux de tous les espadons\n\nOh oh oooh [...]\n\nSalut, j'suis un espadon\nJ'ai perdu mon t\u00e9l\u00e9phone\nVers le champ de tournesols\nIl devient un champignon\n\nJe m'inqui\u00e8te pour tout le monde\nChaque gar\u00e7on et chaque \u0435spadon\nQui ne peut pas savourer\nLa joi\u0435 par coup de t\u00e9l\u00e9phone\n\nOh oh ooooh [...]You might also like3Embed"
+}

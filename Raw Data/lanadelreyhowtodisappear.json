@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 15,
+ "api_path": "/songs/4000569",
+ "artist_names": "Lana Del Rey",
+ "full_title": "How to disappear by\u00a0Lana\u00a0Del Rey",
+ "header_image_thumbnail_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.300x300x1.png",
+ "header_image_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.1000x1000x1.png",
+ "id": 4000569,
+ "instrumental": false,
+ "lyrics_owner_id": 2733332,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1720190535,
+ "path": "/Lana-del-rey-how-to-disappear-lyrics",
+ "primary_artist_names": "Lana Del Rey",
+ "pyongs_count": 55,
+ "relationships_index_url": "https://genius.com/Lana-del-rey-how-to-disappear-sample",
+ "release_date_components": {
+  "year": 2019,
+  "month": 8,
+  "day": 30
+ },
+ "release_date_for_display": "August 30, 2019",
+ "release_date_with_abbreviated_month_for_display": "Aug. 30, 2019",
+ "song_art_image_thumbnail_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/eb4b2006ef1fa773c1418956ef8fb2d1.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 5,
+  "hot": false,
+  "pageviews": 499456
+ },
+ "title": "How to disappear",
+ "title_with_featured": "How to disappear",
+ "updated_by_human_at": 1720873055,
+ "url": "https://genius.com/Lana-del-rey-how-to-disappear-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/15740",
+  "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+  "id": 15740,
+  "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+  "index_character": "l",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Lana Del Rey",
+  "slug": "Lana-del-rey",
+  "url": "https://genius.com/artists/Lana-del-rey"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/15740",
+   "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+   "id": 15740,
+   "image_url": "https://images.genius.com/d6d7df4f807d18f3d889c4e75f5326f9.250x250x1.png",
+   "index_character": "l",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Lana Del Rey",
+   "slug": "Lana-del-rey",
+   "url": "https://genius.com/artists/Lana-del-rey"
+  }
+ ],
+ "artist": "Lana Del Rey",
+ "lyrics": "107 ContributorsTranslationsEspa\u00f1olItalianoFran\u00e7aisPortugu\u00easPolski\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\u0421\u0440\u043f\u0441\u043a\u0438\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430T\u00fcrk\u00e7eLatinaDeutschHow to disappear Lyrics[Verse 1]\nJohn met me down on the boulevard\nCry on his shoulder 'cause life is hard\nThe waves came in over my head\nWhat you been up to, my baby?\nHaven't seen you 'round here lately\nAll of the guys tell me lies, but you don't\nYou just crack another beer\nAnd pretend that you're still here\n\n[Chorus]\nThis is how to disappear\nThis is how to disappear\n\n[Verse 2]\nJoe met me down at the training yard\nCuts on his face 'cause he fought too hard\nI know he's in over his head\nBut I love that man like nobody can\nHe moves mountains and pounds them to ground again\nI watched the guys getting high as they fight\nFor the things that they hold dear\nTo forget the things they fear\n\n[Chorus]\nThis is how to disappear\nThis is how to disappear\nSee Lana Del Rey LiveGet tickets as low as $203You might also like[Guitar Solo]\n\n[Verse 3]\nNow it's been years since I left New York\nI've got a kid and two cats in the yard\nThe California sun and the movie stars\nI watch the skies getting light as I write\nAs I think about those years\nAs I whisper in your ear\n\n[Outro]\nI'm always going to be right here\nNo one's going anywhere55Embed"
+}

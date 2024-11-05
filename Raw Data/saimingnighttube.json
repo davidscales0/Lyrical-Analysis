@@ -1,0 +1,80 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/9032475",
+ "artist_names": "Saiming (Ft. Zuko Rosemeid)",
+ "full_title": "Night Tube by\u00a0Saiming (Ft.\u00a0Zuko\u00a0Rosemeid)",
+ "header_image_thumbnail_url": "https://images.genius.com/ec590882f77df3bd5049937240bbe357.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/ec590882f77df3bd5049937240bbe357.640x640x1.jpg",
+ "id": 9032475,
+ "instrumental": false,
+ "lyrics_owner_id": 15908821,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1722060702,
+ "path": "/Saiming-night-tube-lyrics",
+ "primary_artist_names": "Saiming",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Saiming-night-tube-sample",
+ "release_date_components": {
+  "year": 2022,
+  "month": 4,
+  "day": 29
+ },
+ "release_date_for_display": "April 29, 2022",
+ "release_date_with_abbreviated_month_for_display": "Apr. 29, 2022",
+ "song_art_image_thumbnail_url": "https://images.genius.com/ec590882f77df3bd5049937240bbe357.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/ec590882f77df3bd5049937240bbe357.640x640x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false
+ },
+ "title": "Night Tube",
+ "title_with_featured": "Night Tube (Ft.\u00a0Zuko\u00a0Rosemeid)",
+ "updated_by_human_at": 1722060702,
+ "url": "https://genius.com/Saiming-night-tube-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/2564670",
+   "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1723228522",
+   "id": 2564670,
+   "image_url": "https://assets.genius.com/images/default_avatar_300.png?1723228522",
+   "index_character": "z",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Zuko Rosemeid",
+   "slug": "Zuko-rosemeid",
+   "url": "https://genius.com/artists/Zuko-rosemeid"
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/3450304",
+  "header_image_url": "https://images.genius.com/19adefe3ce9ded465c6ca92faaceed35.1000x151x1.png",
+  "id": 3450304,
+  "image_url": "https://images.genius.com/809d57d9a8975e15cd26d1eb760eabb2.594x594x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Saiming",
+  "slug": "Saiming",
+  "url": "https://genius.com/artists/Saiming"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/3450304",
+   "header_image_url": "https://images.genius.com/19adefe3ce9ded465c6ca92faaceed35.1000x151x1.png",
+   "id": 3450304,
+   "image_url": "https://images.genius.com/809d57d9a8975e15cd26d1eb760eabb2.594x594x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Saiming",
+   "slug": "Saiming",
+   "url": "https://genius.com/artists/Saiming"
+  }
+ ],
+ "artist": "Saiming",
+ "lyrics": "3 ContributorsNight Tube Lyrics[Verse 1: Zuko Rosemeid]\nHow many times did I take that night tube and roll from Brixton?\nJust to roll to the stu and talk my past, that's facts not fiction\nLinking with Saiming, it's impeccable timing, just straight elevating\nVibe supply to somewhere else, It's the bars of the Gods that we've been spraying\n\n[Verse 2: Saiming]\nI'm on the bus with rice and stew\nMunch quick cause I don't wanna stink up stu\nPlugged in, but I ain't never been with Fumez\nIt's Zuko that I'm on a trip with, true say\nWe been on a one way trip, from south into the stars we ain't dipping soon\nAnd we know what's coming, I know who it is and it isn't you\nLike, yes indeed\nThis flow from Knucks, and bro got bud so I cook with the recipe\nWant a hook then you best ring Z, Zuko, Rosemeid\nAnd my mum's been a radio chooser, lock into SA lik\u0435 Jacob Zuma\nLock into we for the best in sc\u0435ne\n\n[Verse 3: Zuko Rosemeid]\nChit chat on the Snapchat, don't move mad cause she's got a fat back\nMake sure you pattern your reason, pattern your why and pattern your stack\nHeard your track last week on Capital FM bro I only heard cap\nGo back to bars, pree them lyrics, take out the lies and go fix that\n\n[Verse 4: Saiming]\nS.M.S-travagant man\nBeen rappin' since 10, wait 15\nNow I'm slicin' them by pen s.a.i.m.i.n.g\nIf s.a.i.m- leave cah the i.n.k squeeze\nPut the sai in saiyonara, me I gotta skate, breezeYou might also likeEmbed"
+}

@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 7,
+ "api_path": "/songs/76597",
+ "artist_names": "The Strokes",
+ "full_title": "Soma by\u00a0The\u00a0Strokes",
+ "header_image_thumbnail_url": "https://images.genius.com/10e3bb482779de6732693f15598abf59.300x300x1.png",
+ "header_image_url": "https://images.genius.com/10e3bb482779de6732693f15598abf59.1000x1000x1.png",
+ "id": 76597,
+ "instrumental": false,
+ "lyrics_owner_id": 1850,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1714540547,
+ "path": "/The-strokes-soma-lyrics",
+ "primary_artist_names": "The Strokes",
+ "pyongs_count": 14,
+ "relationships_index_url": "https://genius.com/The-strokes-soma-sample",
+ "release_date_components": {
+  "year": 2001,
+  "month": 7,
+  "day": 30
+ },
+ "release_date_for_display": "July 30, 2001",
+ "release_date_with_abbreviated_month_for_display": "Jul. 30, 2001",
+ "song_art_image_thumbnail_url": "https://images.genius.com/10e3bb482779de6732693f15598abf59.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/10e3bb482779de6732693f15598abf59.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false,
+  "pageviews": 185170
+ },
+ "title": "Soma",
+ "title_with_featured": "Soma",
+ "updated_by_human_at": 1714540547,
+ "url": "https://genius.com/The-strokes-soma-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/12524",
+  "header_image_url": "https://images.genius.com/382ae86addc1e06ae4bebad904b69c2b.640x348x1.jpg",
+  "id": 12524,
+  "image_url": "https://images.genius.com/b5237c13de1a05f92ca6327d854cbfc8.1000x1000x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "The Strokes",
+  "slug": "The-strokes",
+  "url": "https://genius.com/artists/The-strokes",
+  "iq": 105
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/12524",
+   "header_image_url": "https://images.genius.com/382ae86addc1e06ae4bebad904b69c2b.640x348x1.jpg",
+   "id": 12524,
+   "image_url": "https://images.genius.com/b5237c13de1a05f92ca6327d854cbfc8.1000x1000x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "The Strokes",
+   "slug": "The-strokes",
+   "url": "https://genius.com/artists/The-strokes",
+   "iq": 105
+  }
+ ],
+ "artist": "The Strokes",
+ "lyrics": "54 ContributorsSoma Lyrics[Verse 1]\nSoma is what they would take when\nHard times opened their eyes\nSaw pain in a new way\nHigh stakes for a few names\nRacin' against sunbeams\nLosin' against fig trees\nIn your eyes\n\n[Chorus]\nAnd I am\nStop\nAnd go\nIn your eyes\nSee, I am\nStop\nAnd go\nIn your eyes\n\n[Interlude]\nLet's go\n\n[Verse 2]\nWhen I saw her for the first time\nLips moved as her eyes closed\nHeard something in his voice\n\"And I'll be there\"\nHe says, then he walks out\nSomehow he was tryin'\nToo hard to be like them\nYou might also like[Chorus]\nAnd I am\nStop\nAnd go\nIn your eyes\nAnd I am\nStop\nOh, darling let me go\n\n[Outro]\nTried it once and they liked it\nAnd tried to hide it\nSays, \"I've been doin' this twenty-five years\"\nWell, I'm not listenin' no more\nAnd these friends, they keep askin' for more\nOh, yeah, oh, but that's it14Embed"
+}

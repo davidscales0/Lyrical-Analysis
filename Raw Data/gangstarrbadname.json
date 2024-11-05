@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 11,
+ "api_path": "/songs/4951337",
+ "artist_names": "Gang Starr",
+ "full_title": "Bad Name by\u00a0Gang\u00a0Starr",
+ "header_image_thumbnail_url": "https://images.genius.com/23698e1a3ff50e1d406e5bdfcffc6504.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/23698e1a3ff50e1d406e5bdfcffc6504.939x939x1.jpg",
+ "id": 4951337,
+ "instrumental": false,
+ "lyrics_owner_id": 1599419,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1642078357,
+ "path": "/Gang-starr-bad-name-lyrics",
+ "primary_artist_names": "Gang Starr",
+ "pyongs_count": 5,
+ "relationships_index_url": "https://genius.com/Gang-starr-bad-name-sample",
+ "release_date_components": {
+  "year": 2019,
+  "month": 10,
+  "day": 18
+ },
+ "release_date_for_display": "October 18, 2019",
+ "release_date_with_abbreviated_month_for_display": "Oct. 18, 2019",
+ "song_art_image_thumbnail_url": "https://images.genius.com/999d4f0fd25bd4513fc87d0b7cf15937.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/999d4f0fd25bd4513fc87d0b7cf15937.500x500x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 22170
+ },
+ "title": "Bad Name",
+ "title_with_featured": "Bad Name",
+ "updated_by_human_at": 1712138119,
+ "url": "https://genius.com/Gang-starr-bad-name-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/220",
+  "header_image_url": "https://images.genius.com/ffe78f36e275ee89d6c858ededa9d41e.800x453x1.jpg",
+  "id": 220,
+  "image_url": "https://images.genius.com/39dd6e67430eb03560a6f59cba4945e6.800x800x1.jpg",
+  "index_character": "g",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Gang Starr",
+  "slug": "Gang-starr",
+  "url": "https://genius.com/artists/Gang-starr",
+  "iq": 100
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/220",
+   "header_image_url": "https://images.genius.com/ffe78f36e275ee89d6c858ededa9d41e.800x453x1.jpg",
+   "id": 220,
+   "image_url": "https://images.genius.com/39dd6e67430eb03560a6f59cba4945e6.800x800x1.jpg",
+   "index_character": "g",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Gang Starr",
+   "slug": "Gang-starr",
+   "url": "https://genius.com/artists/Gang-starr",
+   "iq": 100
+  }
+ ],
+ "artist": "Gang Starr",
+ "lyrics": "21 ContributorsBad Name Lyrics[Intro: Edo. G]\nI-I-I-I-I-I-I-I-\nI hate tellin' good people bad news\nI-I-I-\nI-I-I hate-\nI-I hate-\nI hate tellin' good people bad news\n\n[Chorus: Guru]\nWord\u2005to\u2005God, if Big\u2005and 'Pac were still here\nSome of\u2005these weirdos wouldn't act so cavalier\nWe all know that the game has changed\nIt's crazy out here and rap's got a bad name\nThink about it, what if bling never happened\nAnd the true artists were gettin' rich from rappin'?\nWord to God, some should give\nLet's delete the politics so real hip-hop can live\n\n[Verse: Guru]\nBeef is what's up now, careers are gettin' shut down\nThe media wants something meaty, people are fuckin' greedy\nMusic and culture is like a foreign language\nYou'd be better off stagin' a fake beef in Spanglish\nCompadre, can you handle the whole weight?\n\u00a1Ay, Dios m\u00edo!, watch 'em swallow your whole plate\nYou used to support your fam off of this\nNow you can't even buy SPAM off of this\nAnd I don't deal with swine, I ain't Dr. Phil\nI'll truly help to heal your mind\nNowadays it's like everybody's losin' it\nInstead of them preservin' this gift, they're all abusin' it\nIt's mad drama, they want us reachin' for the llamas\nCausin' hysteria, the new hip-hop criteria\nAnd they forgot about the blood, sweat and tears\nNow we see the results of all the blunts, chicks and beers\nYou might also like[Chorus: Guru]\nWord to God, if Big and 'Pac were still here\nSome of these weirdos wouldn't act so cavalier\nWe all know that the game has changed\nIt's crazy out here and rap's got a bad name\nThink about it, what if bling never happened\nAnd the true artists were gettin' rich from rappin'?\nWord to God, some should give\nLet's delete the politics so real hip-hop can live\n\n[Outro: Edo. G]\nI-I-I-I-\nI-I-I hate tellin' good people bad news\nI-I hate-\nI hate tellin' good people bad news\nI-I-I-I-I-I-I-I-\nI hate tellin' good people bad news5Embed"
+}

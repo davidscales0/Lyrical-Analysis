@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 8,
+ "api_path": "/songs/5244542",
+ "artist_names": "The Strokes",
+ "full_title": "Selfless by\u00a0The\u00a0Strokes",
+ "header_image_thumbnail_url": "https://images.genius.com/37a0b0306a7f089dda0e12f563817a8e.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/37a0b0306a7f089dda0e12f563817a8e.1000x1000x1.jpg",
+ "id": 5244542,
+ "instrumental": false,
+ "lyrics_owner_id": 1599419,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1717992450,
+ "path": "/The-strokes-selfless-lyrics",
+ "primary_artist_names": "The Strokes",
+ "pyongs_count": 27,
+ "relationships_index_url": "https://genius.com/The-strokes-selfless-sample",
+ "release_date_components": {
+  "year": 2020,
+  "month": 4,
+  "day": 10
+ },
+ "release_date_for_display": "April 10, 2020",
+ "release_date_with_abbreviated_month_for_display": "Apr. 10, 2020",
+ "song_art_image_thumbnail_url": "https://images.genius.com/37a0b0306a7f089dda0e12f563817a8e.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/37a0b0306a7f089dda0e12f563817a8e.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 6,
+  "hot": false,
+  "pageviews": 339773
+ },
+ "title": "Selfless",
+ "title_with_featured": "Selfless",
+ "updated_by_human_at": 1717992450,
+ "url": "https://genius.com/The-strokes-selfless-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/12524",
+  "header_image_url": "https://images.genius.com/382ae86addc1e06ae4bebad904b69c2b.640x348x1.jpg",
+  "id": 12524,
+  "image_url": "https://images.genius.com/b5237c13de1a05f92ca6327d854cbfc8.1000x1000x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "The Strokes",
+  "slug": "The-strokes",
+  "url": "https://genius.com/artists/The-strokes",
+  "iq": 105
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/12524",
+   "header_image_url": "https://images.genius.com/382ae86addc1e06ae4bebad904b69c2b.640x348x1.jpg",
+   "id": 12524,
+   "image_url": "https://images.genius.com/b5237c13de1a05f92ca6327d854cbfc8.1000x1000x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "The Strokes",
+   "slug": "The-strokes",
+   "url": "https://genius.com/artists/The-strokes",
+   "iq": 105
+  }
+ ],
+ "artist": "The Strokes",
+ "lyrics": "68 ContributorsTranslationsEspa\u00f1olSelfless Lyrics[Verse 1]\nCan the dark side light my way out? Yeah, yeah\nLay your hand across my face,\u2005yeah,\u2005yeah\nTime we lost,\u2005that's all my fault\n\n[Chorus]\nPlease don\u2019t be\u2005long, 'cause I want you now\nI don't have love without you around\nLife is too short, but I will live for you\n\n[Verse 2]\nHow did this fit in your story? Yeah-eah\nWhy\u2019d you let them judge your body? Yeah-eah\nI'll be waitin' there outside, yeah\n\n[Chorus]\nPlease don't be long, 'cause I want your all\nI don't have fun without your love\nLife is too short, but I will live for you\nYou're mucking off, but I will live for you, my selfless love\n\n[Bridge]\nBite my tongue, I wait my turn\nI waited for a century\nWaste my breath, no lessons learned\nI turn and face the enemy\nI'm not scared, just don\u2019t care\nI\u2019m not listening, you hear?\nHe's never there, but I don\u2019t care\nI can't tell you what and where\nYou might also like[Outro]\nYeah-eah\nYeah-eah27Embed"
+}

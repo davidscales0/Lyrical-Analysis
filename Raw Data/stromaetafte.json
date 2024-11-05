@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 7,
+ "api_path": "/songs/203910",
+ "artist_names": "Stromae",
+ "full_title": "Ta f\u00eate by\u00a0Stromae",
+ "header_image_thumbnail_url": "https://images.genius.com/6ac9b80da9ffca39edd491e4a99b8c7c.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/6ac9b80da9ffca39edd491e4a99b8c7c.1000x1000x1.jpg",
+ "id": 203910,
+ "instrumental": false,
+ "lyrics_owner_id": 261541,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1680973498,
+ "path": "/Stromae-ta-fete-lyrics",
+ "primary_artist_names": "Stromae",
+ "pyongs_count": 45,
+ "relationships_index_url": "https://genius.com/Stromae-ta-fete-sample",
+ "release_date_components": {
+  "year": 2013,
+  "month": 8,
+  "day": 16
+ },
+ "release_date_for_display": "August 16, 2013",
+ "release_date_with_abbreviated_month_for_display": "Aug. 16, 2013",
+ "song_art_image_thumbnail_url": "https://images.genius.com/6a94d6f09038d56f7e2429b9307f1c7b.220x220x1.jpg",
+ "song_art_image_url": "https://images.genius.com/6a94d6f09038d56f7e2429b9307f1c7b.220x220x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 455497
+ },
+ "title": "Ta f\u00eate",
+ "title_with_featured": "Ta f\u00eate",
+ "updated_by_human_at": 1720332687,
+ "url": "https://genius.com/Stromae-ta-fete-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1484",
+  "header_image_url": "https://images.genius.com/b71885d6b08d6c4cd3dcb94e626da202.1000x377x1.jpg",
+  "id": 1484,
+  "image_url": "https://images.genius.com/9f57192138b79b2dcadc4c7c4d3285bb.834x834x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Stromae",
+  "slug": "Stromae",
+  "url": "https://genius.com/artists/Stromae"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1484",
+   "header_image_url": "https://images.genius.com/b71885d6b08d6c4cd3dcb94e626da202.1000x377x1.jpg",
+   "id": 1484,
+   "image_url": "https://images.genius.com/9f57192138b79b2dcadc4c7c4d3285bb.834x834x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Stromae",
+   "slug": "Stromae",
+   "url": "https://genius.com/artists/Stromae"
+  }
+ ],
+ "artist": "Stromae",
+ "lyrics": "38 ContributorsTranslationsEnglishTa f\u00eate Lyrics[Couplet 1]\nIl est l'heure, fini l'heure de danser\nDanse, t'inqui\u00e8te pas, tu vas danser\nBalance-toi, mais tu vas te faire balancer\nD\u00e9fonce-toi, mais tu vas te faire d\u00e9foncer\n\n[Refrain]\nTu aimerais faire ta f\u00eate\nTa m\u00e8re veut te la faire aussi, ta f\u00eate\nLe juge voudrait te faire ta f\u00eate\nTout le monde te fera aussi ta f\u00eate\n\n[Couplet 2]\nTu sors trop, du moins c'est ce qu'ils disent\nIls parlent trop, c'est pourquoi tes oreilles sifflent\n\u00c0 qui la faute\u202f? C'est la faute \u00e0 autrui, hein ?\nC'est les autres, toi, tu n'as qu'une seule envie\n\n[Refrain]\nTu aimerais faire ta f\u00eate\nTa m\u00e8re veut te la faire aussi, ta f\u00eate\nLe juge voudrait te faire ta f\u00eate\nTout le monde te fera aussi ta f\u00eate\n\n[Outro]\nTu aimerais faire ta f\u00eate\nTa m\u00e8re veut te la faire aussi, ta f\u00eate\nLe juge voudrait te faire ta f\u00eate\nTout le monde te fera aussi ta f\u00eateYou might also like45Embed"
+}

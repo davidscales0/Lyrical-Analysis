@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/9810126",
+ "artist_names": "4batz",
+ "full_title": "\u200bact ii: date @ 8 by\u00a04batz",
+ "header_image_thumbnail_url": "https://images.genius.com/4e465c8801ccef7ef5a675ca92a72e15.300x300x1.png",
+ "header_image_url": "https://images.genius.com/4e465c8801ccef7ef5a675ca92a72e15.1000x1000x1.png",
+ "id": 9810126,
+ "instrumental": false,
+ "lyrics_owner_id": 15722853,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1722098243,
+ "path": "/4batz-act-ii-date-at-8-lyrics",
+ "primary_artist_names": "4batz",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/4batz-act-ii-date-at-8-sample",
+ "release_date_components": {
+  "year": 2023,
+  "month": 12,
+  "day": 15
+ },
+ "release_date_for_display": "December 15, 2023",
+ "release_date_with_abbreviated_month_for_display": "Dec. 15, 2023",
+ "song_art_image_thumbnail_url": "https://images.genius.com/4e465c8801ccef7ef5a675ca92a72e15.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/4e465c8801ccef7ef5a675ca92a72e15.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 80576
+ },
+ "title": "\u200bact ii: date @ 8",
+ "title_with_featured": "\u200bact ii: date @ 8",
+ "updated_by_human_at": 1722098243,
+ "url": "https://genius.com/4batz-act-ii-date-at-8-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/3707702",
+  "header_image_url": "https://images.genius.com/812aa42a5651b03dff810d6fe8913e84.1000x562x1.webp",
+  "id": 3707702,
+  "image_url": "https://images.genius.com/592b3ff6be9b550abc6b82967495982c.401x401x1.png",
+  "index_character": "0",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "4batz",
+  "slug": "4batz",
+  "url": "https://genius.com/artists/4batz"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/3707702",
+   "header_image_url": "https://images.genius.com/812aa42a5651b03dff810d6fe8913e84.1000x562x1.webp",
+   "id": 3707702,
+   "image_url": "https://images.genius.com/592b3ff6be9b550abc6b82967495982c.401x401x1.png",
+   "index_character": "0",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "4batz",
+   "slug": "4batz",
+   "url": "https://genius.com/artists/4batz"
+  }
+ ],
+ "artist": "4batz",
+ "lyrics": "29 ContributorsTranslationsDeutsch\u0420\u0443\u0441\u0441\u043a\u0438\u0439Espa\u00f1olT\u00fcrk\u00e7e\u200bact ii: date @ 8 Lyrics[Intro]\nYou want me to pull up?\n\n[Chorus]\nI'll come and slide by 8 p.m.\nAnd send a text to your DM\nFive hundred for your fuckin' hair\nTwo hundred for your fuckin' nails\nYou runnin' out of shoes to wear\nSo I bought you another pair\n\n[Verse]\nGirl, I got you another dress\nSo bring your ass up down them stairs\nI buy you shit because you rare\nAnd, plus, because you know I care\nBitch, you know you love it here\nThat's why you keep on comin' near\nYour nigga can't compete, I swear (Nah, for real)\nHe tried it, now he look too weird, baby\n\n[Chorus]\nI'll come and slide by 8 p.m.\nAnd send a text to your DM\nFive hundred for your fuckin' hair\nTwo hundred for your fuckin' nails\nYou runnin' out of shoes to wear\nSo I bought you another pair\nYou might also like[Bridge]\nYou runnin' out of sho\u0435s to wear\nSo I bought you another pair\n\n[Outro]\nI'll come and slid\u0435 by 8 p.m.\nAnd send a text to your DM\nFive hundred for your fuckin' hair\nTwo hundred for your fuckin' nails\nYou runnin' out of shoes to wear\nSo I bought you another pairEmbed"
+}

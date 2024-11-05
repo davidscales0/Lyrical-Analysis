@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 8,
+ "api_path": "/songs/72119",
+ "artist_names": "Pink Floyd",
+ "full_title": "Breathe (In the Air) by\u00a0Pink\u00a0Floyd",
+ "header_image_thumbnail_url": "https://images.genius.com/e7aacf0af81cf270fa2b67833c018872.300x300x1.png",
+ "header_image_url": "https://images.genius.com/e7aacf0af81cf270fa2b67833c018872.1000x1000x1.png",
+ "id": 72119,
+ "instrumental": false,
+ "lyrics_owner_id": 11524,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1721900687,
+ "path": "/Pink-floyd-breathe-in-the-air-lyrics",
+ "primary_artist_names": "Pink Floyd",
+ "pyongs_count": 67,
+ "relationships_index_url": "https://genius.com/Pink-floyd-breathe-in-the-air-sample",
+ "release_date_components": {
+  "year": 1973,
+  "month": 3,
+  "day": 1
+ },
+ "release_date_for_display": "March 1, 1973",
+ "release_date_with_abbreviated_month_for_display": "Mar. 1, 1973",
+ "song_art_image_thumbnail_url": "https://images.genius.com/e7aacf0af81cf270fa2b67833c018872.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/e7aacf0af81cf270fa2b67833c018872.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 571717
+ },
+ "title": "Breathe (In the Air)",
+ "title_with_featured": "Breathe (In the Air)",
+ "updated_by_human_at": 1721900905,
+ "url": "https://genius.com/Pink-floyd-breathe-in-the-air-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/694",
+  "header_image_url": "https://images.genius.com/39fff170940f12d3b88db19f01835f1d.500x500x97.gif",
+  "id": 694,
+  "image_url": "https://images.genius.com/6b5c50912d99c3cf0eabfec5f427c452.1000x1000x1.jpg",
+  "index_character": "p",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Pink Floyd",
+  "slug": "Pink-floyd",
+  "url": "https://genius.com/artists/Pink-floyd"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/694",
+   "header_image_url": "https://images.genius.com/39fff170940f12d3b88db19f01835f1d.500x500x97.gif",
+   "id": 694,
+   "image_url": "https://images.genius.com/6b5c50912d99c3cf0eabfec5f427c452.1000x1000x1.jpg",
+   "index_character": "p",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Pink Floyd",
+   "slug": "Pink-floyd",
+   "url": "https://genius.com/artists/Pink-floyd"
+  }
+ ],
+ "artist": "Pink Floyd",
+ "lyrics": "88 ContributorsTranslationsPortugu\u00easNederlandsEnglishItaliano\u0420\u0443\u0441\u0441\u043a\u0438\u0439Breathe (In the Air) Lyrics[Instrumental Intro]\n\n[Verse 1]\nBreathe, breathe in the air\nDon't be afraid to care\nLeave, but don't leave me\nLook around and choose your own ground\n\n[Chorus]\nFor long you live and high you fly\nAnd smiles you'll give and tears you'll cry\nAnd all you touch and all you see\nIs all your life will ever be\n\n[Verse 2]\nRun, rabbit, run\nDig that hole, forget the sun\nAnd when at last the work is done\nDon't sit down, it's time to dig another one\n\n[Chorus]\nFor long you live and high you fly\nBut only if you ride the tide\nAnd balanced on the biggest wave\nYou race towards an early graveYou might also like67Embed"
+}

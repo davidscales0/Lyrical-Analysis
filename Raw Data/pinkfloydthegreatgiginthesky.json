@@ -1,0 +1,81 @@
+{
+ "_type": "song",
+ "annotation_count": 5,
+ "api_path": "/songs/72192",
+ "artist_names": "Pink Floyd (Ft. Clare Torry)",
+ "full_title": "The Great Gig in the Sky by\u00a0Pink\u00a0Floyd (Ft.\u00a0Clare\u00a0Torry)",
+ "header_image_thumbnail_url": "https://images.genius.com/e7aacf0af81cf270fa2b67833c018872.300x300x1.png",
+ "header_image_url": "https://images.genius.com/e7aacf0af81cf270fa2b67833c018872.1000x1000x1.png",
+ "id": 72192,
+ "instrumental": false,
+ "lyrics_owner_id": 11524,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1721901822,
+ "path": "/Pink-floyd-the-great-gig-in-the-sky-lyrics",
+ "primary_artist_names": "Pink Floyd",
+ "pyongs_count": 52,
+ "relationships_index_url": "https://genius.com/Pink-floyd-the-great-gig-in-the-sky-sample",
+ "release_date_components": {
+  "year": 1973,
+  "month": 3,
+  "day": 1
+ },
+ "release_date_for_display": "March 1, 1973",
+ "release_date_with_abbreviated_month_for_display": "Mar. 1, 1973",
+ "song_art_image_thumbnail_url": "https://images.genius.com/e7aacf0af81cf270fa2b67833c018872.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/e7aacf0af81cf270fa2b67833c018872.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 378842
+ },
+ "title": "The Great Gig in the Sky",
+ "title_with_featured": "The Great Gig in the Sky (Ft.\u00a0Clare\u00a0Torry)",
+ "updated_by_human_at": 1721901827,
+ "url": "https://genius.com/Pink-floyd-the-great-gig-in-the-sky-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/40291",
+   "header_image_url": "https://images.genius.com/310bebd0a39918272055d6b0e6fa5e92.800x518x1.png",
+   "id": 40291,
+   "image_url": "https://images.genius.com/1684ee3784aadef730da573d2ad89cd4.576x576x1.jpg",
+   "index_character": "c",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Clare Torry",
+   "slug": "Clare-torry",
+   "url": "https://genius.com/artists/Clare-torry"
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/694",
+  "header_image_url": "https://images.genius.com/39fff170940f12d3b88db19f01835f1d.500x500x97.gif",
+  "id": 694,
+  "image_url": "https://images.genius.com/6b5c50912d99c3cf0eabfec5f427c452.1000x1000x1.jpg",
+  "index_character": "p",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Pink Floyd",
+  "slug": "Pink-floyd",
+  "url": "https://genius.com/artists/Pink-floyd"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/694",
+   "header_image_url": "https://images.genius.com/39fff170940f12d3b88db19f01835f1d.500x500x97.gif",
+   "id": 694,
+   "image_url": "https://images.genius.com/6b5c50912d99c3cf0eabfec5f427c452.1000x1000x1.jpg",
+   "index_character": "p",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Pink Floyd",
+   "slug": "Pink-floyd",
+   "url": "https://genius.com/artists/Pink-floyd"
+  }
+ ],
+ "artist": "Pink Floyd",
+ "lyrics": "67 ContributorsTranslationsPortugu\u00easEspa\u00f1olNederlandsEnglish\u0420\u0443\u0441\u0441\u043a\u0438\u0439The Great Gig in the Sky Lyrics[Intro: Gerry O'Driscoll]\n\"\u2026and I am not frightened of dying, you know\nAny time will do, I don't mind\nWhy should I be frightened of dying?\nThere's no reason for it\nYou've gotta go sometime\"\n[Non-Lyrical Vocals: Clare Torry]\n[Interlude: Patricia Watts]\n\"I never said I was frightened of dying\"\n[Non-Lyrical Vocals: Clare Torry]You might also like52Embed"
+}

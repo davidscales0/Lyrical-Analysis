@@ -1,0 +1,111 @@
+{
+ "_type": "song",
+ "annotation_count": 24,
+ "api_path": "/songs/1786453",
+ "artist_names": "A$AP Rocky (Ft. Mark Ronson, Miguel & Rod Stewart)",
+ "full_title": "Everyday by\u00a0A$AP\u00a0Rocky (Ft.\u00a0Mark\u00a0Ronson, Miguel & Rod\u00a0Stewart)",
+ "header_image_thumbnail_url": "https://images.genius.com/b93a35fea2384ced2150126d07388de6.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/b93a35fea2384ced2150126d07388de6.1000x1000x1.jpg",
+ "id": 1786453,
+ "instrumental": false,
+ "lyrics_owner_id": 918020,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1720243733,
+ "path": "/A-ap-rocky-everyday-lyrics",
+ "primary_artist_names": "A$AP Rocky",
+ "pyongs_count": 503,
+ "relationships_index_url": "https://genius.com/A-ap-rocky-everyday-sample",
+ "release_date_components": {
+  "year": 2015,
+  "month": 5,
+  "day": 8
+ },
+ "release_date_for_display": "May 8, 2015",
+ "release_date_with_abbreviated_month_for_display": "May. 8, 2015",
+ "song_art_image_thumbnail_url": "https://images.genius.com/6fc39a5c20b0d12ba73b614a0f124a3d.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/6fc39a5c20b0d12ba73b614a0f124a3d.800x800x1.png",
+ "stats": {
+  "unreviewed_annotations": 4,
+  "hot": false,
+  "pageviews": 1466657
+ },
+ "title": "Everyday",
+ "title_with_featured": "Everyday (Ft.\u00a0Mark\u00a0Ronson, Miguel & Rod\u00a0Stewart)",
+ "updated_by_human_at": 1720243734,
+ "url": "https://genius.com/A-ap-rocky-everyday-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/8231",
+   "header_image_url": "https://images.genius.com/f2554b925666456a51ce3405d6df42d3.1000x562x1.jpg",
+   "id": 8231,
+   "image_url": "https://images.genius.com/b2c303a3a089b5f2c582f426d410e73e.1000x1000x1.jpg",
+   "index_character": "m",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Mark Ronson",
+   "slug": "Mark-ronson",
+   "url": "https://genius.com/artists/Mark-ronson",
+   "iq": 100
+  },
+  {
+   "_type": "artist",
+   "api_path": "/artists/97739",
+   "header_image_url": "https://images.genius.com/cf7f4555bcc360f6aac67a65879c9aec.1000x253x1.png",
+   "id": 97739,
+   "image_url": "https://images.genius.com/c1f3483077e2406b263935a52a7b1924.1000x1000x1.jpg",
+   "index_character": "r",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Rod Stewart",
+   "slug": "Rod-stewart",
+   "url": "https://genius.com/artists/Rod-stewart"
+  },
+  {
+   "_type": "artist",
+   "api_path": "/artists/446",
+   "header_image_url": "https://images.genius.com/8acda2c868067eb1594171d7b3e26737.1000x562x1.jpg",
+   "id": 446,
+   "image_url": "https://images.genius.com/4a9c9c355dd7d92bc043305f9554fe62.686x686x1.jpg",
+   "index_character": "m",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Miguel",
+   "slug": "Miguel",
+   "url": "https://genius.com/artists/Miguel",
+   "iq": 5488
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/12417",
+  "header_image_url": "https://images.genius.com/4e896a55925d464c3c3545a2d9a0d15b.1000x564x1.jpg",
+  "id": 12417,
+  "image_url": "https://images.genius.com/41eca064ad6fb1279eb20a6f546ac054.602x602x1.jpg",
+  "index_character": "a",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "A$AP Rocky",
+  "slug": "A-ap-rocky",
+  "url": "https://genius.com/artists/A-ap-rocky",
+  "iq": 34376
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/12417",
+   "header_image_url": "https://images.genius.com/4e896a55925d464c3c3545a2d9a0d15b.1000x564x1.jpg",
+   "id": 12417,
+   "image_url": "https://images.genius.com/41eca064ad6fb1279eb20a6f546ac054.602x602x1.jpg",
+   "index_character": "a",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "A$AP Rocky",
+   "slug": "A-ap-rocky",
+   "url": "https://genius.com/artists/A-ap-rocky",
+   "iq": 34376
+  }
+ ],
+ "artist": "A$AP Rocky",
+ "lyrics": "203 ContributorsTranslations\u0420\u0443\u0441\u0441\u043a\u0438\u0439Espa\u00f1olPortugu\u00easEveryday Lyrics[Chorus: Rod Stewart & Miguel]\nEvery day I spend my time\nDrinkin' wine, feelin' fine\nWaitin' here to find the sign\nThat I can understand, yes, I am\nSo every day I spend my time\nDrinkin' wine, feelin' fine\nWaiting here to find the sign\nThat I should take it slow\nHere I go, here I go, here I go\n\n[Verse 1: A$AP Rocky]\nUh, off again, there he go, to another dimension, my mind\nBody, soul imprisoned, my eye probably goin' ballistic, but, listen\nI'm missin' a couple of screws, they ain't never do drillin' true\nYou been sippin' away at the truth, a double shot of wisdom'll do\nDo, do, rollin' through, hittin' switches\nRolling ditches, blowin' kisses, to the bitches, holdin' biscuits (Yeah)\nWhat's the business? Beat the system\nCo-defendants, blow the sentence, go to prison\nGo to church and pray the father, Lord, forgive us (Amen)\nAnd only God can judge me (Yeah)\nAnd he don't like no ugly\nI look so fuckin' good, most dykes'll fuck me, buddy\nYeah, I'm a piece of shit (Uh-huh), I know I plead the fifth\nI tell her, \"Holler if ya need some dick\"\nThe devotion is gettin' hopeless, but, hold it, I'm gettin' close\nAs my soul is, I'm seein' ghosts, a solo is now a poet\nHypnosis overdose on potions, adjustin' to the motions\nAnd gettin' out all my emotions\nSee A$AP Rocky LiveGet tickets as low as $261You might also like[Chorus: Rod Stewart, Miguel & A$AP Rocky]\nEvery day I spend my time\nDrinkin' wine, feelin' fine\nWaitin' here to find the sign\nThat I can understand, yes, I am\nSo every day I spend my time\nDrinkin' wine, feelin' fine (Yeah)\nWaiting here to find the sign\nThat I should take it slow (Uh)\nHere I go, here I go, here I go\n[Verse 2: A$AP Rocky]\nUh, this type of shit\nMake a nigga wanna flip September through August (Woo, woo, woo, woo)\nThis type of shit got 'em bustin' out the clip\nIn the middle of the office (Rrah, woo, woo, woo, woo)\nAnd a message to the bosses (Woo)\nThe Misfits' new outfit is on the bloglist\nGorgeous hoes keep on sayin' that they carsick\n'Cause the Porsches get 'em nauseous (Woo)\nPlus, I ain't even mad yet (Woo), niggas caught me in a good mood (Yeah)\nPaparazzi wanna nag a nigga chillin' at the bag check (Yeah, woo)\nHope they show me in my good shoes (Yeah)\nWhen papa got the brand new bag (Yeah)\nFlacko got the brand new Raf, that's good news (Woo)\n\"Hood dudes usually don't look like you\"\nHow it feel to get a deal and come back\nAnd the whole hood look like you?\nScreamin', \"Pimp Squad, hold it down\"\nCan't drive, bitch, I'm legally blind, bitch\nIf I live or die, it's up to me to decide\nShit, niggas coppin' guns like they legal to buy\nThe only key to survive and get a piece of the pie\nIs to agree with a lot or just believe a fa\u00e7ade, bitch\nAnd I'll be fine just-a drinkin' my wine, bitch\n[Bridge: Miguel]\nI-I-I-I got the love birds chirpin' at the window (Woo, woo)\nBut I don't need love no more (Woo)\nI'll be fine, sippin' wine\nTakin' time slow (Woo)\nI got the love birds chirpin' at the window (Woo)\nBut I don't need love no more (Woo, woo)\nI'll be fine, sippin' wine\n\n[Chorus: Miguel, Rod Stewart & A$AP Rocky]\nSo every day I spend my time (Yeah)\nDrinkin' wine, feelin' fine\nWaiting here to find the sign\nThat I can understand, yes, I am (Uh)\nEvery day I spend my time (Yeah)\nDrinkin' wine, feelin' fine (Yeah)\nWaitin' here to find the sign\nI don't care if I ever know (Uh)\nHere I go, here I go, here I go\n\n[Outro: A$AP Rocky]\nI got the love birds chirpin' at the window\nBut I don't need love no more, oh, no\nI'll be fine, sippin' wine\nTakin' time slow\nI got the love birds chirpin' at the window\nBut I don't need love no more, oh, no\nI'll be fine, sippin' wine\nTakin' time slow503Embed"
+}

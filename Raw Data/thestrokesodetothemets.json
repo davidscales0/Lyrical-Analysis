@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 6,
+ "api_path": "/songs/5141308",
+ "artist_names": "The Strokes",
+ "full_title": "Ode to the Mets by\u00a0The\u00a0Strokes",
+ "header_image_thumbnail_url": "https://images.genius.com/37a0b0306a7f089dda0e12f563817a8e.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/37a0b0306a7f089dda0e12f563817a8e.1000x1000x1.jpg",
+ "id": 5141308,
+ "instrumental": false,
+ "lyrics_owner_id": 1427758,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1722317597,
+ "path": "/The-strokes-ode-to-the-mets-lyrics",
+ "primary_artist_names": "The Strokes",
+ "pyongs_count": 53,
+ "relationships_index_url": "https://genius.com/The-strokes-ode-to-the-mets-sample",
+ "release_date_components": {
+  "year": 2020,
+  "month": 4,
+  "day": 10
+ },
+ "release_date_for_display": "April 10, 2020",
+ "release_date_with_abbreviated_month_for_display": "Apr. 10, 2020",
+ "song_art_image_thumbnail_url": "https://images.genius.com/37a0b0306a7f089dda0e12f563817a8e.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/37a0b0306a7f089dda0e12f563817a8e.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false,
+  "pageviews": 438148
+ },
+ "title": "Ode to the Mets",
+ "title_with_featured": "Ode to the Mets",
+ "updated_by_human_at": 1722317597,
+ "url": "https://genius.com/The-strokes-ode-to-the-mets-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/12524",
+  "header_image_url": "https://images.genius.com/382ae86addc1e06ae4bebad904b69c2b.640x348x1.jpg",
+  "id": 12524,
+  "image_url": "https://images.genius.com/b5237c13de1a05f92ca6327d854cbfc8.1000x1000x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "The Strokes",
+  "slug": "The-strokes",
+  "url": "https://genius.com/artists/The-strokes",
+  "iq": 105
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/12524",
+   "header_image_url": "https://images.genius.com/382ae86addc1e06ae4bebad904b69c2b.640x348x1.jpg",
+   "id": 12524,
+   "image_url": "https://images.genius.com/b5237c13de1a05f92ca6327d854cbfc8.1000x1000x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "The Strokes",
+   "slug": "The-strokes",
+   "url": "https://genius.com/artists/The-strokes",
+   "iq": 105
+  }
+ ],
+ "artist": "The Strokes",
+ "lyrics": "100 ContributorsTranslationsEspa\u00f1olOde to the Mets Lyrics[Verse 1]\nUp on his horse, up on his horse\nNot gonna wake up here anymore\nListen one time,\u2005it's\u2005not the truth\nIt's\u2005just a story I tell to\u2005you\nEasy to say, easy to do\nBut it's not easy, well, maybe for you\nHope that you find it, hope that it's good\nHope that you read it, think that you should\nCuts you some slack as he sits back\nSizes you up, plans his attack\n\n[Spoken]\nDa-da-da\nDrums please, Fab\n\n[Pre-Chorus]\nAnd I got it all, I got it all\nWaitin' for me down on the street\nBut now you gotta do somethin' special for me\nI'm gonna say what's on my mind\nThen I'll walk out, then I'll feel fine\n\n[Chorus]\nYeah, I'm under his thumb, I'm on his back\nI will not show my teeth too quick\nI needed you there, I needed you there\nBut I didn't know, I didn't know\nYou might also like[Break]\nGo alone\nI'll go alone\nWe'll go alone\nI'll go alone\n\n[Verse 2]\nBack from his trip, he's at the door\nWhen he gets back, he's on the phone\nInnocent eye, innocent heart\nNo, it's not wrong, but it's not right\nInnocent time, out on his own\nNot gonna do that, fuck, I'm out of control\nI was just bored, playin' the guitar\nLearned all your tricks, wasn't too hard\n\n[Chorus]\nIt's the last one now, I can promise you that\nI'm gonna find out the truth when I get back\n\n[Outro]\nGone now are the old times\nForgotten, time to hold on the railing\nThe Rubik's Cube isn't solving for us\nOld friends, long forgotten\nThe old ways at the bottom of\nThe ocean now has swallowed\nThe only thing that's left is us\nSo pardon the silence that you're hearing\nIt's turnin' into a deafening, painful, shameful roar53Embed"
+}

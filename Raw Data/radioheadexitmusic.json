@@ -1,0 +1,66 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/4629952",
+ "artist_names": "Radiohead",
+ "full_title": "\u200bexit music #2 by\u00a0Radiohead",
+ "header_image_thumbnail_url": "https://images.genius.com/10504bdd5a0e5bdc311b050d62d1c5b6.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/10504bdd5a0e5bdc311b050d62d1c5b6.1000x1000x1.jpg",
+ "id": 4629952,
+ "instrumental": false,
+ "lyrics_owner_id": 4899103,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1692440529,
+ "path": "/Radiohead-exit-music-2-lyrics",
+ "primary_artist_names": "Radiohead",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Radiohead-exit-music-2-sample",
+ "release_date_components": {
+  "year": 2019,
+  "month": 6,
+  "day": 11
+ },
+ "release_date_for_display": "June 11, 2019",
+ "release_date_with_abbreviated_month_for_display": "Jun. 11, 2019",
+ "song_art_image_thumbnail_url": "https://images.genius.com/10504bdd5a0e5bdc311b050d62d1c5b6.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/10504bdd5a0e5bdc311b050d62d1c5b6.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false
+ },
+ "title": "\u200bexit music #2",
+ "title_with_featured": "\u200bexit music #2",
+ "updated_by_human_at": 1692440529,
+ "url": "https://genius.com/Radiohead-exit-music-2-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/604",
+  "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+  "id": 604,
+  "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Radiohead",
+  "slug": "Radiohead",
+  "url": "https://genius.com/artists/Radiohead"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/604",
+   "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+   "id": 604,
+   "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+   "index_character": "r",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Radiohead",
+   "slug": "Radiohead",
+   "url": "https://genius.com/artists/Radiohead"
+  }
+ ],
+ "artist": "Radiohead",
+ "lyrics": "5 Contributors\u200bexit music #2 LyricsBring a rope[?]\nAnd a tape recorder\nHang the coat\nThat is since the enemies are\nAll around\nAnd you can't escape it now it\u2019s found\nLiving in a glasshouse\n\nYou're a mess\nBut daddy's gonna come and clean it up\nLike he always does and no\nNo one cares\nNo one notices when you\u2019re not there\nLiving in a glasshouse\n\nWell of course I'd like to sit around and chat\nWell of course I'd like to stay and chew the fat\nWell of course I'd like to sit around and chat\nWell of course I'd like to stay and chew the fat\nBut something's breaking in\nBreaking in\nBreaking in\nBreaking inYou might also likeEmbed"
+}

@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 5,
+ "api_path": "/songs/6680188",
+ "artist_names": "Saint\u00e9",
+ "full_title": "Reference by\u00a0Saint\u00e9",
+ "header_image_thumbnail_url": "https://images.genius.com/1ae34bb8b5e387cfe7a83c72cd841e27.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/1ae34bb8b5e387cfe7a83c72cd841e27.500x500x1.jpg",
+ "id": 6680188,
+ "instrumental": false,
+ "lyrics_owner_id": 11689560,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1721663175,
+ "path": "/Sainte-reference-lyrics",
+ "primary_artist_names": "Saint\u00e9",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Sainte-reference-sample",
+ "release_date_components": {
+  "year": 2020,
+  "month": 10,
+  "day": 15
+ },
+ "release_date_for_display": "October 15, 2020",
+ "release_date_with_abbreviated_month_for_display": "Oct. 15, 2020",
+ "song_art_image_thumbnail_url": "https://images.genius.com/1ae34bb8b5e387cfe7a83c72cd841e27.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/1ae34bb8b5e387cfe7a83c72cd841e27.500x500x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 5,
+  "hot": false,
+  "pageviews": 5923
+ },
+ "title": "Reference",
+ "title_with_featured": "Reference",
+ "updated_by_human_at": 1721663175,
+ "url": "https://genius.com/Sainte-reference-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/2298775",
+  "header_image_url": "https://images.genius.com/854876224f4af7b4a0a765bad22505c2.1000x735x1.jpg",
+  "id": 2298775,
+  "image_url": "https://images.genius.com/00039c8d12165c69dba0c8ce3c54eded.900x900x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Saint\u00e9",
+  "slug": "Sainte",
+  "url": "https://genius.com/artists/Sainte",
+  "iq": 356
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/2298775",
+   "header_image_url": "https://images.genius.com/854876224f4af7b4a0a765bad22505c2.1000x735x1.jpg",
+   "id": 2298775,
+   "image_url": "https://images.genius.com/00039c8d12165c69dba0c8ce3c54eded.900x900x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Saint\u00e9",
+   "slug": "Sainte",
+   "url": "https://genius.com/artists/Sainte",
+   "iq": 356
+  }
+ ],
+ "artist": "Saint\u00e9",
+ "lyrics": "6 ContributorsReference Lyrics[Intro]\nYeah\nAyy\n\n[Verse 1]\nLost and secured that bread\nBro got in hand to late, them times, more time for them boys on tag\nCan't take questions but mention when my guys on road, lame you's all mad\nJust hit a lick with the Bape'd outfit, got the custom kicks and I'm lookin' all mad\nThey is in the D, what they say about me, left the crib roll out, came back with a stack\nYeah, my finance is not lookin' too bad\nFive star meal that a sweet one made now I'm not gonna faint, gotta taste some bread\nCause she make souffl\u00e9s on Tuesdays\nMy dear quick taste, little ting don't let\nGotta l\u0435t broski on lowkey near the local shop, could that guy got pax\n\n[Chorus]\nY\u0435ah\nSwear she baddie, drop me an addy\nBro got a coupe, got a Jaggie, four lane draggie\nWait, baby girl outside\nYeah\nB a chef and she whippin' up Thai\nCar event lad, this one's coming up nice\nSmiles to reference to my dad\nLook, she might just keep me for dinner\nLotion, traps get spin up\nFeels get triggered, I ain't no average\nYeah\nSaid that she's liking a man, business man\nYeah, I got business plans, I'm tryna get some bands\nYou might also like[Verse 2]\nLeft OT on a bro with the cheese, came back to the edge, wanna talk about miss me\nSeeing them hoes on the gram with some average man\nTold me how we look all fifty\nForgive me, forgive me, my banks on fleek, if you check mans notes then you'll see they're all crispy\nQuick to the date, we can grab some drinks, I can pay for the bill, take you home you can miss me\n\n(I'm gonna go out treat another man's girl as you feel me)\n(I make my bag then I brush that my man, just like that)\n(I'm from the four)\n\n[Chorus]\n(Run it)\nYeah\nSwear she baddie, drop me an addy\nBro got a coupe, got a Jaggie, four lane draggie\nWait, baby girl outside\nYeah\nB a chef and she whippin' up Thai\nCar event lad, this one's coming up nice\nSmiles to reference to my dad\nLook, she might just keep me for dinner\nLotion, traps get spin up\nFeels get triggered, I ain't no average\nYeah\nSaid that she's liking a man, business man\nYeah, I got business plans, I'm tryna get some bands\n[Outro]\nYeah\nB a chef and she whippin' up Thai\nCar event lad, this one's coming up nice\n\nYeah\nB a chef and she whippin' up Thai\nCar event lad, this one's coming up niceEmbed"
+}

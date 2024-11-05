@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 7,
+ "api_path": "/songs/3135066",
+ "artist_names": "Tyler Childers",
+ "full_title": "Nose on the Grindstone by\u00a0Tyler\u00a0Childers",
+ "header_image_thumbnail_url": "https://images.genius.com/a8ab422d24e3152c2f3a811d30f30a77.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/a8ab422d24e3152c2f3a811d30f30a77.500x500x1.jpg",
+ "id": 3135066,
+ "instrumental": false,
+ "lyrics_owner_id": 4530712,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1720750014,
+ "path": "/Tyler-childers-nose-on-the-grindstone-lyrics",
+ "primary_artist_names": "Tyler Childers",
+ "pyongs_count": 2,
+ "relationships_index_url": "https://genius.com/Tyler-childers-nose-on-the-grindstone-sample",
+ "release_date_components": {
+  "year": 2018,
+  "month": 4,
+  "day": 6
+ },
+ "release_date_for_display": "April 6, 2018",
+ "release_date_with_abbreviated_month_for_display": "Apr. 6, 2018",
+ "song_art_image_thumbnail_url": "https://images.genius.com/a8ab422d24e3152c2f3a811d30f30a77.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/a8ab422d24e3152c2f3a811d30f30a77.500x500x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 4,
+  "hot": false,
+  "pageviews": 143748
+ },
+ "title": "Nose on the Grindstone",
+ "title_with_featured": "Nose on the Grindstone",
+ "updated_by_human_at": 1720750014,
+ "url": "https://genius.com/Tyler-childers-nose-on-the-grindstone-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1065785",
+  "header_image_url": "https://images.genius.com/c51f666871aab0c1f55661cebabd3c5e.1000x586x1.jpg",
+  "id": 1065785,
+  "image_url": "https://images.genius.com/57f5f99459426dfbfe78469b2a08037b.610x610x1.webp",
+  "index_character": "t",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Tyler Childers",
+  "slug": "Tyler-childers",
+  "url": "https://genius.com/artists/Tyler-childers"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1065785",
+   "header_image_url": "https://images.genius.com/c51f666871aab0c1f55661cebabd3c5e.1000x586x1.jpg",
+   "id": 1065785,
+   "image_url": "https://images.genius.com/57f5f99459426dfbfe78469b2a08037b.610x610x1.webp",
+   "index_character": "t",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Tyler Childers",
+   "slug": "Tyler-childers",
+   "url": "https://genius.com/artists/Tyler-childers"
+  }
+ ],
+ "artist": "Tyler Childers",
+ "lyrics": "16 ContributorsNose on the Grindstone Lyrics[Intro]\nThis is \"Nose On the Grindstone\"\nHold on\n\n[Verse 1]\nDaddy worked like a mule minin' Pike County coal\n'Til he fucked up his back, couldn't work anymore\nHe said, \"One of these days you'll get out of these hills\n\"Keep your nose on the grindstone and out of the pills\"\n\n[Verse 2]\n\"See, the ways of this world will just bring you to tears\nKeep the Lord in your heart and you'll have nothin' to fear\nLive the best that you can and don't lie and don't steal\nKeep your nose on the grindstone and out of the pills\"\n\n[Chorus]\nWell, Daddy I've been tryin', I just can't catch a break\nThere's too much in this world that I can't seem to shake\nBut I remember your words, Lord, they bring me to chills\n\"Keep your nose on the grindstone and out of the pills\"\n\n[Verse 3]\n\"Now keep in mind that a man's just as good as his word\nIt takes twice as long to build bridges you've burnt\nAnd there's hurt you can cause time alone cannot heal\nKeep your nose on the grindstone and out of the pills\"\nSee Tyler Childers LiveGet tickets as low as $83You might also like[Chorus]\nWell daddy I've been tryin', I just can't catch a break\nThere's too much in this world I can't seem to shake\nBut I remember your words, Lord, they bring me to chills\n\"Keep your nose on the grindstone and out of the pills\"\n\"Keep your nose on the grindstone\"2Embed"
+}

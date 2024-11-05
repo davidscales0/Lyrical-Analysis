@@ -1,0 +1,68 @@
+{
+ "_type": "song",
+ "annotation_count": 16,
+ "api_path": "/songs/64356",
+ "artist_names": "Pink Floyd",
+ "full_title": "Time by\u00a0Pink\u00a0Floyd",
+ "header_image_thumbnail_url": "https://images.genius.com/eb9f91ec8cda788f0d4c5f0cc37b1c8a.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/eb9f91ec8cda788f0d4c5f0cc37b1c8a.500x500x1.jpg",
+ "id": 64356,
+ "instrumental": false,
+ "lyrics_owner_id": 68350,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1716149727,
+ "path": "/Pink-floyd-time-lyrics",
+ "primary_artist_names": "Pink Floyd",
+ "pyongs_count": 160,
+ "relationships_index_url": "https://genius.com/Pink-floyd-time-sample",
+ "release_date_components": {
+  "year": 1973,
+  "month": 3,
+  "day": 1
+ },
+ "release_date_for_display": "March 1, 1973",
+ "release_date_with_abbreviated_month_for_display": "Mar. 1, 1973",
+ "song_art_image_thumbnail_url": "https://images.genius.com/eb9f91ec8cda788f0d4c5f0cc37b1c8a.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/eb9f91ec8cda788f0d4c5f0cc37b1c8a.500x500x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "concurrents": 2,
+  "hot": false,
+  "pageviews": 1509334
+ },
+ "title": "Time",
+ "title_with_featured": "Time",
+ "updated_by_human_at": 1721901736,
+ "url": "https://genius.com/Pink-floyd-time-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/694",
+  "header_image_url": "https://images.genius.com/39fff170940f12d3b88db19f01835f1d.500x500x97.gif",
+  "id": 694,
+  "image_url": "https://images.genius.com/6b5c50912d99c3cf0eabfec5f427c452.1000x1000x1.jpg",
+  "index_character": "p",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Pink Floyd",
+  "slug": "Pink-floyd",
+  "url": "https://genius.com/artists/Pink-floyd"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/694",
+   "header_image_url": "https://images.genius.com/39fff170940f12d3b88db19f01835f1d.500x500x97.gif",
+   "id": 694,
+   "image_url": "https://images.genius.com/6b5c50912d99c3cf0eabfec5f427c452.1000x1000x1.jpg",
+   "index_character": "p",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Pink Floyd",
+   "slug": "Pink-floyd",
+   "url": "https://genius.com/artists/Pink-floyd"
+  }
+ ],
+ "artist": "Pink Floyd",
+ "lyrics": "154 ContributorsTranslationsEnglishNederlandsPortugu\u00easEspa\u00f1olEnglish\u0420\u0443\u0441\u0441\u043a\u0438\u0439Time Lyrics[Part I: Time]\n\n*ticking clocks*\n*clocks ringing*\n\n[Instrumental Intro]\n\n[Verse 1: David Gilmour]\nTicking away\nThe moments that make up a dull day\nYou fritter and waste the hours\nIn an offhand way\nKicking around on a piece of ground\nIn your hometown\nWaiting for someone\nOr something to show you the way\n[Chorus: Richard Wright]\nTired of lying in the sunshine\nStaying home to watch the rain\nYou are young and life is long\nAnd there is time to kill today\nAnd then one day you find\nTen years have got behind you\nNo one told you when to run\nYou missed the starting gun\nYou might also like[Guitar Solo]\n\n[Verse 2: David Gilmour]\nAnd you run, and you run\nTo catch up with the sun, but it's sinking\nAnd racing around\nTo come up behind you again\nThe sun is the same in a relative way\nBut you're older\nShorter of breath\nAnd one day closer to death\n[Chorus: Richard Wright]\nEvery year is getting shorter\nNever seem to find the time\nPlans that either come to naught\nOr half a page of scribbled lines\nHanging on in quiet desperation\nIs the English way\nThe time is gone, the song is over\nThought I'd something more to say\n[Part II: Breathe (In the Air) (Reprise)]\n\n[Outro: David Gilmour]\nHome, home again\nI like to be here when I can\nWhen I come home cold and tired\nIt's good to warm my bones beside the fire\nFar away across the field\nThe tolling of the iron bell\nCalls the faithful to their knees\nTo hear the softly spoken magic spells160Embed"
+}

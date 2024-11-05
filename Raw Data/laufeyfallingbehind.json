@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 10,
+ "api_path": "/songs/8062834",
+ "artist_names": "Laufey",
+ "full_title": "Falling Behind by\u00a0Laufey",
+ "header_image_thumbnail_url": "https://images.genius.com/6e2d1f08c5efb41a9b870c248a95113d.300x300x1.png",
+ "header_image_url": "https://images.genius.com/6e2d1f08c5efb41a9b870c248a95113d.1000x1000x1.png",
+ "id": 8062834,
+ "instrumental": false,
+ "lyrics_owner_id": 3662839,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1721017078,
+ "path": "/Laufey-falling-behind-lyrics",
+ "primary_artist_names": "Laufey",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Laufey-falling-behind-sample",
+ "release_date_components": {
+  "year": 2022,
+  "month": 8,
+  "day": 11
+ },
+ "release_date_for_display": "August 11, 2022",
+ "release_date_with_abbreviated_month_for_display": "Aug. 11, 2022",
+ "song_art_image_thumbnail_url": "https://images.genius.com/6e2d1f08c5efb41a9b870c248a95113d.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/6e2d1f08c5efb41a9b870c248a95113d.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 10,
+  "hot": false,
+  "pageviews": 70375
+ },
+ "title": "Falling Behind",
+ "title_with_featured": "Falling Behind",
+ "updated_by_human_at": 1721017078,
+ "url": "https://genius.com/Laufey-falling-behind-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/2195472",
+  "header_image_url": "https://images.genius.com/c9e54697e1f9ac021acd93abc8b4c05b.1000x210x1.png",
+  "id": 2195472,
+  "image_url": "https://images.genius.com/a5dec955c8af5ecdf05497a1e102538e.1000x1000x1.png",
+  "index_character": "l",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Laufey",
+  "slug": "Laufey",
+  "url": "https://genius.com/artists/Laufey",
+  "iq": 1300
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/2195472",
+   "header_image_url": "https://images.genius.com/c9e54697e1f9ac021acd93abc8b4c05b.1000x210x1.png",
+   "id": 2195472,
+   "image_url": "https://images.genius.com/a5dec955c8af5ecdf05497a1e102538e.1000x1000x1.png",
+   "index_character": "l",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Laufey",
+   "slug": "Laufey",
+   "url": "https://genius.com/artists/Laufey",
+   "iq": 1300
+  }
+ ],
+ "artist": "Laufey",
+ "lyrics": "28 ContributorsTranslationsT\u00fcrk\u00e7eFalling Behind Lyrics[Verse 1]\nMoved out to a new city\nJune is dawning down on me\nAnd all that I can\u2005find's\n\nA\u2005sickly romance in\u2005the air\nLovers stroll without a care\u2005in sight\nOh this can\u2019t be right\n\n[Chorus]\n'Cause the sun's engaged to the sky\nAnd my best friends found a new guy\nI\u2019m only getting older\nI've never had a shoulder to cry on\nSomeone to call mine\nEverybody's falling in love\nAnd I'm falling behind\n\n[Verse 2]\nTouched the ocean fell right in\nStepped outside and burned my skin\nMy life won't go my way\nBossa nova in my room\nHoped that I'll find someone too\nTo love, b\u0435cause\nSee Laufey LiveGet tickets as low as $101You might also like[Chorus]\nThe sun's engag\u0435d to the sky\nAnd my best friends found a new guy\nI'm only getting older\nI\u2019ve never had a shoulder to cry on\nSomeone to call mine\nEverybody\u2019s falling in love\nAnd I'm falling behind\n\n[Post-Chorus]\nEverybody\u2019s falling in love\nEverybody's falling in love\nEverybody's falling in love but meEmbed"
+}

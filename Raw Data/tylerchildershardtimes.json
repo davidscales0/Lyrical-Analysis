@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 6,
+ "api_path": "/songs/3311047",
+ "artist_names": "Tyler Childers",
+ "full_title": "Hard Times by\u00a0Tyler\u00a0Childers",
+ "header_image_thumbnail_url": "https://images.genius.com/eb702884f06b16e53043f930a3346c2a.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/eb702884f06b16e53043f930a3346c2a.355x355x1.jpg",
+ "id": 3311047,
+ "instrumental": false,
+ "lyrics_owner_id": 2024277,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1721498963,
+ "path": "/Tyler-childers-hard-times-lyrics",
+ "primary_artist_names": "Tyler Childers",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Tyler-childers-hard-times-sample",
+ "release_date_components": {
+  "year": 2011,
+  "month": 10,
+  "day": 11
+ },
+ "release_date_for_display": "October 11, 2011",
+ "release_date_with_abbreviated_month_for_display": "Oct. 11, 2011",
+ "song_art_image_thumbnail_url": "https://images.genius.com/eb702884f06b16e53043f930a3346c2a.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/eb702884f06b16e53043f930a3346c2a.355x355x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false,
+  "pageviews": 39028
+ },
+ "title": "Hard Times",
+ "title_with_featured": "Hard Times",
+ "updated_by_human_at": 1721498963,
+ "url": "https://genius.com/Tyler-childers-hard-times-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1065785",
+  "header_image_url": "https://images.genius.com/c51f666871aab0c1f55661cebabd3c5e.1000x586x1.jpg",
+  "id": 1065785,
+  "image_url": "https://images.genius.com/57f5f99459426dfbfe78469b2a08037b.610x610x1.webp",
+  "index_character": "t",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Tyler Childers",
+  "slug": "Tyler-childers",
+  "url": "https://genius.com/artists/Tyler-childers"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1065785",
+   "header_image_url": "https://images.genius.com/c51f666871aab0c1f55661cebabd3c5e.1000x586x1.jpg",
+   "id": 1065785,
+   "image_url": "https://images.genius.com/57f5f99459426dfbfe78469b2a08037b.610x610x1.webp",
+   "index_character": "t",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Tyler Childers",
+   "slug": "Tyler-childers",
+   "url": "https://genius.com/artists/Tyler-childers"
+  }
+ ],
+ "artist": "Tyler Childers",
+ "lyrics": "14 ContributorsHard Times Lyrics[Verse 1]\nI bought a house at the mouth of the holler\nA ring at the pawn shop, and a crib for the kid\nI heard some word there was work up in Hindman\nI'm going tomorrow and hope that there is\nMy sweat and my wages, they don't seem to weigh out\nI'm gettin' more aches than I'm gainin' in gold\nWhoever said you could raise you a family\nJust a'workin' your ass off knee deep in coal?\n\n[Verse 2]\nWell the sign at the church says I'll reap what I'm sowin'\nBut I ain't lost sleep, it'll come in due time\nAnd if the Lord wants to take me, I'm here for the taking\n'Cause Hell's probably better than tryin' to get by\n\n[Verse 3]\nYou can see me on the front page, it'll be out tomorrow\nA boy in his twenties, shot down in his prime\nFor trying to hold up the Texaco station\nThey'll say I was desperate, they're probably rightSee Tyler Childers LiveGet tickets as low as $83You might also like1Embed"
+}

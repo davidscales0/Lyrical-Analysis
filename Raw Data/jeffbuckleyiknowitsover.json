@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/775197",
+ "artist_names": "Jeff Buckley",
+ "full_title": "I Know It's Over by\u00a0Jeff\u00a0Buckley",
+ "header_image_thumbnail_url": "https://images.genius.com/d2b9954de578b02ba089d8017d4ee251.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/d2b9954de578b02ba089d8017d4ee251.600x600x1.jpg",
+ "id": 775197,
+ "instrumental": false,
+ "lyrics_owner_id": 2801833,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1719461036,
+ "path": "/Jeff-buckley-i-know-its-over-lyrics",
+ "primary_artist_names": "Jeff Buckley",
+ "pyongs_count": 2,
+ "relationships_index_url": "https://genius.com/Jeff-buckley-i-know-its-over-sample",
+ "release_date_components": {
+  "year": 1994,
+  "month": 3,
+  "day": 11
+ },
+ "release_date_for_display": "March 11, 1994",
+ "release_date_with_abbreviated_month_for_display": "Mar. 11, 1994",
+ "song_art_image_thumbnail_url": "https://images.genius.com/d2b9954de578b02ba089d8017d4ee251.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/d2b9954de578b02ba089d8017d4ee251.600x600x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 25133
+ },
+ "title": "I Know It\u2019s Over",
+ "title_with_featured": "I Know It's Over",
+ "updated_by_human_at": 1719461036,
+ "url": "https://genius.com/Jeff-buckley-i-know-its-over-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/22481",
+  "header_image_url": "https://images.genius.com/3d7a1d3c48f0cebdb4bc40640b51b9f1.500x282x1.jpg",
+  "id": 22481,
+  "image_url": "https://images.genius.com/5d911fefb4b0739b08193a0de4c62650.620x349x1.jpg",
+  "index_character": "j",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Jeff Buckley",
+  "slug": "Jeff-buckley",
+  "url": "https://genius.com/artists/Jeff-buckley"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/22481",
+   "header_image_url": "https://images.genius.com/3d7a1d3c48f0cebdb4bc40640b51b9f1.500x282x1.jpg",
+   "id": 22481,
+   "image_url": "https://images.genius.com/5d911fefb4b0739b08193a0de4c62650.620x349x1.jpg",
+   "index_character": "j",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Jeff Buckley",
+   "slug": "Jeff-buckley",
+   "url": "https://genius.com/artists/Jeff-buckley"
+  }
+ ],
+ "artist": "Jeff Buckley",
+ "lyrics": "14 ContributorsI Know It\u2019s Over Lyrics[Chorus]\nOh Mother, I can feel\nThe soil falling over my head\nAnd as I climb into an empty bed\nOh well, enough said\nI know it's over, still I cling\nI don't know where else I can go\nOver, over\nOh Mother, I can feel\nThe soil falling over my head\n\n[Verse 1]\nYou see the sea wants to take me\nThe knife wants to slit me\nDo you think you can help me?\nSad-veiled bride, please be happy\nHandsome groom, give her room\nLoud, loutish lover, treat her kindly\nThough she needs you\nMore than she loves you\n\n[Hook]\nI know it's over, still I cling\nI don't know where else I can go\nOver, over\nYou might also like[Verse 2]\nI know it's over\nIt never really began\nBut in my heart it was so real\nAnd she even spoke to me and said, oh\n\"Well if you're so funny\nWhy are you on your own tonight?\"\n\"And if you are so clever\nWhy are you on your own tonight?\"\n\"And if you're so very entertaining\nWhy are you on your own tonight?\"\n\"And if you're so very good looking\nWhy do you sleep alone tonight?\"\nI know: because tonight is just like any other night\nThat's why you're on your own tonight\nWith your triumphs and your charms\nWhile they are in each other's arms\n\n[Verse 3]\nIt's so easy to laugh, it's so easy to hate\nIt takes strength to be gentle and kind\nOver, over, it's over, it's over\nIt's so easy to laugh, it's so easy to hate\nIt takes guts to be gentle and kind\nOver, over\nLove is natural and real\nBut not for you, my love, not tonight, my love\nLove is natural and real\nBut not for such as you and I, my love\n[Chorus]\nOh Mother, I can feel\nThe soil falling over my head\nOh Mother, I can feel\nThe soil falling over my head\nOh Mother, I can feel\nThe soil falling over my head\nOh Mother, I can feel\nThe soil falling over my head\n\n[Outro]\nThat's about it, let's go home\nThat was nice2Embed"
+}

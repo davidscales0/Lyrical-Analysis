@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 13,
+ "api_path": "/songs/81499",
+ "artist_names": "Jeff Buckley",
+ "full_title": "Mojo Pin by\u00a0Jeff\u00a0Buckley",
+ "header_image_thumbnail_url": "https://images.genius.com/8dd609cb1f601ff21ec21c888cc25773.300x300x1.png",
+ "header_image_url": "https://images.genius.com/8dd609cb1f601ff21ec21c888cc25773.1000x1000x1.png",
+ "id": 81499,
+ "instrumental": false,
+ "lyrics_owner_id": 1850,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1722419347,
+ "path": "/Jeff-buckley-mojo-pin-lyrics",
+ "primary_artist_names": "Jeff Buckley",
+ "pyongs_count": 12,
+ "relationships_index_url": "https://genius.com/Jeff-buckley-mojo-pin-sample",
+ "release_date_components": {
+  "year": 1994,
+  "month": 8,
+  "day": 23
+ },
+ "release_date_for_display": "August 23, 1994",
+ "release_date_with_abbreviated_month_for_display": "Aug. 23, 1994",
+ "song_art_image_thumbnail_url": "https://images.genius.com/8dd609cb1f601ff21ec21c888cc25773.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/8dd609cb1f601ff21ec21c888cc25773.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 6,
+  "hot": false,
+  "pageviews": 99840
+ },
+ "title": "Mojo Pin",
+ "title_with_featured": "Mojo Pin",
+ "updated_by_human_at": 1722419347,
+ "url": "https://genius.com/Jeff-buckley-mojo-pin-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/22481",
+  "header_image_url": "https://images.genius.com/3d7a1d3c48f0cebdb4bc40640b51b9f1.500x282x1.jpg",
+  "id": 22481,
+  "image_url": "https://images.genius.com/5d911fefb4b0739b08193a0de4c62650.620x349x1.jpg",
+  "index_character": "j",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Jeff Buckley",
+  "slug": "Jeff-buckley",
+  "url": "https://genius.com/artists/Jeff-buckley"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/22481",
+   "header_image_url": "https://images.genius.com/3d7a1d3c48f0cebdb4bc40640b51b9f1.500x282x1.jpg",
+   "id": 22481,
+   "image_url": "https://images.genius.com/5d911fefb4b0739b08193a0de4c62650.620x349x1.jpg",
+   "index_character": "j",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Jeff Buckley",
+   "slug": "Jeff-buckley",
+   "url": "https://genius.com/artists/Jeff-buckley"
+  }
+ ],
+ "artist": "Jeff Buckley",
+ "lyrics": "49 ContributorsTranslationsEspa\u00f1olMojo Pin Lyrics[Intro]\nOoh, ooh, ooh\nOoh, ah, ah\nOoh, ooh, ooh\nOoh, ooh, ooh\n\n[Verse 1]\nI'm lying in my bed, the blanket is warm\nThis body will never be safe from harm\nStill feel your hair, black ribbons of coal\nTouch my skin to keep me whole\n\n[Verse 2]\nOh, if only you'd come back to me\nIf you laid at my side\nWouldn't need no Mojo Pin\nTo keep me satisfied\n\n[Chorus]\nDon't wanna weep for you, don't wanna know\nI'm blind and tortured, the white horses flow\nMemories fire, the rhythms fall slow\nBlack Beauty, I love you so\n\n[Verse 3]\nOh, precious, precious, silver and gold\nAnd pearls in oyster's flesh\nDrop down, we two to serve\nAnd pray to love\nBorn again from the rhythm\nScreaming down from heaven\nAgeless, ageless\nAnd I'm there in your arms\nYou might also like[Chorus]\nDon't wanna weep for you, I don't wanna know\nI'm blind and tortured, the white horses flow\nThe memories fire, the rhythms fall slow\nBlack beauty, I love you so\nSo, slow, so, ah\n\n[Verse 4]\nOh, the welts of your scorn, my love, give me more\nSend whips of opinion down my back, give me more\nWell, it's you I've waited my life to see\nIt's you I've searched so hard for\n\n[Chorus]\nDon't wanna weep for you, don't wanna know\nI'm blind and tortured, the white horses flow\nThe memories fire, the rhythms fall slow\nBlack beauty, I love you so\nSo, black, black, black beauty12Embed"
+}

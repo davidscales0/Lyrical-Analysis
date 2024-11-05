@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 8,
+ "api_path": "/songs/3183202",
+ "artist_names": "Daniel Caesar",
+ "full_title": "Loose by\u00a0Daniel\u00a0Caesar",
+ "header_image_thumbnail_url": "https://images.genius.com/cb3aa21d3bdc100d2ba5700d3a566fb9.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/cb3aa21d3bdc100d2ba5700d3a566fb9.1000x1000x1.jpg",
+ "id": 3183202,
+ "instrumental": false,
+ "lyrics_owner_id": 2993556,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1699059624,
+ "path": "/Daniel-caesar-loose-lyrics",
+ "primary_artist_names": "Daniel Caesar",
+ "pyongs_count": 12,
+ "relationships_index_url": "https://genius.com/Daniel-caesar-loose-sample",
+ "release_date_components": {
+  "year": 2017,
+  "month": 8,
+  "day": 25
+ },
+ "release_date_for_display": "August 25, 2017",
+ "release_date_with_abbreviated_month_for_display": "Aug. 25, 2017",
+ "song_art_image_thumbnail_url": "https://images.genius.com/cb3aa21d3bdc100d2ba5700d3a566fb9.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/cb3aa21d3bdc100d2ba5700d3a566fb9.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 213254
+ },
+ "title": "Loose",
+ "title_with_featured": "Loose",
+ "updated_by_human_at": 1699059624,
+ "url": "https://genius.com/Daniel-caesar-loose-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/161892",
+  "header_image_url": "https://images.genius.com/17851f6df6904b89d22a1553b026c421.745x745x1.jpg",
+  "id": 161892,
+  "image_url": "https://images.genius.com/da9d279cd54cc1592460ac953a65a3d7.950x950x1.png",
+  "index_character": "d",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Daniel Caesar",
+  "slug": "Daniel-caesar",
+  "url": "https://genius.com/artists/Daniel-caesar",
+  "iq": 3659
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/161892",
+   "header_image_url": "https://images.genius.com/17851f6df6904b89d22a1553b026c421.745x745x1.jpg",
+   "id": 161892,
+   "image_url": "https://images.genius.com/da9d279cd54cc1592460ac953a65a3d7.950x950x1.png",
+   "index_character": "d",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Daniel Caesar",
+   "slug": "Daniel-caesar",
+   "url": "https://genius.com/artists/Daniel-caesar",
+   "iq": 3659
+  }
+ ],
+ "artist": "Daniel Caesar",
+ "lyrics": "40 ContributorsLoose Lyrics[Verse]\nIf you ever start to wonder\nWhy all the rain and all the thunder\nFollows her around\nYou better cut that girl loose\nMost of time, everything's fine\nBut as soon as she starts to whine\nIf you have no patience\nYou better cut that girl loose\nWhat are you, a coward?\nWho are you helping?\nYou got the power\nThen do it yourself, king\nAnd do it for her\nYou better cut that girl loose, ahh-ahh-ahh-ahh\nSet her free, let her be\nLeave her be, oh yes\n[Outro: Daniel Caesar, Girl]\nYou don't love me anymore\nLet's see how you like this song\nSee you walking out the door\nWonder why it took you so long\nEver since the day that I met you\nKnew you were the girl of my dreams\nBut we could never be\nHello?\nYeah, sorry, I was just getting everything [out] right now\nI'll be outside\nSorry, I was actually just gonna take my phone\nTake it\nSo write down any phone number if you need itYou might also like12Embed"
+}

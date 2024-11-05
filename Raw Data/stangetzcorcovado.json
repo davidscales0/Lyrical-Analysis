@@ -1,0 +1,94 @@
+{
+ "_type": "song",
+ "annotation_count": 7,
+ "api_path": "/songs/1470065",
+ "artist_names": "Stan Getz & Jo\u00e3o Gilberto (Ft. Ant\u00f4nio Carlos Jobim & Astrud Gilberto)",
+ "full_title": "Corcovado (Quiet Nights of Quiet Stars) by\u00a0Stan\u00a0Getz & Jo\u00e3o Gilberto (Ft.\u00a0Ant\u00f4nio\u00a0Carlos Jobim & Astrud\u00a0Gilberto)",
+ "header_image_thumbnail_url": "https://images.genius.com/3c78b2366a3b7395dcc53a6d0baa8d73.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/3c78b2366a3b7395dcc53a6d0baa8d73.1000x1000x1.jpg",
+ "id": 1470065,
+ "instrumental": false,
+ "lyrics_owner_id": 13517274,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1701199576,
+ "path": "/Stan-getz-and-joao-gilberto-corcovado-quiet-nights-of-quiet-stars-lyrics",
+ "primary_artist_names": "Stan Getz & Jo\u00e3o Gilberto",
+ "pyongs_count": 2,
+ "relationships_index_url": "https://genius.com/Stan-getz-and-joao-gilberto-corcovado-quiet-nights-of-quiet-stars-sample",
+ "release_date_components": {
+  "year": 1964,
+  "month": null,
+  "day": null
+ },
+ "release_date_for_display": "1964",
+ "release_date_with_abbreviated_month_for_display": "1964",
+ "song_art_image_thumbnail_url": "https://images.genius.com/3c78b2366a3b7395dcc53a6d0baa8d73.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/3c78b2366a3b7395dcc53a6d0baa8d73.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 7,
+  "hot": false,
+  "pageviews": 86520
+ },
+ "title": "Corcovado (Quiet Nights of Quiet Stars)",
+ "title_with_featured": "Corcovado (Quiet Nights of Quiet Stars) (Ft.\u00a0Ant\u00f4nio\u00a0Carlos Jobim & Astrud\u00a0Gilberto)",
+ "updated_by_human_at": 1701200370,
+ "url": "https://genius.com/Stan-getz-and-joao-gilberto-corcovado-quiet-nights-of-quiet-stars-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/343506",
+   "header_image_url": "https://images.genius.com/d611707ef8047ef8c6b31903ed397e85.447x447x1.jpg",
+   "id": 343506,
+   "image_url": "https://images.genius.com/d611707ef8047ef8c6b31903ed397e85.447x447x1.jpg",
+   "index_character": "a",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Astrud Gilberto",
+   "slug": "Astrud-gilberto",
+   "url": "https://genius.com/artists/Astrud-gilberto"
+  },
+  {
+   "_type": "artist",
+   "api_path": "/artists/370933",
+   "header_image_url": "https://images.genius.com/3aab6dc75211b885a75d2d95cdbb0eee.530x530x1.jpg",
+   "id": 370933,
+   "image_url": "https://images.genius.com/3aab6dc75211b885a75d2d95cdbb0eee.530x530x1.jpg",
+   "index_character": "a",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Ant\u00f4nio Carlos Jobim",
+   "slug": "Antonio-carlos-jobim",
+   "url": "https://genius.com/artists/Antonio-carlos-jobim"
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/391491",
+  "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1723228522",
+  "id": 391491,
+  "image_url": "https://assets.genius.com/images/default_avatar_300.png?1723228522",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Stan Getz & Jo\u00e3o Gilberto",
+  "slug": "Stan-getz-and-joao-gilberto",
+  "url": "https://genius.com/artists/Stan-getz-and-joao-gilberto"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/391491",
+   "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1723228522",
+   "id": 391491,
+   "image_url": "https://assets.genius.com/images/default_avatar_300.png?1723228522",
+   "index_character": "s",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Stan Getz & Jo\u00e3o Gilberto",
+   "slug": "Stan-getz-and-joao-gilberto",
+   "url": "https://genius.com/artists/Stan-getz-and-joao-gilberto"
+  }
+ ],
+ "artist": "Stan Getz & Jo\u00e3o Gilberto",
+ "lyrics": "10 ContributorsCorcovado (Quiet Nights of Quiet Stars) Lyrics[Intro: Astrud Gilberto]\nQuiet nights of quiet stars\nQuiet chords from my guitar\nFloating on the silence that surrounds us\nQuiet thoughts and quiet dreams\nQuiet walks by quiet streams\nAnd a window that looks out on Corcovado\nOh, how lovely\n\n[Verso 1: Jo\u00e3o Gilberto]\nUm cantinho, um viol\u00e3o\nEsse amor, uma can\u00e7\u00e3o\nPra fazer feliz a quem 'ce ama\nMuita calma pra pensar\nE ter tempo pra sonhar\nDa janela v\u00ea-se o Corcovado\nO Redentor, que lindo!\n\n[Verso 2: Jo\u00e3o Gilberto]\nQuero a vida sempre assim\nCom voc\u00ea perto de mim\nAt\u00e9 o apagar da velha chama\nE eu que era triste\nDescrente desse mundo\nAo encontrar voc\u00ea eu conheci\nO que \u00e9 felicidade, meu amor\nYou might also like[Saxophone Solo]\n\n[Piano Solo]\n\n[Verso 2: Jo\u00e3o Gilberto]\nQuero a vida sempre assim\nCom voc\u00ea perto de mim\nAt\u00e9 o apagar da velha chama\nE eu que era triste\nDescrente desse mundo\nAo encontrar voc\u00ea eu conheci\nO que \u00e9 felicidade, meu amor2Embed"
+}

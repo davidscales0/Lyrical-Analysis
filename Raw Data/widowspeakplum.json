@@ -1,0 +1,66 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/5811077",
+ "artist_names": "Widowspeak",
+ "full_title": "Plum by\u00a0Widowspeak",
+ "header_image_thumbnail_url": "https://images.genius.com/93fd183308aac345131235093abc6322.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/93fd183308aac345131235093abc6322.500x500x1.jpg",
+ "id": 5811077,
+ "instrumental": false,
+ "lyrics_owner_id": 1999621,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1620778086,
+ "path": "/Widowspeak-plum-lyrics",
+ "primary_artist_names": "Widowspeak",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Widowspeak-plum-sample",
+ "release_date_components": {
+  "year": 2020,
+  "month": 7,
+  "day": 14
+ },
+ "release_date_for_display": "July 14, 2020",
+ "release_date_with_abbreviated_month_for_display": "Jul. 14, 2020",
+ "song_art_image_thumbnail_url": "https://images.genius.com/93fd183308aac345131235093abc6322.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/93fd183308aac345131235093abc6322.500x500x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false
+ },
+ "title": "Plum",
+ "title_with_featured": "Plum",
+ "updated_by_human_at": 1657244976,
+ "url": "https://genius.com/Widowspeak-plum-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/365669",
+  "header_image_url": "https://images.genius.com/5c74ab77d7ca7f0019826c4750717a73.1000x563x1.png",
+  "id": 365669,
+  "image_url": "https://images.genius.com/909929cce1c7bd23c4d636489884a135.1000x1000x1.jpg",
+  "index_character": "w",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Widowspeak",
+  "slug": "Widowspeak",
+  "url": "https://genius.com/artists/Widowspeak"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/365669",
+   "header_image_url": "https://images.genius.com/5c74ab77d7ca7f0019826c4750717a73.1000x563x1.png",
+   "id": 365669,
+   "image_url": "https://images.genius.com/909929cce1c7bd23c4d636489884a135.1000x1000x1.jpg",
+   "index_character": "w",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Widowspeak",
+   "slug": "Widowspeak",
+   "url": "https://genius.com/artists/Widowspeak"
+  }
+ ],
+ "artist": "Widowspeak",
+ "lyrics": "9 ContributorsPlum Lyrics[Verse 1]\nFeel the bruising through the skin\nIt won't go back to being green again\nTry to hold\u2005on\u2005to the sweet\nWhere\u2005the softness used to be\n\n[Chorus]\nI feel\u2005nothing\nI feel dumb\nYou're a peach and\nI'm a plum\n\n[Verse 2]\nFeeling less then\u205frevealing\u205fmore\nThe\u205fstone that's buried:\u205fwhat the fruit\u205fis for\nYou were in bloom in your own time\nI was there, but wasn't mine\n\n[Chorus]\nI feel nothing\nI feel dumb\nYou're a peach and\nI'm a plum\nI'm a plum\n\n[Chorus]\nNo one is old, and nothing is young\nYou're a peach and I'm a plum\nNo one is old, and nothing is, nothing is young\nYou're a peach, you're a peach and I'm a plum\nI'm a plum\nI'm a plum\nI'm a plumYou might also likeEmbed"
+}

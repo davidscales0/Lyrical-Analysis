@@ -1,0 +1,70 @@
+{
+ "_type": "song",
+ "annotation_count": 17,
+ "api_path": "/songs/375341",
+ "artist_names": "Hozier",
+ "full_title": "Work Song by\u00a0Hozier",
+ "header_image_thumbnail_url": "https://images.genius.com/798f175063229802bf88490e981edd36.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/798f175063229802bf88490e981edd36.1000x1000x1.jpg",
+ "id": 375341,
+ "instrumental": false,
+ "lyrics_owner_id": 640827,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1721451022,
+ "path": "/Hozier-work-song-lyrics",
+ "primary_artist_names": "Hozier",
+ "pyongs_count": 114,
+ "relationships_index_url": "https://genius.com/Hozier-work-song-sample",
+ "release_date_components": {
+  "year": 2014,
+  "month": 3,
+  "day": 9
+ },
+ "release_date_for_display": "March 9, 2014",
+ "release_date_with_abbreviated_month_for_display": "Mar. 9, 2014",
+ "song_art_image_thumbnail_url": "https://images.genius.com/5d91770c66ff88e3ac0bc0b148ba63f6.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/5d91770c66ff88e3ac0bc0b148ba63f6.768x768x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 10,
+  "concurrents": 3,
+  "hot": false,
+  "pageviews": 868963
+ },
+ "title": "Work Song",
+ "title_with_featured": "Work Song",
+ "updated_by_human_at": 1721451022,
+ "url": "https://genius.com/Hozier-work-song-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/73910",
+  "header_image_url": "https://images.genius.com/1d64c0e97aa12457fa57d9e57bff9728.1000x333x1.jpg",
+  "id": 73910,
+  "image_url": "https://images.genius.com/538ee82e57b45daf13d57d82779a19c2.400x400x1.jpg",
+  "index_character": "h",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Hozier",
+  "slug": "Hozier",
+  "url": "https://genius.com/artists/Hozier",
+  "iq": 2128
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/73910",
+   "header_image_url": "https://images.genius.com/1d64c0e97aa12457fa57d9e57bff9728.1000x333x1.jpg",
+   "id": 73910,
+   "image_url": "https://images.genius.com/538ee82e57b45daf13d57d82779a19c2.400x400x1.jpg",
+   "index_character": "h",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Hozier",
+   "slug": "Hozier",
+   "url": "https://genius.com/artists/Hozier",
+   "iq": 2128
+  }
+ ],
+ "artist": "Hozier",
+ "lyrics": "106 ContributorsWork Song Lyrics[Intro]\nMmm, mmm, mmm, mmm\nMmm, mmm, mmm, mmm\n\n[Verse 1]\nBoys workin' on empty\nIs that the kinda way to face the burnin' heat?\nI just think about my baby\nI'm so full of love, I could barely eat\nThere's nothin' sweeter than my baby\nI'd never want once from the cherry tree\n'Cause my baby's sweet as can be\nShe'd give me toothaches just from kissin' me\n\n[Chorus]\nWhen my time comes around\nLay me gently in the cold, dark earth\nNo grave can hold my body down\nI'll crawl home to her\n\n[Verse 2]\nBoys, when my baby found me\nI was three days on a drunken sin\nI woke with her walls around me\nNothin' in her room but an empty crib\nAnd I was burnin' up a fever\nI didn't care much how long I lived\nBut I swear, I thought I dreamed her\nShe never asked me once about the wrong I did\nSee Hozier LiveGet tickets as low as $31You might also like[Chorus]\nWhen my time comes around\nLay me gently in the cold, dark earth\nNo grave can hold my body down\nI'll crawl home to her\nWhen my time comes around\nLay me gently in the cold, dark earth\nNo grave can hold my body down\nI'll crawl home to her\n\n[Verse 3]\nMy babe would never fret none\nAbout what my hands and my body done\nIf the Lord don't forgive me\nI'd still have my baby and my babe would have me\nWhen I was kissin' on my baby\nAnd she put her love down, soft and sweet\nIn the low lamplight, I was free\nHeaven and hell were words to me\n[Chorus]\nWhen my time comes around\nLay me gently in the cold, dark earth\nNo grave can hold my body down\nI'll crawl home to her\nWhen my time comes around\nLay me gently in the cold, dark earth\nNo grave can hold my body down\nI'll crawl home to her114Embed"
+}

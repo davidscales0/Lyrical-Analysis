@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 10,
+ "api_path": "/songs/3601684",
+ "artist_names": "Tyler Childers",
+ "full_title": "Coal by\u00a0Tyler\u00a0Childers",
+ "header_image_thumbnail_url": "https://images.genius.com/eb702884f06b16e53043f930a3346c2a.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/eb702884f06b16e53043f930a3346c2a.355x355x1.jpg",
+ "id": 3601684,
+ "instrumental": false,
+ "lyrics_owner_id": 1548623,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1720485158,
+ "path": "/Tyler-childers-coal-lyrics",
+ "primary_artist_names": "Tyler Childers",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Tyler-childers-coal-sample",
+ "release_date_components": {
+  "year": 2011,
+  "month": 10,
+  "day": 11
+ },
+ "release_date_for_display": "October 11, 2011",
+ "release_date_with_abbreviated_month_for_display": "Oct. 11, 2011",
+ "song_art_image_thumbnail_url": "https://images.genius.com/eb702884f06b16e53043f930a3346c2a.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/eb702884f06b16e53043f930a3346c2a.355x355x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 7,
+  "hot": false,
+  "pageviews": 36022
+ },
+ "title": "Coal",
+ "title_with_featured": "Coal",
+ "updated_by_human_at": 1720485161,
+ "url": "https://genius.com/Tyler-childers-coal-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1065785",
+  "header_image_url": "https://images.genius.com/c51f666871aab0c1f55661cebabd3c5e.1000x586x1.jpg",
+  "id": 1065785,
+  "image_url": "https://images.genius.com/57f5f99459426dfbfe78469b2a08037b.610x610x1.webp",
+  "index_character": "t",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Tyler Childers",
+  "slug": "Tyler-childers",
+  "url": "https://genius.com/artists/Tyler-childers"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1065785",
+   "header_image_url": "https://images.genius.com/c51f666871aab0c1f55661cebabd3c5e.1000x586x1.jpg",
+   "id": 1065785,
+   "image_url": "https://images.genius.com/57f5f99459426dfbfe78469b2a08037b.610x610x1.webp",
+   "index_character": "t",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Tyler Childers",
+   "slug": "Tyler-childers",
+   "url": "https://genius.com/artists/Tyler-childers"
+  }
+ ],
+ "artist": "Tyler Childers",
+ "lyrics": "17 ContributorsCoal Lyrics[Verse 1]\nNow God made coal for the men who sold their lives to West Van Lear\nAnd you keep on diggin' 'til you get down there where it's darker than your darkest fears\nAnd that woman in the kitchen she keeps on cookin' but she ain't had meat in years\nJust live off bread, live off hope in a pool of a million tears\n\n[Verse 2]\nNow let me tell you somethin' 'bout the gospel\nAnd make sure that you mark it down\nWhen God spoke out \"Let there be light\"\nHe put the first of us in the ground\nAnd we'll keep on diggin' 'til the comin' of the Lord\nAnd Gabriel's trumpet sounds\n'Cause if you ain't minin' for the company, boy\nThere ain't much in this town\n\n[Chorus]\nWe could've made somethin' of ourselves out there if we'da listened to the folks that knew\nThat coal is gonna bury you\n\n[Verse 3]\nNow it's darker than a dungeon\nAnd it's deeper than a well\nSo sometimes I imagine\nThat I'm gettin' pretty close to hell\nAnd in my darkest hour\nI cry out to the Lord\nHe says \"Keep on minin' boy\n'Cause that's why you were born\"\nSee Tyler Childers LiveGet tickets as low as $83You might also like[Chorus]\nWell we could've made somethin' of ourselves out there if we'da listened to the folks that knew\nThat coal is gonna bury you1Embed"
+}

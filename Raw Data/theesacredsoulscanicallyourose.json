@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 5,
+ "api_path": "/songs/5544031",
+ "artist_names": "Thee Sacred Souls",
+ "full_title": "Can I Call You Rose? by\u00a0Thee\u00a0Sacred Souls",
+ "header_image_thumbnail_url": "https://images.genius.com/c14086f4a5b4d27a14b3603be39cdff0.300x300x1.png",
+ "header_image_url": "https://images.genius.com/c14086f4a5b4d27a14b3603be39cdff0.1000x1000x1.png",
+ "id": 5544031,
+ "instrumental": false,
+ "lyrics_owner_id": 3565002,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1718846697,
+ "path": "/Thee-sacred-souls-can-i-call-you-rose-lyrics",
+ "primary_artist_names": "Thee Sacred Souls",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Thee-sacred-souls-can-i-call-you-rose-sample",
+ "release_date_components": {
+  "year": 2020,
+  "month": 3,
+  "day": 3
+ },
+ "release_date_for_display": "March 3, 2020",
+ "release_date_with_abbreviated_month_for_display": "Mar. 3, 2020",
+ "song_art_image_thumbnail_url": "https://images.genius.com/c14086f4a5b4d27a14b3603be39cdff0.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/c14086f4a5b4d27a14b3603be39cdff0.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 5,
+  "hot": false,
+  "pageviews": 44988
+ },
+ "title": "Can I Call You Rose?",
+ "title_with_featured": "Can I Call You Rose?",
+ "updated_by_human_at": 1718846696,
+ "url": "https://genius.com/Thee-sacred-souls-can-i-call-you-rose-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/2227087",
+  "header_image_url": "https://images.genius.com/148d6515de6dd4c8fd49aa45c3dd7c41.1000x1000x1.jpg",
+  "id": 2227087,
+  "image_url": "https://images.genius.com/148d6515de6dd4c8fd49aa45c3dd7c41.1000x1000x1.jpg",
+  "index_character": "t",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Thee Sacred Souls",
+  "slug": "Thee-sacred-souls",
+  "url": "https://genius.com/artists/Thee-sacred-souls"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/2227087",
+   "header_image_url": "https://images.genius.com/148d6515de6dd4c8fd49aa45c3dd7c41.1000x1000x1.jpg",
+   "id": 2227087,
+   "image_url": "https://images.genius.com/148d6515de6dd4c8fd49aa45c3dd7c41.1000x1000x1.jpg",
+   "index_character": "t",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Thee Sacred Souls",
+   "slug": "Thee-sacred-souls",
+   "url": "https://genius.com/artists/Thee-sacred-souls"
+  }
+ ],
+ "artist": "Thee Sacred Souls",
+ "lyrics": "18 ContributorsTranslationsDeutschCan I Call You Rose? Lyrics[Verse 1: Josh Lane, Astyn Turrentine & Viane Escobar]\nCan I call you Rose? (Can I call you Rose?)\n'Cause you're sweet like a flower\u2005in\u2005bloom\n(Can I call\u2005you Rose?)\nCan I call you Rose?\u2005(Can I call you Rose?)\n'Cause your fragrance takes over the room, darling\n(Can I call you Rose?)\n\n[Chorus]\nI wanna plant you in my heart, oh\nSo love can grow\n\n[Verse 2: Josh Lane, Astyn Turrentine & Viane Escobar]\nCan I call you Rose? (Can I call you Rose?)\n'Cause your thorns won't let love  in too soon\n(Can I call you Rose?)\nCan I call you Rose? (Can I call you Rose?)\n'Cause your roots have the power to consume me\n(Can I call you Rose?)\n\n[Chorus]\nI wanna plant you in my heart, oh-oh\nSo love can grow\n\n[Interlude]\nI was meditating on love and you and roses\nAnd the universe told me, \"Put it in a love song\"\nYou might also like[Bridge]\n(Put it in a love song, put it in a love, put it in a love song)\nOh, Rose\n(Put it in a love song, put it in a love, put it in a love song)\nOh, Rose\n(Put it in a love song, put it in a love, put it in a love song)\n(Put it in a love song, put it in a love, put it in a love song)\nWon't you let me in your heart?\n(Put it in a love song, put it in a love, put it in a love song)\nYour heart\n(Put it in a love song, put it in a love, put it in a love song)\nOh, your heart\n(Put it in a love song, put it in a love, put it in a love song)\n(Put it in a love song, put it in a love, put it in a love song)\n\n[Outro]\nOoh-ooh, ooh-ooh\nOoh-ooh-ooh1Embed"
+}

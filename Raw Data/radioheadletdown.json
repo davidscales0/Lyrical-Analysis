@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 9,
+ "api_path": "/songs/78354",
+ "artist_names": "Radiohead",
+ "full_title": "Let Down by\u00a0Radiohead",
+ "header_image_thumbnail_url": "https://images.genius.com/f018ac47288c247bf5e855a660e59974.300x268x1.jpg",
+ "header_image_url": "https://images.genius.com/f018ac47288c247bf5e855a660e59974.600x535x1.jpg",
+ "id": 78354,
+ "instrumental": false,
+ "lyrics_owner_id": 46705,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1719357401,
+ "path": "/Radiohead-let-down-lyrics",
+ "primary_artist_names": "Radiohead",
+ "pyongs_count": 74,
+ "relationships_index_url": "https://genius.com/Radiohead-let-down-sample",
+ "release_date_components": {
+  "year": 1997,
+  "month": 5,
+  "day": 21
+ },
+ "release_date_for_display": "May 21, 1997",
+ "release_date_with_abbreviated_month_for_display": "May. 21, 1997",
+ "song_art_image_thumbnail_url": "https://images.genius.com/f018ac47288c247bf5e855a660e59974.300x268x1.jpg",
+ "song_art_image_url": "https://images.genius.com/f018ac47288c247bf5e855a660e59974.600x535x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 454808
+ },
+ "title": "Let Down",
+ "title_with_featured": "Let Down",
+ "updated_by_human_at": 1719357401,
+ "url": "https://genius.com/Radiohead-let-down-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/604",
+  "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+  "id": 604,
+  "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Radiohead",
+  "slug": "Radiohead",
+  "url": "https://genius.com/artists/Radiohead"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/604",
+   "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+   "id": 604,
+   "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+   "index_character": "r",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Radiohead",
+   "slug": "Radiohead",
+   "url": "https://genius.com/artists/Radiohead"
+  }
+ ],
+ "artist": "Radiohead",
+ "lyrics": "103 ContributorsTranslationsEspa\u00f1olFran\u00e7aisLet Down Lyrics[Verse 1]\nTransport, motorways and tramlines\nStarting and then stopping\nTaking off and landing\nThe emptiest of feelings\nDisappointed people\nClinging on to bottles\nAnd when it comes it's so, so disappointing\n\n[Chorus]\nLet down and hanging around\nCrushed like a bug in the ground\nLet down and hanging around\n\n[Verse 2]\nShell smashed, juices flowing\nWings twitch, legs are going\nDon't get sentimental\nIt always ends up drivel\n\n[Pre-Chorus]\nOne day I am gonna grow wings\nA chemical reaction\nHysterical and useless\nHysterical and\nYou might also like[Chorus]\nLet down and hanging around\nCrushed like a bug in the ground\nLet down and hanging around\n\n[Bridge]\nLet down again\nLet down again\nLet down again\n\n[Verse 3]\nYou know, you know where you are with\nYou know where you are with\nFloor collapsing\nFloating, bouncing back\n\n[Pre-Chorus]\nAnd one day\nI am gonna grow wings\nA chemical reaction\n(You know where you are)\nHysterical and useless\n(You know where you are)\nHysterical and\n(You know where you are)\n[Chorus]\nLet down and hanging around\nCrushed like a bug in the ground\nLet down and hanging around74Embed"
+}

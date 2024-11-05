@@ -1,0 +1,81 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/2125665",
+ "artist_names": "Stan Getz & Jo\u00e3o Gilberto (Ft. Ant\u00f4nio Carlos Jobim)",
+ "full_title": "Para Machucar Meu Cora\u00e7\u00e3o by\u00a0Stan\u00a0Getz & Jo\u00e3o Gilberto (Ft.\u00a0Ant\u00f4nio\u00a0Carlos Jobim)",
+ "header_image_thumbnail_url": "https://images.genius.com/3c78b2366a3b7395dcc53a6d0baa8d73.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/3c78b2366a3b7395dcc53a6d0baa8d73.1000x1000x1.jpg",
+ "id": 2125665,
+ "instrumental": false,
+ "lyrics_owner_id": 1549345,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1653368770,
+ "path": "/Stan-getz-and-joao-gilberto-para-machucar-meu-coracao-lyrics",
+ "primary_artist_names": "Stan Getz & Jo\u00e3o Gilberto",
+ "pyongs_count": 3,
+ "relationships_index_url": "https://genius.com/Stan-getz-and-joao-gilberto-para-machucar-meu-coracao-sample",
+ "release_date_components": {
+  "year": 1964,
+  "month": 4,
+  "day": null
+ },
+ "release_date_for_display": "April 1964",
+ "release_date_with_abbreviated_month_for_display": "Apr. 1964",
+ "song_art_image_thumbnail_url": "https://images.genius.com/3c78b2366a3b7395dcc53a6d0baa8d73.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/3c78b2366a3b7395dcc53a6d0baa8d73.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 13829
+ },
+ "title": "Para Machucar Meu Cora\u00e7\u00e3o",
+ "title_with_featured": "Para Machucar Meu Cora\u00e7\u00e3o (Ft.\u00a0Ant\u00f4nio\u00a0Carlos Jobim)",
+ "updated_by_human_at": 1701193763,
+ "url": "https://genius.com/Stan-getz-and-joao-gilberto-para-machucar-meu-coracao-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/370933",
+   "header_image_url": "https://images.genius.com/3aab6dc75211b885a75d2d95cdbb0eee.530x530x1.jpg",
+   "id": 370933,
+   "image_url": "https://images.genius.com/3aab6dc75211b885a75d2d95cdbb0eee.530x530x1.jpg",
+   "index_character": "a",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Ant\u00f4nio Carlos Jobim",
+   "slug": "Antonio-carlos-jobim",
+   "url": "https://genius.com/artists/Antonio-carlos-jobim"
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/391491",
+  "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1723228522",
+  "id": 391491,
+  "image_url": "https://assets.genius.com/images/default_avatar_300.png?1723228522",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Stan Getz & Jo\u00e3o Gilberto",
+  "slug": "Stan-getz-and-joao-gilberto",
+  "url": "https://genius.com/artists/Stan-getz-and-joao-gilberto"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/391491",
+   "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1723228522",
+   "id": 391491,
+   "image_url": "https://assets.genius.com/images/default_avatar_300.png?1723228522",
+   "index_character": "s",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Stan Getz & Jo\u00e3o Gilberto",
+   "slug": "Stan-getz-and-joao-gilberto",
+   "url": "https://genius.com/artists/Stan-getz-and-joao-gilberto"
+  }
+ ],
+ "artist": "Stan Getz & Jo\u00e3o Gilberto",
+ "lyrics": "10 ContributorsPara Machucar Meu Cora\u00e7\u00e3o LyricsT\u00e1 fazendo um ano e meio, amor\nQue o nosso lar desmoronou\nMeu sabi\u00e1, meu viol\u00e3o\nE uma cruel desilus\u00e3o\nFoi tudo que ficou\nFicou\nPr\u00e1 machucar meu cora\u00e7\u00e3o\n\nT\u00e1 fazendo um ano e meio, amor\nQue o nosso lar desmoronou\nMeu sabi\u00e1, meu viol\u00e3o\nE uma cruel desilus\u00e3o\nFoi tudo que ficou\nFicou\nPr\u00e1 machucar meu cora\u00e7\u00e3o\n\nQuem sabe, n\u00e3o foi bem melhor assim\nMelhor pr\u00e1 voc\u00ea e melhor pr\u00e1 mim\nA vida \u00e9 uma escola\nOnde a gente precisa aprender\nA ci\u00eancia de viver pr\u00e1 n\u00e3o sofrerYou might also like3Embed"
+}

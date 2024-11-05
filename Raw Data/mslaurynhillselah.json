@@ -1,0 +1,63 @@
+{
+ "_type": "song",
+ "annotation_count": 7,
+ "api_path": "/songs/27571",
+ "artist_names": "Lauryn Hill",
+ "full_title": "Selah by\u00a0Lauryn\u00a0Hill",
+ "header_image_thumbnail_url": "https://images.genius.com/a9a2337c4e4c810f8d2ed0c65e2669ec.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/a9a2337c4e4c810f8d2ed0c65e2669ec.600x600x1.jpg",
+ "id": 27571,
+ "instrumental": false,
+ "lyrics_owner_id": 50,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1678926338,
+ "path": "/Lauryn-hill-selah-lyrics",
+ "primary_artist_names": "Lauryn Hill",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Lauryn-hill-selah-sample",
+ "release_date_components": null,
+ "release_date_for_display": null,
+ "release_date_with_abbreviated_month_for_display": null,
+ "song_art_image_thumbnail_url": "https://images.genius.com/a9a2337c4e4c810f8d2ed0c65e2669ec.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/a9a2337c4e4c810f8d2ed0c65e2669ec.600x600x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false,
+  "pageviews": 24591
+ },
+ "title": "Selah",
+ "title_with_featured": "Selah",
+ "updated_by_human_at": 1678926338,
+ "url": "https://genius.com/Lauryn-hill-selah-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/448",
+  "header_image_url": "https://images.genius.com/e6c6e57e817e714af420e1f1ffa9184d.807x454x1.png",
+  "id": 448,
+  "image_url": "https://images.genius.com/4fff53f85a4f6704ecb471ac0c617cfe.446x446x1.jpg",
+  "index_character": "l",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Lauryn Hill",
+  "slug": "Lauryn-hill",
+  "url": "https://genius.com/artists/Lauryn-hill"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/448",
+   "header_image_url": "https://images.genius.com/e6c6e57e817e714af420e1f1ffa9184d.807x454x1.png",
+   "id": 448,
+   "image_url": "https://images.genius.com/4fff53f85a4f6704ecb471ac0c617cfe.446x446x1.jpg",
+   "index_character": "l",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Lauryn Hill",
+   "slug": "Lauryn-hill",
+   "url": "https://genius.com/artists/Lauryn-hill"
+  }
+ ],
+ "artist": "Lauryn Hill",
+ "lyrics": "12 ContributorsSelah LyricsNothing can be done against the truth\nNo matter how we remain in denial, yeah\nWasting time, replacing time with each empty excuse\nBut that'll only work a little while\nCoping with despair, knowing you're not there\nAshamed to just admit I've been a fool\nSo I blame it on the sun, run away from everyone\nHoping to escape this ridicule\nTrapped in misery, wrapped so miserably\nAnd this deception, I wear it like a skin\nDying to maintain, oh I keep trying to explain\nA heart that never loved me to begin\nOh I'm such a mess, I have no choice but to confess\nThat I've been desperately trying to belong\nLieing to myself and everybody else\nRefusing to admit my right was wrong\n\n[Refrain:]\nAnd then He came\nSelah, oh and it means\nPraise and meditation, and then He came\nSelah, oh and it means\nDid you think about that, and then He came\nSelah, oh and it means\nPraise and meditation, and then He came\nSelah, oh and it means\nThat it is seen\nYou might also likeHow beautiful is fruit still in denial of its roots\nMy guilty heart behaves so foolishly\nThis treason from within that reasons with my sin\nWon't be happy till it sees the death of me\nSelfishly addicted to a life that I depicted\nConflicted cause it's not reality\nOh what's left of me, I beg you desperately\nCause me to agree with what I know is best for me\nPlease save me from myself, I need you, save me from myself\nPlease save me from myself so I can heal\nThe choices that I've made, oh have been nothing but mistakes\nWhat a wasted use of space, should I die before I wake\nIn all of my religion, I've fortified this prison\nObligated to obey the demands of bad decisions\nPlease save me from myself, I need you\nSave me from myself, please save me from myself so I can heal\n\n[Refrain]\n\nAnd then He came\nAnd then He came, then He came, then He came\nAnd then He\nAnd then He cameEmbed"
+}

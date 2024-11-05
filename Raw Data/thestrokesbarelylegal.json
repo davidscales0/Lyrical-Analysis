@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 12,
+ "api_path": "/songs/105116",
+ "artist_names": "The Strokes",
+ "full_title": "Barely Legal by\u00a0The\u00a0Strokes",
+ "header_image_thumbnail_url": "https://images.genius.com/10e3bb482779de6732693f15598abf59.300x300x1.png",
+ "header_image_url": "https://images.genius.com/10e3bb482779de6732693f15598abf59.1000x1000x1.png",
+ "id": 105116,
+ "instrumental": false,
+ "lyrics_owner_id": 1850,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1721549727,
+ "path": "/The-strokes-barely-legal-lyrics",
+ "primary_artist_names": "The Strokes",
+ "pyongs_count": 33,
+ "relationships_index_url": "https://genius.com/The-strokes-barely-legal-sample",
+ "release_date_components": {
+  "year": 2001,
+  "month": 7,
+  "day": 30
+ },
+ "release_date_for_display": "July 30, 2001",
+ "release_date_with_abbreviated_month_for_display": "Jul. 30, 2001",
+ "song_art_image_thumbnail_url": "https://images.genius.com/10e3bb482779de6732693f15598abf59.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/10e3bb482779de6732693f15598abf59.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 7,
+  "hot": false,
+  "pageviews": 285269
+ },
+ "title": "Barely Legal",
+ "title_with_featured": "Barely Legal",
+ "updated_by_human_at": 1721540313,
+ "url": "https://genius.com/The-strokes-barely-legal-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/12524",
+  "header_image_url": "https://images.genius.com/382ae86addc1e06ae4bebad904b69c2b.640x348x1.jpg",
+  "id": 12524,
+  "image_url": "https://images.genius.com/b5237c13de1a05f92ca6327d854cbfc8.1000x1000x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "The Strokes",
+  "slug": "The-strokes",
+  "url": "https://genius.com/artists/The-strokes",
+  "iq": 105
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/12524",
+   "header_image_url": "https://images.genius.com/382ae86addc1e06ae4bebad904b69c2b.640x348x1.jpg",
+   "id": 12524,
+   "image_url": "https://images.genius.com/b5237c13de1a05f92ca6327d854cbfc8.1000x1000x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "The Strokes",
+   "slug": "The-strokes",
+   "url": "https://genius.com/artists/The-strokes",
+   "iq": 105
+  }
+ ],
+ "artist": "The Strokes",
+ "lyrics": "50 ContributorsBarely Legal Lyrics[Verse 1]\nI didn't take no shortcuts\nI spent the money that I saved up\nOh, Mama runnin' out of luck\nBut like my sister, don't give a fuck\nI wanna steal your innocence\nTo me, my life, it don't make sense\nThese strange manners, I love 'em so\nWhy won't you wear your new trenchcoat?\n\n[Verse 2]\nI should have worked much harder\nI should have just not bothered\nI never show up on weekdays\nAnd something that you learned yesterday\nDrive you to work and you'll be on time\nThese little problems, they're not yours, they're mine\nCome on, listen to what I say\nI got some secrets that'll make you stay\n\n[Pre-Chorus 1]\nI just want to turn you down\nI just want to turn you around\nOh, you ain't never had nothing I wanted, but\nI want it all, I just can't figure out\nNothing\nYou might also like[Chorus]\nAnd all together, it went well\nWe made pretend, we were best friends\nThen she said, \"Oh, you're a freak\"\nThey ordered me to make mistakes\nTogether again, like the beginning\nIt all works somehow in the end\nThe things we did, the things you hide\nBut for the record, it's between you and I\n\n[Verse 1]\nOh, I didn't take no shortcuts\nI spent the money that I saved up\nOh, Mama runnin' out of luck\nAnd like my sister, don't give a fuck\nI wanna steal your innocence\nTo me, my life, it just don't make any sense\nOh, strange manners, I love 'em so\nWhy won't you wear your new trenchcoat?\n\n[Pre-Chorus 2]\nI just want to misbehave\nI just want to be your slave\nOh, you ain't never had nothing I wanted, but\nI want it all, I just can't figure out\nNothing\n[Chorus]\nAnd all together, it went well\nWe made pretend, we were best friends\nThen she said, \"Oh, I can wait\"\nThey ordered me to make mistakes\nTogether again, like the beginning\nIt all works somehow in the end\nThe things we did, the things you hide\nBut for the record, it's between you and I33Embed"
+}

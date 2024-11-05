@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/135548",
+ "artist_names": "Amy Winehouse",
+ "full_title": "What Is It About Men by\u00a0Amy\u00a0Winehouse",
+ "header_image_thumbnail_url": "https://images.genius.com/e2c709ffce2aa9d18dc1f08698f1275f.300x300x1.png",
+ "header_image_url": "https://images.genius.com/e2c709ffce2aa9d18dc1f08698f1275f.1000x1000x1.png",
+ "id": 135548,
+ "instrumental": false,
+ "lyrics_owner_id": 66727,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1708759707,
+ "path": "/Amy-winehouse-what-is-it-about-men-lyrics",
+ "primary_artist_names": "Amy Winehouse",
+ "pyongs_count": 3,
+ "relationships_index_url": "https://genius.com/Amy-winehouse-what-is-it-about-men-sample",
+ "release_date_components": {
+  "year": 2004,
+  "month": 8,
+  "day": 23
+ },
+ "release_date_for_display": "August 23, 2004",
+ "release_date_with_abbreviated_month_for_display": "Aug. 23, 2004",
+ "song_art_image_thumbnail_url": "https://images.genius.com/e2c709ffce2aa9d18dc1f08698f1275f.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/e2c709ffce2aa9d18dc1f08698f1275f.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 64372
+ },
+ "title": "What Is It About Men",
+ "title_with_featured": "What Is It About Men",
+ "updated_by_human_at": 1710989177,
+ "url": "https://genius.com/Amy-winehouse-what-is-it-about-men-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1525",
+  "header_image_url": "https://images.genius.com/815a3661607ffdb52ad4891dacf7e856.998x1000x1.jpg",
+  "id": 1525,
+  "image_url": "https://images.genius.com/0c438f607c5d4963d3ae2cd315da153f.1000x1000x1.jpg",
+  "index_character": "a",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Amy Winehouse",
+  "slug": "Amy-winehouse",
+  "url": "https://genius.com/artists/Amy-winehouse"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1525",
+   "header_image_url": "https://images.genius.com/815a3661607ffdb52ad4891dacf7e856.998x1000x1.jpg",
+   "id": 1525,
+   "image_url": "https://images.genius.com/0c438f607c5d4963d3ae2cd315da153f.1000x1000x1.jpg",
+   "index_character": "a",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Amy Winehouse",
+   "slug": "Amy-winehouse",
+   "url": "https://genius.com/artists/Amy-winehouse"
+  }
+ ],
+ "artist": "Amy Winehouse",
+ "lyrics": "29 ContributorsWhat Is It About Men Lyrics[Verse 1]\nUnderstand, once he was a family man\nSo surely I would never, ever go through it firsthand\nEmulate all the shit my mother hates\nI can't help but demonstrate my Freudian fate\nMy alibi for taking your guy\nHistory repeats itself, it fails to die\nAnd animal aggression is my downfall\nI don't care about what you got, I want it all\n\n[Chorus]\nIt's bricked up in my head, it's shoved under my bed\nAnd I question myself again, \"What is it 'bout men?\"\nMy destructive side has grown a mile wide\nAnd I question myself again, \"What is it 'bout men?\nWhat is it 'bout men?\"\n\n[Verse 2]\nI'm nurturing, I just wanna do my thing\nAnd I'll take the wrong man as naturally as I sing\nAnd I'll save my tears for uncovering my fears\nOur behavioural patterns that stick over the years\n\n[Chorus]\n'Cause it's bricked up in my head, it's shoved under my bed\nAnd I question myself again, \"What is it 'bout men?\"\nNow my destructive side has grown a mile wide\nAnd I question myself again, \"What is it 'bout men?\"\nYou might also like[Outro]\nOoh, it's bricked up in my head and it's shoved under my bed\nAnd I question myself again, \"What is it 'bout men?\"\nMy destructive side has grown a mile wide\nAnd I question myself again \"What is it 'bout men?\nWhat is it 'bout men?\"3Embed"
+}

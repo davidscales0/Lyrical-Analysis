@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 0,
+ "api_path": "/songs/9102002",
+ "artist_names": "Jorja Smith",
+ "full_title": "Little Things by\u00a0Jorja\u00a0Smith",
+ "header_image_thumbnail_url": "https://images.genius.com/c8aad5f51cbdd3efaf6e89312cbd2173.300x300x1.png",
+ "header_image_url": "https://images.genius.com/c8aad5f51cbdd3efaf6e89312cbd2173.1000x1000x1.png",
+ "id": 9102002,
+ "instrumental": false,
+ "lyrics_owner_id": 5748418,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1697210874,
+ "path": "/Jorja-smith-little-things-lyrics",
+ "primary_artist_names": "Jorja Smith",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Jorja-smith-little-things-sample",
+ "release_date_components": {
+  "year": 2023,
+  "month": 5,
+  "day": 11
+ },
+ "release_date_for_display": "May 11, 2023",
+ "release_date_with_abbreviated_month_for_display": "May. 11, 2023",
+ "song_art_image_thumbnail_url": "https://images.genius.com/8835bcfbcf8e1d245434e38990479331.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/8835bcfbcf8e1d245434e38990479331.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 18284
+ },
+ "title": "Little Things",
+ "title_with_featured": "Little Things",
+ "updated_by_human_at": 1697210874,
+ "url": "https://genius.com/Jorja-smith-little-things-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/632912",
+  "header_image_url": "https://images.genius.com/99888d8dae65b9390ab5aea1f5ed4ba7.1000x333x1.jpg",
+  "id": 632912,
+  "image_url": "https://images.genius.com/64eaf117b8c7c9038a60e1afd775e55f.1000x1000x1.jpg",
+  "index_character": "j",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Jorja Smith",
+  "slug": "Jorja-smith",
+  "url": "https://genius.com/artists/Jorja-smith",
+  "iq": 2349
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/632912",
+   "header_image_url": "https://images.genius.com/99888d8dae65b9390ab5aea1f5ed4ba7.1000x333x1.jpg",
+   "id": 632912,
+   "image_url": "https://images.genius.com/64eaf117b8c7c9038a60e1afd775e55f.1000x1000x1.jpg",
+   "index_character": "j",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Jorja Smith",
+   "slug": "Jorja-smith",
+   "url": "https://genius.com/artists/Jorja-smith",
+   "iq": 2349
+  }
+ ],
+ "artist": "Jorja Smith",
+ "lyrics": "11 ContributorsTranslationsPortugu\u00easDeutschLittle Things Lyrics[Verse 1]\nI didn't know that you'd be here tonight\nSaw you again, think this must be a sign\nNothing you said, it was all in your eyes, oh\nCan I get close, even for just one time?\n\n[Chorus]\nIt's the little things that get me high\nWon't you come with me and spend the night?\nJust a little thing for you and I\nAnd if it's meant to be, then that's alright\nIt's the little things that get me high\nWon't you come with me and spend the night?\nJust a little thing for you and I\nAnd if it's meant to be, then that's alright\n\n[Verse 2]\nWith you, it's such a sweet escape\nSo if we leave, will anybody notice?\nIf you don't want to play these games\nJust tell me what you need and we can go there\nOnly here for the weekend\nI've just stepped out with my friends\nDon't tell me that you're leaving\nThink I came at the right time\nDo you know what's on my mind?\nCan you stay for the evening?\nSee Jorja Smith LiveGet tickets as low as $71You might also like[Chorus]\nIt's the little things that get me high\nWon't you come with me and spend the night?\nJust a little thing for you and I\nAnd if it's meant to be, then that's alright\nIt's the little things that get me high\nWon't you come with me and spend the night?\nJust a little thing for you and I\nAnd if it's meant to be, then that's alright\n\n[Outro]\nJust the little things that get me high and keep me going\nJust a little bit of you and I, nobody knows it\nJust a little thing for you and I\nJust a little bit of you and I, nobody knows it\nJust the little things that get me high and keep me going\nJust a little bit of you and I, nobody knows it\nJust the little things that get me high and keep me going\nJust a little bit of you and I, nobody knows it\n(What time is it? When the party stops?)\n(What time is it? When the party stops?)1Embed"
+}

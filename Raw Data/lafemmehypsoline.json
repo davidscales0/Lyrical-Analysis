@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 0,
+ "api_path": "/songs/1960127",
+ "artist_names": "La Femme",
+ "full_title": "Hypsoline by\u00a0La\u00a0Femme",
+ "header_image_thumbnail_url": "https://images.rapgenius.com/c854bdb87570ad63251992dc4659590c.300x300x1.jpg",
+ "header_image_url": "https://images.rapgenius.com/c854bdb87570ad63251992dc4659590c.1000x1000x1.jpg",
+ "id": 1960127,
+ "instrumental": false,
+ "lyrics_owner_id": 320343,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1677881746,
+ "path": "/La-femme-hypsoline-lyrics",
+ "primary_artist_names": "La Femme",
+ "pyongs_count": 3,
+ "relationships_index_url": "https://genius.com/La-femme-hypsoline-sample",
+ "release_date_components": {
+  "year": 2013,
+  "month": 2,
+  "day": 4
+ },
+ "release_date_for_display": "February 4, 2013",
+ "release_date_with_abbreviated_month_for_display": "Feb. 4, 2013",
+ "song_art_image_thumbnail_url": "https://images.genius.com/dff147283105b8ac17d09915efe31e88.300x169x1.png",
+ "song_art_image_url": "https://images.genius.com/dff147283105b8ac17d09915efe31e88.640x360x1.png",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 7443
+ },
+ "title": "Hypsoline",
+ "title_with_featured": "Hypsoline",
+ "updated_by_human_at": 1677873835,
+ "url": "https://genius.com/La-femme-hypsoline-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/230458",
+  "header_image_url": "https://images.genius.com/ada01b5c81d3e1aae855c6cd099becd4.600x400x1.jpg",
+  "id": 230458,
+  "image_url": "https://images.genius.com/aa71f7017792542768fb8583aa05cd3f.400x400x1.jpg",
+  "index_character": "l",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "La Femme",
+  "slug": "La-femme",
+  "url": "https://genius.com/artists/La-femme"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/230458",
+   "header_image_url": "https://images.genius.com/ada01b5c81d3e1aae855c6cd099becd4.600x400x1.jpg",
+   "id": 230458,
+   "image_url": "https://images.genius.com/aa71f7017792542768fb8583aa05cd3f.400x400x1.jpg",
+   "index_character": "l",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "La Femme",
+   "slug": "La-femme",
+   "url": "https://genius.com/artists/La-femme"
+  }
+ ],
+ "artist": "La Femme",
+ "lyrics": "5 ContributorsTranslationsEnglishHypsoline Lyrics[Couplet 1]\nCreuse une croix dans ton poumon\nFais jaillir la Copale\nUne nuit froide, tu te glaces\nDans le fluide infernal\nHivernale, tu souris\nDans un monde o\u00f9 il fait nuit\nHypsoline hypsilone\nHypsoline psycodoll\n\n[Couplet 2]\n\u00c2mes fid\u00e8les, amours tendres\nRegards noirs, m\u00e9moires blanches\nSur mes hanches, tu t'\u00e9panches\nEt soudain, tu t'\u00e9lances\nDe profil, la nuit p\u00e2le\nTe rappelle la cabale\nAmn\u00e9sique du dimanche\nPsychotrine te d\u00e9branche\n\n[Couplet 3]\nMets du beurre dans ton saumon\nFais-en jaillir le napalm\nLentement, tu oublies\nDans l'\u00e9tuve qui s'embrume\nQui s'enrhume pr\u00e8s du lac\nTu ressens les premiers sympt\u00f4mes\nEt tu mets les pieds dans l'eau\nNoy\u00e9 seul dans ton citron\nSee La Femme LiveGet tickets as low as $39You might also like[Solo]\n\n[Couplet 4]\nAnastasia de Donnestial se sent pas belle\nPas belle ce soir\nElle a bu l'eau du lac\nDans la nuit noire d'Halloween\nPris d'une hypsolinicose\nLe napalm l'a rendue folle\nHypsoline te d\u00e9gomme\nHyponyme \u00e9pilogue\n\n[Couplet 5]\nPr\u00e9puscule soporifice\n\u00c0 l'ibis loin, loin d'ici\nEfizio se prom\u00e8ne\nDans les plaines du Mont Sacr\u00e9\nSur la digue, il se ligue\nPour la guilde de Guido le guide\nIl rejoint l'Anatole\nFils du duc Opozode\n\n[Couplet 6]\nAu final, ne retiens qu'un concept\nPuis r\u00e9f\u00e8res en toi Alice Kracovitch\nHypnobis + propanol\nL'\u00e9tuve la sauve puis l'abandonne\nIbrahim dit de Babylone\nL'immole soudain sous l'adr\u00e9naline\n4.7 mole d'hypsoline\nFit de lui une vermine\n[Outro]3Embed"
+}

@@ -1,0 +1,98 @@
+{
+ "_type": "song",
+ "annotation_count": 29,
+ "api_path": "/songs/7519228",
+ "artist_names": "Nas (Ft. A$AP Rocky & DJ Premier)",
+ "full_title": "Wave Gods by\u00a0Nas (Ft.\u00a0A$AP\u00a0Rocky & DJ\u00a0Premier)",
+ "header_image_thumbnail_url": "https://images.genius.com/0d5ed55ea347defb346416ba66cec201.300x300x1.png",
+ "header_image_url": "https://images.genius.com/0d5ed55ea347defb346416ba66cec201.1000x1000x1.png",
+ "id": 7519228,
+ "instrumental": false,
+ "lyrics_owner_id": 5748418,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1708268118,
+ "path": "/Nas-wave-gods-lyrics",
+ "primary_artist_names": "Nas",
+ "pyongs_count": 39,
+ "relationships_index_url": "https://genius.com/Nas-wave-gods-sample",
+ "release_date_components": {
+  "year": 2021,
+  "month": 12,
+  "day": 24
+ },
+ "release_date_for_display": "December 24, 2021",
+ "release_date_with_abbreviated_month_for_display": "Dec. 24, 2021",
+ "song_art_image_thumbnail_url": "https://images.genius.com/0d5ed55ea347defb346416ba66cec201.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/0d5ed55ea347defb346416ba66cec201.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 19,
+  "hot": false,
+  "pageviews": 65261
+ },
+ "title": "Wave Gods",
+ "title_with_featured": "Wave Gods (Ft.\u00a0A$AP\u00a0Rocky & DJ\u00a0Premier)",
+ "updated_by_human_at": 1709555630,
+ "url": "https://genius.com/Nas-wave-gods-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/12417",
+   "header_image_url": "https://images.genius.com/4e896a55925d464c3c3545a2d9a0d15b.1000x564x1.jpg",
+   "id": 12417,
+   "image_url": "https://images.genius.com/41eca064ad6fb1279eb20a6f546ac054.602x602x1.jpg",
+   "index_character": "a",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "A$AP Rocky",
+   "slug": "A-ap-rocky",
+   "url": "https://genius.com/artists/A-ap-rocky",
+   "iq": 34376
+  },
+  {
+   "_type": "artist",
+   "api_path": "/artists/2260",
+   "header_image_url": "https://images.genius.com/55870f5bd545d52d0b2e766fa153c13f.1000x563x1.jpg",
+   "id": 2260,
+   "image_url": "https://images.genius.com/b02fc7027210379901d3de0bcfe08683.892x892x1.jpg",
+   "index_character": "d",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "DJ Premier",
+   "slug": "Dj-premier",
+   "url": "https://genius.com/artists/Dj-premier",
+   "iq": 1588
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/56",
+  "header_image_url": "https://images.genius.com/db014f5e4f9c6e873e7c6e8ec7d1a76b.1000x624x1.jpg",
+  "id": 56,
+  "image_url": "https://images.genius.com/23061dd2dc7e863127db561906debd27.434x434x1.jpg",
+  "index_character": "n",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Nas",
+  "slug": "Nas",
+  "url": "https://genius.com/artists/Nas",
+  "iq": 42623
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/56",
+   "header_image_url": "https://images.genius.com/db014f5e4f9c6e873e7c6e8ec7d1a76b.1000x624x1.jpg",
+   "id": 56,
+   "image_url": "https://images.genius.com/23061dd2dc7e863127db561906debd27.434x434x1.jpg",
+   "index_character": "n",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Nas",
+   "slug": "Nas",
+   "url": "https://genius.com/artists/Nas",
+   "iq": 42623
+  }
+ ],
+ "artist": "Nas",
+ "lyrics": "96 ContributorsTranslationsEspa\u00f1olWave Gods Lyrics[Intro: Nas, Raekwon, Casanova Rud, C.L. Smooth, (Kool G Rap) & (Snoop Dogg)]\nHold up and analyze\nCome on, get on, get some\nListen close as I prove my point\n(We do our thing, son) Yeah\nHold up and analyze, we\u2019re more solid\nCome on, get on, get some, yeah\nListen close as I prove my point\n(Ready to make an entrance so back on up) Yeah\n\n[Chorus: Nas & A$AP Rocky]\nNo comparison, we more solid than they are (Uh)\nMe and Hit-Boy, they say we like the new Gang Starr (Uh)\nMe and Flacko, they say we the new wave gods\nShout to Max B, he could be home any day, God (Yeah)\n\n[Verse 1: A$AP Rocky]\nWake up out the bed scruffy, sparkin' my J\nShine my nickel-plated then I'm startin' my day\nMy old lady call me baby, told her, \"Pardon my age\"\nTwelve shells in the gauge like a carton of eggs\nWe goin' home like Eric Cartman, chromosomes on my conscience\nHear some niggas talkin' nonsense, call up Nasty Nastradamus\nRock the pearls and diamonds, break the promise, break her wallets\nBreak her heart and break her pockets, takin' notes like guidance counselors\nAristocrat like the chancellor, the answer to the, uh, panhandlers\nThe corners with the mans is up, the jig is up, the scams is up\nYeah, they hands is up, lookin' in the crowd, yeah\nTryna fuck the world, but my pants still up\nTryna invest, to all my G's, before we rest in peace\n'Cause we sure to rest in peace\nThe rest is set, the record set as soon as I release\nThe rumors be, I roam the streets with no security\nThey know a nigga overseas (Uh)\nKind of swag that's passed from your mom and dad\nPrada bags and we cheesin' on them Calvin ads (Yeah, yeah)\nMight've peeped the billboards fifty feet when out in traffic\nStarin' at them naked pictures, shit, you bound to crash it\nSee Nas LiveGet tickets as low as $88You might also like[Chorus: Nas]\nNo comparison, we more solid than they are\nMe and Hit-Boy, they say we like the new Gang Starr\nMe and Flacko, they say we the new wave gods\nShout to Max B, he could be home any day, God\n\n[Break: Nas, Raekwon, Casanova Rud & A$AP Rocky]\nHold up and analyze\nYeah, A$AP Mob got Mass Appeal\nCome on, get on, get some\nCall up Nasty Nas, niggas hit the lick like ah, ah, ah\n\n[Verse 2: Nas]\nWake up out the bed, wrap my durag up\nSay a prayer, I'm thankin' God that mom dukes had us\nMonotone style like Guru on some Preemo cuts\nCrewneck by McQueen, go nuts\nJewels over my white hoodie like Juvie in '9-8\nIt's movies that I make, Peruvian white flake\nIt tore the community at a high rate, adversity I faced\nI roll my own gas to make sure that it's not laced\nDamn, I used to hit the block hopin' they see me\nWatchin' Video Music Box, sittin' close to the TV\nI was inspired by Whodini and Kool G\nGot my first pair of J's, thought I was 2-3 (Air)\nInvest in all my G's before we rest in peace\n'Cause we sure to rest in peace, my shorty is a piece\nA piece of mind, a dimepiece, I might buy her a piece of property\nYou might've had some joints, but ain't nothin' like me and Rocky seen\n[Chorus: Nas]\nNo comparison, we more solid than they are\nMe and Hit-Boy, they say we like the new Gang Starr\nMe and Flacko, they say we the new wave gods\nShout to Max B, he could be home any day, God\n\n[Break: Nas, Casanova Rud, Kool G Rap & C.L. Smooth]\nCome on, get on, get some\nYeah, A$AP Mob got Mass Appeal\nWe do our thing, son\nListen close as I prove my point\n\n[Outro: A$AP Rocky]\nTell Hit we got a hit, ayy, ayy\nTell Hit we got a hit, ahh\nCall up Nasty Nas, niggas hit the lick like ah, ah, ah39Embed"
+}

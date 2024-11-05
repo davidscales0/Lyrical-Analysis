@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 8,
+ "api_path": "/songs/177769",
+ "artist_names": "The Strokes",
+ "full_title": "Between Love & Hate by\u00a0The\u00a0Strokes",
+ "header_image_thumbnail_url": "https://images.genius.com/973e9053a9b9b3a19d2d17b6a63ec01c.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/973e9053a9b9b3a19d2d17b6a63ec01c.1000x1000x1.jpg",
+ "id": 177769,
+ "instrumental": false,
+ "lyrics_owner_id": 238138,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1714827332,
+ "path": "/The-strokes-between-love-and-hate-lyrics",
+ "primary_artist_names": "The Strokes",
+ "pyongs_count": 12,
+ "relationships_index_url": "https://genius.com/The-strokes-between-love-and-hate-sample",
+ "release_date_components": {
+  "year": 2003,
+  "month": 10,
+  "day": 28
+ },
+ "release_date_for_display": "October 28, 2003",
+ "release_date_with_abbreviated_month_for_display": "Oct. 28, 2003",
+ "song_art_image_thumbnail_url": "https://images.genius.com/973e9053a9b9b3a19d2d17b6a63ec01c.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/973e9053a9b9b3a19d2d17b6a63ec01c.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 7,
+  "hot": false,
+  "pageviews": 57251
+ },
+ "title": "Between Love & Hate",
+ "title_with_featured": "Between Love & Hate",
+ "updated_by_human_at": 1714827332,
+ "url": "https://genius.com/The-strokes-between-love-and-hate-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/12524",
+  "header_image_url": "https://images.genius.com/382ae86addc1e06ae4bebad904b69c2b.640x348x1.jpg",
+  "id": 12524,
+  "image_url": "https://images.genius.com/b5237c13de1a05f92ca6327d854cbfc8.1000x1000x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "The Strokes",
+  "slug": "The-strokes",
+  "url": "https://genius.com/artists/The-strokes",
+  "iq": 105
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/12524",
+   "header_image_url": "https://images.genius.com/382ae86addc1e06ae4bebad904b69c2b.640x348x1.jpg",
+   "id": 12524,
+   "image_url": "https://images.genius.com/b5237c13de1a05f92ca6327d854cbfc8.1000x1000x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "The Strokes",
+   "slug": "The-strokes",
+   "url": "https://genius.com/artists/The-strokes",
+   "iq": 105
+  }
+ ],
+ "artist": "The Strokes",
+ "lyrics": "34 ContributorsBetween Love & Hate Lyrics[Verse 1]\nWatched her as she wiped her eyes\nYou don't make me sorry\nNow I know that you never listened \u2013 listen\nThinking about that high school dance\nWorrying about the finals\nYes I know, you're feeling lonely\nOh lonely, so lonely\n\n[Pre-Chorus]\nNever needed anybody, I never needed anybody\nI never needed anybody, I never needed nobody\nDon't worry about it, honey\nI never needed anybody\nI never needed anybody, it won't change now\n\n[Chorus]\nAm I wrong?\nDon't sing along with me\nI said I was fine\nIt's just the second time we lost the war\n\n[Instrumental Bridge]\n\n[Verse 2]\nShe'd be in the kitchen, I would start the fire\nOh, those days are gone\nBut you know I can't give up \u2013 give up\nP.S. If I may ask why, when will they get tired?\nWe've stayed up all night trying \u2013 trying\nYou might also like[Pre-Chorus]\nNever needed anybody, I never needed nobody\nI never needed anybody, I never needed anybody\nDon't worry about it, honey\nI never needed anybody\nI never needed anybody, it won't change now\n\n[Chorus]\nAm I wrong?\nDon't sing along with me\nI said I was fine\nThe second time we lost the war\nI guess it's the end12Embed"
+}

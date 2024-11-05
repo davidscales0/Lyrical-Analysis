@@ -1,0 +1,81 @@
+{
+ "_type": "song",
+ "annotation_count": 8,
+ "api_path": "/songs/7579129",
+ "artist_names": "Knucks (Ft. Venna)",
+ "full_title": "Alpha House by\u00a0Knucks (Ft.\u00a0Venna)",
+ "header_image_thumbnail_url": "https://images.genius.com/df9dfe0b37e52b20ffd0e0861224d8e5.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/df9dfe0b37e52b20ffd0e0861224d8e5.700x700x1.jpg",
+ "id": 7579129,
+ "instrumental": false,
+ "lyrics_owner_id": 5748418,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1717719356,
+ "path": "/Knucks-alpha-house-lyrics",
+ "primary_artist_names": "Knucks",
+ "pyongs_count": 4,
+ "relationships_index_url": "https://genius.com/Knucks-alpha-house-sample",
+ "release_date_components": {
+  "year": 2022,
+  "month": 2,
+  "day": 3
+ },
+ "release_date_for_display": "February 3, 2022",
+ "release_date_with_abbreviated_month_for_display": "Feb. 3, 2022",
+ "song_art_image_thumbnail_url": "https://images.genius.com/df9dfe0b37e52b20ffd0e0861224d8e5.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/df9dfe0b37e52b20ffd0e0861224d8e5.700x700x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 8,
+  "hot": false,
+  "pageviews": 17794
+ },
+ "title": "Alpha House",
+ "title_with_featured": "Alpha House (Ft.\u00a0Venna)",
+ "updated_by_human_at": 1722786453,
+ "url": "https://genius.com/Knucks-alpha-house-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/2065638",
+   "header_image_url": "https://images.genius.com/9e068709e80307dc1282bac2135d6fd5.625x220x1.jpg",
+   "id": 2065638,
+   "image_url": "https://images.genius.com/f9e6903b6097d9931669aabd852c7db6.1000x1000x1.jpg",
+   "index_character": "v",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Venna",
+   "slug": "Venna",
+   "url": "https://genius.com/artists/Venna"
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/657206",
+  "header_image_url": "https://images.genius.com/4c112ad1b01cdd5b841ab7af0e962bd8.1000x333x1.jpg",
+  "id": 657206,
+  "image_url": "https://images.genius.com/5dbbf4a36245c410d2388d83d7190a11.709x709x1.jpg",
+  "index_character": "k",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Knucks",
+  "slug": "Knucks",
+  "url": "https://genius.com/artists/Knucks"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/657206",
+   "header_image_url": "https://images.genius.com/4c112ad1b01cdd5b841ab7af0e962bd8.1000x333x1.jpg",
+   "id": 657206,
+   "image_url": "https://images.genius.com/5dbbf4a36245c410d2388d83d7190a11.709x709x1.jpg",
+   "index_character": "k",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Knucks",
+   "slug": "Knucks",
+   "url": "https://genius.com/artists/Knucks"
+  }
+ ],
+ "artist": "Knucks",
+ "lyrics": "20 ContributorsTranslations\u0420\u0443\u0441\u0441\u043a\u0438\u0439Alpha House Lyrics[Intro]\nAyy\n\n[Verse]\nYoung bull at the top of the block with the white front door and the corner subtle\nCool, but he always in trouble\nWhy you think his bredrins called him Knuckles?\nTen years old in beef, dad thinks street's takin' over me\nMumsy prayin' for me, but there ain't enough beads on the rosary\nRaised by the wolves from young, but still in the jungle like Mowgli\nAlways up front when the olders speak\nSo was never as dumb as ones s'posed to\nTwos in the spliff by the lift\nIt be what it be and it is what it is\nThey said if I tried it, th\u0435y wildin'\nAnd kickin' my shit 'cause it isn't for kids\n4th floor's where my ting would'v\u0435 lived\nIf her fam' never moved out to Harrow\nHer dad was a pastor and marj was paro\nI'd take her daughter off the calm and narrow\nYout with the peppercorn, yeah\nI know it seems kinda deep, but they thoughts was shallow\nSpent my whole life on the market as the target that they point they arrows\nControl it, then I pass it to Paolo\nYoung kick abouts on Albert Road\nCoach said \"Come down to trials\"\n'Cause I could have got scouted, but I was at home\nOr I was outside with the homies\nIf only I could've advised me now\nBut even if I was down and out\nI still come back to Alpha HouseYou might also like4Embed"
+}

@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 7,
+ "api_path": "/songs/68169",
+ "artist_names": "The Strokes",
+ "full_title": "12:51 by\u00a0The\u00a0Strokes",
+ "header_image_thumbnail_url": "https://images.genius.com/d9b8cd0deff9aa72f70245f523109358.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/d9b8cd0deff9aa72f70245f523109358.1000x1000x1.jpg",
+ "id": 68169,
+ "instrumental": false,
+ "lyrics_owner_id": 1850,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1701457339,
+ "path": "/The-strokes-12-51-lyrics",
+ "primary_artist_names": "The Strokes",
+ "pyongs_count": 22,
+ "relationships_index_url": "https://genius.com/The-strokes-12-51-sample",
+ "release_date_components": {
+  "year": 2003,
+  "month": 10,
+  "day": 13
+ },
+ "release_date_for_display": "October 13, 2003",
+ "release_date_with_abbreviated_month_for_display": "Oct. 13, 2003",
+ "song_art_image_thumbnail_url": "https://images.genius.com/104c2e636bbede8a89adcd544edaeca5.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/104c2e636bbede8a89adcd544edaeca5.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 5,
+  "hot": false,
+  "pageviews": 153777
+ },
+ "title": "12:51",
+ "title_with_featured": "12:51",
+ "updated_by_human_at": 1701457339,
+ "url": "https://genius.com/The-strokes-12-51-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/12524",
+  "header_image_url": "https://images.genius.com/382ae86addc1e06ae4bebad904b69c2b.640x348x1.jpg",
+  "id": 12524,
+  "image_url": "https://images.genius.com/b5237c13de1a05f92ca6327d854cbfc8.1000x1000x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "The Strokes",
+  "slug": "The-strokes",
+  "url": "https://genius.com/artists/The-strokes",
+  "iq": 105
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/12524",
+   "header_image_url": "https://images.genius.com/382ae86addc1e06ae4bebad904b69c2b.640x348x1.jpg",
+   "id": 12524,
+   "image_url": "https://images.genius.com/b5237c13de1a05f92ca6327d854cbfc8.1000x1000x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "The Strokes",
+   "slug": "The-strokes",
+   "url": "https://genius.com/artists/The-strokes",
+   "iq": 105
+  }
+ ],
+ "artist": "The Strokes",
+ "lyrics": "39 Contributors12:51 Lyrics[Verse 1]\nTalk to me now I'm older\nYour friend told you 'cause I told her\nFriday nights have been lonely\nChange your plans and then phone me\n\n[Verse 2]\nWe could go and get forties\nFuck going to that party\nOh really, your folks are away now?\nAlright, let's go, you convinced me\n\n[Chorus]\n12:51 is the time my voice\nFound the words I sought\nIs it this stage I want?\nThe world is shutting out for us\nOh, we were tense for sure\nBut we was confident\n\n[Verse 3]\nKiss me now that I'm older\nI won't try to control you\nFriday nights have been lonely\nTake it slow but don't warn me\nYou might also like[Outro]\nWe'd go out and get forties\nThen we'd go to some party\nOh, really, your folks are away now?\nAlright, I'm coming, I'll be right there22Embed"
+}

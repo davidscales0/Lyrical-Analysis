@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 20,
+ "api_path": "/songs/93904",
+ "artist_names": "Arctic Monkeys",
+ "full_title": "Teddy Picker by\u00a0Arctic\u00a0Monkeys",
+ "header_image_thumbnail_url": "https://images.genius.com/b9fd5bb1bcb5c9fea822b1048c61fd75.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/b9fd5bb1bcb5c9fea822b1048c61fd75.1000x1000x1.jpg",
+ "id": 93904,
+ "instrumental": false,
+ "lyrics_owner_id": 65245,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1680975644,
+ "path": "/Arctic-monkeys-teddy-picker-lyrics",
+ "primary_artist_names": "Arctic Monkeys",
+ "pyongs_count": 49,
+ "relationships_index_url": "https://genius.com/Arctic-monkeys-teddy-picker-sample",
+ "release_date_components": {
+  "year": 2007,
+  "month": 12,
+  "day": 3
+ },
+ "release_date_for_display": "December 3, 2007",
+ "release_date_with_abbreviated_month_for_display": "Dec. 3, 2007",
+ "song_art_image_thumbnail_url": "https://images.genius.com/e9500ed32b942aaa222cf48c26f3500f.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/e9500ed32b942aaa222cf48c26f3500f.600x600x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 4,
+  "hot": false,
+  "pageviews": 381696
+ },
+ "title": "Teddy Picker",
+ "title_with_featured": "Teddy Picker",
+ "updated_by_human_at": 1711311072,
+ "url": "https://genius.com/Arctic-monkeys-teddy-picker-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/12297",
+  "header_image_url": "https://images.genius.com/c3c80cbb98d33004ad932e8e486f4f09.664x1000x1.jpg",
+  "id": 12297,
+  "image_url": "https://images.genius.com/22b5c9613f7cfc559fa2d11e3fcdc829.664x664x1.jpg",
+  "index_character": "a",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Arctic Monkeys",
+  "slug": "Arctic-monkeys",
+  "url": "https://genius.com/artists/Arctic-monkeys"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/12297",
+   "header_image_url": "https://images.genius.com/c3c80cbb98d33004ad932e8e486f4f09.664x1000x1.jpg",
+   "id": 12297,
+   "image_url": "https://images.genius.com/22b5c9613f7cfc559fa2d11e3fcdc829.664x664x1.jpg",
+   "index_character": "a",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Arctic Monkeys",
+   "slug": "Arctic-monkeys",
+   "url": "https://genius.com/artists/Arctic-monkeys"
+  }
+ ],
+ "artist": "Arctic Monkeys",
+ "lyrics": "77 ContributorsTranslationsPortugu\u00easFran\u00e7aisTeddy Picker Lyrics[Verse 1: Turner]\nThey've sped up to the point where they provoke\nThe punchline before they have told the joke\nPlenty of desperation to be seen\nStaring at the television screen\nThey've sped up to the point where they provoke\nYou to tell the fucking punchline before you have told the joke\nWell sorry, sunshine, it doesn't exist\nIt wasn't in the Top 100 list\n\n[Chorus: Turner]\nAnd it's the thousandth time that it's even bolder\nDon't be surprised when you get bent over\nThey told you, but you were dying for it\n\n[Post-Chorus: Helders]\nShe saw it and she grabbed it and it wasn't what it seemed\nThe kids all dream of making it, whatever that means\n\n[Verse 2: Turner]\nAnother variation on a theme\nA tangle on the television and the magazine\nD'you reckon that they do it for a joke?\nD'you reckon that they make 'em take an oath\nThat says that \"We are defenders of any poser\nOr professional pretender around\"\nYou might also like[Chorus: Turner]\nAnd when did your list replace the twist and turn\nLike a fist replaced a kiss?\nDon't concern us with your bollocks, I don't want your prayer\nSave it for the morning after\n\n[Guitar Solo]\n\n[Chorus: Turner]\nAnd it's the thousandth time that it's even bolder\nDon't be surprised when you get bent over\nThey told you, but you were gagging for it\n\n[Bridge: Turner]\nLet's have a game on the teddy picker\nNot quick enough, can I have it quicker?\nAlready thick and you're getting thicker\nLet's have a game on the teddy picker\nNot quick enough, can I have it quicker?\nAlready thick and you're getting thicker\n\n[Outro: Turner]\nPresuming that all things are equal\nWho'd want to be men of the people\nWhen there's people like you?49Embed"
+}

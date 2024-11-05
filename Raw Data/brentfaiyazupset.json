@@ -1,0 +1,98 @@
+{
+ "_type": "song",
+ "annotation_count": 8,
+ "api_path": "/songs/9666151",
+ "artist_names": "Brent Faiyaz (Ft. FELIX & Tommy Richman)",
+ "full_title": "Upset by\u00a0Brent\u00a0Faiyaz (Ft.\u00a0FELIX & Tommy\u00a0Richman)",
+ "header_image_thumbnail_url": "https://images.genius.com/48f3db8d32e627762bd8913309b8c992.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/48f3db8d32e627762bd8913309b8c992.1000x1000x1.jpg",
+ "id": 9666151,
+ "instrumental": false,
+ "lyrics_owner_id": 5748418,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1717629174,
+ "path": "/Brent-faiyaz-upset-lyrics",
+ "primary_artist_names": "Brent Faiyaz",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Brent-faiyaz-upset-sample",
+ "release_date_components": {
+  "year": 2023,
+  "month": 10,
+  "day": 27
+ },
+ "release_date_for_display": "October 27, 2023",
+ "release_date_with_abbreviated_month_for_display": "Oct. 27, 2023",
+ "song_art_image_thumbnail_url": "https://images.genius.com/48f3db8d32e627762bd8913309b8c992.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/48f3db8d32e627762bd8913309b8c992.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 8,
+  "hot": false,
+  "pageviews": 43102
+ },
+ "title": "Upset",
+ "title_with_featured": "Upset (Ft.\u00a0FELIX & Tommy\u00a0Richman)",
+ "updated_by_human_at": 1717629174,
+ "url": "https://genius.com/Brent-faiyaz-upset-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1817818",
+   "header_image_url": "https://images.genius.com/81f6825da388e71c2d8bce4a5d6b2a00.1000x429x1.png",
+   "id": 1817818,
+   "image_url": "https://images.genius.com/faf637108d3645239e3f1a95e8f54cd3.1000x1000x1.jpg",
+   "index_character": "t",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Tommy Richman",
+   "slug": "Tommy-richman",
+   "url": "https://genius.com/artists/Tommy-richman",
+   "iq": 153
+  },
+  {
+   "_type": "artist",
+   "api_path": "/artists/2892675",
+   "header_image_url": "https://images.genius.com/170be4666def49fa204c3803ba0dbe2e.1000x1000x1.jpg",
+   "id": 2892675,
+   "image_url": "https://images.genius.com/9d00b740e31b4aff0ab9bb0c6e542512.791x791x1.jpg",
+   "index_character": "f",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "FELIX",
+   "slug": "Felix",
+   "url": "https://genius.com/artists/Felix",
+   "iq": 1297
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/332612",
+  "header_image_url": "https://images.genius.com/69e88936f57222bfe053bac1e8d77625.1000x1000x1.jpg",
+  "id": 332612,
+  "image_url": "https://images.genius.com/d26c85db34600b384cba88fe02a1c587.1000x1000x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Brent Faiyaz",
+  "slug": "Brent-faiyaz",
+  "url": "https://genius.com/artists/Brent-faiyaz",
+  "iq": 1673
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/332612",
+   "header_image_url": "https://images.genius.com/69e88936f57222bfe053bac1e8d77625.1000x1000x1.jpg",
+   "id": 332612,
+   "image_url": "https://images.genius.com/d26c85db34600b384cba88fe02a1c587.1000x1000x1.jpg",
+   "index_character": "b",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Brent Faiyaz",
+   "slug": "Brent-faiyaz",
+   "url": "https://genius.com/artists/Brent-faiyaz",
+   "iq": 1673
+  }
+ ],
+ "artist": "Brent Faiyaz",
+ "lyrics": "22 ContributorsTranslationsPortugu\u00easUpset Lyrics[Chorus: Brent Faiyaz & FELIX!]\nI be like \"Fuck it\", at the same time I don't say \"Fuck it\"\nNow look what I'm stuck with\nDon't care if I'm in the wrong, I don't get upset (Hey, hey, hey, hey)\nDon't care if you're in the wrong, I don't get upset (Hey, hey, hey, hey)\nI be like \"Fuck it\", at the same time I know I can't trust it\nNow look what I'm stuck with\nDon't care if I'm in the wrong, I don't get upset (Hey, hey, hey, hey)\nDon't care if you're in the wrong, I don't get upset (Hey, hey, hey, hey)\n\n[Bridge: FELIX!]\nHey, hey, hey, hey\nHey, hey, hey, hey\n[Verse: Tommy Richman & FELIX!]\nI like your style, but I know that you're the worst\nDon't judge me (Ah-yeah, ah-yeah, ah-yeah)\nYou lyin' in my bed now, it's above me\nSo don't get it off your chest, I know you love me\nDon't judge me now, now, now, me now (Hey, hey, hey, hey)\nI know it don't matter 'cause you'll die, you'll dive in\nI don't wanna draw the line, darling\nYou've come too far, you've come too far\nYou got your views, got your views\nBut I don't really think you got no social cues (Oh, no)\nHangin' up round your neck, that's cheap perfume\nI caught it from a thousand miles away\nYou might also like[Chorus: Brent Faiyaz & FELIX!]\nI be like \"Fuck it\", at the same time I don't say \"Fuck it\"\nNow look what I'm stuck with\nDon't care if I'm in the wrong, I don't get upset (Hey, hey, hey, hey)\nDon't care if you're in the wrong, I don't get upset (Hey, hey, hey, hey)\nI be like \"Fuck it\", at the same time I know I can't trust it\nNow look what I'm stuck with\nDon't care if I'm in the wrong, I don't get upset (Hey, hey, hey, hey)\nDon't care if you're in the wrong, I don't get upset (Hey, hey, hey, hey)\n\n[Bridge: FELIX!]\nI just came back from a flight, feel crazy\nHope ya lil' mans don't get upset (Hey, hey, hey, hey)\nCame a long way from the minimum wages\nWhen I get paid, don't feel nothin' (Hey, hey, hey, hey)\nI just came back from a flight, feel crazy\nHope ya lil' mans don't get upset (Hey, hey, hey, hey)\nCame a long way from the minimum wages\nWhen I get paid, don't feel nothin' (Hey, hey, hey, hey)\nI just came back from a flight, feel crazy\nHope ya lil' mans don't get upset (Hey, hey, hey, hey)\nCame a long way from the minimum wages\nWhen I get paid, don't feel nothin' (Hey, hey, hey, hey)\nI just came back from a flight, feel crazy\nHope ya lil' mans don't get upset (Hey, hey, hey, hey)\nCame a long way from the minimum wages\nWhen I get paid, don't feel nothin' (Hey, hey, hey, hey)\n[Chorus: Brent Faiyaz & FELIX!]\nI be like \"Fuck it\", at the same time I don't say \"Fuck it\"\nNow look what I'm stuck with\nDon't care if I'm in the wrong, I don't get upset (Hey, hey, hey, hey)\nDon't care if you're in the wrong, I don't get upset (Hey, hey, hey, hey)\nI be like \"Fuck it\", at the same time I know I can't trust it\nNow look what I'm stuck with\nDon't care if I'm in the wrong, I don't get upset (Hey, hey, hey, hey)\nDon't care if you're in the wrong, I don't get upset (Hey, hey, hey, hey)Embed"
+}

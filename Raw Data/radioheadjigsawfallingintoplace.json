@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 13,
+ "api_path": "/songs/65929",
+ "artist_names": "Radiohead",
+ "full_title": "Jigsaw Falling into Place by\u00a0Radiohead",
+ "header_image_thumbnail_url": "https://images.genius.com/f9fc573a95e98a73b8456850f2653b37.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/f9fc573a95e98a73b8456850f2653b37.1000x1000x1.jpg",
+ "id": 65929,
+ "instrumental": false,
+ "lyrics_owner_id": 11637,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1722611721,
+ "path": "/Radiohead-jigsaw-falling-into-place-lyrics",
+ "primary_artist_names": "Radiohead",
+ "pyongs_count": 47,
+ "relationships_index_url": "https://genius.com/Radiohead-jigsaw-falling-into-place-sample",
+ "release_date_components": {
+  "year": 2007,
+  "month": 10,
+  "day": 10
+ },
+ "release_date_for_display": "October 10, 2007",
+ "release_date_with_abbreviated_month_for_display": "Oct. 10, 2007",
+ "song_art_image_thumbnail_url": "https://images.genius.com/47bf7a8ff3ba02f1b367502306199213.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/47bf7a8ff3ba02f1b367502306199213.600x600x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false,
+  "pageviews": 416124
+ },
+ "title": "Jigsaw Falling into Place",
+ "title_with_featured": "Jigsaw Falling into Place",
+ "updated_by_human_at": 1722600949,
+ "url": "https://genius.com/Radiohead-jigsaw-falling-into-place-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/604",
+  "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+  "id": 604,
+  "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Radiohead",
+  "slug": "Radiohead",
+  "url": "https://genius.com/artists/Radiohead"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/604",
+   "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+   "id": 604,
+   "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+   "index_character": "r",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Radiohead",
+   "slug": "Radiohead",
+   "url": "https://genius.com/artists/Radiohead"
+  }
+ ],
+ "artist": "Radiohead",
+ "lyrics": "76 ContributorsTranslations\u0641\u0627\u0631\u0633\u06ccT\u00fcrk\u00e7e\u0e44\u0e17\u0e22 / Phasa ThaiEspa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439Fran\u00e7aisJigsaw Falling into Place Lyrics[Verse 1]\nJust as you take my hand\nJust as you write my number down\nJust as the drinks arrive\nJust as they play your favourite song\nAs your bad day disappears\nNo longer wound up like a spring\nBefore you've had too much\nCome back in focus again\nThe walls are bending shape\nThey've got a Cheshire cat grin\nAll blurring into one\nThis place is on a mission\nBefore the night owl\nBefore the animal noises\nClosed circuit cameras\nBefore you're comatose\n\n[Verse 2]\nBefore you run away from me\nBefore you're lost between the notes\nThe beat goes 'round and 'round\nThe beat goes 'round and 'round\nI never really got there\nI just pretended that I had\nWords are blunt instruments\nWords are sawn-off shotguns\nCome on and let it out\nCome on and let it out\nCome on and let it out\nCome on and let it out\nBefore you run away from me\nBefore you're lost between the notes\nJust as you take the mic\nJust as you dance, dance, dance\nYou might also like[Chorus]\nA jigsaw falling into place\nSo there is nothing to explain\nYou eye each other as you pass\nShe looks back, and you look back\nNot just once, and not just twice\nWish away your nightmare\nWish away the nightmare\nYou got the light, you can feel it on your back\nA light, you can feel it on your back\nYour jigsaw falling into place47Embed"
+}

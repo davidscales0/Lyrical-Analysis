@@ -1,0 +1,70 @@
+{
+ "_type": "song",
+ "annotation_count": 10,
+ "api_path": "/songs/338673",
+ "artist_names": "Hozier",
+ "full_title": "Like Real People Do by\u00a0Hozier",
+ "header_image_thumbnail_url": "https://images.genius.com/53e698d08d47f73cfde58f8b934f6a6a.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/53e698d08d47f73cfde58f8b934f6a6a.1000x1000x1.jpg",
+ "id": 338673,
+ "instrumental": false,
+ "lyrics_owner_id": 288260,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1702687211,
+ "path": "/Hozier-like-real-people-do-lyrics",
+ "primary_artist_names": "Hozier",
+ "pyongs_count": 40,
+ "relationships_index_url": "https://genius.com/Hozier-like-real-people-do-sample",
+ "release_date_components": {
+  "year": 2014,
+  "month": 9,
+  "day": 19
+ },
+ "release_date_for_display": "September 19, 2014",
+ "release_date_with_abbreviated_month_for_display": "Sep. 19, 2014",
+ "song_art_image_thumbnail_url": "https://images.genius.com/53e698d08d47f73cfde58f8b934f6a6a.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/53e698d08d47f73cfde58f8b934f6a6a.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 4,
+  "concurrents": 2,
+  "hot": false,
+  "pageviews": 474658
+ },
+ "title": "Like Real People Do",
+ "title_with_featured": "Like Real People Do",
+ "updated_by_human_at": 1711403227,
+ "url": "https://genius.com/Hozier-like-real-people-do-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/73910",
+  "header_image_url": "https://images.genius.com/1d64c0e97aa12457fa57d9e57bff9728.1000x333x1.jpg",
+  "id": 73910,
+  "image_url": "https://images.genius.com/538ee82e57b45daf13d57d82779a19c2.400x400x1.jpg",
+  "index_character": "h",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Hozier",
+  "slug": "Hozier",
+  "url": "https://genius.com/artists/Hozier",
+  "iq": 2128
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/73910",
+   "header_image_url": "https://images.genius.com/1d64c0e97aa12457fa57d9e57bff9728.1000x333x1.jpg",
+   "id": 73910,
+   "image_url": "https://images.genius.com/538ee82e57b45daf13d57d82779a19c2.400x400x1.jpg",
+   "index_character": "h",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Hozier",
+   "slug": "Hozier",
+   "url": "https://genius.com/artists/Hozier",
+   "iq": 2128
+  }
+ ],
+ "artist": "Hozier",
+ "lyrics": "52 ContributorsLike Real People Do Lyrics[Verse 1]\nI had a thought, dear, however scary\nAbout that night, the bugs and the dirt\nWhy were you digging? What did you bury\nBefore those hands pulled me from the earth?\n\n[Chorus]\nI will not ask you where you came from\nI will not ask and neither should you\nHoney, just put your sweet lips on my lips\nWe should just kiss like real people do\n\n[Verse 2]\nI knew that look, dear, eyes always seeking\nWas there in someone that dug long ago\nSo I will not ask you why you were creeping\nIn some sad way, I already know\n\n[Chorus]\nSo I will not ask you where you came from\nI would not ask and neither would you\nHoney, just put your sweet lips on my lips\nWe should just kiss like real people do\nI could not ask you where you came from\nI could not ask and neither could you\nHoney, just put your sweet lips on my lips\nWe could just kiss like real people doSee Hozier LiveGet tickets as low as $31You might also like40Embed"
+}

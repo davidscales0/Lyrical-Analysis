@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 25,
+ "api_path": "/songs/3183200",
+ "artist_names": "Daniel Caesar",
+ "full_title": "Hold Me Down by\u00a0Daniel\u00a0Caesar",
+ "header_image_thumbnail_url": "https://images.genius.com/cb3aa21d3bdc100d2ba5700d3a566fb9.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/cb3aa21d3bdc100d2ba5700d3a566fb9.1000x1000x1.jpg",
+ "id": 3183200,
+ "instrumental": false,
+ "lyrics_owner_id": 2737494,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1720021504,
+ "path": "/Daniel-caesar-hold-me-down-lyrics",
+ "primary_artist_names": "Daniel Caesar",
+ "pyongs_count": 22,
+ "relationships_index_url": "https://genius.com/Daniel-caesar-hold-me-down-sample",
+ "release_date_components": {
+  "year": 2017,
+  "month": 8,
+  "day": 25
+ },
+ "release_date_for_display": "August 25, 2017",
+ "release_date_with_abbreviated_month_for_display": "Aug. 25, 2017",
+ "song_art_image_thumbnail_url": "https://images.genius.com/cb3aa21d3bdc100d2ba5700d3a566fb9.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/cb3aa21d3bdc100d2ba5700d3a566fb9.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 23,
+  "hot": false,
+  "pageviews": 363337
+ },
+ "title": "Hold Me Down",
+ "title_with_featured": "Hold Me Down",
+ "updated_by_human_at": 1720021504,
+ "url": "https://genius.com/Daniel-caesar-hold-me-down-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/161892",
+  "header_image_url": "https://images.genius.com/17851f6df6904b89d22a1553b026c421.745x745x1.jpg",
+  "id": 161892,
+  "image_url": "https://images.genius.com/da9d279cd54cc1592460ac953a65a3d7.950x950x1.png",
+  "index_character": "d",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Daniel Caesar",
+  "slug": "Daniel-caesar",
+  "url": "https://genius.com/artists/Daniel-caesar",
+  "iq": 3659
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/161892",
+   "header_image_url": "https://images.genius.com/17851f6df6904b89d22a1553b026c421.745x745x1.jpg",
+   "id": 161892,
+   "image_url": "https://images.genius.com/da9d279cd54cc1592460ac953a65a3d7.950x950x1.png",
+   "index_character": "d",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Daniel Caesar",
+   "slug": "Daniel-caesar",
+   "url": "https://genius.com/artists/Daniel-caesar",
+   "iq": 3659
+  }
+ ],
+ "artist": "Daniel Caesar",
+ "lyrics": "65 ContributorsHold Me Down Lyrics[Intro]\nCould you, could you say, \"I love you, Danny\"?\nYou want me to?\nCould you?\nI love you, Danny\n[Chorus]\nIf you love me, baby let me hear you say it\nI know I'm your favorite\nFirst you love me then you leave me in the basement\nI know I'm your favorite\nIf you love me baby let me hear you say it\nI know I'm your favorite\nFirst you love me then you leave me on the pavement\nI know I'm your favorite\n[Verse]\nI got this girl, she's making me crazy\nI nearly let her have all my babies\nPussy so good, it sets me on fire\nI leave myself, I elevate higher\nYou're fly girl, but you're headed to maybe\nI'll take the time, treat you like a lady, yeah\nMy life's a spectacle, a sad story\nPerhaps I'll find my way to the glory, yes\nYou might also like[Pre-Chorus]\nI\u2019m the one that took you to higher heights\nThat's all I was trying to do\nI know you had your dreams of a better life\nThis time we ain't making it through\n\n[Chorus]\nIf you love me, baby let me hear you say it\nI know I'm your favorite\nFirst you love me then you leave me in the basement\nI know I'm your favorite\nIf you love me baby let me hear you say it\nI know I'm your favorite\nFirst you love me then you leave me on the pavement\nI know I'm your favorite\n[Bridge]\nYou're getting on a plane\nAnd travelling far away\nYou've left me with a pain\nI carry it everyday\nWho do you think you are\nSome kind of celebrity?\nJust wait and see\n\n[Outro]\nI never asked for much only that you stay true\nNeed I remind you all the things I do for you?\nWho can I blame, I played the game\nWell just for now\nI was wondering can you hold me down?\nI was wondering can you hold me down?22Embed"
+}

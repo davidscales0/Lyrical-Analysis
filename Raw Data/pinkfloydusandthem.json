@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 15,
+ "api_path": "/songs/72198",
+ "artist_names": "Pink Floyd",
+ "full_title": "Us and Them by\u00a0Pink\u00a0Floyd",
+ "header_image_thumbnail_url": "https://images.genius.com/e7aacf0af81cf270fa2b67833c018872.300x300x1.png",
+ "header_image_url": "https://images.genius.com/e7aacf0af81cf270fa2b67833c018872.1000x1000x1.png",
+ "id": 72198,
+ "instrumental": false,
+ "lyrics_owner_id": 11524,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1721902617,
+ "path": "/Pink-floyd-us-and-them-lyrics",
+ "primary_artist_names": "Pink Floyd",
+ "pyongs_count": 58,
+ "relationships_index_url": "https://genius.com/Pink-floyd-us-and-them-sample",
+ "release_date_components": {
+  "year": 1973,
+  "month": 3,
+  "day": 1
+ },
+ "release_date_for_display": "March 1, 1973",
+ "release_date_with_abbreviated_month_for_display": "Mar. 1, 1973",
+ "song_art_image_thumbnail_url": "https://images.genius.com/e7aacf0af81cf270fa2b67833c018872.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/e7aacf0af81cf270fa2b67833c018872.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 5,
+  "hot": false,
+  "pageviews": 513681
+ },
+ "title": "Us and Them",
+ "title_with_featured": "Us and Them",
+ "updated_by_human_at": 1721902617,
+ "url": "https://genius.com/Pink-floyd-us-and-them-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/694",
+  "header_image_url": "https://images.genius.com/39fff170940f12d3b88db19f01835f1d.500x500x97.gif",
+  "id": 694,
+  "image_url": "https://images.genius.com/6b5c50912d99c3cf0eabfec5f427c452.1000x1000x1.jpg",
+  "index_character": "p",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Pink Floyd",
+  "slug": "Pink-floyd",
+  "url": "https://genius.com/artists/Pink-floyd"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/694",
+   "header_image_url": "https://images.genius.com/39fff170940f12d3b88db19f01835f1d.500x500x97.gif",
+   "id": 694,
+   "image_url": "https://images.genius.com/6b5c50912d99c3cf0eabfec5f427c452.1000x1000x1.jpg",
+   "index_character": "p",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Pink Floyd",
+   "slug": "Pink-floyd",
+   "url": "https://genius.com/artists/Pink-floyd"
+  }
+ ],
+ "artist": "Pink Floyd",
+ "lyrics": "114 ContributorsTranslationsNederlandsPortugu\u00easEspa\u00f1olEnglishEnglish\u0420\u0443\u0441\u0441\u043a\u0438\u0439Us and Them Lyrics[Instrumental Intro]\n\n[Verse 1]\nUs, and them\nAnd after all, we're only ordinary men\nMe, and you\nGod only knows it's not what we would choose to do\n\n[Chorus]\n\"Forward!\" he cried from the rear\nAnd the front rank died\nThe general sat, and the lines on the map\nMoved from side to side\n\n[Verse 2]\nBlack and blue\nAnd who knows which is which, and who is who?\nUp and down\nAnd in the end, it's only round and round, and round\n\n[Chorus]\n\"Haven't you heard it's a battle of words?\"\nThe poster bearer cried\n\"Listen, son,\" said the man with the gun\n\"There's room for you inside\"\nYou might also like[Interlude]\n\"I mean, they're gonna kill ya\nSo like, if you give 'em a quick sh\u2026 short, sharp, shock\nThey don't do it again\nDig it? I mean, he got off light\n'Cause I could've given him a thrashin'\nI only hit him once!\nIt's only a difference in right and wrong, innit?\nI mean good manners don't cost nothin', do they, eh?\"\n[Saxophone Solo]\n\n[Verse 3]\nDown and out\nIt can't be helped, but there's a lot of it about\nWith, without\nAnd who'll deny it's what the fighting's all about?\n\n[Chorus]\nOut of the way, It's a busy day\nI've got things on my mind\nFor want of the price of tea and a slice\nThe old man died58Embed"
+}

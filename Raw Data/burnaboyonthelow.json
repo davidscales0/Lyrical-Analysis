@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 10,
+ "api_path": "/songs/4095126",
+ "artist_names": "Burna Boy",
+ "full_title": "On the Low by\u00a0Burna\u00a0Boy",
+ "header_image_thumbnail_url": "https://images.genius.com/6fa9da500c5b41d989833455d764bca4.300x300x1.png",
+ "header_image_url": "https://images.genius.com/6fa9da500c5b41d989833455d764bca4.400x400x1.png",
+ "id": 4095126,
+ "instrumental": false,
+ "lyrics_owner_id": 109822,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1717938931,
+ "path": "/Burna-boy-on-the-low-lyrics",
+ "primary_artist_names": "Burna Boy",
+ "pyongs_count": 7,
+ "relationships_index_url": "https://genius.com/Burna-boy-on-the-low-sample",
+ "release_date_components": {
+  "year": 2018,
+  "month": 11,
+  "day": 16
+ },
+ "release_date_for_display": "November 16, 2018",
+ "release_date_with_abbreviated_month_for_display": "Nov. 16, 2018",
+ "song_art_image_thumbnail_url": "https://images.genius.com/6fa9da500c5b41d989833455d764bca4.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/6fa9da500c5b41d989833455d764bca4.400x400x1.png",
+ "stats": {
+  "unreviewed_annotations": 7,
+  "hot": false,
+  "pageviews": 209469
+ },
+ "title": "On the Low",
+ "title_with_featured": "On the Low",
+ "updated_by_human_at": 1717930760,
+ "url": "https://genius.com/Burna-boy-on-the-low-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/39313",
+  "header_image_url": "https://images.genius.com/cef71f532763e70953a596e2bd5c2cac.1000x229x1.jpg",
+  "id": 39313,
+  "image_url": "https://images.genius.com/7af3374828b9ef22cc7373741880a597.1000x1000x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Burna Boy",
+  "slug": "Burna-boy",
+  "url": "https://genius.com/artists/Burna-boy",
+  "iq": 758
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/39313",
+   "header_image_url": "https://images.genius.com/cef71f532763e70953a596e2bd5c2cac.1000x229x1.jpg",
+   "id": 39313,
+   "image_url": "https://images.genius.com/7af3374828b9ef22cc7373741880a597.1000x1000x1.jpg",
+   "index_character": "b",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Burna Boy",
+   "slug": "Burna-boy",
+   "url": "https://genius.com/artists/Burna-boy",
+   "iq": 758
+  }
+ ],
+ "artist": "Burna Boy",
+ "lyrics": "47 ContributorsOn the Low Lyrics[Intro]\nIt's Kel P vibes\nYeah, yeah\n\nKpokpotikpo kpo kpo kpo\nBaby your love dey high me like choko\nKpokpotikpo kpo kpo kpo\nBaby your love dey high me like choko, yeah\nKpokpotikpo kpo kpo kpo\nBaby your love dey high me like choko (Baby your love dey high me)\n\n[Hook]\nAngeli, Angelina, you dey cool my temperature\nIf you call, I go come deliver\nI no go fall e your hand, never\nSay na me you go love forever\nI\u2019m a khaki, no fit be leather\nOh my Angeli , Angelina\nOh my Angeli , Angelina\n\n[Verse 1]\nOh mi o da oh\nAnytime wey I see you for the club, I dey television your body\nShey you no know say the thing wey you carry fit kill somebody\nYou know I feel a vibe, you feel a vibe, so baby whine it pon me (ye!)\nAnd I know you shy but it's cool when we're making love\nSee Burna Boy LiveGet tickets as low as $158You might also like[Chorus]\nOn the low\nOn the low\nOn the low\nOn the low\nOn the low\nOn the low\nOn the low\nOn the low\n\n[Hook]\nAngeli, Angelina, you dey cool my temperature\nIf you call, I go come deliver\nI no go fall e your hand, never\nSay na me you go love forever\nOmo khaki no fit be leather\nOh my Angeli , Angelina\nOh my Angeli , Angelina\n\n[Verse 2]\nOh no\nShey when I wan dey comot, make I signal you\nWhy you want to dey question me like an interview\nI\u2019m tryna put the ring on your finger too\nAnd be a better guy guy\nBe a better guy guy\n[Chorus]\nOn the low\nOn the low\nOn the low\nOn the low\nOn the low\nOn the low\nOn the low\nOn the low\n\n[Hook]\nAngeli, Angelina, (ah baby) you dey cool my temperature (ah baby)\nIf you call, I go come deliver (oh baby)\nI no go fall e your hand, never (ah baby)\nSay na me you go love forever (ah baby)\nOmo khaki no fit be leather (ah baby)\nOh my Angeli , Angelina (ah baby)\nOh my Angeli , Angelina (ah baby)\n\nJesu!7Embed"
+}

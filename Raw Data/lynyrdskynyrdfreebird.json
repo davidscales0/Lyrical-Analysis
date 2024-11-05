@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 13,
+ "api_path": "/songs/76186",
+ "artist_names": "Lynyrd Skynyrd",
+ "full_title": "Free Bird by\u00a0Lynyrd\u00a0Skynyrd",
+ "header_image_thumbnail_url": "https://images.genius.com/179a34ddf8b3e911994521ac345eafe6.300x300x1.png",
+ "header_image_url": "https://images.genius.com/179a34ddf8b3e911994521ac345eafe6.1000x1000x1.png",
+ "id": 76186,
+ "instrumental": false,
+ "lyrics_owner_id": 48951,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1693228005,
+ "path": "/Lynyrd-skynyrd-free-bird-lyrics",
+ "primary_artist_names": "Lynyrd Skynyrd",
+ "pyongs_count": 33,
+ "relationships_index_url": "https://genius.com/Lynyrd-skynyrd-free-bird-sample",
+ "release_date_components": {
+  "year": 1973,
+  "month": 8,
+  "day": 13
+ },
+ "release_date_for_display": "August 13, 1973",
+ "release_date_with_abbreviated_month_for_display": "Aug. 13, 1973",
+ "song_art_image_thumbnail_url": "https://images.genius.com/4a37f07d52ec0c8b976db7b894092f80.300x302x1.jpg",
+ "song_art_image_url": "https://images.genius.com/4a37f07d52ec0c8b976db7b894092f80.500x504x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false,
+  "pageviews": 403063
+ },
+ "title": "Free Bird",
+ "title_with_featured": "Free Bird",
+ "updated_by_human_at": 1720386728,
+ "url": "https://genius.com/Lynyrd-skynyrd-free-bird-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/641",
+  "header_image_url": "https://images.genius.com/a0cbb8cb807b10c90610cf6a39b0bbbd.770x405x1.jpg",
+  "id": 641,
+  "image_url": "https://images.genius.com/ebb828fcc4e78bebde11a0406170e5b1.500x500x1.jpg",
+  "index_character": "l",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Lynyrd Skynyrd",
+  "slug": "Lynyrd-skynyrd",
+  "url": "https://genius.com/artists/Lynyrd-skynyrd"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/641",
+   "header_image_url": "https://images.genius.com/a0cbb8cb807b10c90610cf6a39b0bbbd.770x405x1.jpg",
+   "id": 641,
+   "image_url": "https://images.genius.com/ebb828fcc4e78bebde11a0406170e5b1.500x500x1.jpg",
+   "index_character": "l",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Lynyrd Skynyrd",
+   "slug": "Lynyrd-skynyrd",
+   "url": "https://genius.com/artists/Lynyrd-skynyrd"
+  }
+ ],
+ "artist": "Lynyrd Skynyrd",
+ "lyrics": "84 ContributorsFree Bird Lyrics[Intro]\n\n[Verse 1]\nIf I leave here tomorrow\nWould you still remember me?\nFor I must be traveling on, now\n'Cause there's too many places I've got to see\n\n[Pre-Chorus]\nBut if I stay here with you, girl\nThings just couldn't be the same\n\n[Chorus]\n'Cause I'm as free as a bird now\nAnd this bird you cannot change\nOh-oh-oh-oh-oh\nAnd the bird you cannot change\nAnd this bird you cannot change\nLord knows I can't change\n\n[Instrumental Bridge]\n\n[Verse 2]\nBye-bye, baby, it's been a sweet love, yeah-yeah\nThough this feeling I can't change\nBut, please, don't take it so badly\n'Cause Lord knows I'm to blame\nSee Lynyrd Skynyrd LiveGet tickets as low as $19You might also like[Pre-Chorus]\nBut, if I stay here with you, girl\nThings just couldn't be the same\n\n[Chorus]\n'Cause I'm as free as a bird now\nAnd this bird you cannot change\nOh-oh-oh-oh-oh\nAnd the bird you cannot change\nAnd this bird you cannot change\nLord knows I can't change\nLord, help me, I can't change\n[Outro]\nLord, I can't change\nWon't you fly high, free bird, yeah\n[Guitar Solo]33Embed"
+}

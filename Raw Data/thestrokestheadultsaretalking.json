@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 12,
+ "api_path": "/songs/4552999",
+ "artist_names": "The Strokes",
+ "full_title": "The Adults Are Talking by\u00a0The\u00a0Strokes",
+ "header_image_thumbnail_url": "https://images.genius.com/37a0b0306a7f089dda0e12f563817a8e.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/37a0b0306a7f089dda0e12f563817a8e.1000x1000x1.jpg",
+ "id": 4552999,
+ "instrumental": false,
+ "lyrics_owner_id": 1427758,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1720574117,
+ "path": "/The-strokes-the-adults-are-talking-lyrics",
+ "primary_artist_names": "The Strokes",
+ "pyongs_count": 69,
+ "relationships_index_url": "https://genius.com/The-strokes-the-adults-are-talking-sample",
+ "release_date_components": {
+  "year": 2020,
+  "month": 4,
+  "day": 10
+ },
+ "release_date_for_display": "April 10, 2020",
+ "release_date_with_abbreviated_month_for_display": "Apr. 10, 2020",
+ "song_art_image_thumbnail_url": "https://images.genius.com/37a0b0306a7f089dda0e12f563817a8e.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/37a0b0306a7f089dda0e12f563817a8e.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 8,
+  "hot": false,
+  "pageviews": 761431
+ },
+ "title": "The Adults Are Talking",
+ "title_with_featured": "The Adults Are Talking",
+ "updated_by_human_at": 1720564518,
+ "url": "https://genius.com/The-strokes-the-adults-are-talking-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/12524",
+  "header_image_url": "https://images.genius.com/382ae86addc1e06ae4bebad904b69c2b.640x348x1.jpg",
+  "id": 12524,
+  "image_url": "https://images.genius.com/b5237c13de1a05f92ca6327d854cbfc8.1000x1000x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "The Strokes",
+  "slug": "The-strokes",
+  "url": "https://genius.com/artists/The-strokes",
+  "iq": 105
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/12524",
+   "header_image_url": "https://images.genius.com/382ae86addc1e06ae4bebad904b69c2b.640x348x1.jpg",
+   "id": 12524,
+   "image_url": "https://images.genius.com/b5237c13de1a05f92ca6327d854cbfc8.1000x1000x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "The Strokes",
+   "slug": "The-strokes",
+   "url": "https://genius.com/artists/The-strokes",
+   "iq": 105
+  }
+ ],
+ "artist": "The Strokes",
+ "lyrics": "126 ContributorsTranslationsEspa\u00f1olPortugu\u00easItalianoThe Adults Are Talking Lyrics[Verse 1]\nThey've been sayin' you're sophisticated\nThey're complainin', overeducated\nYou are saying all the words I'm dreaming\nSay it after me\nSay it after me\nThey will blame us, crucify and shame us\nWe can't help it if we are a problem\nWe are tryin' hard to get your attention\nI'm climbin' up your wall\nClimbin' up your wall\n\n[Chorus]\nDon't go there 'cause you'll never return\nI know you think of me when you think of her\nBut then it don't make sense when you're trying hard\nTo do the right thing, but without recompense\nAnd then you did something wrong and you said it was great\nAnd now you don't know how you could ever complain\nBecause you're all confused 'cause you want me to\nBut then you want me to do it the same as you\n[Instrumental Break]\n\n[Verse 2]\nYou were waitin' for the elevator\nYou were sayin' all the words I'm dreaming\nNo more askin', questions, or excuses\nThe information's here\nHere and everywhere\nYou might also like[Chorus]\nDon't go there 'cause you'll never return\nI know you think of me when you think of her\nBut then it don\u2019t make sense when you're trying hard\nTo do the right thing but without recompense\nAnd then you did something wrong and you said it was great\nAnd now you don't know how you could ever complain\nBecause you're all confused 'cause you want me to\nBut then you want me to do it the same way as you, and but\n\n[Bridge]\nI don't, I don't want anything\nI know it's not, it's not your fault\nI don't want anyone\nAs I do it's not for you\n\n[Break]\nAh, ah-ah-ah-ah\nAh-ah, ooh, ooh\n\n[Outro]\nStockholders\nSame shit, a different life\nI'll get it right sometime\nOh, maybe not tonight\nOh, maybe not tonight\nOh, maybe not tonight\nOh, maybe not tonight\nOh, maybe not tonight\n[Spoken]\nYeah boy, here we go\nAnd a one, and a two, and a three\nHere we go friends (Hold on, I can't)\nMaybe that's a kooky situation\nSo let's go back to the old key, old tempo, everything69Embed"
+}

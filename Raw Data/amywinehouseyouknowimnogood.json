@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 11,
+ "api_path": "/songs/88356",
+ "artist_names": "Amy Winehouse",
+ "full_title": "You Know I'm No Good by\u00a0Amy\u00a0Winehouse",
+ "header_image_thumbnail_url": "https://images.genius.com/568cf850bb53a3f0763f9ea914a3954a.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/568cf850bb53a3f0763f9ea914a3954a.1000x1000x1.jpg",
+ "id": 88356,
+ "instrumental": false,
+ "lyrics_owner_id": 125792,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1662238222,
+ "path": "/Amy-winehouse-you-know-im-no-good-lyrics",
+ "primary_artist_names": "Amy Winehouse",
+ "pyongs_count": 65,
+ "relationships_index_url": "https://genius.com/Amy-winehouse-you-know-im-no-good-sample",
+ "release_date_components": {
+  "year": 2007,
+  "month": 1,
+  "day": 8
+ },
+ "release_date_for_display": "January 8, 2007",
+ "release_date_with_abbreviated_month_for_display": "Jan. 8, 2007",
+ "song_art_image_thumbnail_url": "https://images.genius.com/3c60f0910b126b17c408948d0af2a84b.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/3c60f0910b126b17c408948d0af2a84b.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false,
+  "pageviews": 838426
+ },
+ "title": "You Know I\u2019m No Good",
+ "title_with_featured": "You Know I'm No Good",
+ "updated_by_human_at": 1716109684,
+ "url": "https://genius.com/Amy-winehouse-you-know-im-no-good-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1525",
+  "header_image_url": "https://images.genius.com/815a3661607ffdb52ad4891dacf7e856.998x1000x1.jpg",
+  "id": 1525,
+  "image_url": "https://images.genius.com/0c438f607c5d4963d3ae2cd315da153f.1000x1000x1.jpg",
+  "index_character": "a",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Amy Winehouse",
+  "slug": "Amy-winehouse",
+  "url": "https://genius.com/artists/Amy-winehouse"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1525",
+   "header_image_url": "https://images.genius.com/815a3661607ffdb52ad4891dacf7e856.998x1000x1.jpg",
+   "id": 1525,
+   "image_url": "https://images.genius.com/0c438f607c5d4963d3ae2cd315da153f.1000x1000x1.jpg",
+   "index_character": "a",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Amy Winehouse",
+   "slug": "Amy-winehouse",
+   "url": "https://genius.com/artists/Amy-winehouse"
+  }
+ ],
+ "artist": "Amy Winehouse",
+ "lyrics": "106 ContributorsTranslationsFran\u00e7aisYou Know I\u2019m No Good Lyrics[Verse 1]\nMeet you downstairs in the bar and hurt\nYour rolled up sleeves and your skull t-shirt\nYou say, \"What did you do with him today?\"\nAnd sniffed me out like I was Tanqueray\n'Cause you're my fella, my guy\nHand me your Stella and fly\nBy the time I'm out the door\nYou tear men down like Roger Moore\n\n[Chorus]\nI cheated myself\nLike I knew I would\nI told you I was trouble\nYou know that I'm no good\n\n[Verse 2]\nUpstairs in bed with my ex-boy\nHe's in the place, but I can't get joy\nThinkin' on you in the final throes\nThis is when my buzzer goes\nRun out to meet ya, chips and pita\nYou say, \"When we married\"\n'Cause you're not bitter\n\"There'll be none of him no more\"\nI cried for you on the kitchen floor\nYou might also like[Chorus]\nI cheated myself\nLike I knew I would\nI told you I was trouble\nYou know that I'm no good\n\n[Instrumental Break]\n\n[Verse 3]\nSweet reunion, Jamaica and Spain\nWe're like how we were again\nI'm in the tub, you on the seat\nLick your lips as I soap my feet\nThen you notice likkle carpet burn\nMy stomach drop and my guts churn\nYou shrug and it's the worst\nWho truly stuck the knife in first?\n\n[Chorus]\nI cheated myself\nLike I knew I would\nI told you I was trouble\nYou know that I'm no good\nI cheated myself\nLike I knew I would\nI told you I was trouble\nYeah, you know that I'm no good65Embed"
+}

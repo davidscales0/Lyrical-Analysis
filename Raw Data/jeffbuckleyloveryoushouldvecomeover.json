@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 10,
+ "api_path": "/songs/84895",
+ "artist_names": "Jeff Buckley",
+ "full_title": "Lover, You Should've Come Over by\u00a0Jeff\u00a0Buckley",
+ "header_image_thumbnail_url": "https://images.genius.com/1e83c7bc3074560988b3de316db9c735.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/1e83c7bc3074560988b3de316db9c735.640x640x1.jpg",
+ "id": 84895,
+ "instrumental": false,
+ "lyrics_owner_id": 1850,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1722730545,
+ "path": "/Jeff-buckley-lover-you-shouldve-come-over-lyrics",
+ "primary_artist_names": "Jeff Buckley",
+ "pyongs_count": 43,
+ "relationships_index_url": "https://genius.com/Jeff-buckley-lover-you-shouldve-come-over-sample",
+ "release_date_components": {
+  "year": 1994,
+  "month": 8,
+  "day": 23
+ },
+ "release_date_for_display": "August 23, 1994",
+ "release_date_with_abbreviated_month_for_display": "Aug. 23, 1994",
+ "song_art_image_thumbnail_url": "https://images.genius.com/1e83c7bc3074560988b3de316db9c735.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/1e83c7bc3074560988b3de316db9c735.640x640x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 6,
+  "hot": false,
+  "pageviews": 301507
+ },
+ "title": "Lover, You Should\u2019ve Come Over",
+ "title_with_featured": "Lover, You Should've Come Over",
+ "updated_by_human_at": 1722723064,
+ "url": "https://genius.com/Jeff-buckley-lover-you-shouldve-come-over-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/22481",
+  "header_image_url": "https://images.genius.com/3d7a1d3c48f0cebdb4bc40640b51b9f1.500x282x1.jpg",
+  "id": 22481,
+  "image_url": "https://images.genius.com/5d911fefb4b0739b08193a0de4c62650.620x349x1.jpg",
+  "index_character": "j",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Jeff Buckley",
+  "slug": "Jeff-buckley",
+  "url": "https://genius.com/artists/Jeff-buckley"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/22481",
+   "header_image_url": "https://images.genius.com/3d7a1d3c48f0cebdb4bc40640b51b9f1.500x282x1.jpg",
+   "id": 22481,
+   "image_url": "https://images.genius.com/5d911fefb4b0739b08193a0de4c62650.620x349x1.jpg",
+   "index_character": "j",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Jeff Buckley",
+   "slug": "Jeff-buckley",
+   "url": "https://genius.com/artists/Jeff-buckley"
+  }
+ ],
+ "artist": "Jeff Buckley",
+ "lyrics": "84 ContributorsTranslationsPortugu\u00easDeutschEspa\u00f1olLover, You Should\u2019ve Come Over Lyrics[Verse 1]\nLooking out the door, I see the rain\nFall upon the funeral mourners\nParading in a wake of sad relations\nAs their shoes fill up with water\nMaybe I'm too young\nTo keep good love from going wrong\nBut tonight you're on my mind\nSo you never know\n\n[Verse 2]\nBroken down and hungry for your love\nWith no way to feed it\nWhere are you tonight, child?\nYou know how much I need it\n\n[Refrain]\nToo young to hold on\nAnd too old to just break free and run\n\n[Verse 3]\nSometimes a man gets carried away\nWhen he feels like he should be having his fun\nAnd much too blind to see the damage he's done\nSometimes a man must awake to find that really, he has no one\nYou might also like[Pre-Chorus]\nSo I'll wait for you, and I'll burn\nWill I ever see your sweet return?\nOh, will I ever learn?\n\n[Chorus]\nOh, oh, oh\nLover, you should've come over\n'Cause it's not too late\nMhm\n\n[Verse 4]\nLonely is the room, the bed is made\nThe open window lets the rain in\nBurning in the corner is the only one\nWho dreams he had you with him\n\n[Refrain]\nMy body turns and yearns\nFor a sleep that won't ever come\n\n[Bridge]\nIt's never over\nMy kingdom for a kiss upon her shoulder\nIt's never over\nAll my riches for her smiles when I slept so soft against her\nIt's never over\nAll my blood for the sweetness of her laughter\nIt's never over\nShe's the tear that hangs inside my soul forever\nOh, but maybe I'm just too young\nTo keep good love from going wrong\n[Chorus]\nOh, oh, oh, oh, oh, oh-oh\nLover, you should've come over\nYeah, yeah, yeah\nYes, I, I feel too young to hold on\nAnd much too old to break free and run\nToo deaf, dumb, and blind to see the damage I've done\nSweet lover, you should've come over\nHow long will I wait for you?\nLover, lover, lover\nLover, lover, lover, lover, lover, lover\nLover, lover, lover, you should've come over\n'Cause it's not too late43Embed"
+}

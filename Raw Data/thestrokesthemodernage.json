@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 7,
+ "api_path": "/songs/101814",
+ "artist_names": "The Strokes",
+ "full_title": "The Modern Age by\u00a0The\u00a0Strokes",
+ "header_image_thumbnail_url": "https://images.genius.com/e2f9f5c0b787828112285e2820ce3165.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/e2f9f5c0b787828112285e2820ce3165.1000x1000x1.jpg",
+ "id": 101814,
+ "instrumental": false,
+ "lyrics_owner_id": 1850,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1715053492,
+ "path": "/The-strokes-the-modern-age-lyrics",
+ "primary_artist_names": "The Strokes",
+ "pyongs_count": 28,
+ "relationships_index_url": "https://genius.com/The-strokes-the-modern-age-sample",
+ "release_date_components": {
+  "year": 2001,
+  "month": 1,
+  "day": 29
+ },
+ "release_date_for_display": "January 29, 2001",
+ "release_date_with_abbreviated_month_for_display": "Jan. 29, 2001",
+ "song_art_image_thumbnail_url": "https://images.genius.com/ec0df53a428a53e1f7867b7a1a933226.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/ec0df53a428a53e1f7867b7a1a933226.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 4,
+  "hot": false,
+  "pageviews": 270849
+ },
+ "title": "The Modern Age",
+ "title_with_featured": "The Modern Age",
+ "updated_by_human_at": 1715053492,
+ "url": "https://genius.com/The-strokes-the-modern-age-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/12524",
+  "header_image_url": "https://images.genius.com/382ae86addc1e06ae4bebad904b69c2b.640x348x1.jpg",
+  "id": 12524,
+  "image_url": "https://images.genius.com/b5237c13de1a05f92ca6327d854cbfc8.1000x1000x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "The Strokes",
+  "slug": "The-strokes",
+  "url": "https://genius.com/artists/The-strokes",
+  "iq": 105
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/12524",
+   "header_image_url": "https://images.genius.com/382ae86addc1e06ae4bebad904b69c2b.640x348x1.jpg",
+   "id": 12524,
+   "image_url": "https://images.genius.com/b5237c13de1a05f92ca6327d854cbfc8.1000x1000x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "The Strokes",
+   "slug": "The-strokes",
+   "url": "https://genius.com/artists/The-strokes",
+   "iq": 105
+  }
+ ],
+ "artist": "The Strokes",
+ "lyrics": "47 ContributorsThe Modern Age Lyrics[Verse 1]\nUp on a hill, here's where we begin\nThis little story, a long time ago\nStart to pretend, stop pretendin'\nIt seems this game is simply never-endin'\n\n[Pre-Chorus]\nOh, in the sun, sun, havin' fun, it's in my blood\nI just can't help it\nDon't want you here right now, let me go\nOh, let me g-g-g-g-g-g-g-go\n\n[Chorus]\nLeaving just in time, stay there for a while\nRollin' in the ocean, tryin' to catch her eye\nWork hard and say it's easy, do it just to please me\nTomorrow will be different, so I'll pretend I'm leaving\n\n[Guitar Solo]\n\n[Verse 2]\nI feel so different now, we trained at A-V-A\nI wish you hadn't stayed, my vision's clearer now but I'm unafraid\nFlyin' overseas, no time to feel the breeze\nI took too many varieties\nYou might also like[Pre-Chorus]\nOh, in the sun, sun, havin' fun, it's in my blood\nI just can't help it\nDon't want you here right now, let me go, woo!\nDarling, let me g-g-g-g-g-g-g-go\n\n[Chorus]\nLeaving just in time, stay there for a while\nRollin' in the ocean, tryin' to catch her eye\nWork hard and say it's easy, do it just to please me\nTomorrow will be different, so this is why I'm leavin'28Embed"
+}

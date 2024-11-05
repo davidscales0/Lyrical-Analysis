@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 5,
+ "api_path": "/songs/810049",
+ "artist_names": "Bob Marley & The Wailers",
+ "full_title": "Johnny Was by\u00a0Bob\u00a0Marley & The Wailers",
+ "header_image_thumbnail_url": "https://images.genius.com/a3b9958e4af53211a052fa49db94fdbe.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/a3b9958e4af53211a052fa49db94fdbe.999x999x1.jpg",
+ "id": 810049,
+ "instrumental": false,
+ "lyrics_owner_id": 1992919,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1684658511,
+ "path": "/Bob-marley-and-the-wailers-johnny-was-lyrics",
+ "primary_artist_names": "Bob Marley & The Wailers",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Bob-marley-and-the-wailers-johnny-was-sample",
+ "release_date_components": {
+  "year": 1976,
+  "month": 4,
+  "day": 30
+ },
+ "release_date_for_display": "April 30, 1976",
+ "release_date_with_abbreviated_month_for_display": "Apr. 30, 1976",
+ "song_art_image_thumbnail_url": "https://images.genius.com/a3b9958e4af53211a052fa49db94fdbe.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/a3b9958e4af53211a052fa49db94fdbe.999x999x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 18611
+ },
+ "title": "Johnny Was",
+ "title_with_featured": "Johnny Was",
+ "updated_by_human_at": 1711387354,
+ "url": "https://genius.com/Bob-marley-and-the-wailers-johnny-was-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/28615",
+  "header_image_url": "https://images.genius.com/2d8c321143f19a109390a8f181d88dee.1000x663x1.jpg",
+  "id": 28615,
+  "image_url": "https://images.genius.com/0c20ed97ab1334064cdb743187667b5a.1000x1000x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Bob Marley & The Wailers",
+  "slug": "Bob-marley-and-the-wailers",
+  "url": "https://genius.com/artists/Bob-marley-and-the-wailers"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/28615",
+   "header_image_url": "https://images.genius.com/2d8c321143f19a109390a8f181d88dee.1000x663x1.jpg",
+   "id": 28615,
+   "image_url": "https://images.genius.com/0c20ed97ab1334064cdb743187667b5a.1000x1000x1.jpg",
+   "index_character": "b",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Bob Marley & The Wailers",
+   "slug": "Bob-marley-and-the-wailers",
+   "url": "https://genius.com/artists/Bob-marley-and-the-wailers"
+  }
+ ],
+ "artist": "Bob Marley & The Wailers",
+ "lyrics": "14 ContributorsJohnny Was Lyrics[Verse 1]\nWoman hold her head and cry\n'Cause her son had been shot down in the street and died\nFrom a stray bullet\nWoman hold her head and cry\nExplaining to her was a passerby\nWho saw the woman cry\n\n[Pre-Chorus]\nWondering how can she work it out\nNow she knows that the wages of sin is death\nThe gift of Jah is life\nShe cried\n\n[Chorus]\nOh, oh, all-la I know\nJohnny was a good man\nAh-la I know\nJohnny was a good, good, good, good man\nShe cried, She cried\n\n[Verse 2]\nWoman hold her head and cry\nAs her son had been shot down in the street and died\nJust because of the system\nWoman hold her head and cry\nComforting her I was passing by\nShe complained, then she cried\nYou might also like[Chorus]\nWhoa-oh, oh, ah\nYeah, I know now\n(Johnny was a good man)\nSaid I know\n(Never did a thing wrong)\nAh ah\n(Johnny was a good man)\nCan a woman tender care?\nShe cried\n(Never did a thing wrong)\nCease towards the child she bear\n(Johnny was a good man)\nOh, woman cried\nWoman, she cried, oh, she cried, yeah\nCan a woman tender care\nCease towards the child she bears\nWoman cryEmbed"
+}

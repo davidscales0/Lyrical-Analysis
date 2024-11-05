@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 9,
+ "api_path": "/songs/65924",
+ "artist_names": "Radiohead",
+ "full_title": "Weird Fishes/Arpeggi by\u00a0Radiohead",
+ "header_image_thumbnail_url": "https://images.genius.com/1253052a5d3475d0c39cc953d72ec261.300x297x1.jpg",
+ "header_image_url": "https://images.genius.com/1253052a5d3475d0c39cc953d72ec261.599x594x1.jpg",
+ "id": 65924,
+ "instrumental": false,
+ "lyrics_owner_id": 11637,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1723260696,
+ "path": "/Radiohead-weird-fishes-arpeggi-lyrics",
+ "primary_artist_names": "Radiohead",
+ "pyongs_count": 84,
+ "relationships_index_url": "https://genius.com/Radiohead-weird-fishes-arpeggi-sample",
+ "release_date_components": {
+  "year": 2007,
+  "month": 10,
+  "day": 10
+ },
+ "release_date_for_display": "October 10, 2007",
+ "release_date_with_abbreviated_month_for_display": "Oct. 10, 2007",
+ "song_art_image_thumbnail_url": "https://images.genius.com/1253052a5d3475d0c39cc953d72ec261.300x297x1.jpg",
+ "song_art_image_url": "https://images.genius.com/1253052a5d3475d0c39cc953d72ec261.599x594x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false,
+  "pageviews": 483254
+ },
+ "title": "Weird Fishes/Arpeggi",
+ "title_with_featured": "Weird Fishes/Arpeggi",
+ "updated_by_human_at": 1723260696,
+ "url": "https://genius.com/Radiohead-weird-fishes-arpeggi-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/604",
+  "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+  "id": 604,
+  "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Radiohead",
+  "slug": "Radiohead",
+  "url": "https://genius.com/artists/Radiohead"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/604",
+   "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+   "id": 604,
+   "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+   "index_character": "r",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Radiohead",
+   "slug": "Radiohead",
+   "url": "https://genius.com/artists/Radiohead"
+  }
+ ],
+ "artist": "Radiohead",
+ "lyrics": "93 ContributorsTranslationsFran\u00e7ais\u0641\u0627\u0631\u0633\u06ccT\u00fcrk\u00e7e\u0e44\u0e17\u0e22 / Phasa ThaiPortugu\u00easEspa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439Weird Fishes/Arpeggi Lyrics[Verse 1]\nIn the deepest ocean\nThe bottom of the sea\nYour eyes\nThey turn me\nWhy should I stay here?\nWhy should I stay?\n\n[Verse 2]\nI'd be crazy not to follow\nFollow where you lead\nYour eyes\nThey turn me\nTurn me into phantoms (Way out)\nI follow to the edge (Way out)\nOf the earth (Way out)\nAnd fall off\nYeah, everybody leaves (Way out)\nIf they get the chance (Way out)\nAnd this (Way out)\nIs my chance\n\n[Chorus]\nI get eaten by the worms\nAnd weird fishes\nPicked over by the worms\nAnd weird fishes\nWeird fishes\nWeird fishes\nYou might also like[Instrumental Break]\n\n[Outro]\nYeah, I\nI hit the bottom\nHit the bottom and escape\nEscape\nI\nI hit the bottom\nHit the bottom and escape\nEscape84Embed"
+}

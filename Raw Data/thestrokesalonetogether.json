@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 8,
+ "api_path": "/songs/132563",
+ "artist_names": "The Strokes",
+ "full_title": "Alone, Together by\u00a0The\u00a0Strokes",
+ "header_image_thumbnail_url": "https://images.genius.com/10e3bb482779de6732693f15598abf59.300x300x1.png",
+ "header_image_url": "https://images.genius.com/10e3bb482779de6732693f15598abf59.1000x1000x1.png",
+ "id": 132563,
+ "instrumental": false,
+ "lyrics_owner_id": 46981,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1714916263,
+ "path": "/The-strokes-alone-together-lyrics",
+ "primary_artist_names": "The Strokes",
+ "pyongs_count": 13,
+ "relationships_index_url": "https://genius.com/The-strokes-alone-together-sample",
+ "release_date_components": {
+  "year": 2001,
+  "month": 7,
+  "day": 30
+ },
+ "release_date_for_display": "July 30, 2001",
+ "release_date_with_abbreviated_month_for_display": "Jul. 30, 2001",
+ "song_art_image_thumbnail_url": "https://images.genius.com/10e3bb482779de6732693f15598abf59.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/10e3bb482779de6732693f15598abf59.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 130057
+ },
+ "title": "Alone, Together",
+ "title_with_featured": "Alone, Together",
+ "updated_by_human_at": 1714916263,
+ "url": "https://genius.com/The-strokes-alone-together-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/12524",
+  "header_image_url": "https://images.genius.com/382ae86addc1e06ae4bebad904b69c2b.640x348x1.jpg",
+  "id": 12524,
+  "image_url": "https://images.genius.com/b5237c13de1a05f92ca6327d854cbfc8.1000x1000x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "The Strokes",
+  "slug": "The-strokes",
+  "url": "https://genius.com/artists/The-strokes",
+  "iq": 105
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/12524",
+   "header_image_url": "https://images.genius.com/382ae86addc1e06ae4bebad904b69c2b.640x348x1.jpg",
+   "id": 12524,
+   "image_url": "https://images.genius.com/b5237c13de1a05f92ca6327d854cbfc8.1000x1000x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "The Strokes",
+   "slug": "The-strokes",
+   "url": "https://genius.com/artists/The-strokes",
+   "iq": 105
+  }
+ ],
+ "artist": "The Strokes",
+ "lyrics": "40 ContributorsAlone, Together Lyrics[Verse 1]\nNo choice now, it's too late\nLet him go, he gave up\nI gave up\nLisa said, \"Take time for me\"\nDroppin' him down to his knees\nAh, chest down\n\n[Chorus]\nTake me away, see, I've got to explain\nThings, they have changed in such a permanent way\nLife seems unreal, can we go back to your place?\nOh, \"You drink too much\" makes me drink just the same\n\n[Verse 2]\nPeople tried, felt so right\nGivin' themselves good advice\nLookin' down sometimes felt nice\n\n[Bridge]\nHe knows it's justified to kill to survive\nHe then, in dollars, makes more dead than alive\nLet's suck more blood, let's run three hours a day\nThe world is over, but I don't care\n\n[Chorus]\n'Cause I am with you, now I've got to explain\nThings, they have changed in such a permanent way\nLife seems unreal, can we go back to your place?\nOh, \"You drink too much\" makes me drink just the same, oh!\nYou might also like[Instrumental Break]\n\n[Outro]\nThe first time, it happened too fast\nThe second time, I thought it would last\nWe all like it a little different13Embed"
+}

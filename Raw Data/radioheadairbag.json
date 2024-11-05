@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 7,
+ "api_path": "/songs/80540",
+ "artist_names": "Radiohead",
+ "full_title": "Airbag by\u00a0Radiohead",
+ "header_image_thumbnail_url": "https://images.genius.com/d114d8bb4c110efe7a773544694169a1.300x300x1.png",
+ "header_image_url": "https://images.genius.com/d114d8bb4c110efe7a773544694169a1.1000x1000x1.png",
+ "id": 80540,
+ "instrumental": false,
+ "lyrics_owner_id": 46705,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1683334615,
+ "path": "/Radiohead-airbag-lyrics",
+ "primary_artist_names": "Radiohead",
+ "pyongs_count": 47,
+ "relationships_index_url": "https://genius.com/Radiohead-airbag-sample",
+ "release_date_components": {
+  "year": 1997,
+  "month": 5,
+  "day": 21
+ },
+ "release_date_for_display": "May 21, 1997",
+ "release_date_with_abbreviated_month_for_display": "May. 21, 1997",
+ "song_art_image_thumbnail_url": "https://images.genius.com/9e18152019ffcba652b479141ca4341e.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/9e18152019ffcba652b479141ca4341e.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 323651
+ },
+ "title": "Airbag",
+ "title_with_featured": "Airbag",
+ "updated_by_human_at": 1712705557,
+ "url": "https://genius.com/Radiohead-airbag-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/604",
+  "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+  "id": 604,
+  "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Radiohead",
+  "slug": "Radiohead",
+  "url": "https://genius.com/artists/Radiohead"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/604",
+   "header_image_url": "https://images.genius.com/541c8084c75625c6466268d297022dcb.1000x165x1.png",
+   "id": 604,
+   "image_url": "https://images.genius.com/66ba802a239641b0cd063444772490f5.900x900x1.jpg",
+   "index_character": "r",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Radiohead",
+   "slug": "Radiohead",
+   "url": "https://genius.com/artists/Radiohead"
+  }
+ ],
+ "artist": "Radiohead",
+ "lyrics": "88 ContributorsTranslationsFran\u00e7aisEspa\u00f1olT\u00fcrk\u00e7eAirbag Lyrics[Verse 1]\nIn the next world war\nIn a jackknifed juggernaut\nI am born again\nIn the neon sign\nScrolling up and down\nI am born again\n\n[Chorus]\nIn an interstellar burst\nI'm back to save the universe\n\n[Verse 2]\nIn a deep, deep sleep\nOf the innocent\nI am born again\nIn a fast German car\nI'm amazed that I survived\nAn airbag saved my life\n\n[Chorus]\nIn an interstellar burst\nI am back to save the universe\n\n[Instrumental Break]\nYou might also like[Chorus]\nIn an interstellar burst\nI am back to save the universe\nIn an interstellar burst\nI am back to save the universe47Embed"
+}

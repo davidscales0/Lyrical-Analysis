@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 13,
+ "api_path": "/songs/2399061",
+ "artist_names": "Anderson .Paak",
+ "full_title": "Heart Don't Stand a Chance by\u00a0Anderson\u00a0.Paak",
+ "header_image_thumbnail_url": "https://images.genius.com/0a8c84572e3dd49ff48fc8cc0c4c1f29.300x300x1.png",
+ "header_image_url": "https://images.genius.com/0a8c84572e3dd49ff48fc8cc0c4c1f29.1000x1000x1.png",
+ "id": 2399061,
+ "instrumental": false,
+ "lyrics_owner_id": 2204130,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1643238232,
+ "path": "/Anderson-paak-heart-dont-stand-a-chance-lyrics",
+ "primary_artist_names": "Anderson .Paak",
+ "pyongs_count": 20,
+ "relationships_index_url": "https://genius.com/Anderson-paak-heart-dont-stand-a-chance-sample",
+ "release_date_components": {
+  "year": 2016,
+  "month": 1,
+  "day": 15
+ },
+ "release_date_for_display": "January 15, 2016",
+ "release_date_with_abbreviated_month_for_display": "Jan. 15, 2016",
+ "song_art_image_thumbnail_url": "https://images.genius.com/0a8c84572e3dd49ff48fc8cc0c4c1f29.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/0a8c84572e3dd49ff48fc8cc0c4c1f29.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false,
+  "pageviews": 213568
+ },
+ "title": "Heart Don\u2019t Stand a Chance",
+ "title_with_featured": "Heart Don't Stand a Chance",
+ "updated_by_human_at": 1693680410,
+ "url": "https://genius.com/Anderson-paak-heart-dont-stand-a-chance-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/58017",
+  "header_image_url": "https://images.genius.com/24512a17d488c12e40821341177a752a.876x1000x1.jpg",
+  "id": 58017,
+  "image_url": "https://images.genius.com/1e0d75823dadca7230d202c76957d1ab.1000x1000x1.jpg",
+  "index_character": "a",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Anderson .Paak",
+  "slug": "Anderson-paak",
+  "url": "https://genius.com/artists/Anderson-paak",
+  "iq": 11019
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/58017",
+   "header_image_url": "https://images.genius.com/24512a17d488c12e40821341177a752a.876x1000x1.jpg",
+   "id": 58017,
+   "image_url": "https://images.genius.com/1e0d75823dadca7230d202c76957d1ab.1000x1000x1.jpg",
+   "index_character": "a",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Anderson .Paak",
+   "slug": "Anderson-paak",
+   "url": "https://genius.com/artists/Anderson-paak",
+   "iq": 11019
+  }
+ ],
+ "artist": "Anderson .Paak",
+ "lyrics": "39 ContributorsHeart Don\u2019t Stand a Chance Lyrics[Chorus]\nOoh, champagne pourin' down\nArms, legs wrapped around you\nOoh, champagne, let it fall down\nArms, legs keep grabbing\n\n[Verse 1]\nSee, I be catchin' you starin', be careful\nThe idle mind is a dangerous place to be left in\nBut keep your eyes on me\nYeah, your heart don't stand a chance\nIt feels like it's been far too long\nYour knees can't hold your legs\nYour feet just want to pace\nThe eyes keep me all in a trance\nLet me ask you\nWould you leave it all in the back of your head\nOr all in the palm of my hand, huh?\nAin't nobody holding you back\nDon't it feel like it's been far too long, girl?\nYour heart don't stand a chance\nYour knees just want to break\nYour eyes keep me all in a trance\nAnd let me ask you, mmm\nI know the approach is so far from what you're used to\nBut you know it\nAnd do I hold a candle to the last one over your moon?\nBaby, of course I do\nAnd I'm not closing my tab\nDon't it feel like it's been far too long, girl?\nHuh, your heart don't stand a chance\nYou might also like[Chorus]\nOoh, champagne pourin' down\nArms, legs wrapped around you\nOoh, champagne, let it fall down\nArms, legs keep grabbing\n\n[Verse 2]\nYeah, yeah, two-step in the corridor\nSpinning the greatest hits of Hall & Oates\nOpen of chronic smoke\nI know my time will flee\nBut your heart don't stand a chance, uh\nIt feels like it's been far too long, hmm\nThe moment is all that we have\nMy meter should be up by the half\nA ticket is the least of my cares\nSo let me ask you, uh\nAm I dreaming?\nMind on the tip of a cloud\nOr is it real as the stone in your crown?\nSay, ain't nobody towing my Jag, uh\nDon't it feel like it's been far too long, girl, huh?\nYour heart don't stand a chance\nI'm waiting for the white flag\nYou're talking with the blunt in your hand\nAnd won't you pass that, huh?\nI know in the morning\nThe sunlight cover your wounds, huh\nBut I'm hoping that I look the same as the way you always knew\nBaby, of course, I flew\nBut I'm not over what we had, huh\nDon't it feel like it's been far too long, girl, uh?\nYour heart don't stand a chance\n[Chorus]\nOoh, champagne pourin' down\nArms, legs wrapped around you\nOoh, champagne, let it fall down\nArms, legs keep grabbing\n[Skit]\nI remember being tumbled around and not being able to get to the surface where the air was\nAnd looking down and seeing my body spinning around in the white water20Embed"
+}

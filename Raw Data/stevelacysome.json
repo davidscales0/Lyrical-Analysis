@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/2904993",
+ "artist_names": "Steve Lacy",
+ "full_title": "Some by\u00a0Steve\u00a0Lacy",
+ "header_image_thumbnail_url": "https://images.genius.com/4b68033aad80d304045758f78b9f2b42.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/4b68033aad80d304045758f78b9f2b42.1000x1000x1.jpg",
+ "id": 2904993,
+ "instrumental": false,
+ "lyrics_owner_id": 2122322,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1722997645,
+ "path": "/Steve-lacy-some-lyrics",
+ "primary_artist_names": "Steve Lacy",
+ "pyongs_count": 14,
+ "relationships_index_url": "https://genius.com/Steve-lacy-some-sample",
+ "release_date_components": {
+  "year": 2017,
+  "month": 2,
+  "day": 24
+ },
+ "release_date_for_display": "February 24, 2017",
+ "release_date_with_abbreviated_month_for_display": "Feb. 24, 2017",
+ "song_art_image_thumbnail_url": "https://images.genius.com/fa6bc7aa3e91d5c4d7f78d12042e05cd.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/fa6bc7aa3e91d5c4d7f78d12042e05cd.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 145038
+ },
+ "title": "Some",
+ "title_with_featured": "Some",
+ "updated_by_human_at": 1722997645,
+ "url": "https://genius.com/Steve-lacy-some-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/512850",
+  "header_image_url": "https://images.genius.com/d4afb166e5c0fca19baba97332b3e998.998x1000x1.jpg",
+  "id": 512850,
+  "image_url": "https://images.genius.com/f789a076cf3fb207ac0b6b2bc2f17787.640x640x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Steve Lacy",
+  "slug": "Steve-lacy",
+  "url": "https://genius.com/artists/Steve-lacy"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/512850",
+   "header_image_url": "https://images.genius.com/d4afb166e5c0fca19baba97332b3e998.998x1000x1.jpg",
+   "id": 512850,
+   "image_url": "https://images.genius.com/f789a076cf3fb207ac0b6b2bc2f17787.640x640x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Steve Lacy",
+   "slug": "Steve-lacy",
+   "url": "https://genius.com/artists/Steve-lacy"
+  }
+ ],
+ "artist": "Steve Lacy",
+ "lyrics": "32 ContributorsTranslations\u0420\u0443\u0441\u0441\u043a\u0438\u0439Some Lyrics[Chorus]\nBaby, I want some of your love\nYour love, your lo-o-ove, your love\nBaby (Baby), can I have some of your love\nYour love, your love\n\n[Verse]\nI know there's lots of love in your heart\nBut, who you gonna give it to? (Ooh-ah, ooh-ah-oh)\nI'm sure there's lots of guys that you see\nBut, I swear they're not as cool as me\nGirl, I can take you where you wanna go, if you wanna ride\nWe could watch a movie, hit the beach, or just chill and get high\nAnd we can do whatever you wanna do\nOoh-oh-oh, ooh, oh, oh, oh\n\n[Chorus]\nBaby, I want some of your love\nYour love, your lo-o-ove, your love\nBaby (Baby), can I have some of your love\nYour love, your love\n\n[Outro]\nI just wanna take it (Take it, take it, take it, take it)\nTake it slow (Oh-oh, oh-oh, oh)\nSaid, I just wanna take it (Take it, take it, take it, take it)\nTake it slow (Oh-oh, oh-oh, oh)You might also like14Embed"
+}

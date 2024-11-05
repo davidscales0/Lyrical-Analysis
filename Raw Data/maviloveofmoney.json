@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 11,
+ "api_path": "/songs/4926814",
+ "artist_names": "MAVI",
+ "full_title": "\u200bLove, of Money by\u00a0MAVI",
+ "header_image_thumbnail_url": "https://images.genius.com/95c3273342cea33230b50247301c172f.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/95c3273342cea33230b50247301c172f.720x720x1.jpg",
+ "id": 4926814,
+ "instrumental": false,
+ "lyrics_owner_id": 2044041,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1683206080,
+ "path": "/Mavi-love-of-money-lyrics",
+ "primary_artist_names": "MAVI",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Mavi-love-of-money-sample",
+ "release_date_components": {
+  "year": 2019,
+  "month": 10,
+  "day": 7
+ },
+ "release_date_for_display": "October 7, 2019",
+ "release_date_with_abbreviated_month_for_display": "Oct. 7, 2019",
+ "song_art_image_thumbnail_url": "https://images.genius.com/95c3273342cea33230b50247301c172f.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/95c3273342cea33230b50247301c172f.720x720x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 11,
+  "hot": false,
+  "pageviews": 29826
+ },
+ "title": "\u200bLove, of Money",
+ "title_with_featured": "\u200bLove, of Money",
+ "updated_by_human_at": 1683206081,
+ "url": "https://genius.com/Mavi-love-of-money-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1693509",
+  "header_image_url": "https://images.genius.com/332d1b063de795c16e091a4537c8f7e8.1000x814x1.jpg",
+  "id": 1693509,
+  "image_url": "https://images.genius.com/a1989d8e3c9713a690be15a33d63c850.1000x1000x1.jpg",
+  "index_character": "m",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "MAVI",
+  "slug": "Mavi",
+  "url": "https://genius.com/artists/Mavi",
+  "iq": 927
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1693509",
+   "header_image_url": "https://images.genius.com/332d1b063de795c16e091a4537c8f7e8.1000x814x1.jpg",
+   "id": 1693509,
+   "image_url": "https://images.genius.com/a1989d8e3c9713a690be15a33d63c850.1000x1000x1.jpg",
+   "index_character": "m",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "MAVI",
+   "slug": "Mavi",
+   "url": "https://genius.com/artists/Mavi",
+   "iq": 927
+  }
+ ],
+ "artist": "MAVI",
+ "lyrics": "40 ContributorsTranslations\u0420\u0443\u0441\u0441\u043a\u0438\u0439\u200bLove, of Money Lyrics[Verse]\nYeah, yeah\nNo self control on my own, alone in niggas to loathe when the money\u2005go\u2005missing, yeah\nIn my\u2005wallet, in my rib cage, I\u2005love love enough for comfort, knowing money go with it\nI told her whether you like it or not, this thing of ours tied in a knot, I can't hold it no more\nI don't think these venules supposed to hold venom or\nI don't think exposure to this cold is for a nigga, boy\nI don't even know if all these probes is worth bigger toys\nI be talking shit that it ain't English words fitting for\nI be in the bottom of the barrel\nIn the studio was raised in, just consumed in my vocation\nThat or loopy in rotation, that or\nIn the oven shooting movies with some brothers\nYouthful stupor 'cross our faces, ayy, man\nNo self control on my own, alone in niggas to loathe when the money go missing, yeah\nIn my wallet, in my rib cage, I love love enough for comfort, knowing money go\nKnowing money go with itYou might also likeEmbed"
+}

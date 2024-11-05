@@ -1,0 +1,68 @@
+{
+ "_type": "song",
+ "annotation_count": 0,
+ "api_path": "/songs/8843154",
+ "artist_names": "Omar Apollo",
+ "full_title": "Evergreen by\u00a0Omar\u00a0Apollo",
+ "header_image_thumbnail_url": "https://images.genius.com/fe24805aace87d1ac61267bcddfa67d1.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/fe24805aace87d1ac61267bcddfa67d1.1000x1000x1.jpg",
+ "id": 8843154,
+ "instrumental": false,
+ "lyrics_owner_id": 19756459,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1701383871,
+ "path": "/Omar-apollo-evergreen-lyrics",
+ "primary_artist_names": "Omar Apollo",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Omar-apollo-evergreen-sample",
+ "release_date_components": {
+  "year": 2022,
+  "month": 10,
+  "day": 4
+ },
+ "release_date_for_display": "October 4, 2022",
+ "release_date_with_abbreviated_month_for_display": "Oct. 4, 2022",
+ "song_art_image_thumbnail_url": "https://images.genius.com/fe24805aace87d1ac61267bcddfa67d1.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/fe24805aace87d1ac61267bcddfa67d1.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Evergreen",
+ "title_with_featured": "Evergreen",
+ "updated_by_human_at": 1701384313,
+ "url": "https://genius.com/Omar-apollo-evergreen-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1109623",
+  "header_image_url": "https://images.genius.com/281bbf9387694f34b9f002b1b4856471.1000x837x1.jpg",
+  "id": 1109623,
+  "image_url": "https://images.genius.com/fe24805aace87d1ac61267bcddfa67d1.1000x1000x1.jpg",
+  "index_character": "o",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Omar Apollo",
+  "slug": "Omar-apollo",
+  "url": "https://genius.com/artists/Omar-apollo",
+  "iq": 1293
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1109623",
+   "header_image_url": "https://images.genius.com/281bbf9387694f34b9f002b1b4856471.1000x837x1.jpg",
+   "id": 1109623,
+   "image_url": "https://images.genius.com/fe24805aace87d1ac61267bcddfa67d1.1000x1000x1.jpg",
+   "index_character": "o",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Omar Apollo",
+   "slug": "Omar-apollo",
+   "url": "https://genius.com/artists/Omar-apollo",
+   "iq": 1293
+  }
+ ],
+ "artist": "Omar Apollo",
+ "lyrics": "4 ContributorsEvergreen LyricsEvergreen, he controls me\nWas there something wrong with my body?\nAm I not what you wanted,\u2005babe?\nIf\u2005I ever tried,\u2005If I ever tried, I would\n\nEvergreen\u2005(oh, oh)\nHe tears me to pieces (oh,oh)\n(Evergreen) (oh, oh)\nDoesn't even have to try\n(Evergreen) (oh, oh)\n\nShe don't know you like me\nShe could never love you more, more than me\nBut sometimes I pray you'll fall in love\nI've cried, I've cried so much for you, baby\n\nEvergreen (oh, oh)\nHe tears me to pieces (oh, oh)\n(Evergreen) (oh, oh)\nDoesn't even have to try\n(Evergreen) (oh,oh)\n\nYou know you really made me hate myself\nHad to stop before I break myself\nShould've broke it off to date myself\nYou didn't deserve me at all, at all, at all\nSee Omar Apollo LiveGet tickets as low as $9You might also likeOne last time\nI see\nEver, evergreen\nPlease don't come home to me, oh\nOh, sweet evergreen\nHe don't love me no more\n\nOh, oh\nOh, ohEmbed"
+}

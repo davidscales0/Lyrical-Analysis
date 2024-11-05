@@ -1,0 +1,69 @@
+{
+ "_type": "song",
+ "annotation_count": 13,
+ "api_path": "/songs/8917335",
+ "artist_names": "Daniel Caesar",
+ "full_title": "Vince Van Gogh by\u00a0Daniel\u00a0Caesar",
+ "header_image_thumbnail_url": "https://images.genius.com/840f8b2841954df45699f0e69dd8f69a.300x300x1.png",
+ "header_image_url": "https://images.genius.com/840f8b2841954df45699f0e69dd8f69a.1000x1000x1.png",
+ "id": 8917335,
+ "instrumental": false,
+ "lyrics_owner_id": 18351235,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1712572674,
+ "path": "/Daniel-caesar-vince-van-gogh-lyrics",
+ "primary_artist_names": "Daniel Caesar",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Daniel-caesar-vince-van-gogh-sample",
+ "release_date_components": {
+  "year": 2023,
+  "month": 4,
+  "day": 7
+ },
+ "release_date_for_display": "April 7, 2023",
+ "release_date_with_abbreviated_month_for_display": "Apr. 7, 2023",
+ "song_art_image_thumbnail_url": "https://images.genius.com/840f8b2841954df45699f0e69dd8f69a.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/840f8b2841954df45699f0e69dd8f69a.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 13,
+  "hot": false,
+  "pageviews": 25551
+ },
+ "title": "Vince Van Gogh",
+ "title_with_featured": "Vince Van Gogh",
+ "updated_by_human_at": 1712572675,
+ "url": "https://genius.com/Daniel-caesar-vince-van-gogh-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/161892",
+  "header_image_url": "https://images.genius.com/17851f6df6904b89d22a1553b026c421.745x745x1.jpg",
+  "id": 161892,
+  "image_url": "https://images.genius.com/da9d279cd54cc1592460ac953a65a3d7.950x950x1.png",
+  "index_character": "d",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Daniel Caesar",
+  "slug": "Daniel-caesar",
+  "url": "https://genius.com/artists/Daniel-caesar",
+  "iq": 3659
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/161892",
+   "header_image_url": "https://images.genius.com/17851f6df6904b89d22a1553b026c421.745x745x1.jpg",
+   "id": 161892,
+   "image_url": "https://images.genius.com/da9d279cd54cc1592460ac953a65a3d7.950x950x1.png",
+   "index_character": "d",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Daniel Caesar",
+   "slug": "Daniel-caesar",
+   "url": "https://genius.com/artists/Daniel-caesar",
+   "iq": 3659
+  }
+ ],
+ "artist": "Daniel Caesar",
+ "lyrics": "19 ContributorsTranslationsPortugu\u00easVince Van Gogh Lyrics[Verse 1]\nThey won't Van Gogh me\nThey hardly know me\nMight've seen me outside like socially\nMy words come out clumsy\nMake me sound bummy\nMy thoughts be like poetry\nAnd when it comes down to it separates me from phonies\nBut sometimes it's lonely\n\n[Bridge]\nHaha, the psilocybin is hittin'\nWelcome back, my nigga\nJust a general reminder\nDon't no one love you but yo' mama\nWhy should they?\nIt's beautiful, just don't stop being you\nIt's imperative that you remember this\n\n[Verse 2]\nUsed to be ugly\nNow I'm a handsome, Charlie Manson\nWrapped in a Snuggie\nSometimes I'm funny\nBut if you study\nThe rhymes that I dictate, in time, you'll all grow to love me\nThen we'll be buddies\nYou might also like[Outro]\nAnd furthermore\nI would argue that the more they tell you that they hate you\nThe more they actually love you\nThe more real estate you occupy within their mind\nI know it's confusing and contradictory\nBut all things are\nThat's kinda just life, you know\nIn its essence\nNiggas tryna tell me I'm scarin' the hoes\u2014\nWhat?Embed"
+}

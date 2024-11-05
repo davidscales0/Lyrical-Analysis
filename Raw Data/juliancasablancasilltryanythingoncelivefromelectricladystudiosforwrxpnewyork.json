@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/2009718",
+ "artist_names": "Julian Casablancas",
+ "full_title": "I\u2019ll Try Anything Once (Live from Electric Lady Studios for WRXP, New York) by\u00a0Julian\u00a0Casablancas",
+ "header_image_thumbnail_url": "https://images.genius.com/c8b9b340a1d4226485c649d3206441b6.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/c8b9b340a1d4226485c649d3206441b6.1000x1000x1.jpg",
+ "id": 2009718,
+ "instrumental": false,
+ "lyrics_owner_id": 10144512,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1721193662,
+ "path": "/Julian-casablancas-ill-try-anything-once-live-from-electric-lady-studios-for-wrxp-new-york-lyrics",
+ "primary_artist_names": "Julian Casablancas",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Julian-casablancas-ill-try-anything-once-live-from-electric-lady-studios-for-wrxp-new-york-sample",
+ "release_date_components": {
+  "year": 2010,
+  "month": 3,
+  "day": 26
+ },
+ "release_date_for_display": "March 26, 2010",
+ "release_date_with_abbreviated_month_for_display": "Mar. 26, 2010",
+ "song_art_image_thumbnail_url": "https://images.genius.com/c8b9b340a1d4226485c649d3206441b6.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/c8b9b340a1d4226485c649d3206441b6.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 5115
+ },
+ "title": "I\u2019ll Try Anything Once (Live from Electric Lady Studios for WRXP, New York)",
+ "title_with_featured": "I\u2019ll Try Anything Once (Live from Electric Lady Studios for WRXP, New York)",
+ "updated_by_human_at": 1721193662,
+ "url": "https://genius.com/Julian-casablancas-ill-try-anything-once-live-from-electric-lady-studios-for-wrxp-new-york-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/34880",
+  "header_image_url": "https://images.genius.com/707b5a385a36d0dc029e332f6809cd87.991x657x1.png",
+  "id": 34880,
+  "image_url": "https://images.genius.com/60c2baa6eaad8fae64388a509f497a2b.899x899x1.jpg",
+  "index_character": "j",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Julian Casablancas",
+  "slug": "Julian-casablancas",
+  "url": "https://genius.com/artists/Julian-casablancas"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/34880",
+   "header_image_url": "https://images.genius.com/707b5a385a36d0dc029e332f6809cd87.991x657x1.png",
+   "id": 34880,
+   "image_url": "https://images.genius.com/60c2baa6eaad8fae64388a509f497a2b.899x899x1.jpg",
+   "index_character": "j",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Julian Casablancas",
+   "slug": "Julian-casablancas",
+   "url": "https://genius.com/artists/Julian-casablancas"
+  }
+ ],
+ "artist": "Julian Casablancas",
+ "lyrics": "16 ContributorsI\u2019ll Try Anything Once (Live from Electric Lady Studios for WRXP, New York) LyricsTen decisions shape your life\nYou'll be aware of five about\nSeven ways to go through school\nEither you're noticed or left out\nSeven ways to get ahead\nSeven reasons to drop round\nWhen I said \"I can see me in your eyes\"\nYou said \"I can see you in my pants\"\nThat's not just friendship that's romance too\nYou like music we can dance to\n\nSit me down\nShut me up\nI'll calm down\nAnd I'll get along with you\n\nThere is a time when we all fail\nSome people take it pretty well\nSome take it all out on themselves\nOthers they just take it out on friends\nOh, everybody plays the game\nAnd if you don't you're called insane\n\nDon't, don't, don't, don't, it's not safe no more\nI've got to see you one more time\nThat's when you were born\nIn 1984\nYou might also likeSit me down\nShut me up\nI'll calm down\nAnd I'll get along with you\n\nEverybody was well dressed\nAnd everybody was a mess\nSix things without fail you must do\nSo that your woman loves just you\nOh all the girls played mental games\nAnd all the guys were dressed the same\n\nWhy not try it all\nIf you only remember it once\nOooh ooooooh\n\nSit me down\nShut me up\nI'll calm down\nAnd I'll get along with you\n\nYepEmbed"
+}

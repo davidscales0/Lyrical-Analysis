@@ -1,0 +1,68 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/8195493",
+ "artist_names": "Charley Crockett",
+ "full_title": "The Man from Waco by\u00a0Charley\u00a0Crockett",
+ "header_image_thumbnail_url": "https://images.genius.com/a4ed7d5683a4cdbc0c1b6300c62c0bf6.300x300x1.png",
+ "header_image_url": "https://images.genius.com/a4ed7d5683a4cdbc0c1b6300c62c0bf6.1000x1000x1.png",
+ "id": 8195493,
+ "instrumental": false,
+ "lyrics_owner_id": 12808535,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1723080944,
+ "path": "/Charley-crockett-the-man-from-waco-lyrics",
+ "primary_artist_names": "Charley Crockett",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Charley-crockett-the-man-from-waco-sample",
+ "release_date_components": {
+  "year": 2022,
+  "month": 8,
+  "day": 19
+ },
+ "release_date_for_display": "August 19, 2022",
+ "release_date_with_abbreviated_month_for_display": "Aug. 19, 2022",
+ "song_art_image_thumbnail_url": "https://images.genius.com/a4ed7d5683a4cdbc0c1b6300c62c0bf6.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/a4ed7d5683a4cdbc0c1b6300c62c0bf6.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false
+ },
+ "title": "The Man from Waco",
+ "title_with_featured": "The Man from Waco",
+ "updated_by_human_at": 1723080944,
+ "url": "https://genius.com/Charley-crockett-the-man-from-waco-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1480382",
+  "header_image_url": "https://images.genius.com/03ac45540b218c74219ecf66833cf352.700x394x1.jpg",
+  "id": 1480382,
+  "image_url": "https://images.genius.com/6775fd66caaca0d03f2a45c63e137b9b.1000x1000x1.jpg",
+  "index_character": "c",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Charley Crockett",
+  "slug": "Charley-crockett",
+  "url": "https://genius.com/artists/Charley-crockett",
+  "iq": 111
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1480382",
+   "header_image_url": "https://images.genius.com/03ac45540b218c74219ecf66833cf352.700x394x1.jpg",
+   "id": 1480382,
+   "image_url": "https://images.genius.com/6775fd66caaca0d03f2a45c63e137b9b.1000x1000x1.jpg",
+   "index_character": "c",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Charley Crockett",
+   "slug": "Charley-crockett",
+   "url": "https://genius.com/artists/Charley-crockett",
+   "iq": 111
+  }
+ ],
+ "artist": "Charley Crockett",
+ "lyrics": "6 ContributorsThe Man from Waco Lyrics[Verse 1]\nThe mirage of Del Rio\nIt was burnin' in his eyes\nAnd sleep had escaped him\nToo consumed by his pride\nLike the lonesome and high country\nHe was lost in a haze\nAnd the thoughts of what he'd do\nIf he unloaded all his rage\nThe man from Waco\n\n[Verse 2]\nThe city was almost silent\nAs he passed the hummin' signs\nOn the corner, he heard laughter\nMade him afraid of what he'd find\nHe pushed through the door\nHypnotized by a sound\nJust then, tears overcame him\nAnd his heart began to drown\nThe man from Waco\n\n[Instrumental Break]\n\n[Verse 3]\nIt was there that he shot her\nWhile the lovers were embraced\nWith the bullet he intended\nFor the man who took his place\nHe cried through the night\nAs he made his escape\nBut the rain that was fallin'\nCould not wash away his shame\nThe man from Waco\nSee Charley Crockett LiveGet tickets as low as $14You might also like[Verse 4]\nOn the banks of the Brazos\nWhere the desert willow grows\nThe clear shallow water\nJust won't say all it knows\nA moment of burnin' anger\nCan curse the livin' through the days\nYou can let that river take you\nBut you will never get away\nThe man from WacoEmbed"
+}

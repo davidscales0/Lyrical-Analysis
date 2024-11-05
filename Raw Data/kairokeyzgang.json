@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/10381012",
+ "artist_names": "Kairo Keyz",
+ "full_title": "GANG by\u00a0Kairo\u00a0Keyz",
+ "header_image_thumbnail_url": "https://images.genius.com/33deebfa244d30af2726a5d7265a6838.300x300x1.png",
+ "header_image_url": "https://images.genius.com/33deebfa244d30af2726a5d7265a6838.1000x1000x1.png",
+ "id": 10381012,
+ "instrumental": false,
+ "lyrics_owner_id": 16118156,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1719522964,
+ "path": "/Kairo-keyz-gang-lyrics",
+ "primary_artist_names": "Kairo Keyz",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Kairo-keyz-gang-sample",
+ "release_date_components": {
+  "year": 2024,
+  "month": 5,
+  "day": 10
+ },
+ "release_date_for_display": "May 10, 2024",
+ "release_date_with_abbreviated_month_for_display": "May. 10, 2024",
+ "song_art_image_thumbnail_url": "https://images.genius.com/33deebfa244d30af2726a5d7265a6838.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/33deebfa244d30af2726a5d7265a6838.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 42298
+ },
+ "title": "GANG",
+ "title_with_featured": "GANG",
+ "updated_by_human_at": 1719856937,
+ "url": "https://genius.com/Kairo-keyz-gang-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/2810302",
+  "header_image_url": "https://images.genius.com/b5bbe3730c00c0498620b7ba9611bc71.1000x210x1.jpg",
+  "id": 2810302,
+  "image_url": "https://images.genius.com/c41fb47439a09bb66fb770aab0e664ba.827x827x1.jpg",
+  "index_character": "k",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Kairo Keyz",
+  "slug": "Kairo-keyz",
+  "url": "https://genius.com/artists/Kairo-keyz"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/2810302",
+   "header_image_url": "https://images.genius.com/b5bbe3730c00c0498620b7ba9611bc71.1000x210x1.jpg",
+   "id": 2810302,
+   "image_url": "https://images.genius.com/c41fb47439a09bb66fb770aab0e664ba.827x827x1.jpg",
+   "index_character": "k",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Kairo Keyz",
+   "slug": "Kairo-keyz",
+   "url": "https://genius.com/artists/Kairo-keyz"
+  }
+ ],
+ "artist": "Kairo Keyz",
+ "lyrics": "8 ContributorsGANG Lyrics[Intro]\nAyy, yo, ayy\n\n[Chorus]\nI showed them love and they showed man hate, these days, that is expected (Real)\nOutside with a bad one, she told me that I'm bougie, said I'm selective (Bad, bad, bad)\nI'm in the streets and I got some rivals, so man's steppin' protected (Live)\nCome from the hood where I ain't had dough, get in my bag and spend it (Bag)\nBeen there, done that, done that, been there, swing bro all of my ex tings (Gang)\nBack then, bandos give me a trap phon\u0435, know I'm connected\nVVS no VS1s, diamonds lookin' all splendid (You know)\nI'm with th\u0435 gang, yo, love, ayy, this the collective (Gang)\n\n[Verse]\nPut in the work, this life ain't easy, man gotta bill up a plan (Grind)\nStill outside with a Cartier bust down, why's man preein' my hand? (Why?)\nThese days bare man rap (Rap), I told man cut all the cap (Stop)\nI got my eyes on bands (Look) and then man wanna get by (Huh)\nTook one pic on my iPhone, post that, now tings showin' man love (Love, love)\nI see man talkin', they ain't got bread, man ain't talkin' 'bout much (Why you talkin'?)\nI'm in the dance, just lean up, broski leanin', pourin' up drugs (Lean)\nShe got a straight face, get out the section, bitch, don't ruin my fun (Bitch)\nYo, who's that? Ayy, yo, unknown number (Brrt)\nWhere they at? Sometimes wonder (Huh)\nWhere they at? I see them under (Where they at?)\nMy last ting still got my jumper\nI put the gang on a chain\nMan wanna be like us, can't be like us, man try copy the wave\nYou might also like[Chorus]\nI showed them love and they showed man hate, these days, that is expected (Real)\nOutside with a bad one, she told me that I'm bougie, said I'm selective (Bad, bad, bad)\nI'm in the streets and I got some rivals, so man's steppin' protected (Live)\nCome from the hood where I ain't had dough, get in my bag and spend it (Bag)\nBeen there, done that, done that, been there, swing bro all of my ex tings (Gang)\nBack then, bandos give me a trap phone, know I'm connected\nVVS no VS1s, diamonds lookin' all splendid (You know)\nI'm with the gang, yo, love, ayy, this the collective (Gang)Embed"
+}

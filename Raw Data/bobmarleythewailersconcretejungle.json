@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 8,
+ "api_path": "/songs/107506",
+ "artist_names": "Bob Marley & The Wailers",
+ "full_title": "Concrete Jungle by\u00a0Bob\u00a0Marley & The Wailers",
+ "header_image_thumbnail_url": "https://images.rapgenius.com/479dc49adddcdfb933a74ba6c356bdb4.300x300x1.jpg",
+ "header_image_url": "https://images.rapgenius.com/479dc49adddcdfb933a74ba6c356bdb4.500x500x1.jpg",
+ "id": 107506,
+ "instrumental": false,
+ "lyrics_owner_id": 117475,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1718394261,
+ "path": "/Bob-marley-and-the-wailers-concrete-jungle-lyrics",
+ "primary_artist_names": "Bob Marley & The Wailers",
+ "pyongs_count": 3,
+ "relationships_index_url": "https://genius.com/Bob-marley-and-the-wailers-concrete-jungle-sample",
+ "release_date_components": {
+  "year": 1973,
+  "month": 4,
+  "day": 13
+ },
+ "release_date_for_display": "April 13, 1973",
+ "release_date_with_abbreviated_month_for_display": "Apr. 13, 1973",
+ "song_art_image_thumbnail_url": "https://images.genius.com/dca0fa9037d28717a704a1e7b7a5f62c.300x301x1.jpg",
+ "song_art_image_url": "https://images.genius.com/dca0fa9037d28717a704a1e7b7a5f62c.600x602x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 50574
+ },
+ "title": "Concrete Jungle",
+ "title_with_featured": "Concrete Jungle",
+ "updated_by_human_at": 1718394261,
+ "url": "https://genius.com/Bob-marley-and-the-wailers-concrete-jungle-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/28615",
+  "header_image_url": "https://images.genius.com/2d8c321143f19a109390a8f181d88dee.1000x663x1.jpg",
+  "id": 28615,
+  "image_url": "https://images.genius.com/0c20ed97ab1334064cdb743187667b5a.1000x1000x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Bob Marley & The Wailers",
+  "slug": "Bob-marley-and-the-wailers",
+  "url": "https://genius.com/artists/Bob-marley-and-the-wailers"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/28615",
+   "header_image_url": "https://images.genius.com/2d8c321143f19a109390a8f181d88dee.1000x663x1.jpg",
+   "id": 28615,
+   "image_url": "https://images.genius.com/0c20ed97ab1334064cdb743187667b5a.1000x1000x1.jpg",
+   "index_character": "b",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Bob Marley & The Wailers",
+   "slug": "Bob-marley-and-the-wailers",
+   "url": "https://genius.com/artists/Bob-marley-and-the-wailers"
+  }
+ ],
+ "artist": "Bob Marley & The Wailers",
+ "lyrics": "25 ContributorsConcrete Jungle Lyrics[Verse 1]\nNo sun will shine in my day today\n(No sun will shine)\nThe high yellow moon won't come out to play\n(That high yellow moon won't come out to play)\nI said darkness has covered my light (Darkness has covered my light)\nAnd has changed my day into night, yeah (And has changed my day into night)\nWhere is the love to be found ?\nWon't someone tell me ?\nCause life (Sweet life)\nMust be somewhere to be found (Has got to be, out there somewhere for me)\nInstead of concrete jungle (Jungle, jungle, jungle)\nWhere the living is hardest (Concrete jungle)\nConcrete jungle (Concrete jungle, jungle, jungle)\nMan, you've got to do your best (Concrete jungle)\n\n[Verse 2]\nNo chains around my feet but I'm not free\nI know I am bound here in captivity\nYeah, now (Never know what happiness is)\nI've never known happiness\nI've never known what sweet caress is (Never know what sweet caress is)\nStill, I'll be always laughing like a clown\nWon't someone help me ?\nCause I (Sweet life, has got to be)\nI've got to pick myself from off the ground\n(Out there somewhere for me)\nIn this here concrete jungle (Jungle, jungle, jungle)\nI said, what do you got for me now (Concrete jungle)\nOh ! Concrete jungle (Concrete jungle, jungle, jungle)\nWhy won't you let me be, now ? (Concrete jungle)\nYou might also like[Guitar Solo]\n\n[Verse 3]\nI said that life (Sweet life)\nIt must be somewhere to be found (Has got to be out there somewhere for me)\nOh, instead of concrete jungle (Jungle, jungle, jungle)\nIllusion (concrete, jungle !)\nConfusion (Concrete, jungle !)\n\n[Outro]\nEh ! Concrete jungle\nYou name it, you've got it in\nConcrete jungle, now (Concrete jungle)\nEh ! Concrete jungle (Jungle, jungle, jungle)\nWhat do you got for me, now ?3Embed"
+}

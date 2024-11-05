@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/55552",
+ "artist_names": "Erykah Badu",
+ "full_title": "Didn't Cha Know by\u00a0Erykah\u00a0Badu",
+ "header_image_thumbnail_url": "https://images.genius.com/bc4a0f49bed9fe24dea6be95535b8416.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/bc4a0f49bed9fe24dea6be95535b8416.1000x1000x1.jpg",
+ "id": 55552,
+ "instrumental": false,
+ "lyrics_owner_id": 31475,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1702534532,
+ "path": "/Erykah-badu-didnt-cha-know-lyrics",
+ "primary_artist_names": "Erykah Badu",
+ "pyongs_count": 24,
+ "relationships_index_url": "https://genius.com/Erykah-badu-didnt-cha-know-sample",
+ "release_date_components": {
+  "year": 2000,
+  "month": 11,
+  "day": 21
+ },
+ "release_date_for_display": "November 21, 2000",
+ "release_date_with_abbreviated_month_for_display": "Nov. 21, 2000",
+ "song_art_image_thumbnail_url": "https://images.genius.com/4c04432cc685a5674b1d5696557004e0.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/4c04432cc685a5674b1d5696557004e0.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 143224
+ },
+ "title": "Didn\u2019t Cha Know",
+ "title_with_featured": "Didn't Cha Know",
+ "updated_by_human_at": 1707430608,
+ "url": "https://genius.com/Erykah-badu-didnt-cha-know-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/909",
+  "header_image_url": "https://images.genius.com/5f4d57acec62abac05c976ce71d7d35c.1000x1000x1.jpg",
+  "id": 909,
+  "image_url": "https://images.genius.com/40cb5e48ad731b9a79cd0dca18f145db.925x925x1.jpg",
+  "index_character": "e",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Erykah Badu",
+  "slug": "Erykah-badu",
+  "url": "https://genius.com/artists/Erykah-badu"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/909",
+   "header_image_url": "https://images.genius.com/5f4d57acec62abac05c976ce71d7d35c.1000x1000x1.jpg",
+   "id": 909,
+   "image_url": "https://images.genius.com/40cb5e48ad731b9a79cd0dca18f145db.925x925x1.jpg",
+   "index_character": "e",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Erykah Badu",
+   "slug": "Erykah-badu",
+   "url": "https://genius.com/artists/Erykah-badu"
+  }
+ ],
+ "artist": "Erykah Badu",
+ "lyrics": "27 ContributorsTranslationsT\u00fcrk\u00e7eDidn\u2019t Cha Know Lyrics[Verse 1]\nOoh, hey\nI'm trying to decide\nWhich way to go\nThink I made a wrong turn back there somewhere\nOoh, hey\nI'm trying to decide\nWhich way to go\nThink I made a wrong turn back there somewhere\n\n[Chorus]\nDidn't cha know, didn't cha know\nTried to move but I lost my way\nDidn't cha know, didn't cha know\nStopped to watch my emotions sway\nDidn't cha know, didn't cha know\nKnew the toll but I would not pay\nDidn't cha know, didn't cha know\n'Cause you never know where the cards may lay\n\n[Verse 2]\nTime to save the world\nWhere in the world is all the time?\nSo many things I still don't know\nSo many times I've changed my mind\nGuess I was born to make mistakes\nBut I ain't scared to take the weight\nSo when I stumble off the path\nI know my heart will guide me back\nSee Erykah Badu LiveGet tickets as low as $135You might also like[Verse 3]\nOoh, hey\nI'm trying to decide\nWhich way to go\nThink I made a wrong turn back there somewhere\nOoh, hey, ooh\nI'm trying to decide\nWhich way to go\nI think I made a wrong turn back there somewhere\n\n[Chorus]\nDidn't cha know, didn't cha know\nTried to run but I lost my way\nDidn't cha know, didn't cha know\nStopped to watch my emotions sway\nDidn't cha know, didn't cha know\nKnew the toll but I would not pay\nDidn't cha know, didn't cha know\nI said ya never know how the cards may lay\n\n[Outro]\nLove is life, and life is free\nTake a ride of life with me\nFree your mind and find your way\nThere will be a brighter day\nLove is life, and life is free\nTake a ride of life with me\nFree your mind and find your way\nThere will be a brighter day\nLove is life, and life is free\nTake a ride of life with me\nFree your mind and find your way\nThere will be a brighter day24Embed"
+}

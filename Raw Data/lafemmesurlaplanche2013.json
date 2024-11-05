@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 4,
+ "api_path": "/songs/1348668",
+ "artist_names": "La Femme",
+ "full_title": "Sur la planche 2013 by\u00a0La\u00a0Femme",
+ "header_image_thumbnail_url": "https://images.rapgenius.com/c854bdb87570ad63251992dc4659590c.300x300x1.jpg",
+ "header_image_url": "https://images.rapgenius.com/c854bdb87570ad63251992dc4659590c.1000x1000x1.jpg",
+ "id": 1348668,
+ "instrumental": false,
+ "lyrics_owner_id": 3484970,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1722336086,
+ "path": "/La-femme-sur-la-planche-2013-lyrics",
+ "primary_artist_names": "La Femme",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/La-femme-sur-la-planche-2013-sample",
+ "release_date_components": {
+  "year": 2013,
+  "month": 2,
+  "day": 4
+ },
+ "release_date_for_display": "February 4, 2013",
+ "release_date_with_abbreviated_month_for_display": "Feb. 4, 2013",
+ "song_art_image_thumbnail_url": "https://images.genius.com/0e3923c22fbcdab19206f13462f8a966.300x169x1.png",
+ "song_art_image_url": "https://images.genius.com/0e3923c22fbcdab19206f13462f8a966.640x360x1.png",
+ "stats": {
+  "unreviewed_annotations": 4,
+  "hot": false,
+  "pageviews": 7351
+ },
+ "title": "Sur la planche 2013",
+ "title_with_featured": "Sur la planche 2013",
+ "updated_by_human_at": 1722336086,
+ "url": "https://genius.com/La-femme-sur-la-planche-2013-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/230458",
+  "header_image_url": "https://images.genius.com/ada01b5c81d3e1aae855c6cd099becd4.600x400x1.jpg",
+  "id": 230458,
+  "image_url": "https://images.genius.com/aa71f7017792542768fb8583aa05cd3f.400x400x1.jpg",
+  "index_character": "l",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "La Femme",
+  "slug": "La-femme",
+  "url": "https://genius.com/artists/La-femme"
+ },
+ "primary_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/230458",
+   "header_image_url": "https://images.genius.com/ada01b5c81d3e1aae855c6cd099becd4.600x400x1.jpg",
+   "id": 230458,
+   "image_url": "https://images.genius.com/aa71f7017792542768fb8583aa05cd3f.400x400x1.jpg",
+   "index_character": "l",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "La Femme",
+   "slug": "La-femme",
+   "url": "https://genius.com/artists/La-femme"
+  }
+ ],
+ "artist": "La Femme",
+ "lyrics": "8 ContributorsTranslationsEnglishSur la planche 2013 LyricsSur la plage, dans le sable, je recherche des sensations\nSur la planche, sur la vague, je ressens des sensations\nSur la plage, dans le sable, je recherche des sensations\nSur la planche, sur la vague, je ressens des sensations\nSur la plage, dans le sable, je recherche des sensations\nSur la planche, sur la vague, je ressens des sensations\n\nSur la plage\nDes sensations\nSur la planche\nDes sensations\n\nSur la planche, sur la vague, je recherche des sensations\nSur la plage, dans le sable, je recherche des sensations\n\nSur une planche, sur les rouleaux\nJe recherche des sensations\nSur le sable, sur la plage\nJe recherche des sensations\nEt quand je suis sur la vague, je suis surf dans les rouleaux\nQuand je suis sur la vague, je suis surf dans les rouleaux\nSur la planche, sur les rouleaux\nJe recherche des sensations\nDans le sable, sur la plage\nJe recherche des sensations\nEt quand je suis sur la vague, je suis surf dans les rouleaux\nQuand je suis sur les vagues, je suis surf dans les rouleaux\nSee La Femme LiveGet tickets as low as $39You might also likeEt gare \u00e0 celui qui veut m'emp\u00eacher\nDe rester sur la vague, quand je suis invincible\nEt si tu oses me pousser dans les rouleaux\nJe t'attends sur la vague, sur la plage dans le sable\nEt tant pis si je meurs demain\nSi le rouleau m'entra\u00eene dans les entrailles de la vague\nJe prends ma planche et je pars aux rouleaux\nQuand je suis surf, je recherche des sensations1Embed"
+}
